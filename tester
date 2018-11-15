@@ -1,33 +1,21 @@
 #EXTM3U
-#EXTINF:-1,CA-TSN1
-http://196.234.81.22:25461/12341234/12341234/3684
-#EXTINF:-1,CA-TSN2
-http://196.234.81.22:25461/12341234/12341234/3683
-#EXTINF:-1,CA-TSN3
-http://196.234.81.22:25461/12341234/12341234/3682
-#EXTINF:-1,CA-TSN4
-http://196.234.81.22:25461/12341234/12341234/3681
-#EXTINF:-1,CA-TSN5
-http://196.234.81.22:25461/12341234/12341234/3680
-#EXTINF:-1,CA-FOX EAST
-http://196.234.81.22:25461/12341234/12341234/6800
-#EXTINF:-1,CA-ABC WEST
-http://196.234.81.22:25461/12341234/12341234/6790
-#EXTINF:-1,CA-AMC
-http://196.234.81.22:25461/12341234/12341234/6791
-#EXTINF:-1,CA-NBC WEST
-http://196.234.81.22:25461/12341234/12341234/6806
-#EXTINF:-1,CA-MSNBC
-http://196.234.81.22:25461/12341234/12341234/6803
-#EXTINF:-1,CA-Animal Planet
-http://196.234.81.22:25461/12341234/12341234/6792
-#EXTINF:-1,CA-HISTORY
-http://196.234.81.22:25461/12341234/12341234/6801
-#EXTINF:-1,CA-Sportsnet One
-http://196.234.81.22:25461/12341234/12341234/6808
-#EXTINF:-1,CA-Sportsnet 360
-http://196.234.81.22:25461/12341234/12341234/6807
-#EXTINF:-1,CA-Sportsnet World
-http://196.234.81.22:25461/12341234/12341234/6810
-#EXTINF:-1,CA-Sportsnet Ontario
-http://196.234.81.22:25461/12341234/12341234/6809
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rONNLTT.png" group-title="AUSTRALIA",ABC (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Gp8Gmxg.png" group-title="AUSTRALIA",ABC 2 (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ykN8g8a.png" group-title="AUSTRALIA",ABC Me (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-1)
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-2)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/M-1_Global_2.jpg" group-title="RUSSIA",M-1 Global
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
