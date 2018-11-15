@@ -1,30 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
-http://www.lengua.com/anthems/Canada.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA",Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="CANADA",CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="CANADA",CBC News
-https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_700_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="CANADA",CBC News (VOD)
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA",CBC News Network (Geo)
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC Francais
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 1
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
