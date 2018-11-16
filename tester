@@ -1,4 +1,237 @@
 #EXTM3U
-
-#EXTINF:0,HBO
-rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+#EXTINF:-1 tvg-id="" tvg-name="Golden Exits 2018" tvg-logo="http://magnum-ott.net:80/images/5687814.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Golden Exits 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gone Tomorrow 2017" tvg-logo="http://magnum-ott.net:80/images/3899070.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Gone Tomorrow 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grindhouse Nightmares 2017" tvg-logo="http://magnum-ott.net:80/images/7520216.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Grindhouse Nightmares 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardians Of The Tomb" tvg-logo="http://magnum-ott.net:80/images/4915672.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Guardians Of The Tomb
+http://sunatv.co:80/movie/1234567890/1234567890/14987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Handia" tvg-logo="http://magnum-ott.net:80/images/5693136.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Handia
+http://sunatv.co:80/movie/1234567890/1234567890/14817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hangman 2017" tvg-logo="http://magnum-ott.net:80/images/3011960.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hangman 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Headgame 2018" tvg-logo="http://magnum-ott.net:80/images/4518962.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Headgame 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heart Blackened 2017" tvg-logo="http://magnum-ott.net:80/images/7609180.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Heart Blackened 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser Judgment 2018" tvg-logo="http://magnum-ott.net:80/images/5476182.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hellraiser Judgment 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermia And Helena 2016" tvg-logo="http://magnum-ott.net:80/images/5880296.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hermia And Helena 2016
+http://sunatv.co:80/movie/1234567890/1234567890/14974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hjemsokt 2017" tvg-logo="http://magnum-ott.net:80/images/6322902.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hjemsokt 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honor Up 2018" tvg-logo="http://magnum-ott.net:80/images/7642326.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Honor Up 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horror Stories Iii 2016" tvg-logo="http://magnum-ott.net:80/images/6449358.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Horror Stories Iii 2016
+http://sunatv.co:80/movie/1234567890/1234567890/14885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hospital 2017" tvg-logo="http://magnum-ott.net:80/images/3718824.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hospital 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Husband Killers 2017" tvg-logo="http://magnum-ott.net:80/images/6608976.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Husband Killers 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Am Not A Witch 2017" tvg-logo="http://magnum-ott.net:80/images/6213284.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",I Am Not A Witch 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Tonya 2017" tvg-logo="http://magnum-ott.net:80/images/5580036.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",I Tonya 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In The Cloud 2018" tvg-logo="http://magnum-ott.net:80/images/7381444.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",In The Cloud 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inconceivable 2017" tvg-logo="http://magnum-ott.net:80/images/3481634.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Inconceivable 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inhumane 2018" tvg-logo="http://magnum-ott.net:80/images/4218998.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Inhumane 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irreplaceable You 2018" tvg-logo="http://magnum-ott.net:80/images/6119856.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Irreplaceable You 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jailbreak 2017" tvg-logo="http://magnum-ott.net:80/images/5741304.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Jailbreak 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji Welcome To The Jungle 2017" tvg-logo="http://magnum-ott.net:80/images/2283362.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Jumanji Welcome To The Jungle 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Just Getting Started 2017" tvg-logo="http://magnum-ott.net:80/images/5721088.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Just Getting Started 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Justice League 2017" tvg-logo="http://magnum-ott.net:80/images/0974015.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Justice League 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Ragazza Nella Nebbia 2017" tvg-logo="http://magnum-ott.net:80/images/6892400.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",La Ragazza Nella Nebbia 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lady Bird 2017" tvg-logo="http://magnum-ott.net:80/images/4925292.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Lady Bird 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le Sens De La Fete  2017" tvg-logo="http://magnum-ott.net:80/images/5699154.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Le Sens De La Fete  2017
+http://sunatv.co:80/movie/1234567890/1234567890/14926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legenda O Kovovrate" tvg-logo="http://www.turkcealtyazi.org/images/poster/6054874.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Legenda O Kovovrate
+http://sunatv.co:80/movie/1234567890/1234567890/14901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Les Affames 2017" tvg-logo="http://magnum-ott.net:80/images/6243140.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Les Affames 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Looking Glass 2018" tvg-logo="http://magnum-ott.net:80/images/6083648.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Looking Glass 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Versos Del Olvido 2017" tvg-logo="http://magnum-ott.net:80/images/7224496.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Los Versos Del Olvido 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lost Conscience 2018" tvg-logo="http://magnum-ott.net:80/images/6549720.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Lost Conscience 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Man And A Baby 2017" tvg-logo="http://magnum-ott.net:80/images/5822140.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Man And A Baby 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt 2017" tvg-logo="http://magnum-ott.net:80/images/1086334.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Manhunt 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marrowbone 2017" tvg-logo="http://magnum-ott.net:80/images/5886440.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Marrowbone 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mathilde 2017" tvg-logo="http://magnum-ott.net:80/images/4419196.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mathilde 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midnighters 2018" tvg-logo="http://magnum-ott.net:80/images/5737582.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Midnighters 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohawk 2017" tvg-logo="http://magnum-ott.net:80/images/5189828.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mohawk 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mom And Dad 2017" tvg-logo="http://magnum-ott.net:80/images/5462326.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mom And Dad 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mon Mon Mon Monsters" tvg-logo="http://magnum-ott.net:80/images/6648404.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mon Mon Mon Monsters
+http://sunatv.co:80/movie/1234567890/1234567890/14804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 2018" tvg-logo="http://magnum-ott.net:80/images/6170484.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Monster Hunt 2 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mumon The Land Of Stealth 2017" tvg-logo="http://magnum-ott.net:80/images/5769414.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mumon The Land Of Stealth 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mute 2018" tvg-logo="http://magnum-ott.net:80/images/1464763.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mute 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Friend Dahmer 2017" tvg-logo="http://magnum-ott.net:80/images/2291540.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",My Friend Dahmer 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nos Patriotes  2017" tvg-logo="http://magnum-ott.net:80/images/6203944.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Nos Patriotes  2017
+http://sunatv.co:80/movie/1234567890/1234567890/14880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Novitiate 2017" tvg-logo="http://magnum-ott.net:80/images/4513316.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Novitiate 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Öteki Taraf 2017" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyOWJmYTQtMWMyOS00OTM1LWEwNDMtODk4NjA3OTQ2ZjM1XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Öteki Taraf 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paddington 2  2017" tvg-logo="http://magnum-ott.net:80/images/4468740.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Paddington 2  2017
+http://sunatv.co:80/movie/1234567890/1234567890/14821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parkers Anchor  2017" tvg-logo="http://magnum-ott.net:80/images/3779414.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Parkers Anchor  2017
+http://sunatv.co:80/movie/1234567890/1234567890/14849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="People You May Know 2017" tvg-logo="http://magnum-ott.net:80/images/5318534.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",People You May Know 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Permission" tvg-logo="http://magnum-ott.net:80/images/5390066.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Permission
+http://sunatv.co:80/movie/1234567890/1234567890/14888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Racer And The Jailbird 2017" tvg-logo="http://magnum-ott.net:80/images/2586120.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Racer And The Jailbird 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relentless 2018" tvg-logo="http://magnum-ott.net:80/images/3486210.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Relentless 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reset 2017" tvg-logo="http://magnum-ott.net:80/images/5342650.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Reset 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sao Jorge 2016" tvg-logo="http://magnum-ott.net:80/images/4895668.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sao Jorge 2016
+http://sunatv.co:80/movie/1234567890/1234567890/14865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Schindlers List 1993" tvg-logo="http://magnum-ott.net:80/images/0108052.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Schindlers List 1993
+http://sunatv.co:80/movie/1234567890/1234567890/14973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Schubert In Love 2016" tvg-logo="http://magnum-ott.net:80/images/5186874.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Schubert In Love 2016
+http://sunatv.co:80/movie/1234567890/1234567890/14808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scramble" tvg-logo="http://magnum-ott.net:80/images/1935194.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Scramble
+http://sunatv.co:80/movie/1234567890/1234567890/14931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Selfie From Hell 2018" tvg-logo="http://magnum-ott.net:80/images/5686622.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Selfie From Hell 2018
+http://sunatv.co:80/movie/1234567890/1234567890/14852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sinsiran Yasak Ask 2017" tvg-logo="http://magnum-ott.net:80/images/6920220.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sinsiran Yasak Ask 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Special Unit 2017" tvg-logo="http://magnum-ott.net:80/images/0268094.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Special Unit 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 2" tvg-logo="http://magnum-ott.net:80/images/0316654.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Spiderman 2
+http://sunatv.co:80/movie/1234567890/1234567890/14847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 3" tvg-logo="http://magnum-ott.net:80/images/0413300.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Spiderman 3
+http://sunatv.co:80/movie/1234567890/1234567890/14936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stegman Is Dead 2017" tvg-logo="http://magnum-ott.net:80/images/3858454.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Stegman Is Dead 2017
+http://sunatv.co:80/movie/1234567890/1234567890/14857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshall" tvg-logo="http://magnum-ott.net:80/images/5301662.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Marshall
+http://sunatv.co:80/movie/1234567890/1234567890/16134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshall 2017" tvg-logo="http://magnum-ott.net:80/images/5301662.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Marshall 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maudie 2016" tvg-logo="http://magnum-ott.net:80/images/3721954.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Maudie 2016
+http://sunatv.co:80/movie/1234567890/1234567890/16181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayhem" tvg-logo="http://magnum-ott.net:80/images/4348012.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mayhem
+http://sunatv.co:80/movie/1234567890/1234567890/16212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midnight Runners 2017" tvg-logo="http://magnum-ott.net:80/images/7056732.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Midnight Runners 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midnight Soul Road" tvg-logo="https://img.ako.am/files/1514561161.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Midnight Soul Road
+http://sunatv.co:80/movie/1234567890/1234567890/16175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miss Me This Christmas 2017" tvg-logo="http://magnum-ott.net:80/images/7281126.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Miss Me This Christmas 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moglie E Marito 2017" tvg-logo="http://magnum-ott.net:80/images/5753552.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Moglie E Marito 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mom And Dad" tvg-logo="http://magnum-ott.net:80/images/5462326.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mom And Dad
+http://sunatv.co:80/movie/1234567890/1234567890/16158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money 2017" tvg-logo="http://magnum-ott.net:80/images/6468322.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Money 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monsters At Large 2018" tvg-logo="http://magnum-ott.net:80/images/5145662.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Monsters At Large 2018
+http://sunatv.co:80/movie/1234567890/1234567890/16143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mother" tvg-logo="http://magnum-ott.net:80/images/5109784.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mother
+http://sunatv.co:80/movie/1234567890/1234567890/16300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr Roosevelt-2017" tvg-logo="http://magnum-ott.net:80/images/6212496.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mr Roosevelt-2017
+http://sunatv.co:80/movie/1234567890/1234567890/16335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Happy Family 2017" tvg-logo="http://magnum-ott.net:80/images/5791536.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",My Happy Family 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mystery Zone Soul Eating Hill 2017" tvg-logo="http://magnum-ott.net:80/images/7690558.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mystery Zone Soul Eating Hill 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neither Heaven Nor Earth 2015" tvg-logo="http://magnum-ott.net:80/images/4426656.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Neither Heaven Nor Earth 2015
+http://sunatv.co:80/movie/1234567890/1234567890/16141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Never Here 2017" tvg-logo="http://magnum-ott.net:80/images/5742374.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Never Here 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nightworld 2017" tvg-logo="http://magnum-ott.net:80/images/5157052.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Nightworld 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="November Criminals" tvg-logo="http://magnum-ott.net:80/images/3266284.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",November Criminals
+http://sunatv.co:80/movie/1234567890/1234567890/16213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon A Time At Christmas 2017" tvg-logo="http://magnum-ott.net:80/images/6172696.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Once Upon A Time At Christmas 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Line" tvg-logo="http://magnum-ott.net:80/images/4553952.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",One Line
+http://sunatv.co:80/movie/1234567890/1234567890/16286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Open Marrige" tvg-logo="http://magnum-ott.net:80/images/6211502.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Open Marrige
+http://sunatv.co:80/movie/1234567890/1234567890/16348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Open Water 3 Cage Dive" tvg-logo="http://magnum-ott.net:80/images/4126568.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Open Water 3 Cage Dive
+http://sunatv.co:80/movie/1234567890/1234567890/16187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oro" tvg-logo="http://magnum-ott.net:80/images/5162658.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Oro
+http://sunatv.co:80/movie/1234567890/1234567890/16275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Overdrive 2017" tvg-logo="http://magnum-ott.net:80/images/1935194.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Overdrive 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="P M And The Wonder Women" tvg-logo="http://magnum-ott.net:80/images/6133130.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",P M And The Wonder Women
+http://sunatv.co:80/movie/1234567890/1234567890/16246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peace Breaker 2017" tvg-logo="http://magnum-ott.net:80/images/7180392.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Peace Breaker 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Permanent 2017" tvg-logo="http://magnum-ott.net:80/images/5933560.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Permanent 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pettersson And Findus 2 2016" tvg-logo="http://magnum-ott.net:80/images/4764566.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Pettersson And Findus 2 2016
+http://sunatv.co:80/movie/1234567890/1234567890/16120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan B 2016" tvg-logo="http://magnum-ott.net:80/images/6333284.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Plan B 2016
+http://sunatv.co:80/movie/1234567890/1234567890/16185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prdx" tvg-logo="http://magnum-ott.net:80/images/3713992.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Prdx
+http://sunatv.co:80/movie/1234567890/1234567890/16420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prescient 2015" tvg-logo="http://magnum-ott.net:80/images/3748354.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Prescient 2015
+http://sunatv.co:80/movie/1234567890/1234567890/16285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Princess Cyd 2017" tvg-logo="http://magnum-ott.net:80/images/6053440.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Princess Cyd 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Project Eden Vol I 2017" tvg-logo="http://magnum-ott.net:80/images/4542726.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Project Eden Vol I 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pwera Usog 2017" tvg-logo="http://magnum-ott.net:80/images/6582784.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Pwera Usog 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel In The Eye 2017" tvg-logo="http://magnum-ott.net:80/images/6395368.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Rebel In The Eye 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relationtrip 2017" tvg-logo="http://magnum-ott.net:80/images/6149802.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Relationtrip 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Renegades 2017" tvg-logo="http://magnum-ott.net:80/images/4106376.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Renegades 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resurrection" tvg-logo="http://magnum-ott.net:80/images/3231054.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Resurrection
+http://sunatv.co:80/movie/1234567890/1234567890/16186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Return To Montauk 2017" tvg-logo="http://magnum-ott.net:80/images/5247776.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Return To Montauk 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Riphagen 2016" tvg-logo="http://magnum-ott.net:80/images/4969044.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Riphagen 2016
+http://sunatv.co:80/movie/1234567890/1234567890/16221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Road" tvg-logo="http://magnum-ott.net:80/images/3830302.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Road
+http://sunatv.co:80/movie/1234567890/1234567890/16272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romeo Is Bleeding 2015" tvg-logo="http://magnum-ott.net:80/images/0107983.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Romeo Is Bleeding 2015
+http://sunatv.co:80/movie/1234567890/1234567890/16293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Same Kind Of Different As Me" tvg-logo="http://magnum-ott.net:80/images/1230168.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Same Kind Of Different As Me
+http://sunatv.co:80/movie/1234567890/1234567890/16264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Second Nature-2017" tvg-logo="http://magnum-ott.net:80/images/5126654.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Second Nature-2017
+http://sunatv.co:80/movie/1234567890/1234567890/16379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seduced By A Stranger 2017" tvg-logo="http://magnum-ott.net:80/images/5974406.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Seduced By A Stranger 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sendero 2015" tvg-logo="http://magnum-ott.net:80/images/3901962.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sendero 2015
+http://sunatv.co:80/movie/1234567890/1234567890/16416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sex Guaranteed 2017" tvg-logo="http://magnum-ott.net:80/images/3715296.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sex Guaranteed 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shattered" tvg-logo="http://magnum-ott.net:80/images/0489664.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Shattered
+http://sunatv.co:80/movie/1234567890/1234567890/16373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape From Cannibal Farm 2017" tvg-logo="http://magnum-ott.net:80/images/5822712.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Escape From Cannibal Farm 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape From Ensenada 2017" tvg-logo="http://magnum-ott.net:80/images/3652616.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Escape From Ensenada 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape From Mr Lemoncellos Library 2017" tvg-logo="http://magnum-ott.net:80/images/5878476.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Escape From Mr Lemoncellos Library 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espionage Tonight 2017" tvg-logo="http://magnum-ott.net:80/images/3652142.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Espionage Tonight 2017
+http://sunatv.co:80/movie/1234567890/1234567890/16139.mkv
