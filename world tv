@@ -99,9 +99,6 @@ http://23.237.22.82:8086/udp/127.0.0.1:56069
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
 
-#EXTINF:-1 tvg-id="24/7 Disney Movies" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Disney Movies" tvg-logo="" group-title="24-7 VOD",24/7 Disney Movies
-http://62.210.99.158:9989/live?channelId=422&deviceMac=00:1A:79:3C:C8:DB&uid=4171
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
@@ -138,9 +135,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/12/NFL-Network-Logo-1.jpg" group-title="USA",NFL Network
 http://23.237.22.82:8086/udp/127.0.0.1:56050
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="USA",NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="USA",MLB Network (Opt-1)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -159,8 +153,8 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=m
 #EXTINF:-1 tvg-id="24/7 PawPatrol" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 PawPatrol" tvg-logo="" group-title="24-7 VOD",24/7 PawPatrol
 http://62.210.99.158:9989/live?channelId=428&deviceMac=00:1A:79:3C:C8:DB&uid=4171
 
+#EXTINF:-1 tvg-id="24/7 Disney Movies" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Disney Movies" tvg-logo="" group-title="24-7 VOD",24/7 Disney Movies
+http://62.210.99.158:9989/live?channelId=422&deviceMac=00:1A:79:3C:C8:DB&uid=4171
+
 #EXTINF:-1 tvg-id="24/7 Big Bang" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Big Bang" tvg-logo="" group-title="24-7 VOD",24/7 Big Bang
 http://62.210.99.158:9989/live?channelId=419&deviceMac=00:1A:79:3C:C8:DB&uid=4171
-
-#EXTINF:-1,CA : deja view
-http://diamond.cybergroup.top:15800/live/eddy/1234/14621.ts
