@@ -1,10 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E (Top10) (US) (English)
-http://167.114.102.27/live/fe9X_ilamz8_tLKRQ38sLw/1455736112/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-#EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Top10",AMC (Top10) (US) (English)
-http://167.114.102.27/live/Y485s2sKd2Mut7Iq_ZvCmg/1455736138/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-#EXTINF:0 tvg-name="Cartoon Network" tvg-language="English" tvg-country="US" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png" group-title="Top10",Cartoon Network (Top10) (US) (English)
-http://167.114.102.27/live/nfUzbPT6JhmfycyCJQqfSg/1455736140/8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central (Top10) (US) (English)
-http://167.114.102.27/live/vIyaoEI13ebIvXN-akGtUg/1455736174/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0,HBO
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
