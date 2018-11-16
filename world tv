@@ -161,3 +161,6 @@ http://62.210.99.158:9989/live?channelId=428&deviceMac=00:1A:79:3C:C8:DB&uid=417
 
 #EXTINF:-1 tvg-id="24/7 Big Bang" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Big Bang" tvg-logo="" group-title="24-7 VOD",24/7 Big Bang
 http://62.210.99.158:9989/live?channelId=419&deviceMac=00:1A:79:3C:C8:DB&uid=4171
+
+#EXTINF:-1,CA : deja view
+http://diamond.cybergroup.top:15800/live/eddy/1234/14621.ts
