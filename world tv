@@ -69,6 +69,9 @@ http://103.242.13.90:5555/udp/239.4.2.19:10000
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTAwMzk4Mzg4NTYw/wgnchicago-logoresized-bcpng.png" group-title="USA",WGN-TV News Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png" group-title="USA",YES Network
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/48.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
