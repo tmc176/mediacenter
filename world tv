@@ -120,8 +120,14 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
+#EXTINF:-1 group-title="Sports" tvg-id="Fox Sport 2" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports2.png",Fox Sport 2
+https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="USA",NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
+
+#EXTINF:-1 group-title="Sports",CBS Sport Network
+http://72.76.39.230:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
 http://80.80.160.168/live/6/live.m3u8
@@ -149,6 +155,28 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=med
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/WWE_Network.png" group-title="USA",WWE Network (OPT-2)
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99
+
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 1
+http://185.93.3.84:5000/play/a01v
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 2
+http://185.93.3.84:5000/play/a01w
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 3
+http://185.93.3.84:5000/play/a01t
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 4
+http://185.93.3.84:5000/play/a01u
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 5
+http://185.93.3.84:5000/play/a02e
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 6
+http://185.93.3.84:5000/play/a029
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 7
+http://185.93.3.84:5000/play/a02a
+#EXTINF:-1 group-title="Sports",bEIN Sports HD 9
+http://185.93.3.84:5000/play/a02c
+#EXTINF:-1 group-title="Sports",American Sport
+http://72.76.39.230:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Sports",BeIN Sport HD
+http://72.76.39.230:8000/play/a00z/index.m3u8
+
 
 #EXTINF:-1 tvg-id="24/7 PawPatrol" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 PawPatrol" tvg-logo="" group-title="24-7 VOD",24/7 PawPatrol
 http://62.210.99.158:9989/live?channelId=428&deviceMac=00:1A:79:3C:C8:DB&uid=4171
