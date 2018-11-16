@@ -99,24 +99,6 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="USA",Hallmark Movies & Mysteries
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-2)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
@@ -152,3 +134,112 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=med
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/WWE_Network.png" group-title="USA",WWE Network (OPT-2)
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="USA",Hallmark Movies & Mysteries
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-2)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+
+#EXTINF:0,US: Cinemax East HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/19847.ts
+#EXTINF:0,US: Cinemax West HD.
+http://nitro.ltd:25461/live/ruya/ruya/1394.ts
+#EXTINF:0,US: Cinemax Moremax HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/19655.ts
+#EXTINF:0,US: Cinemax Actionmax HD
+http://nitro.ltd:25461/live/ruya/ruya/19656.ts
+#EXTINF:0,US: Cinemax Thrillermax HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/3679.ts
+#EXTINF:0,US: Sony Movies HD
+http://nitro.ltd:25461/live/ruya/ruya/19725.ts
+#EXTINF:0,US: Starz HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/22502.ts
+#EXTINF:0,US: Starz East HD
+http://nitro.ltd:25461/live/ruya/ruya/1434.ts
+#EXTINF:0,US: Starz Kids & Family HD
+http://nitro.ltd:25461/live/ruya/ruya/6852.ts
+#EXTINF:0,US: Starz Encore Edge HD
+http://nitro.ltd:25461/live/ruya/ruya/19677.ts
+#EXTINF:0,US: Starz Encore Comedy HD
+http://nitro.ltd:25461/live/ruya/ruya/19667.ts
+#EXTINF:0,US: Starz Cinema HD
+http://nitro.ltd:25461/live/ruya/ruya/1433.ts
+#EXTINF:0,US: HBO HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/21761.ts
+#EXTINF:0,US: HBO HD (backup)
+http://nitro.ltd:25461/live/ruya/ruya/19658.ts
+#EXTINF:0,US: HBO 720
+http://nitro.ltd:25461/live/ruya/ruya/1464.ts
+#EXTINF:0,US: HBO 2 HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/2444.ts
+#EXTINF:0,US: HBO Zone HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/1412.ts
+#EXTINF:0,US: HBO Comedy HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/5879.ts
+#EXTINF:0,US: HBO Signature HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/5880.ts
+#EXTINF:0,US: HBO Family HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/1411.ts
+#EXTINF:0,CA: HBO HD
+http://nitro.ltd:25461/live/ruya/ruya/1261.ts
+#EXTINF:0,CA: HBO 2 HD
+http://nitro.ltd:25461/live/ruya/ruya/1260.ts
+#EXTINF:0,US: Showtime HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/8186.ts
+#EXTINF:0,US: Showtime East HD 1080
+http://nitro.ltd:25461/live/ruya/ruya/19846.ts
+#EXTINF:0,US: Showtime East HD (bkup)
+http://nitro.ltd:25461/live/ruya/ruya/19665.ts
+#EXTINF:0,US: Showtime East HD (backup3)
+http://nitro.ltd:25461/live/ruya/ruya/3670.ts
+#EXTINF:0,US: Showtime 2 HD
+http://nitro.ltd:25461/live/ruya/ruya/5883.ts
+#EXTINF:0,US: Showtime 2 West HD
+http://nitro.ltd:25461/live/ruya/ruya/19663.ts
+#EXTINF:0,US: Showtime Extreme HD
+http://nitro.ltd:25461/live/ruya/ruya/19666.ts
+#EXTINF:0,US: Showtime Showcase HD
+http://nitro.ltd:25461/live/ruya/ruya/19664.ts
+#EXTINF:0,UK: Sky Movies Hits HD
+http://nitro.ltd:25461/live/ruya/ruya/19848.ts
+#EXTINF:0,UK: Sky Movies Animation HD
+http://nitro.ltd:25461/live/ruya/ruya/22831.ts
+#EXTINF:0,UK: Sky Movies Oscars HD
+http://nitro.ltd:25461/live/ruya/ruya/22832.ts
+#EXTINF:0,UK: SKY Movies Select HD
+http://nitro.ltd:25461/live/ruya/ruya/1357.ts
+#EXTINF:0,UK: Sky Movies Thriller HD
+http://nitro.ltd:25461/live/ruya/ruya/1358.ts
+#EXTINF:0,UK: Sky Movies Showcase
+http://nitro.ltd:25461/live/ruya/ruya/3142.ts
+#EXTINF:0,UK: SKY Movies Action HD
+http://nitro.ltd:25461/live/ruya/ruya/1348.ts
+#EXTINF:0,UK: SKY Movies Premier HD
+http://nitro.ltd:25461/live/ruya/ruya/1355.ts
+#EXTINF:0,UK: Sky Movies Disney HD
+http://nitro.ltd:25461/live/ruya/ruya/1350.ts
+#EXTINF:0,UK: SKY Movies Drama & Romance
+http://nitro.ltd:25461/live/ruya/ruya/1351.ts
+#EXTINF:0,UK: Sky Movies Comedy HD
+http://nitro.ltd:25461/live/ruya/ruya/3391.ts
+#EXTINF:0,UK: Sky Movies Sci-Fi and Horror HD
+http://nitro.ltd:25461/live/ruya/ruya/1356.ts
+#EXTINF:0,UK:Sky Movies Modern Greagts HD
+http://nitro.ltd:25461/live/ruya/ruya/22968.ts
+#EXTINF:0,UK: Sky Cinema Crime & Thriller HD
+http://nitro.ltd:25461/live/ruya/ruya/22962.ts
+#EXTINF:0,UK: Sky Cinema Family HD
+http://nitro.ltd:25461/live/ruya/ruya/22963.ts
