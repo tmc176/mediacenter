@@ -99,6 +99,9 @@ http://23.237.22.82:8086/udp/127.0.0.1:56069
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
 
+#EXTINF:-1 tvg-id="24/7 Disney Movies" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Disney Movies" tvg-logo="" group-title="24-7 VOD",24/7 Disney Movies
+http://62.210.99.158:9989/live?channelId=422&deviceMac=00:1A:79:3C:C8:DB&uid=4171
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
@@ -153,4 +156,8 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=med
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/WWE_Network.png" group-title="USA",WWE Network (OPT-2)
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99
 
+#EXTINF:-1 tvg-id="24/7 PawPatrol" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 PawPatrol" tvg-logo="" group-title="24-7 VOD",24/7 PawPatrol
+http://62.210.99.158:9989/live?channelId=428&deviceMac=00:1A:79:3C:C8:DB&uid=4171
 
+#EXTINF:-1 tvg-id="24/7 Big Bang" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Big Bang" tvg-logo="" group-title="24-7 VOD",24/7 Big Bang
+http://62.210.99.158:9989/live?channelId=419&deviceMac=00:1A:79:3C:C8:DB&uid=4171
