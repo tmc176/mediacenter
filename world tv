@@ -78,9 +78,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC
 http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC
-http://80.80.160.168/live/2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",SyFy
 http://23.237.22.82:8086/udp/127.0.0.1:56063
 
@@ -137,10 +134,6 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
 https://nimble.d234.81.22:25461/12341234/12341234/11874
-#EXTINF:-1,mousssa_BeIN SPORTS SD6
-http://196.234.81.22:25461/12341234/12341234/11873
-#EXTINF:-1,mousssa_BeIN SPORTS SD7
-http://196.234.81.22:25461/12341234/12341234/11872ashmedia.tv/onestudio/western4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
@@ -159,3 +152,12 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="UK",Discovery Science
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="UK",Discovery World (Opt-1)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="UK",Discovery World (Opt-2)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
