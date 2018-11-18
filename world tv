@@ -102,6 +102,15 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
+#EXTINF:0,USA:TSN 1 HD*
+http://cs22cs.uk:8000/joe/joe/20844
+#EXTINF:0,USA:TSN 2 HD
+http://cs22cs.uk:8000/joe/joe/20843
+#EXTINF:0,USA:SPORT: TSN 4
+http://cs22cs.uk:8000/joe/joe/22641
+#EXTINF:0,USA:TSN 5 HD
+http://cs22cs.uk:8000/joe/joe/20840
+
 #EXTINF:-1 group-title="Sports" tvg-id="Fox Sport 2" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports2.png",Fox Sport 2
 https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u8
 
