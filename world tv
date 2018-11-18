@@ -84,6 +84,8 @@ http://23.237.22.82:8086/udp/127.0.0.1:56063
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
 http://23.237.22.82:8086/udp/127.0.0.1:56054
 
+#EXTINF:0,USA:FXX
+http://cs22cs.uk:8000/joe/joe/26657
 #EXTINF:0,USA:FX
 http://cs22cs.uk:8000/joe/joe/27922
 #EXTINF:0,USA:IFC
