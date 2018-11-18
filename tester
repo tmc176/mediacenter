@@ -1,237 +1,1190 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Golden Exits 2018" tvg-logo="http://magnum-ott.net:80/images/5687814.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Golden Exits 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14932.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gone Tomorrow 2017" tvg-logo="http://magnum-ott.net:80/images/3899070.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Gone Tomorrow 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Grindhouse Nightmares 2017" tvg-logo="http://magnum-ott.net:80/images/7520216.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Grindhouse Nightmares 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians Of The Tomb" tvg-logo="http://magnum-ott.net:80/images/4915672.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Guardians Of The Tomb
-http://sunatv.co:80/movie/1234567890/1234567890/14987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Handia" tvg-logo="http://magnum-ott.net:80/images/5693136.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Handia
-http://sunatv.co:80/movie/1234567890/1234567890/14817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hangman 2017" tvg-logo="http://magnum-ott.net:80/images/3011960.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hangman 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14803.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Headgame 2018" tvg-logo="http://magnum-ott.net:80/images/4518962.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Headgame 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Heart Blackened 2017" tvg-logo="http://magnum-ott.net:80/images/7609180.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Heart Blackened 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14798.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hellraiser Judgment 2018" tvg-logo="http://magnum-ott.net:80/images/5476182.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hellraiser Judgment 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14801.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hermia And Helena 2016" tvg-logo="http://magnum-ott.net:80/images/5880296.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hermia And Helena 2016
-http://sunatv.co:80/movie/1234567890/1234567890/14974.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hjemsokt 2017" tvg-logo="http://magnum-ott.net:80/images/6322902.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hjemsokt 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Honor Up 2018" tvg-logo="http://magnum-ott.net:80/images/7642326.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Honor Up 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Horror Stories Iii 2016" tvg-logo="http://magnum-ott.net:80/images/6449358.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Horror Stories Iii 2016
-http://sunatv.co:80/movie/1234567890/1234567890/14885.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hospital 2017" tvg-logo="http://magnum-ott.net:80/images/3718824.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Hospital 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Husband Killers 2017" tvg-logo="http://magnum-ott.net:80/images/6608976.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Husband Killers 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Am Not A Witch 2017" tvg-logo="http://magnum-ott.net:80/images/6213284.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",I Am Not A Witch 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Tonya 2017" tvg-logo="http://magnum-ott.net:80/images/5580036.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",I Tonya 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14825.mkv
-#EXTINF:-1 tvg-id="" tvg-name="In The Cloud 2018" tvg-logo="http://magnum-ott.net:80/images/7381444.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",In The Cloud 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14811.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inconceivable 2017" tvg-logo="http://magnum-ott.net:80/images/3481634.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Inconceivable 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14975.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inhumane 2018" tvg-logo="http://magnum-ott.net:80/images/4218998.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Inhumane 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14812.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Irreplaceable You 2018" tvg-logo="http://magnum-ott.net:80/images/6119856.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Irreplaceable You 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jailbreak 2017" tvg-logo="http://magnum-ott.net:80/images/5741304.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Jailbreak 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji Welcome To The Jungle 2017" tvg-logo="http://magnum-ott.net:80/images/2283362.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Jumanji Welcome To The Jungle 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14953.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Just Getting Started 2017" tvg-logo="http://magnum-ott.net:80/images/5721088.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Just Getting Started 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14810.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Justice League 2017" tvg-logo="http://magnum-ott.net:80/images/0974015.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Justice League 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14961.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Ragazza Nella Nebbia 2017" tvg-logo="http://magnum-ott.net:80/images/6892400.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",La Ragazza Nella Nebbia 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14959.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lady Bird 2017" tvg-logo="http://magnum-ott.net:80/images/4925292.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Lady Bird 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14809.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le Sens De La Fete  2017" tvg-logo="http://magnum-ott.net:80/images/5699154.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Le Sens De La Fete  2017
-http://sunatv.co:80/movie/1234567890/1234567890/14926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Legenda O Kovovrate" tvg-logo="http://www.turkcealtyazi.org/images/poster/6054874.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Legenda O Kovovrate
-http://sunatv.co:80/movie/1234567890/1234567890/14901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Les Affames 2017" tvg-logo="http://magnum-ott.net:80/images/6243140.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Les Affames 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Looking Glass 2018" tvg-logo="http://magnum-ott.net:80/images/6083648.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Looking Glass 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Versos Del Olvido 2017" tvg-logo="http://magnum-ott.net:80/images/7224496.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Los Versos Del Olvido 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14887.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lost Conscience 2018" tvg-logo="http://magnum-ott.net:80/images/6549720.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Lost Conscience 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Man And A Baby 2017" tvg-logo="http://magnum-ott.net:80/images/5822140.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Man And A Baby 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manhunt 2017" tvg-logo="http://magnum-ott.net:80/images/1086334.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Manhunt 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marrowbone 2017" tvg-logo="http://magnum-ott.net:80/images/5886440.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Marrowbone 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mathilde 2017" tvg-logo="http://magnum-ott.net:80/images/4419196.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mathilde 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Midnighters 2018" tvg-logo="http://magnum-ott.net:80/images/5737582.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Midnighters 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mohawk 2017" tvg-logo="http://magnum-ott.net:80/images/5189828.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mohawk 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mom And Dad 2017" tvg-logo="http://magnum-ott.net:80/images/5462326.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mom And Dad 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14949.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mon Mon Mon Monsters" tvg-logo="http://magnum-ott.net:80/images/6648404.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mon Mon Mon Monsters
-http://sunatv.co:80/movie/1234567890/1234567890/14804.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 2018" tvg-logo="http://magnum-ott.net:80/images/6170484.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Monster Hunt 2 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mumon The Land Of Stealth 2017" tvg-logo="http://magnum-ott.net:80/images/5769414.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mumon The Land Of Stealth 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14807.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mute 2018" tvg-logo="http://magnum-ott.net:80/images/1464763.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mute 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Friend Dahmer 2017" tvg-logo="http://magnum-ott.net:80/images/2291540.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",My Friend Dahmer 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nos Patriotes  2017" tvg-logo="http://magnum-ott.net:80/images/6203944.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Nos Patriotes  2017
-http://sunatv.co:80/movie/1234567890/1234567890/14880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Novitiate 2017" tvg-logo="http://magnum-ott.net:80/images/4513316.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Novitiate 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Öteki Taraf 2017" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyOWJmYTQtMWMyOS00OTM1LWEwNDMtODk4NjA3OTQ2ZjM1XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Öteki Taraf 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paddington 2  2017" tvg-logo="http://magnum-ott.net:80/images/4468740.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Paddington 2  2017
-http://sunatv.co:80/movie/1234567890/1234567890/14821.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Parkers Anchor  2017" tvg-logo="http://magnum-ott.net:80/images/3779414.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Parkers Anchor  2017
-http://sunatv.co:80/movie/1234567890/1234567890/14849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="People You May Know 2017" tvg-logo="http://magnum-ott.net:80/images/5318534.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",People You May Know 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Permission" tvg-logo="http://magnum-ott.net:80/images/5390066.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Permission
-http://sunatv.co:80/movie/1234567890/1234567890/14888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Racer And The Jailbird 2017" tvg-logo="http://magnum-ott.net:80/images/2586120.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Racer And The Jailbird 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Relentless 2018" tvg-logo="http://magnum-ott.net:80/images/3486210.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Relentless 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reset 2017" tvg-logo="http://magnum-ott.net:80/images/5342650.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Reset 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sao Jorge 2016" tvg-logo="http://magnum-ott.net:80/images/4895668.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sao Jorge 2016
-http://sunatv.co:80/movie/1234567890/1234567890/14865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Schindlers List 1993" tvg-logo="http://magnum-ott.net:80/images/0108052.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Schindlers List 1993
-http://sunatv.co:80/movie/1234567890/1234567890/14973.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Schubert In Love 2016" tvg-logo="http://magnum-ott.net:80/images/5186874.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Schubert In Love 2016
-http://sunatv.co:80/movie/1234567890/1234567890/14808.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scramble" tvg-logo="http://magnum-ott.net:80/images/1935194.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Scramble
-http://sunatv.co:80/movie/1234567890/1234567890/14931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Selfie From Hell 2018" tvg-logo="http://magnum-ott.net:80/images/5686622.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Selfie From Hell 2018
-http://sunatv.co:80/movie/1234567890/1234567890/14852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sinsiran Yasak Ask 2017" tvg-logo="http://magnum-ott.net:80/images/6920220.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sinsiran Yasak Ask 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Special Unit 2017" tvg-logo="http://magnum-ott.net:80/images/0268094.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Special Unit 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14815.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman 2" tvg-logo="http://magnum-ott.net:80/images/0316654.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Spiderman 2
-http://sunatv.co:80/movie/1234567890/1234567890/14847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman 3" tvg-logo="http://magnum-ott.net:80/images/0413300.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Spiderman 3
-http://sunatv.co:80/movie/1234567890/1234567890/14936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stegman Is Dead 2017" tvg-logo="http://magnum-ott.net:80/images/3858454.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Stegman Is Dead 2017
-http://sunatv.co:80/movie/1234567890/1234567890/14857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marshall" tvg-logo="http://magnum-ott.net:80/images/5301662.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Marshall
-http://sunatv.co:80/movie/1234567890/1234567890/16134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marshall 2017" tvg-logo="http://magnum-ott.net:80/images/5301662.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Marshall 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maudie 2016" tvg-logo="http://magnum-ott.net:80/images/3721954.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Maudie 2016
-http://sunatv.co:80/movie/1234567890/1234567890/16181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mayhem" tvg-logo="http://magnum-ott.net:80/images/4348012.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mayhem
-http://sunatv.co:80/movie/1234567890/1234567890/16212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Midnight Runners 2017" tvg-logo="http://magnum-ott.net:80/images/7056732.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Midnight Runners 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Midnight Soul Road" tvg-logo="https://img.ako.am/files/1514561161.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Midnight Soul Road
-http://sunatv.co:80/movie/1234567890/1234567890/16175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Miss Me This Christmas 2017" tvg-logo="http://magnum-ott.net:80/images/7281126.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Miss Me This Christmas 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moglie E Marito 2017" tvg-logo="http://magnum-ott.net:80/images/5753552.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Moglie E Marito 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16367.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mom And Dad" tvg-logo="http://magnum-ott.net:80/images/5462326.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mom And Dad
-http://sunatv.co:80/movie/1234567890/1234567890/16158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Money 2017" tvg-logo="http://magnum-ott.net:80/images/6468322.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Money 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monsters At Large 2018" tvg-logo="http://magnum-ott.net:80/images/5145662.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Monsters At Large 2018
-http://sunatv.co:80/movie/1234567890/1234567890/16143.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mother" tvg-logo="http://magnum-ott.net:80/images/5109784.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mother
-http://sunatv.co:80/movie/1234567890/1234567890/16300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mr Roosevelt-2017" tvg-logo="http://magnum-ott.net:80/images/6212496.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mr Roosevelt-2017
-http://sunatv.co:80/movie/1234567890/1234567890/16335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Happy Family 2017" tvg-logo="http://magnum-ott.net:80/images/5791536.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",My Happy Family 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16353.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mystery Zone Soul Eating Hill 2017" tvg-logo="http://magnum-ott.net:80/images/7690558.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Mystery Zone Soul Eating Hill 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Neither Heaven Nor Earth 2015" tvg-logo="http://magnum-ott.net:80/images/4426656.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Neither Heaven Nor Earth 2015
-http://sunatv.co:80/movie/1234567890/1234567890/16141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Never Here 2017" tvg-logo="http://magnum-ott.net:80/images/5742374.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Never Here 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nightworld 2017" tvg-logo="http://magnum-ott.net:80/images/5157052.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Nightworld 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="November Criminals" tvg-logo="http://magnum-ott.net:80/images/3266284.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",November Criminals
-http://sunatv.co:80/movie/1234567890/1234567890/16213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Once Upon A Time At Christmas 2017" tvg-logo="http://magnum-ott.net:80/images/6172696.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Once Upon A Time At Christmas 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16288.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Line" tvg-logo="http://magnum-ott.net:80/images/4553952.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",One Line
-http://sunatv.co:80/movie/1234567890/1234567890/16286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Open Marrige" tvg-logo="http://magnum-ott.net:80/images/6211502.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Open Marrige
-http://sunatv.co:80/movie/1234567890/1234567890/16348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Open Water 3 Cage Dive" tvg-logo="http://magnum-ott.net:80/images/4126568.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Open Water 3 Cage Dive
-http://sunatv.co:80/movie/1234567890/1234567890/16187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oro" tvg-logo="http://magnum-ott.net:80/images/5162658.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Oro
-http://sunatv.co:80/movie/1234567890/1234567890/16275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Overdrive 2017" tvg-logo="http://magnum-ott.net:80/images/1935194.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Overdrive 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="P M And The Wonder Women" tvg-logo="http://magnum-ott.net:80/images/6133130.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",P M And The Wonder Women
-http://sunatv.co:80/movie/1234567890/1234567890/16246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peace Breaker 2017" tvg-logo="http://magnum-ott.net:80/images/7180392.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Peace Breaker 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Permanent 2017" tvg-logo="http://magnum-ott.net:80/images/5933560.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Permanent 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pettersson And Findus 2 2016" tvg-logo="http://magnum-ott.net:80/images/4764566.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Pettersson And Findus 2 2016
-http://sunatv.co:80/movie/1234567890/1234567890/16120.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Plan B 2016" tvg-logo="http://magnum-ott.net:80/images/6333284.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Plan B 2016
-http://sunatv.co:80/movie/1234567890/1234567890/16185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prdx" tvg-logo="http://magnum-ott.net:80/images/3713992.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Prdx
-http://sunatv.co:80/movie/1234567890/1234567890/16420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prescient 2015" tvg-logo="http://magnum-ott.net:80/images/3748354.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Prescient 2015
-http://sunatv.co:80/movie/1234567890/1234567890/16285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Princess Cyd 2017" tvg-logo="http://magnum-ott.net:80/images/6053440.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Princess Cyd 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Project Eden Vol I 2017" tvg-logo="http://magnum-ott.net:80/images/4542726.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Project Eden Vol I 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pwera Usog 2017" tvg-logo="http://magnum-ott.net:80/images/6582784.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Pwera Usog 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rebel In The Eye 2017" tvg-logo="http://magnum-ott.net:80/images/6395368.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Rebel In The Eye 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16419.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Relationtrip 2017" tvg-logo="http://magnum-ott.net:80/images/6149802.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Relationtrip 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Renegades 2017" tvg-logo="http://magnum-ott.net:80/images/4106376.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Renegades 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Resurrection" tvg-logo="http://magnum-ott.net:80/images/3231054.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Resurrection
-http://sunatv.co:80/movie/1234567890/1234567890/16186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Return To Montauk 2017" tvg-logo="http://magnum-ott.net:80/images/5247776.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Return To Montauk 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Riphagen 2016" tvg-logo="http://magnum-ott.net:80/images/4969044.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Riphagen 2016
-http://sunatv.co:80/movie/1234567890/1234567890/16221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Road" tvg-logo="http://magnum-ott.net:80/images/3830302.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Road
-http://sunatv.co:80/movie/1234567890/1234567890/16272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romeo Is Bleeding 2015" tvg-logo="http://magnum-ott.net:80/images/0107983.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Romeo Is Bleeding 2015
-http://sunatv.co:80/movie/1234567890/1234567890/16293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Same Kind Of Different As Me" tvg-logo="http://magnum-ott.net:80/images/1230168.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Same Kind Of Different As Me
-http://sunatv.co:80/movie/1234567890/1234567890/16264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Second Nature-2017" tvg-logo="http://magnum-ott.net:80/images/5126654.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Second Nature-2017
-http://sunatv.co:80/movie/1234567890/1234567890/16379.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Seduced By A Stranger 2017" tvg-logo="http://magnum-ott.net:80/images/5974406.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Seduced By A Stranger 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sendero 2015" tvg-logo="http://magnum-ott.net:80/images/3901962.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sendero 2015
-http://sunatv.co:80/movie/1234567890/1234567890/16416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sex Guaranteed 2017" tvg-logo="http://magnum-ott.net:80/images/3715296.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Sex Guaranteed 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shattered" tvg-logo="http://magnum-ott.net:80/images/0489664.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Shattered
-http://sunatv.co:80/movie/1234567890/1234567890/16373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Cannibal Farm 2017" tvg-logo="http://magnum-ott.net:80/images/5822712.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Escape From Cannibal Farm 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Ensenada 2017" tvg-logo="http://magnum-ott.net:80/images/3652616.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Escape From Ensenada 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Mr Lemoncellos Library 2017" tvg-logo="http://magnum-ott.net:80/images/5878476.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Escape From Mr Lemoncellos Library 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espionage Tonight 2017" tvg-logo="http://magnum-ott.net:80/images/3652142.jpg" group-title="VOD ENGLISH/AR-SUB - OTT",Espionage Tonight 2017
-http://sunatv.co:80/movie/1234567890/1234567890/16139.mkv
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/866.ts
+#EXTINF:0,ABC West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/980.ts
+#EXTINF:0,ABC Atlanta
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2264.ts
+#EXTINF:0,ABC Boston
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2266.ts
+#EXTINF:0,ABC Chicago
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2267.ts
+#EXTINF:0,ABC Cleveland
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2268.ts
+#EXTINF:0,ABC 9 Charlotte
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1597.ts
+#EXTINF:0,ABC Connecticut
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2269.ts
+#EXTINF:0,ABC 8 Dallas
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1596.ts
+#EXTINF:0,ABC Denver
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2270.ts
+#EXTINF:0,ABC 7 Detroit
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1823.ts
+#EXTINF:0,ABC Fresno
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2271.ts
+#EXTINF:0,ABC Indianapolis
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2272.ts
+#EXTINF:0,ABC 9 Kansas City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1598.ts
+#EXTINF:0,ABC Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1618.ts
+#EXTINF:0,ABC Miami
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2274.ts
+#EXTINF:0,ABC Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2275.ts
+#EXTINF:0,ABC Orlando
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2277.ts
+#EXTINF:0,ABC 15 Phoenix
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1592.ts
+#EXTINF:0,ABC Portland
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2280.ts
+#EXTINF:0,ABC Sacramento
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2281.ts
+#EXTINF:0,ABC Salt Lake City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2283.ts
+#EXTINF:0,ABC San Antonio
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2284.ts
+#EXTINF:0,ABC Seattle
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2287.ts
+#EXTINF:0,ABC St. Louis
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2288.ts
+#EXTINF:0,ABC Tampa
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1593.ts
+#EXTINF:0,ABC Washington
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2289.ts
+#EXTINF:0,ABC 7 News (Sarasota)
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1345.ts
+#EXTINF:0,American Heroes Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1760.ts
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/981.ts
+#EXTINF:0,Animal Planet East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/834.ts
+#EXTINF:0,BET East HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/453.ts
+#EXTINF:0,BET HER
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/957.ts
+#EXTINF:0,Bloomberg TV HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1356.ts
+#EXTINF:0,Bravo West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2139.ts
+#EXTINF:0,Cartoon Network East HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/538.ts
+#EXTINF:0,CBS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/993.ts
+#EXTINF:0,CBS Atlanta
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2290.ts
+#EXTINF:0,CBS Baltimore
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2291.ts
+#EXTINF:0,CBS 4 BOSTON
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1031.ts
+#EXTINF:0,CBS Charlotte
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2292.ts
+#EXTINF:0,CBS 2 CHICAGO
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1035.ts
+#EXTINF:0,CBS Cleveland
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2293.ts
+#EXTINF:0,CBS Columbus
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2294.ts
+#EXTINF:0,CBS Dallas
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2295.ts
+#EXTINF:0,CBS 4 DENVER
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1034.ts
+#EXTINF:0,CBS 62 DETROIT
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1040.ts
+#EXTINF:0,CBS Greensboro
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2296.ts
+#EXTINF:0,CBS Hartford
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2297.ts
+#EXTINF:0,CBS Houston
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2298.ts
+#EXTINF:0,CBS Jacksonville
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2299.ts
+#EXTINF:0,CBS Kansas City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2300.ts
+#EXTINF:0,CBS 2 LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1036.ts
+#EXTINF:0,CBS Miami
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2301.ts
+#EXTINF:0,CBS Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2302.ts
+#EXTINF:0,CBS Minneapolis
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2303.ts
+#EXTINF:0,CBS Nashville
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2304.ts
+#EXTINF:0,CBS New Orleans
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2305.ts
+#EXTINF:0,CBS 2 NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1037.ts
+#EXTINF:0,CBS Orlando
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2306.ts
+#EXTINF:0,CBS Phoenix
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2307.ts
+#EXTINF:0,CBS Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2308.ts
+#EXTINF:0,CBS Sacramento
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2309.ts
+#EXTINF:0,CBS San Antonio
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2310.ts
+#EXTINF:0,CBS San Diego
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2311.ts
+#EXTINF:0,CBS San Francisco
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2312.ts
+#EXTINF:0,CBS Seattle
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2313.ts
+#EXTINF:0,CBS Tampa
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2315.ts
+#EXTINF:0,CBSN HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/611.ts
+#EXTINF:0,Cinemax Action Max HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/580.ts
+#EXTINF:0,Cinemax East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2068.ts
+#EXTINF:0,Cinemax West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2149.ts
+#EXTINF:0,CINEMAX MORE MAX
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1163.ts
+#EXTINF:0,CINEMAX OUTER MAX
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1158.ts
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2142.ts
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/539.ts
+#EXTINF:0,COZI
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2143.ts
+#EXTINF:0,CMT HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1161.ts
+#EXTINF:0,CNBC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1100.ts
+#EXTINF:0,CNN HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/885.ts
+#EXTINF:0,CW
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1148.ts
+#EXTINF:0,Destination America HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/541.ts
+#EXTINF:0,Disney East HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2140.ts
+#EXTINF:0,DISNEY JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/604.ts
+#EXTINF:0,Disney XD HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/614.ts
+#EXTINF:0,DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/542.ts
+#EXTINF:0,DISCOVERY SCIENCE HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/543.ts
+#EXTINF:0,DIY Network HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1358.ts
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/605.ts
+#EXTINF:0,EL REY HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/835.ts
+#EXTINF:0,Epix
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2069.ts
+#EXTINF:0,FOOD NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/836.ts
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1112.ts
+#EXTINF:0,Fox News
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1107.ts
+#EXTINF:0,Fox Business Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/900.ts
+#EXTINF:0,Fox Atlanta
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1239.ts
+#EXTINF:0,FOX Austin
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2316.ts
+#EXTINF:0,FOX 54 Augusta
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1316.ts
+#EXTINF:0,FOX 25 BOSTON
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1055.ts
+#EXTINF:0,FOX Buffalo
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2319.ts
+#EXTINF:0,FOX Chicago
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2320.ts
+#EXTINF:0,FOX Cleveland
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2321.ts
+#EXTINF:0,FOX Columbus
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2322.ts
+#EXTINF:0,FOX 4 DALLAS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1058.ts
+#EXTINF:0,FOX 5 D.C.
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1061.ts
+#EXTINF:0,FOX Denver
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2323.ts
+#EXTINF:0,FOX 2 DETROIT
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1052.ts
+#EXTINF:0,FOX Hartford
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2325.ts
+#EXTINF:0,FOX 26 HOUSTON
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1056.ts
+#EXTINF:0,FOX Jacksonville
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2327.ts
+#EXTINF:0,FOX Kansas City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2328.ts
+#EXTINF:0,FOX Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2329.ts
+#EXTINF:0,FOX Miami
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2330.ts
+#EXTINF:0,FOX Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2331.ts
+#EXTINF:0,FOX Minneapolis
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2332.ts
+#EXTINF:0,FOX Nashville
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2333.ts
+#EXTINF:0,FOX 8 NEW ORLEANS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1066.ts
+#EXTINF:0,FOX New York
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2334.ts
+#EXTINF:0,FOX Ocala
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2335.ts
+#EXTINF:0,FOX Orlando
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2336.ts
+#EXTINF:0,FOX Phoenix
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2337.ts
+#EXTINF:0,FOX 29 PHILADELPHIA
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1050.ts
+#EXTINF:0,FOX Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2338.ts
+#EXTINF:0,FOX Sacramento
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2339.ts
+#EXTINF:0,FOX Salt Lake City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2340.ts
+#EXTINF:0,FOX San Antonio
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2341.ts
+#EXTINF:0,FOX San Francisco
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2343.ts
+#EXTINF:0,FOX Seattle
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2344.ts
+#EXTINF:0,FOX St Louis
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2345.ts
+#EXTINF:0,FOX 13 TAMPA
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1051.ts
+#EXTINF:0,FOX Washington
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1242.ts
+#EXTINF:0,Freeform East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1362.ts
+#EXTINF:0,Freeform West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2157.ts
+#EXTINF:0,Fuse
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2147.ts
+#EXTINF:0,Fusion
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2148.ts
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1359.ts
+#EXTINF:0,FXM
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1361.ts
+#EXTINF:0,FYI
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2146.ts
+#EXTINF:0,Game Show Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/962.ts
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/616.ts
+#EXTINF:0,HBO East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2070.ts
+#EXTINF:0,HBO West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2150.ts
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1417.ts
+#EXTINF:0,HBO ZONE HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/585.ts
+#EXTINF:0,HALLMARK HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/550.ts
+#EXTINF:0,HALLMARK MOVIE HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/569.ts
+#EXTINF:0,HGTV East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/899.ts
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1428.ts
+#EXTINF:0,HSN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1165.ts
+#EXTINF:0,HLN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2153.ts
+#EXTINF:0,IFC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/961.ts
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/552.ts
+#EXTINF:0,LMN HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/571.ts
+#EXTINF:0,LIFETIME HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/570.ts
+#EXTINF:0,MSNBC HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/576.ts
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1099.ts
+#EXTINF:0,MTV 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1159.ts
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1164.ts
+#EXTINF:0,NAT GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/573.ts
+#EXTINF:0,NBC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1611.ts
+#EXTINF:0,NBC 4 D.C.
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1070.ts
+#EXTINF:0,NBC 5 DALLAS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1073.ts
+#EXTINF:0,NBC 4 LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1068.ts
+#EXTINF:0,NBC 6 MIAMI
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1074.ts
+#EXTINF:0,NBC 4 NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1071.ts
+#EXTINF:0,NBC 10 PHILADELPHIA
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1069.ts
+#EXTINF:0,NBC Raleigh
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1616.ts
+#EXTINF:0,NBC 7 SAN DIEGO
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1075.ts
+#EXTINF:0,NICK HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/555.ts
+#EXTINF:0,Nick Jr. HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/556.ts
+#EXTINF:0,Nicktoons HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1630.ts
+#EXTINF:0,Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1224.ts
+#EXTINF:0,POP HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/619.ts
+#EXTINF:0,Oxygen
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/574.ts
+#EXTINF:0,QVC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/960.ts
+#EXTINF:0,OWN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1157.ts
+#EXTINF:0,Revolt
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2152.ts
+#EXTINF:0,Showtime East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/586.ts
+#EXTINF:0,Showtime West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2151.ts
+#EXTINF:0,SHOWTIME 2 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/587.ts
+#EXTINF:0,SHOWTIME EXTREME
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1160.ts
+#EXTINF:0,SUNDANCE TV HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/607.ts
+#EXTINF:0,Starz HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1237.ts
+#EXTINF:0,Starz Comedy
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1236.ts
+#EXTINF:0,Starz Encore
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1238.ts
+#EXTINF:0,Starz Encore Western HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1325.ts
+#EXTINF:0,SyFy
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/904.ts
+#EXTINF:0,TBS East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/560.ts
+#EXTINF:0,TBS West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2155.ts
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/638.ts
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/561.ts
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/905.ts
+#EXTINF:0,TRU TV HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/563.ts
+#EXTINF:0,TV LAND HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/564.ts
+#EXTINF:0,TV One
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/886.ts
+#EXTINF:0,The Weather Channel HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/578.ts
+#EXTINF:0,USA Network East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/565.ts
+#EXTINF:0,VELOCITY
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1353.ts
+#EXTINF:0,VICELAND HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/567.ts
+#EXTINF:0,VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/566.ts
+#EXTINF:0,WE TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1028.ts
+#EXTINF:0,WGN America HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/568.ts
+#EXTINF:0,Latino: A&E
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1259.ts
+#EXTINF:0,Latino: AMC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1479.ts
+#EXTINF:0,Latino - Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2414.ts
+#EXTINF:0,Latino: AXN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1379.ts
+#EXTINF:0,Latino: AZ Corazon
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1381.ts
+#EXTINF:0,Latino: Az Mundo
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1382.ts
+#EXTINF:0,Latino - Baby TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2415.ts
+#EXTINF:0,Latino - BBC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2416.ts
+#EXTINF:0,Latino - Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2417.ts
+#EXTINF:0,Latino:  Canal 10 Chetumal
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1404.ts
+#EXTINF:0,Latino: Canal Once Mexico City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1394.ts
+#EXTINF:0,Latino: Capital 21 Mexico City
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1395.ts
+#EXTINF:0,Latino - Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2418.ts
+#EXTINF:0,Latino: Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1385.ts
+#EXTINF:0,Latino - Cine Canal
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2419.ts
+#EXTINF:0,Latino - CineLatino
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2420.ts
+#EXTINF:0,Latino - Cinemax
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2421.ts
+#EXTINF:0,Latino - Depelicula
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2422.ts
+#EXTINF:0,Latino - Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2423.ts
+#EXTINF:0,Latino - Discovery Familia
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2424.ts
+#EXTINF:0,Latino - Discovery HH
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2425.ts
+#EXTINF:0,Latino - Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2426.ts
+#EXTINF:0,Latino - Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2427.ts
+#EXTINF:0,Latino - Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2428.ts
+#EXTINF:0,Latino - Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2429.ts
+#EXTINF:0,Latino - Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2430.ts
+#EXTINF:0,Latino - Discovery World
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2431.ts
+#EXTINF:0,Latino - Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2432.ts
+#EXTINF:0,Latino - Disney Jr.
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2433.ts
+#EXTINF:0,Latino - Disney XD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2434.ts
+#EXTINF:0,Latino: Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1495.ts
+#EXTINF:0,Latino: ESPN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1387.ts
+#EXTINF:0,Latino - ESPN Deportes
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2435.ts
+#EXTINF:0,Latino: Fox
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1483.ts
+#EXTINF:0,Latino - Fox Action
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2436.ts
+#EXTINF:0,Latino - Fox Cinema
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2437.ts
+#EXTINF:0,Latino - Fox Classics
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2438.ts
+#EXTINF:0,Latino - Fox Comedy
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2439.ts
+#EXTINF:0,Latino: Fox Deportes
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1183.ts
+#EXTINF:0,Latino - Fox Family
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2440.ts
+#EXTINF:0,Latino - Fox Life
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2441.ts
+#EXTINF:0,Latino - Fox Movies
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2442.ts
+#EXTINF:0,Latino - Fox One
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2443.ts
+#EXTINF:0,Latino: Fox Premium Movies
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1486.ts
+#EXTINF:0,Latino - Fox Sports
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2444.ts
+#EXTINF:0,Latino - Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2445.ts
+#EXTINF:0,Latino - Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2446.ts
+#EXTINF:0,Latino - FX
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2447.ts
+#EXTINF:0,Latino: FXM
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1487.ts
+#EXTINF:0,Latino - Galavision
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2448.ts
+#EXTINF:0,Latino: Gala TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1488.ts
+#EXTINF:0,Latino - Glitz
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2449.ts
+#EXTINF:0,Latino - Golden
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2450.ts
+#EXTINF:0,Latino - GOLTV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2451.ts
+#EXTINF:0,Latino - Gourmet
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2452.ts
+#EXTINF:0,Latino - HBO
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2453.ts
+#EXTINF:0,Latino - HBO 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2454.ts
+#EXTINF:0,Latino - HBO Family
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2455.ts
+#EXTINF:0,Latino - HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2456.ts
+#EXTINF:0,Latino: History
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1496.ts
+#EXTINF:0,Latino - History 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2457.ts
+#EXTINF:0,Latino: Más Chic
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1497.ts
+#EXTINF:0,Latino - Max Prime
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2458.ts
+#EXTINF:0,Latino - Max UP
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2459.ts
+#EXTINF:0,Latino: Mexiquense Toluca
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1396.ts
+#EXTINF:0,Latino - Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2460.ts
+#EXTINF:0,Latino - Nat Geo Kids
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2461.ts
+#EXTINF:0,Latino - Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2462.ts
+#EXTINF:0,Latino - Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2463.ts
+#EXTINF:0,Latino - Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2464.ts
+#EXTINF:0,Latino - Sony
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2465.ts
+#EXTINF:0,Latino - Space
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2466.ts
+#EXTINF:0,Latino - Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2467.ts
+#EXTINF:0,Latino - TBS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2468.ts
+#EXTINF:0,Latino: Telemundo New York
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1637.ts
+#EXTINF:0,Latino - TLC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2469.ts
+#EXTINF:0,Latino - TNT Series
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2470.ts
+#EXTINF:0,Latino - Toon Cast
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2471.ts
+#EXTINF:0,Latino - TRU TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2472.ts
+#EXTINF:0,Latino - Unimas
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2473.ts
+#EXTINF:0,Latino - Universal
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2474.ts
+#EXTINF:0,Latino: Univision Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1424.ts
+#EXTINF:0,Latino - UTDN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2475.ts
+#EXTINF:0,Latino - Warner
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2476.ts
+#EXTINF:0,Latino: Wapa
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1080.ts
+#EXTINF:0,CA: CTV Toronto HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1621.ts
+#EXTINF:0,MUSIC CHOICE - Musica Urbana
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1730.ts
+#EXTINF:0,Music choice: Y2K
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1742.ts
+#EXTINF:0,MUSIC VIDEOS 90s
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1731.ts
+#EXTINF:0,MUSIC VIDEOS ALTERNATIVE
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1732.ts
+#EXTINF:0,MUSIC VIDEOS HIP HOP and R&B
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1733.ts
+#EXTINF:0,MUSIC VIDEOS HIT LIST
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1734.ts
+#EXTINF:0,MUSIC VIDEOS LATINO POP
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1735.ts
+#EXTINF:0,MUSIC VIDEOS Rap 2K
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1736.ts
+#EXTINF:0,MUSIC VIDEOS POP HITS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1737.ts
+#EXTINF:0,MUSIC VIDEOS ROCK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1738.ts
+#EXTINF:0,MUSIC VIDEOS TEEN BEATS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1739.ts
+#EXTINF:0,MUSIC VIDEOS Todays Country
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2413.ts
+#EXTINF:0,PPV Cinema 1
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2180.ts
+#EXTINF:0,PPV Cinema 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2181.ts
+#EXTINF:0,PPV Cinema 3 - Incoming
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2182.ts
+#EXTINF:0,PPV Cinema 04
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2183.ts
+#EXTINF:0,PPV Cinema 05
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2184.ts
+#EXTINF:0,PPV Cinema 06
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2185.ts
+#EXTINF:0,PPV Cinema 07
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2186.ts
+#EXTINF:0,PPV Cinema 08
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2187.ts
+#EXTINF:0,PPV Cinema 09
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2188.ts
+#EXTINF:0,PPV Cinema 10
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2189.ts
+#EXTINF:0,PPV Cinema 11
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2190.ts
+#EXTINF:0,PPV Cinema 12
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2191.ts
+#EXTINF:0,PPV Cinema 13
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2192.ts
+#EXTINF:0,PPV Cinema 14
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2193.ts
+#EXTINF:0,PPV Cinema 15
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2194.ts
+#EXTINF:0,PPV Cinema 16
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2195.ts
+#EXTINF:0,PPV Cinema 17
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2196.ts
+#EXTINF:0,PPV Cinema 18
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2197.ts
+#EXTINF:0,PPV Cinema 19 - The Assassin's Code
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2198.ts
+#EXTINF:0,PPV Cinema 20 - Fahrenheit 451
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2199.ts
+#EXTINF:0,PPV Cinema 21 - Death Wish
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2200.ts
+#EXTINF:0,PPV Cinema 22 - Gringo
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2201.ts
+#EXTINF:0,PPV Cinema 23 - Love, Simon
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2202.ts
+#EXTINF:0,PPV Cinema 24 - Thoroughbreds
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2203.ts
+#EXTINF:0,PPV Cinema 25 - A Wrinkle In Time
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2204.ts
+#EXTINF:0,PPV Cinema 26 - The Hurricane Heist
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2205.ts
+#EXTINF:0,PPV Cinema 27 - Tomb Radier
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2206.ts
+#EXTINF:0,PPV Cinema 28 - How to Talk to Girls At Parties
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2207.ts
+#EXTINF:0,PPV Cinema 29 - Night Howl
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2208.ts
+#EXTINF:0,PPV Cinema 30
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2209.ts
+#EXTINF:0,PPV Cinema 31 - Future World
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2210.ts
+#EXTINF:0,PPV Cinema 32 - 211
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2211.ts
+#EXTINF:0,PPV Cinema 33
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2212.ts
+#EXTINF:0,PPV Cinema 34
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2213.ts
+#EXTINF:0,PPV Cinema 35
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2214.ts
+#EXTINF:0,PPV Cinema 36
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2215.ts
+#EXTINF:0,PPV Cinema 38
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2216.ts
+#EXTINF:0,PPV Cinema 39
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2217.ts
+#EXTINF:0,PPV Cinema 40
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2218.ts
+#EXTINF:0,PPV Cinema 41
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2219.ts
+#EXTINF:0,PPV: UFC 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2220.ts
+#EXTINF:0,UFC Fight Pass 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2221.ts
+#EXTINF:0,PPV: UFC 1
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2222.ts
+#EXTINF:0,UFC TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2223.ts
+#EXTINF:0,PPV: UFC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2224.ts
+#EXTINF:0,Bein Sports
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2144.ts
+#EXTINF:0,BTN HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/579.ts
+#EXTINF:0,CSN CALIFORNIA
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1043.ts
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/594.ts
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/597.ts
+#EXTINF:0,Fox Sports 1
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/893.ts
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/894.ts
+#EXTINF:0,FOX Collage Sports Atlantic
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1007.ts
+#EXTINF:0,FOX Collage Sports Central
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1008.ts
+#EXTINF:0,FOX Collage Sports Pacific
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1009.ts
+#EXTINF:0,FOX Sports Arizona
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1011.ts
+#EXTINF:0,FOX Sports Detroit
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1012.ts
+#EXTINF:0,FOX Sports Carolinas
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1020.ts
+#EXTINF:0,FOX Sports Midwest
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1021.ts
+#EXTINF:0,FOX Sports New Orleans
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1022.ts
+#EXTINF:0,FOX Sports North
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1023.ts
+#EXTINF:0,FOX Sports North Plus
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1024.ts
+#EXTINF:0,FOX Sports Ohio
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1025.ts
+#EXTINF:0,Fox Sports San Diego
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1015.ts
+#EXTINF:0,FOX Sports SouthWest
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1016.ts
+#EXTINF:0,Fox Sports SouthWest Plus
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1017.ts
+#EXTINF:0,FOX Sports SUN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1018.ts
+#EXTINF:0,FOX Sports West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1019.ts
+#EXTINF:0,Fox Soccer Plus
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1223.ts
+#EXTINF:0,LongHorn Netwrok
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2166.ts
+#EXTINF:0,MAV TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1067.ts
+#EXTINF:0,MLB Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/327.ts
+#EXTINF:0,NBA TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1426.ts
+#EXTINF:0,NBC Golf
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/111.ts
+#EXTINF:0,NBC Sports Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/986.ts
+#EXTINF:0,NESN
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1108.ts
+#EXTINF:0,NFL Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1082.ts
+#EXTINF:0,Outdoor Channel HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1609.ts
+#EXTINF:0,Pac 12 Bay Area
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/459.ts
+#EXTINF:0,Pac 12 Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/460.ts
+#EXTINF:0,Pac 12 Oregon
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/463.ts
+#EXTINF:0,PAC 12 Washington
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2263.ts
+#EXTINF:0,Tennis Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1105.ts
+#EXTINF:0,TSN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/119.ts
+#EXTINF:0,TSN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1083.ts
+#EXTINF:0,TSN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1084.ts
+#EXTINF:0,TSN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1085.ts
+#EXTINF:0,TSN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/115.ts
+#EXTINF:0,SEC NETWORK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/601.ts
+#EXTINF:0,Sports Net 360 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1094.ts
+#EXTINF:0,SportsNet One HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1419.ts
+#EXTINF:0,SPORTSNET ONTARIO FHD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1418.ts
+#EXTINF:0,Sports Net Pacific
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1097.ts
+#EXTINF:0,Sports Net World HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1096.ts
+#EXTINF:0,WWE Network HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/602.ts
+#EXTINF:0,YES NETWORK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1166.ts
+
