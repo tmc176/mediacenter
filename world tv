@@ -84,11 +84,23 @@ http://23.237.22.82:8086/udp/127.0.0.1:56063
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
 http://23.237.22.82:8086/udp/127.0.0.1:56054
 
+#EXTINF:0,USA:FX
+http://cs22cs.uk:8000/joe/joe/27922
+#EXTINF:0,USA:IFC
+http://cs22cs.uk:8000/joe/joe/27919
+#EXTINF:0,USA:Lifetime
+http://cs22cs.uk:8000/joe/joe/27917
+#EXTINF:0,USA:Own
+http://cs22cs.uk:8000/joe/joe/27908
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-1)
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/16829.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56069
+
+#EXTINF:0,USA:DIY Network
+http://cs22cs.uk:8000/joe/joe/27935
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
