@@ -91,7 +91,6 @@ http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/16829.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56069
 
 #EXTINF:0,DIY Network HD
-#EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/1358.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery
