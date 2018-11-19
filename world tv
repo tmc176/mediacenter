@@ -6,8 +6,17 @@ http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA",CBC News Network (Geo)
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 
+#EXTINF:0 group-title="CA: Canada",CA: CP 24 
+http://144.217.69.93:25461/live/ali1/1234/57327.m3u8
+
+#EXTINF:0 group-title="CA: Canada",CA: CP24 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:0 group-title="CA: Canada",CA: CITY TORONTO 
+http://144.217.69.93:25461/live/ali1/1234/57276.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA",Global BC (Geo)
 https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
@@ -84,11 +93,41 @@ http://23.237.22.82:8086/udp/127.0.0.1:56063
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
 http://23.237.22.82:8086/udp/127.0.0.1:56054
 
+#EXTINF:0 group-title="CA: Canada",CA: YES TV ALBERTA HD
+http://144.217.69.93:25461/live/ali1/1234/57206.m3u8
+
+#EXTINF:0 group-title="CA: Canada",CA: YES TV ONTARIO HD
+http://144.217.69.93:25461/live/ali1/1234/57205.m3u8
+
+#EXTINF:0 group-title="US: United States",US: YES NETWORK 
+http://144.217.69.93:25461/live/ali1/1234/49157.m3u8
+
+#EXTINF:0 group-title="US: United States",US: YES NETWORK (1+) 
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/48.m3u8
+
+#EXTINF:0 group-title="US: United States",US: YES NETWORK (2+) 
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/49157.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TV LAND 
+http://144.217.69.93:25461/live/ali1/1234/60.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TV LAND (1+) 
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/60.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-1)
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/16829.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56069
+
+#EXTINF:0 group-title="US: United States",US: DIY 
+http://144.217.69.93:25461/live/ali1/1234/121.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DIY (1+) 
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/121.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DIY NETWORK 
+http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14501.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
@@ -134,6 +173,9 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=med
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/WWE_Network.png" group-title="USA",WWE Network (OPT-2)
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99
+
+#EXTINF:0 group-title="CA: Canada",CA: TREEHOUSE HD
+http://144.217.69.93:25461/live/ali1/1234/57211.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
 https://nimble.d234.81.22:25461/12341234/12341234/11874
