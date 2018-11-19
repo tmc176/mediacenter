@@ -108,9 +108,6 @@ https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="USA",NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group-title="US: United States",US: CBS SPORTS NETWORK HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14507.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
