@@ -54,6 +54,12 @@ http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
 http://23.237.22.82:8086/udp/127.0.0.1:56060
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="USA",Disney XD (EST)
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/143.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="USA",Disney XD (PST)
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/22196.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
