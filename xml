@@ -1,3 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<stream>
+
+<item>
+<title>[COLOR cyan]XML PLAYLIST[COLOR magenta] ***** [COLOR cyan]XML CỦA TUI [COLOR white][B] (NO REGEX)[/B][/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>myxml.png</thumbnail>
+<mode>31</mode>
+</item>
+
+<item>
+<title>[COLOR yellow]M3U PLAYLIST[COLOR magenta] ***** [COLOR yellow]MY OWN CHANNELS[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>mym3u.png</thumbnail>
+<mode>31</mode>
+</item>
+
+<item>
+<title>[COLOR orange]TV[COLOR magenta] + [COLOR orange]Âm Nhạc[COLOR magenta] + [COLOR orange]Radio Tổng Hợp[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>mytv.png</thumbnail>
+<mode>1</mode>
+</item>
+
+<item>
+<title>[COLOR blue]TV Tổng Hợp[COLOR magenta] - [COLOR blue]thanh51's playlists[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>thanh51.png</thumbnail>
+<mode>11</mode>
+</item>
+
+<item>
+<title>[COLOR lightblue]Live TV[COLOR magenta] - [COLOR lightblue]Links posted by ATF01[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>atf01.png</thumbnail>
+<mode>21</mode>
+</item>
+
+<item>
+<title>[COLOR white][B]Tôn Giáo[/B] (YouTube)[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>religiontube.png</thumbnail>
+<mode>40</mode>
+</item>
+
+<item>
+<title>[COLOR lime][B]SBTN[/B] + TV Hải Ngoại (YouTube)[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>haingoaitube.png</thumbnail>
+<mode>40</mode>
+</item>
+
+<item>
+<title>[COLOR white]TV Trong Nước (YouTube)[/COLOR]</title>
+<link>NoRedirect</link>
+<thumbnail>vntube.png</thumbnail>
+<mode>40</mode>
+</item>
+
+<item>
+<title>[COLOR yellow]Replay[COLOR magenta] - [COLOR yellow]TV chiếu lại[/COLOR]</title>
+<link>http://113.160.49.39/tvcatchup</link>
+<thumbnail>tvreplay.png</thumbnail>
+<mode>3</mode>
+</item>
+
+<item>
+<title>[COLOR magenta]HTVOnline[/COLOR]</title>
+<link>http://www.htvonline.com.vn/livetv</link>
+<thumbnail>htvonline.png</thumbnail>
+<mode>3</mode>
+</item>
+
+<item>
+<title>TV Việt</title>
+<link>http://tv.vnn.vn/</link>
+<thumbnail>tvviet.png</thumbnail>
+<mode>3</mode>
+</item>
+
+</stream>
 
 
