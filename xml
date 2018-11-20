@@ -1,385 +1,1567 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="tvhebdo.com">
-  <channels>
-    <channel update="i" site="tvhebdo.com" site_id="src/CBFT" xmltv_id="CBFT">CBFT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tqc/CIVM" xmltv_id="CIVM">CIVM</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tva/CFTM" xmltv_id="CFTM">CFTM</channel>
-    <channel update="i" site="tvhebdo.com" site_id="v/CFJP" xmltv_id="CFJP">CFJP</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cbc/CBMT" xmltv_id="CBVU-TV">CBVU-TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ctv/CFCF" xmltv_id="CFCF">CFCF</channel>
-    <channel update="i" site="tvhebdo.com" site_id="global/CKMI" xmltv_id="CKMI (Montréal)">CKMI (Montréal)</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vox/MATV" xmltv_id="MAMTL">MAMTL</channel>
-    <channel update="i" site="tvhebdo.com" site_id="chh/CITYM" xmltv_id="CJNT (Metro 14)">CJNT (Metro 14)</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nw/CBCN" xmltv_id="CBC News Network">CBC News Network</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rdi/RDI" xmltv_id="RDI">RDI</channel>
-    <channel update="i" site="tvhebdo.com" site_id="met/METEO" xmltv_id="METEO">METEO</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wthr/WTHR" xmltv_id="WTHR">WTHR</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sav/CFTU" xmltv_id="Canal Savoir">Canal Savoir</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvas/TVASP" xmltv_id="TVA Sports">TVA Sports</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvs2/TVS2" xmltv_id="TVA Sports 2">TVA Sports 2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="aptn/APTN" xmltv_id="Aboriginal Peoples Television Network">Aboriginal Peoples Television Network</channel>
-    <channel update="i" site="tvhebdo.com" site_id="amit/AMIT" xmltv_id="AMI-Télé">AMI-Télé</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tact/AMITV" xmltv_id="The Accessible Channel">The Accessible Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tree/TREE" xmltv_id="TREE">TREE</channel>
-    <channel update="i" site="tvhebdo.com" site_id="yoo/YOOPA" xmltv_id="YOOPA">YOOPA</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mp/MPLUS" xmltv_id="MP">MP</channel>
-    <channel update="i" site="tvhebdo.com" site_id="artv/ARTV" xmltv_id="Artv">Artv</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mmax/MMAX" xmltv_id="MMAX">MMAX</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rds/RDS" xmltv_id="RDS">RDS</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ttf/TOONF" xmltv_id="TOONF">TOONF</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vie/VIE" xmltv_id="Canal Vie">Canal Vie</channel>
-    <channel update="i" site="tvhebdo.com" site_id="d/D" xmltv_id="D">D</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tv5/TV5" xmltv_id="TV5">TV5</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vrak/VRAK" xmltv_id="Vrak TV">Vrak TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="lcn/LCN" xmltv_id="LCN">LCN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="evasion/EVAS" xmltv_id="Évasion">Évasion</channel>
-    <channel update="i" site="tvhebdo.com" site_id="series/SERP" xmltv_id="Séries Plus">Séries Plus</channel>
-    <channel update="i" site="tvhebdo.com" site_id="historia/HISF" xmltv_id="Historia">Historia</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ztele/Z" xmltv_id="Z">Z</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rfo/RFO" xmltv_id="Saint-Pierre-et-Miquelon">Saint-Pierre-et-Miquelon</channel>
-    <channel update="i" site="tvhebdo.com" site_id="phdf/DISJR" xmltv_id="Disney Jr Franco">Disney Jr Franco</channel>
-    <channel update="i" site="tvhebdo.com" site_id="zest/ZESTE" xmltv_id="Zeste">Zeste</channel>
-    <channel update="i" site="tvhebdo.com" site_id="avis/AVIS" xmltv_id="Avis de recherche">Avis de recherche</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pbs/WCFE" xmltv_id="WCFE">WCFE</channel>
-    <channel update="i" site="tvhebdo.com" site_id="abc/WVNY" xmltv_id="WVNY">WVNY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nbc/WPTZ" xmltv_id="WPTZ">WPTZ</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cbs/WCAX" xmltv_id="WCAX">WCAX</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fox/WFFF" xmltv_id="WFFF">WFFF</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pbs/WETK" xmltv_id="WETK">WETK</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wild/WILD" xmltv_id="Wild">Wild</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wfn/WFN" xmltv_id="World Fishing Network">World Fishing Network</channel>
-    <channel update="i" site="tvhebdo.com" site_id="gol/GOLSP" xmltv_id="Gol TV Espagnol">Gol TV Espagnol</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cgtv/GAMETV" xmltv_id="Casino and Gambling TV">Casino and Gambling TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cnn/CNN" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ctvn/NEWSNT" xmltv_id="CTVN">CTVN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tdc/DISC" xmltv_id="TDC">TDC</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tlc/TLC" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ae/A%26amp%3BE" xmltv_id="A&amp;E">A&amp;E</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mm/MMUSIC" xmltv_id="MuchMusic">MuchMusic</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cmt/CMT" xmltv_id="COUNTRY MUSIC TELEVISION">COUNTRY MUSIC TELEVISION</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bravo/BRAVO%21" xmltv_id="BRAVO!">BRAVO!</channel>
-    <channel update="i" site="tvhebdo.com" site_id="space/SPACE" xmltv_id="SPACE">SPACE</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tta/TOONA" xmltv_id="TOONA">TOONA</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ytv/YTV" xmltv_id="YTV">YTV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="life/SLICE" xmltv_id="Slice">Slice</channel>
-    <channel update="i" site="tvhebdo.com" site_id="hist/HIST" xmltv_id="HISTORY">HISTORY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vtv/VISION" xmltv_id="VISION">VISION</channel>
-    <channel update="i" site="tvhebdo.com" site_id="show/SHOW" xmltv_id="SHOW">SHOW</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvo/TVO" xmltv_id="CICA">CICA</channel>
-    <channel update="i" site="tvhebdo.com" site_id="city/CITY" xmltv_id="CITY">CITY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sun/SUN" xmltv_id="Sun News">Sun News</channel>
-    <channel update="i" site="tvhebdo.com" site_id="omni/CFMT" xmltv_id="Omni 1">Omni 1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="food/FOOD" xmltv_id="FOOD">FOOD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="hgtv/HGTV" xmltv_id="HGTV">HGTV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cosm/COSMO" xmltv_id="Cosmopolitan TV">Cosmopolitan TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="inve/INVE" xmltv_id="Investigation">Investigation</channel>
-    <channel update="i" site="tvhebdo.com" site_id="unis/UNIS" xmltv_id="UNIS">UNIS</channel>
-    <channel update="i" site="tvhebdo.com" site_id="expl/EXPLO" xmltv_id="Explora">Explora</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mlle/MOI" xmltv_id="Moi&amp;cie">Moi&amp;cie</channel>
-    <channel update="i" site="tvhebdo.com" site_id="argent/LCNA" xmltv_id="LCN Argent">LCN Argent</channel>
-    <channel update="i" site="tvhebdo.com" site_id="myst/ADDIK" xmltv_id="ADDIK">ADDIK</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tfo/TFO" xmltv_id="TFO">TFO</channel>
-    <channel update="i" site="tvhebdo.com" site_id="prise2/PR2" xmltv_id="Prise 2">Prise 2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="idee/CASA" xmltv_id="CASA">CASA</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ttrf/TTRFR" xmltv_id="Télétoon Rétro français">Télétoon Rétro français</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ttra/TTRAN" xmltv_id="Télétoon Rétro Aglais">Télétoon Rétro Aglais</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ris/RDSI" xmltv_id="RDS Info">RDS Info</channel>
-    <channel update="i" site="tvhebdo.com" site_id="one/OBMS" xmltv_id="ONE: Body, Mind &amp; Spirit Channel">ONE: Body, Mind &amp; Spirit Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wtn/WTN" xmltv_id="WTN">WTN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fyi/FYI" xmltv_id="FYI">FYI</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fash/FASHN" xmltv_id="Fashion TV">Fashion TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cott/COTT" xmltv_id="Cottage Life">Cottage Life</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ment/H2" xmltv_id="H2">H2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="outv/OUTTV" xmltv_id="Out TV">Out TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sxtv/WMO" xmltv_id="W Movies">W Movies</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nhl/NHL" xmltv_id="NHL Network">NHL Network</channel>
-    <channel update="i" site="tvhebdo.com" site_id="scor/SN360" xmltv_id="The Score">The Score</channel>
-    <channel update="i" site="tvhebdo.com" site_id="speed/SPEED" xmltv_id="Speed Channel">Speed Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="golf/GOLF" xmltv_id="GOLF">GOLF</channel>
-    <channel update="i" site="tvhebdo.com" site_id="oln/OLN" xmltv_id="OUTDOOR LIFE">OUTDOOR LIFE</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spar/SPARK" xmltv_id="SPARK">SPARK</channel>
-    <channel update="i" site="tvhebdo.com" site_id="figh/FIGHT" xmltv_id="Fight Network">Fight Network</channel>
-    <channel update="i" site="tvhebdo.com" site_id="espc/ESPNC" xmltv_id="ESPN classics">ESPN classics</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nagw/NATGW" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nfln/NFL" xmltv_id="NFL Network">NFL Network</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mret/MRET" xmltv_id="Much More Retro">Much More Retro</channel>
-    <channel update="i" site="tvhebdo.com" site_id="more/MMORE" xmltv_id="MUCHMORE">MUCHMORE</channel>
-    <channel update="i" site="tvhebdo.com" site_id="trop/DTOUR" xmltv_id="DTOUR">DTOUR</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spike/SPK" xmltv_id="Spike TV">Spike TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bet/BET" xmltv_id="BLACK ENTERTAINMENT">BLACK ENTERTAINMENT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="star/E%21" xmltv_id="STAR!">STAR!</channel>
-    <channel update="i" site="tvhebdo.com" site_id="game/GAMES" xmltv_id="GAME SHOW NETWORK">GAME SHOW NETWORK</channel>
-    <channel update="i" site="tvhebdo.com" site_id="comedy/COMDY" xmltv_id="COMEDY">COMEDY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ifcc/IFCC" xmltv_id="Independent Film Channel">Independent Film Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mys/MYST" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bbc/BBCC" xmltv_id="BBC Canada">BBC Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="shod/LTIME" xmltv_id="Lifetime Canada">Lifetime Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="shoa/ACTION" xmltv_id="Showcase Action">Showcase Action</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvld/CMDYG" xmltv_id="TV Land Canada (Comedy Gold)">TV Land Canada (Comedy Gold)</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rwd/RWD" xmltv_id="Rewind">Rewind</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cour/ID" xmltv_id="Investigation Discovery Canada">Investigation Discovery Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="lsta/MTIME" xmltv_id="MovieTime">MovieTime</channel>
-    <channel update="i" site="tvhebdo.com" site_id="deja/DEJA" xmltv_id="Déjà View">Déjà View</channel>
-    <channel update="i" site="tvhebdo.com" site_id="driv/SUNDC" xmltv_id="Sundance">Sundance</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ssrc/SSCR" xmltv_id="Silver Screen Classics">Silver Screen Classics</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cnnh/HLN" xmltv_id="CNN HEADLINE NEWS">CNN HEADLINE NEWS</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rob/BNN" xmltv_id="ROB  (BNN)">ROB  (BNN)</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cnbc/CNBC" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mnbc/MSNBC" xmltv_id="MSNBC">MSNBC</channel>
-    <channel update="i" site="tvhebdo.com" site_id="trav/TRAV" xmltv_id="Travel &amp; Escape">Travel &amp; Escape</channel>
-    <channel update="i" site="tvhebdo.com" site_id="icha/ISSUE" xmltv_id="i channel">i channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bbcw/BBCW" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mtvc/MTVC" xmltv_id="MTV Canada">MTV Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fine/DIY" xmltv_id="DIY">DIY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ownh/OWN" xmltv_id="OWN Canada">OWN Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="docc/DOC" xmltv_id="Documentary Channel">Documentary Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tctv/TECTV" xmltv_id="Tech TV">Tech TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bio/BIO" xmltv_id="Biography Channel">Biography Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nat/NGEO" xmltv_id="National Geographic Canada">National Geographic Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="animal/ANPL" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="tvhebdo.com" site_id="dciv/DISCC" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="tvhebdo.com" site_id="book/BOOK" xmltv_id="Book Television">Book Television</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ahc/AHC" xmltv_id="American Hero Channel">American Hero Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="plad/DJR" xmltv_id="Disney Jr">Disney Jr</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fam/FAMILY" xmltv_id="FAMILY">FAMILY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rds2/RDS2" xmltv_id="RDS2">RDS2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bbck/BBCKD" xmltv_id="BBC Kids">BBC Kids</channel>
-    <channel update="i" site="tvhebdo.com" site_id="raze/MTV2" xmltv_id="Razer">Razer</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pmch/JUICE" xmltv_id="Juice">Juice</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bpm/BPM" xmltv_id="BPM TV">BPM TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mlou/MLOUD" xmltv_id="Much Loud">Much Loud</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mvib/MVIBE" xmltv_id="Much Vibe">Much Vibe</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nick/NICK" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="tvhebdo.com" site_id="baby/BABY" xmltv_id="Baby TV francophone">Baby TV francophone</channel>
-    <channel update="i" site="tvhebdo.com" site_id="plan/PLAN%2B" xmltv_id="Planète">Planète</channel>
-    <channel update="i" site="tvhebdo.com" site_id="enew/ENEW" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ajaz/ALJAZ" xmltv_id="ALJAZEERA">ALJAZEERA</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cpac/CPAC" xmltv_id="CPAC">CPAC</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cpae/CPAE" xmltv_id="CPAC English">CPAC English</channel>
-    <channel update="i" site="tvhebdo.com" site_id="asna/ANQ" xmltv_id="Assemblée Nationale">Assemblée Nationale</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/SNONE" xmltv_id="Sports Net One">Sports Net One</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsc/SHOP" xmltv_id="The Shopping Channel">The Shopping Channel</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/RSNE" xmltv_id="Sports Net EST">Sports Net EST</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/RSNO" xmltv_id="Sports Net Ontario">Sports Net Ontario</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/RSNW" xmltv_id="Sports Net West">Sports Net West</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/RSNP" xmltv_id="Sports Net Pacifique">Sports Net Pacifique</channel>
-    <channel update="i" site="tvhebdo.com" site_id="seta/SNWL" xmltv_id="Sportsnet World">Sportsnet World</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN1" xmltv_id="TSN1">TSN1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN2" xmltv_id="TSN2">TSN2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN3" xmltv_id="TSN3">TSN3</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN4" xmltv_id="TSN4">TSN4</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN5" xmltv_id="TSN">TSN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nba/NBATV" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fr24/FR24" xmltv_id="France 24">France 24</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cpop/CPOP" xmltv_id="Ciné-pop">Ciné-pop</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE" xmltv_id="SE">SE</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE+2" xmltv_id="SE 2">SE 2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE+3" xmltv_id="SE 3">SE 3</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE+4" xmltv_id="SE 4">SE 4</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc1/SC1" xmltv_id="Super Channel 1">Super Channel 1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc2/SC2" xmltv_id="Super Channel 2">Super Channel 2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc3/SC3" xmltv_id="Super Channel 3">Super Channel 3</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc4/SC4" xmltv_id="Super Channel 4">Super Channel 4</channel>
-    <channel update="i" site="tvhebdo.com" site_id="amc/AMC" xmltv_id="Station AMC">Station AMC</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fxc/FXC" xmltv_id="FX Canada">FX Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/TMN1" xmltv_id="The Movie Netwtork">The Movie Netwtork</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/HBO" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/MEXE" xmltv_id="MExcess">MExcess</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/MFUN" xmltv_id="MFun!">MFun!</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/MFEST" xmltv_id="MFest">MFest</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pix/ENCOR" xmltv_id="Movie PIX">Movie PIX</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pix/ENCO2" xmltv_id="Encore 2">Encore 2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wpch/PEACH" xmltv_id="WPCH-TV">WPCH-TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tcmv/TCM1" xmltv_id="Turner Classic Movie 1">Turner Classic Movie 1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="play/PLAYBO" xmltv_id="PLAYBOY">PLAYBOY</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vane/VIVFR" xmltv_id="VIVID FR">VIVID FR</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vann/VIVID" xmltv_id="VIVID">VIVID</channel>
-    <channel update="i" site="tvhebdo.com" site_id="hard/PLAYM" xmltv_id="Hard">Hard</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wgn9/WGN" xmltv_id="WGN TV 9">WGN TV 9</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wsbk/WSBK" xmltv_id="WSBK">WSBK</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wpix/WPIX" xmltv_id="WPIX">WPIX</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cw/KTLA" xmltv_id="KTLA">KTLA</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ewtn/EWTN" xmltv_id="E">E</channel>
-    <channel update="i" site="tvhebdo.com" site_id="salt/SALTL" xmltv_id="Salt + Light TV">Salt + Light TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="unic/UNIC" xmltv_id="Univision Canada">Univision Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rnsu/RAI" xmltv_id="RAI Nettuno Sat Uno">RAI Nettuno Sat Uno</channel>
-    <channel update="i" site="tvhebdo.com" site_id="lat/TLAT" xmltv_id="TLAT">TLAT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fair/FAIRCH" xmltv_id="FAIR">FAIR</channel>
-    <channel update="i" site="tvhebdo.com" site_id="atn/ASIAN" xmltv_id="ASIAN TELEVISION NETWORK">ASIAN TELEVISION NETWORK</channel>
-    <channel update="i" site="tvhebdo.com" site_id="otn/ODY" xmltv_id="OTN">OTN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="art/ART" xmltv_id="Art America">Art America</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fptv/FPTV" xmltv_id="Festival Portuguese Television">Festival Portuguese Television</channel>
-    <channel update="i" site="tvhebdo.com" site_id="erts/ERTS" xmltv_id="ERT World">ERT World</channel>
-    <channel update="i" site="tvhebdo.com" site_id="dw/DWTV" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cara/CARA" xmltv_id="Caracol TV">Caracol TV</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nino/NINOS" xmltv_id="TLN Ninos">TLN Ninos</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cinl/CINEL" xmltv_id="Cine Latino">Cine Latino</channel>
-    <channel update="i" site="tvhebdo.com" site_id="foxl/FOXL" xmltv_id="FOXLife">FOXLife</channel>
-    <channel update="i" site="tvhebdo.com" site_id="azmu/AZMU" xmltv_id="AZ Mundo">AZ Mundo</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvch/CHILE" xmltv_id="Tv Chile international">Tv Chile international</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tve/TVE" xmltv_id="TVE1">TVE1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nmun/NUEVO" xmltv_id="Nuevo Mundo">Nuevo Mundo</channel>
-    <channel update="i" site="tvhebdo.com" site_id="src/CBUFT" xmltv_id="CBUFT">CBUFT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cbc/CBUT" xmltv_id="CBUT-2">CBUT-2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ctv/CIVT" xmltv_id="CIVT">CIVT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="global/CHAN" xmltv_id="CHAN">CHAN</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ntv/CJON" xmltv_id="CJON">CJON</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO15" xmltv_id="Spo15">Spo15</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO16" xmltv_id="Spo16">Spo16</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO17" xmltv_id="Spo17">Spo17</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO18" xmltv_id="Spo18">Spo18</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO19" xmltv_id="Spo19">Spo19</channel>
-    <channel update="i" site="tvhebdo.com" site_id="abc/KOMO" xmltv_id="KOMO">KOMO</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nbc/KING" xmltv_id="KING">KING</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cbs/KIRO" xmltv_id="KIRO">KIRO</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fox/KCPQ" xmltv_id="KCPQ">KCPQ</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO1" xmltv_id="Spo1">Spo1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO2" xmltv_id="Spo2">Spo2</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO3" xmltv_id="Spo3">Spo3</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO4" xmltv_id="Spo4">Spo4</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO5" xmltv_id="Spo5">Spo5</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPOM" xmltv_id="Spo6">Spo6</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO7" xmltv_id="Spo7">Spo7</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO8" xmltv_id="Spo8">Spo8</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO9" xmltv_id="Spo9">Spo9</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO10" xmltv_id="Spo10">Spo10</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO11" xmltv_id="Spo11">Spo11</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO12" xmltv_id="Spo12">Spo12</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO13" xmltv_id="Spo13">Spo13</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO14" xmltv_id="Spo14">Spo14</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO23" xmltv_id="Spo23">Spo23</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO24" xmltv_id="Spo24">Spo24</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO25" xmltv_id="Spo25">Spo25</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO26" xmltv_id="Spo26">Spo26</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO27" xmltv_id="Spo27">Spo27</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO28" xmltv_id="Spo28">Spo28</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO29" xmltv_id="Spo29">Spo29</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO30" xmltv_id="Spo30">Spo30</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO31" xmltv_id="Spo31">Spo31</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/SPO32" xmltv_id="Spo32">Spo32</channel>
-    <channel update="i" site="tvhebdo.com" site_id="src/SRCHD" xmltv_id="CBFT HD">CBFT HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tqc/TQCHD" xmltv_id="CIVM">CIVM</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tva/TVAHD" xmltv_id="CFTM HD">CFTM HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="v/VHD" xmltv_id="CFJP HD">CFJP HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cbc/CBCHD" xmltv_id="CBMT">CBMT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ctv/CTVHD" xmltv_id="CFCF HD">CFCF HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="global/CIIIHD" xmltv_id="CIII (Hull-Ottawa) HD">CIII (Hull-Ottawa) HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vox/MAHD" xmltv_id="MATV HD">MATV HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="chh/CITYMH" xmltv_id="CJNT (Metro 14)">CJNT (Metro 14)</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ici/ICI+HD" xmltv_id="ICI Canal international HD">ICI Canal international HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nw/CNEHD" xmltv_id="CBC News Network HD">CBC News Network HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rdi/RDIHD" xmltv_id="RDI HD">RDI HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sav/SAVOIR+HD" xmltv_id="Canal Savoir HD">Canal Savoir HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvas/TSPHD" xmltv_id="TVA Sports HD">TVA Sports HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tvs2/TVS2" xmltv_id="TVA Sports 2 HD">TVA Sports 2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="aptn/APTHD" xmltv_id="APTN HD">APTN HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="yoo/YOOHD" xmltv_id="YOOPA HD">YOOPA HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mp/MU%2BHD" xmltv_id="MP HD">MP HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="artv/ARTHD" xmltv_id="Artv HD">Artv HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mmax/MMXHD" xmltv_id="MMAX HD">MMAX HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rds/RDSHD" xmltv_id="RDS HD">RDS HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vie/VIEHD" xmltv_id="Canal Vie HD">Canal Vie HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="d/D+HD" xmltv_id="D HD">D HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tv5/TV5HD" xmltv_id="TV5 HD">TV5 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vrak/VRKHD" xmltv_id="Vrak HD">Vrak HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="lcn/LCN+HD" xmltv_id="LCN HD">LCN HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="evasion/EVAHD" xmltv_id="Évasion HD">Évasion HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="series/SE%2BHD" xmltv_id="Séries Plus HD">Séries Plus HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="historia/HIAHD" xmltv_id="Historia HD">Historia HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ztele/Z+HD" xmltv_id="Z HD">Z HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="zest/ZESHD" xmltv_id="Zeste HD">Zeste HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pbs/PBS" xmltv_id="WCFEDT1">WCFEDT1</channel>
-    <channel update="i" site="tvhebdo.com" site_id="abc/WVNYH" xmltv_id="WVNDT">WVNDT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nbc/WPTZH" xmltv_id="WPTZDT">WPTZDT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cbs/WCAXH" xmltv_id="WCAXDT">WCAXDT</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fox/WFFFH" xmltv_id="WFFF">WFFF</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ownh/OWNHD" xmltv_id="OWN HD Canada">OWN HD Canada</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cnn/CNNHD" xmltv_id="CNN HD">CNN HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tdc/DISCH" xmltv_id="Discovery HD">Discovery HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ae/A%26amp%3BEHD" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mm/MUCH+HD" xmltv_id="MuchMusic HD">MuchMusic HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="bravo/BRVOH" xmltv_id="BRAVO! HD">BRAVO! HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="space/SPCHD" xmltv_id="SPACE HD">SPACE HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ytv/YTV+HD" xmltv_id="YTV HD">YTV HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="life/SLICE+HD" xmltv_id="Slice HD">Slice HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="hist/HIST" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="show/SHOW+HD" xmltv_id="Showcase HD">Showcase HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="city/CITHD" xmltv_id="City HD">City HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sun/SUNHD" xmltv_id="Sun News HD">Sun News HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="beis/BEIS" xmltv_id="Be In Sports">Be In Sports</channel>
-    <channel update="i" site="tvhebdo.com" site_id="food/FOODH" xmltv_id="FOOD HD">FOOD HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="hgtv/HGTVH" xmltv_id="HGTV HD">HGTV HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="inve/INVE" xmltv_id="Investigation HD">Investigation HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="unis/UNIS" xmltv_id="UNIS HD">UNIS HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="expl/EXPHD" xmltv_id="Explora HD">Explora HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="mlle/MOIHD" xmltv_id="Moi&amp;cie">Moi&amp;cie</channel>
-    <channel update="i" site="tvhebdo.com" site_id="myst/ADDIKHD" xmltv_id="ADDIK HD">ADDIK HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tfo/TFOHD" xmltv_id="TFO HD">TFO HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="prise2/P2HD" xmltv_id="Prise 2 HD">Prise 2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="idee/CASAH" xmltv_id="CASA HD">CASA HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ris/RDSIH" xmltv_id="RDS Info HD">RDS Info HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cpop/POPHD" xmltv_id="Ciné-pop HD">Ciné-pop HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SEHD" xmltv_id="SE HD">SE HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE2HD" xmltv_id="SE 2 HD">SE 2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE" xmltv_id="SE3 HD">SE3 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="se/SE4HD" xmltv_id="SE4 HD">SE4 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sxtv/W+MOVIES+H" xmltv_id="W Movies HD">W Movies HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="scor/SN360HD" xmltv_id="The Score HD">The Score HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="speed/SPEHD" xmltv_id="Speed Channel HD">Speed Channel HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="golf/GLHD" xmltv_id="GOLF HD">GOLF HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spar/SPARKHD" xmltv_id="ABC Sparks HD">ABC Sparks HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="figh/FIGH" xmltv_id="Fight Network HD">Fight Network HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nagw/NGWHD" xmltv_id="National Geo Wild HD">National Geo Wild HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nfln/NFLHD" xmltv_id="NFL HD">NFL HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spike/SPIHD" xmltv_id="Spike TV HD">Spike TV HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="dchd/DWHD" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="oash/NATUR" xmltv_id="Oasis HD">Oasis HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="shod/LTIMEHD" xmltv_id="Lifetime Canada HD">Lifetime Canada HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cour/IDHD" xmltv_id="Investigation Discovery Canada HD">Investigation Discovery Canada HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="lsta/MTIMH" xmltv_id="MovieTime HD">MovieTime HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cnnh/CNNH" xmltv_id="CNN Headline News HD">CNN Headline News HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="trav/TRAV" xmltv_id="Travel &amp; Escape HD">Travel &amp; Escape HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nat/GEOHD" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="animal/APLA" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="dciv/DCIV" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="ment/H2HD" xmltv_id="H2 HD">H2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="plad/PLAD" xmltv_id="Disney Jr HD">Disney Jr HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fam/FAM" xmltv_id="THE FAMILY CHANNEL HD">THE FAMILY CHANNEL HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="rds2/RDS2H" xmltv_id="RDS2 HD">RDS2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="plan/PLAHD" xmltv_id="Planète HD">Planète HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/RSNHD" xmltv_id="Sports Net HD">Sports Net HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/SNET+ONT+H" xmltv_id="Sportsnet Ontario HD">Sportsnet Ontario HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/SNET+WEST+" xmltv_id="Sports Net West HD">Sports Net West HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/SNET+PAC+H" xmltv_id="Sports Net Pacifique HD">Sports Net Pacifique HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="seta/SNETWORLD+" xmltv_id="SNWHD">SNWHD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="snet/SNOHD" xmltv_id="Sports Net One HD">Sports Net One HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN1H" xmltv_id="TSN1 HD">TSN1 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN2H" xmltv_id="TSN2 HD">TSN2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN3H" xmltv_id="TSN3 HD">TSN3 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN4H" xmltv_id="TSN4 HD">TSN4 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tsn/TSN5H" xmltv_id="TSN HD">TSN HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="nba/NBAHD" xmltv_id="NBA TV HD">NBA TV HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc1/SC1HD" xmltv_id="Super Channel 1 HD">Super Channel 1 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc2/SC2HD" xmltv_id="Super Channel 2 HD">Super Channel 2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc3/SC3HD" xmltv_id="Super Channel 3 HD">Super Channel 3 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="sc4/SC4HD" xmltv_id="Super Channel 4 HD">Super Channel 4 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="amc/AMCHD" xmltv_id="AMC HD">AMC HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="fxc/FXHD" xmltv_id="FX Canada HD">FX Canada HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/TMNHD" xmltv_id="MHD">MHD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/HBOCH" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/MEXH" xmltv_id="MExcess HD">MExcess HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/MFUH" xmltv_id="MFUN HD">MFUN HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tmn/TMN" xmltv_id="MFEST HD">MFEST HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pix/ENCHD" xmltv_id="Movie PIX HD">Movie PIX HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="pix/PIX" xmltv_id="TMN Encore 2 HD">TMN Encore 2 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wpch/WPCH" xmltv_id="Peachtree HD">Peachtree HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="tcmv/TCMV" xmltv_id="TCM HD">TCM HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="vane/VIVFRH" xmltv_id="VIVID FR HD">VIVID FR HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wgn9/WGN9" xmltv_id="WGN9 HD">WGN9 HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wsbk/WSBK" xmltv_id="WSBK HD">WSBK HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="wpix/WPIX" xmltv_id="WPIX HD">WPIX HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="cw/CW" xmltv_id="KTLA HD">KTLA HD</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/HDSP1" xmltv_id="HDS11 862">HDS11 862</channel>
-    <channel update="i" site="tvhebdo.com" site_id="spom/HDSP3" xmltv_id="HDS13 864">HDS13 864</channel>
-  </channels>
-</site>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[COLOR yellow]CẬP NHẬT NGÀY 17 THÁNG 7 NĂM 2015[/COLOR]</name>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>Tôn Giáo TV</name>
+<thumbnail>religion.png</thumbnail>
+<items>
+<item>
+<title>Công Giáo</title>
+<link>http://54.152.24.55:1935/conggiao/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hành Trình Đức Tin</title>
+<link>http://54.152.24.55:1935/htdt/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tin Lành</title>
+<link>http://hls75.lax.v247tv.com/lax74/tinlanh_3/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>An Bình Hạnh Phúc</title>
+<link>http://54.152.24.55:1935/abhp/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Viet Christian</title>
+<link>mms://live.vietchristian.com/tv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Phật Từ Bi</title>
+<link>http://206.190.136.254/liveStream/ptb_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Thiếu Nhi TV</name>
+<thumbnail>thieunhi.png</thumbnail>
+<items>
+<item>
+<title>BABY TV</title>
+<link>http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cartoon SD</title>
+<link>http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Camp Cartoon</title>
+<link>rtsp://72.13.93.186/campcartoon</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tom & Jerry</title>
+<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Access Asia Network</name>
+<thumbnail>accessasia.png</thumbnail>
+<items>
+<item>
+<title>Du Lịch & Cuộc Sống</title>
+<link>http://tvod.accessasia.tv:8080/live/dulichcuocsong.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378840245.jpg</thumbnail>
+</item>
+<item>
+<title>FBNC</title>
+<link>http://tvod.accessasia.tv:8080/tvod/air/htvcfbnc.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378781313.jpg</thumbnail>
+</item>
+<item>
+<title>O2TV</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv10.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1379280736_vctv10.jpg</thumbnail>
+</item>
+<item>
+<title>SCTV 14</title>
+<link>http://tvod.accessasia.tv:8080/live/sctv14.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1371064062.jpg</thumbnail>
+</item>
+<item>
+<title>SCTV HD</title>
+<link>http://tvod.accessasia.tv:8080/live/sctvhaihd.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378932781.jpg</thumbnail>
+</item>
+<item>
+<title>Thuần Việt HD</title>
+<link>http://tvod.accessasia.tv:8080/tvod/air/thuanviet.480p/index.m3u8?e=1389744448&st=qyg7wGxdgIptlUnbonBKuQ</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378840964.jpg</thumbnail>
+</item>
+<item>
+<title>VTV 4</title>
+<link>http://tvod.accessasia.tv:8080/tvod/air/vtv4.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378950974_vtv4.jpg</thumbnail>
+</item>
+<item>
+<title>VTVcab 1</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv1.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1371064132.jpg</thumbnail>
+</item>
+<item>
+<title>VTVcab 2</title>
+<link>http://tvod.accessasia.tv:8080/tvod/air/vctv2.480p/index.m3u8?e=1389728751&st=ec_kFlx1ytFUw6ErmiEmHg</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1379280470_vctv2.jpg</thumbnail>
+</item>
+<item>
+<title>VTVcab 4</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv4.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1389779110_vtvcab4.jpg</thumbnail>
+</item>
+<item>
+<title>VTVcab 8</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv8.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378932948.png</thumbnail>
+</item>
+<item>
+<title>VTVcab 17</title>
+<link>http://tvod.accessasia.tv:8080/live/vctv17.480p/index.m3u8</link>
+<thumbnail>http://www.accessasia.tv/img/img_livetv/1378953454_7620794552_db01e9de3a_m.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>TV Hải Ngoại</name>
+<thumbnail>haingoai.png</thumbnail>
+<item>
+<title>BYN TV Houston TX 57.3</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_byn/playlist.m3u8?worldtokenstarttime=1437363222&worldtokenendtime=1437447822&worldtokenhash=2FOWz209DmUTthrlMUpLjtTORpPNGjCrp4E0MWf75vc=</link>
+<thumbnail>http://img.onworldtv.com/355x200/banner/2015/03/26/133479-261989-BYNTV.jpg</thumbnail>
+</item>
+<item>
+<title>VSTAR Television Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_vstartv/playlist.m3u8?worldtokenstarttime=1437363306&worldtokenendtime=1437447906&worldtokenhash=vUlp_doJbuj0WZnTTlLwpBRHS9EElCZ9oXslmOQQnHQ=</link>
+<thumbnail>http://img.onworldtv.com/1180x665/banner/2015/05/19/216437-vstartv_logo.jpg</thumbnail>
+</item>
+<item>
+<title>Vietnamese American Network Television</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_van/playlist.m3u8?worldtokenstarttime=1437363502&worldtokenendtime=1437448102&worldtokenhash=AZwzXIx32NvZETqarCNYDdj5WtVJTV0cyl5qBnwrpDk=</link>
+<thumbnail>http://img.onworldtv.com/460x260/banner/2015/03/26/894908-922708-vantv.jpg?png</thumbnail>
+</item>
+<item>
+<title>Little Saigon Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_lstv/playlist.m3u8?worldtokenstarttime=1437363595&worldtokenendtime=1437448195&worldtokenhash=Afl9_5sHqaK2BLidznILnI7Wwr2CtIlvz-sxaIfvnx4=</link>
+<thumbnail>http://img.onworldtv.com/355x200/banner/2015/03/08/534534-livetv_littlesaigon_banner.jpg</thumbnail>
+</item>
+<item>
+<title>Sai Gon Network Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_sgn/playlist.m3u8?worldtokenstarttime=1437363704&worldtokenendtime=1437448304&worldtokenhash=xvcAmTGH03ZlIXOZL1K1zQuEA9FZHTAyjwva9UssK3A=</link>
+<thumbnail>http://img.onworldtv.com/250x250/banner/2015/03/11/884908-livetv_sgn_banner.jpg</thumbnail>
+</item>
+<item>
+<title>Cải Lương</title>
+<link>http://206.190.136.254/liveStream/cailuong_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Đồng Giao TV</title>
+<link>http://206.190.136.254/liveStream/dgtv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hài 24/7</title>
+<link>http://206.190.136.254/liveStream/hai_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>IBC TV 57.8 Cali</title>
+<link>http://206.190.136.254/liveStream/ibctv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KVLA 56.5 Cali</title>
+<link>http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Little Saigon TV 57.7 Cali</title>
+<link>http://206.190.136.254/liveStream/lstv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Saigon TV 57.5</title>
+<link>http://206.190.136.254/liveStream/sgtv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SaigonTV Dallas TX 55.3</title>
+<link>rtmp://origin3-edge1.yourstreamlive.com:1935/live/yourstreamlive/out_1651_211xdnzd?platform=Computer</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>S Channel</title>
+<link>http://54.152.24.55:1935/schannel/myStream/chunklist_w1927396712.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SET TV</title>
+<link>http://206.190.136.254/liveStream/set_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SGN TV Houston TX 51.3</title>
+<link>http://stream.onworldtv.com/live/sgn/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tuổi Thần Tiên</title>
+<link>http://206.190.136.254/liveStream/ttt_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Việt Bay Television 1.4 KAXT - San Jose</title>
+<link>http://64.71.129.2:8080/hls/ius_000104.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VietSun TV</title>
+<link>http://206.190.136.254/liveStream/vietsuntv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Viet Media TV</title>
+<link>http://206.190.136.254/liveStream/viettv24_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Viet New TV 56.5</title>
+<link>http://206.190.136.254/liveStream/kvla_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VAN TV 55.2 (Houston)</title>
+<link>http://206.190.136.254/liveStream/vantv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VNA TV 57.3</title>
+<link>http://206.190.136.254/liveStream/vnatv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VietV California 54.3</title>
+<link>http://206.190.136.254/liveStream/vietvla_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Viet Global Mail</title>
+<link>http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VBS TV 57.6</title>
+<link>http://206.190.136.254/liveStream/vbstv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VietFace TV California 57.2</title>
+<link>http://206.190.136.254/liveStream/vface_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VZN TV Houston TX</title>
+<link>http://206.190.136.254/liveStream/vantv_1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>TV Trong Nước</name>
+<thumbnail>vn.png</thumbnail>
+<items>
+<item>
+<title>VNews - Thông Tấn Xã Việt Nam</title>
+<link>rtmp://live.vnanet.vn:1935/Live/ playpath=DRC swfUrl=http://avnews.vnanet.vn/RtmpPlayer/player.swf pageUrl=http://avnews.vnanet.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình An Giang 1</title>
+<link>rtmp://113.161.212.25/live playpath=atv1 swfUrl=http://www.atv.org.vn/player/player.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình An Giang 2</title>
+<link>rtmp://113.161.212.25/live2 playpath=atv2 swfUrl=http://www.atv.org.vn/player/player.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bà Rịa - Vũng Tàu</title>
+<link>rtmp://113.163.216.24/live playpath=livestream swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://tivihay.net/dia-phuong-vung-tau-k61.html swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bạc Liêu</title>
+<link>rtmp://118.69.205.213/livepkgr/ playpath=livestream1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://hktivi.net/tv_truc_tuyen/truyen-hinh-bac-lieu-btv.php swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bắc Ninh</title>
+<link>rtmp://113.160.154.159:5119/live playpath=bntv swfUrl=http://www.umediaserver.net/bin/FlashPlayer/player-quick.swf pageUrl=http://bacninhtv.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bến Tre</title>
+<link>rtmp://113.163.94.245/live/ playpath=Stream swfUrl=http://thbt.vn/jwplayer/jwplayer.flash.swf pageUrl=http://thbt.vn/jwplayer/?l=rtmp%3A%2F%2F113.163.94.245%2Flive%2FStream&i=http://thbt.vn/wp-content/uploads/2014/03/nentruct.png&w=400&h=280&a=0 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bình Dương 1</title>
+<link>rtmp://202.43.109.147/live/btv1.stream live=1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bình Dương 2</title>
+<link>rtmp://202.43.109.147/rtplive/btv2.stream live=1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bình Phước 1</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp1.tv swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bình Phước 2</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/# live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Bình Thuận</title>
+<link>mms://123.30.108.114/BTVTruyenhinh</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Cà Mau</title>
+<link>rtmp://113.161.220.254/livepkgr/ playpath=livestream1?adbe-live-event=liveevent swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf pageUrl=http://ctvcamau.vn/jwplayer/?l=rtmp&i=http://118.69.199.136/wp- content/uploads/2014/01/TVonline_Ctvcamau.jpg&w=400&h=300&a=1 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Cần Thơ</title>
+<link>rtmp://113.161.204.167:1935/livepkgr/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Dak Nông</title>
+<link>rtmp://222.255.158.22:1935/live playpath=truyenhinh swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 pageUrl=http://www.ptthdaknong.com.vn/truyenhinh.html live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Đà Nẵng</title>
+<link>rtmp://yqyydhnc.cdnviet.com/mnrrnlm playpath=drt1 swfUrl=http://www.drt.danang.vn/js/DRTplayer.swf pageUrl=http://www.drt.danang.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Đồng Nai 1</title>
+<link>rtmp://123.29.75.131:1935/thdn playpath=dn1.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf pageUrl=http://www.dnrtv.org.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Đồng Nai 2</title>
+<link>rtmp://123.29.75.131:1935/thdn/dn2.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Gia Lai</title>
+<link>rtmp://222.255.169.132/live/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Hà Nội</title>
+<link>rtmp://38.107.180.195:1935/live playpath=hanoi11_h swfUrl=http://vtc.com.vn/player_akamai_low.swf pageUrl=http://vtc.com.vn/live/6/Ha-Noi-1.html swfVfy=1 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Hậu Giang</title>
+<link>rtmp://115.78.160.29/live/thhg live=1 swfUrl=http://truyenhinhhaugiang.vn/MediaPlayer/vplayer.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Khánh Hòa</title>
+<link>rtmp://118.69.198.109:1935/live/ playpath=video swfUrl=http://hktivi.net/player.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Lạng Sơn</title>
+<link>rtmp://123.18.206.40/live/ playpath=livestream swfUrl=http://hktivi.net/player.swf pageUrl=http://hktivi.net/tv_truc_tuyen/langson.php swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Ninh Thuận</title>
+<link>rtmp://113.164.108.11/live/ playpath=NTV_VIDEO swfUrl=http://hktivi.net/player.swf swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Phú Yên</title>
+<link>rtmp://113.161.4.102/live/ playpath=vtvphuyen.tv swfUrl=http://vtvphuyen.vn/vplayer.swf pageUrl=http://vtvphuyen.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Quảng Ngãi</title>
+<link>http://113.160.244.44/liveevent.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Quảng Trị</title>
+<link>rtmp://123.25.117.9:80/live playpath=qtv swfUrl=http://hktivi.net/player.swf swfVfy=true live=true timeout=60</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Sóc Trăng</title>
+<link>rtmp://115.78.3.164/live playpath=stv1 swfUrl=http://thst.vn/MediaPlayer/vplayer.swf pageUrl=http://thst.vn/Truyen_hinh.aspx live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Thừa Thiên Huế</title>
+<link>rtmp://118.69.176.149/live/trt swfUrl=http://tv.xunghe.vn/player.swf pageUrl=http://tv.xunghe.vn/ live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Vĩnh Long 1</title>
+<link>rtmp://123.30.108.72/live/ playpath=thvl1 swfUrl=http://www.thvl.vn/jwplayer/jwplayer.flash.swf pageUrl=http://www.thvl.vn/jwplayer/jw.php?l=rtmp&i=http://thvl.vn/wp-content/uploads/2014/12/THVL1Online.jpg&w=395&h=325&a=1 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Vĩnh Long 2</title>
+<link>rtmp://123.30.108.72/live/ playpath=thvl2 swfUrl=http://www.thvl.vn/jwplayer/jwplayer.flash.swf pageUrl=http://www.thvl.vn/jwplayer/jw.php?l=rtmp2&i=http://thvl.vn/wp-content/uploads/2014/12/THVL2Online.jpg&w=395&h=325&a=1 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Truyền Hình Vĩnh Phúc</title>
+<link>rtmp://117.6.162.63/live/ playpath=thvp swfUrl=http://hktivi.net/player.swf pageUrl=http://hktivi.net/kenh/vinhphuc.html swfVfy=true live=true timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>VTC</name>
+<thumbnail>vtc.png</thumbnail>
+<items>
+<item>
+<title>VTC 1</title>
+<link>rtmp://38.107.180.195/live/ playpath=vtc11_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/1/VTC1.html live=1</link>
+<thumbnail>http://s23.postimg.org/hd1zkm2az/vtc1.png</thumbnail>
+</item>
+<item>
+<title>VTC 2</title>
+<link>rtmp://38.107.180.195/live/ playpath=vtc21 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/75/VTC2.html live=1</link>
+<thumbnail>http://s9.postimg.org/uydaz96lr/vtc2.png</thumbnail>
+</item>
+<item>
+<title>VTC 10</title>
+<link>rtmp://38.107.180.195/live/ playpath=vtc101_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/4/VTC10.html live=1</link>
+<thumbnail>http://s27.postimg.org/va23xl62r/vtc10.png</thumbnail>
+</item>
+<item>
+<title>HA NOI 1</title>
+<link>rtmp://38.107.180.195/live/ playpath=hanoi11_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/6/Ha-Noi-1.html live=1</link>
+<thumbnail>http://s11.postimg.org/fd3in4u4z/hn1.png</thumbnail>
+</item>
+<item>
+<title>HTV 7</title>
+<link>rtmp://38.107.180.195/live/ playpath=htv7_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/7/HTV7.html live=1</link>
+<thumbnail>http://s7.postimg.org/awpl50lt7/htv7.png</thumbnail>
+</item>
+<item>
+<title>HTV 9</title>
+<link>rtmp://38.107.180.195/live/ playpath=htv91_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/8/HTV9.html live=1</link>
+<thumbnail>http://s30.postimg.org/yt48uzdr5/htv9.png</thumbnail>
+</item>
+<item>
+<title>VTV 1</title>
+<link>rtmp://38.107.180.195/live/ playpath=vtv11_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/9/VTV1.html live=1</link>
+<thumbnail>http://s11.postimg.org/4dmwp9t3n/vtv1.png</thumbnail>
+</item>
+<item>
+<title>VTV 2</title>
+<link>rtmp://66.160.142.194/live/ playpath=vtv2_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/10/VTV2.html live=1</link>
+<thumbnail>http://s29.postimg.org/tdp1n0jcn/vtv2.png</thumbnail>
+</item>
+<item>
+<title>VTV 3</title>
+<link>rtmp://38.107.180.195/live/ playpath=vtv31_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/11/VTV3.html live=1</link>
+<thumbnail>http://s8.postimg.org/xppd28nid/vtv3.png</thumbnail>
+</item>
+<item>
+<title>VTV 4</title>
+<link>rtmp://38.107.180.195/live/ playpath=vtv4_h swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/12/VTV4.html live=1</link>
+<thumbnail>http://s30.postimg.org/ar6apzk2p/vtv4.png</thumbnail>
+</item>
+<item>
+<title>VOV 1</title>
+<link>rtmp://66.160.142.194/live/ playpath=vov1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/13/VOV1.html live=1</link>
+<thumbnail>http://s21.postimg.org/52l0tlkvb/vov1.png</thumbnail>
+</item>
+<item>
+<title>VOV 2</title>
+<link>rtmp://38.107.180.195/live/ playpath=vov2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/14/VOV2.html live=1</link>
+<thumbnail>http://s2.postimg.org/ekaj1bfkp/vov2.png</thumbnail>
+</item>
+<item>
+<title>VOV 3</title>
+<link>rtmp://66.160.142.194/live/ playpath=vov3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/15/VOV3.html live=1</link>
+<thumbnail>http://s21.postimg.org/5kg69gag7/vov3.png</thumbnail>
+</item>
+<item>
+<title>VOV 5</title>
+<link>rtmp://38.107.180.195/live/ playpath=vov5 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://vtc.com.vn/live/16/VOV5.html live=1</link>
+<thumbnail>http://s28.postimg.org/88ppa84d9/vov5.png</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Thể Thao TV</name>
+<thumbnail>sports.png</thumbnail>
+<items>
+<item>
+<title>Tennis HD 1</title>
+<link>http://94.100.31.242:8183/hls/xz3125/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tennis HD 2</title>
+<link>http://109.87.164.11:8080/udp/238.0.16.63:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fight 1</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fight 2</title>
+<link>http://87.248.160.8/edge/smil:boet/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport 1</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EUROSPORT 2</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport HD</title>
+<link>http://87.248.160.8/edge/smil:boet/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 1</title>
+<link>http://rtmp.turkuvazgroup.net/aspor/aspor3/player.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 2</title>
+<link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORT 3</title>
+<link>http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PAC-12</title>
+<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Football</title>
+<link>http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Motors TV</title>
+<link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Motors sports</title>
+<link>http://motorsport.hopto.org:8081/</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Max</title>
+<link>http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sports Night</title>
+<link>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET 360 HD</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARENA SPORT</title>
+<link>http://118.97.167.19/jhos/arena//Playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport TV</title>
+<link>http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MMA BAY TV</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Antena 3 Sports</title>
+<link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sports 4</title>
+<link>http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sports 5</title>
+<link>http://hls.cn.ru/streaming/futbol/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sports 6</title>
+<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STAR SPORTS</title>
+<link>http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SUPERLIG SPORT</title>
+<link>http://5.196.123.19:8082/superlig</link>
+<thumbnail></thumbnail>
+<item>
+<title>TVA Sport</title>
+<link>rtmp://cp39414.live.edgefcs.net/live/event1@9756</link>
+<thumbnail></thumbnail>
+</item>
+</item>
+<item>
+<title>Eurosport 3</title>
+<link>http://cdn.streamking.net/hls/qMQjKBSbl9bPr5-QtVZndg/1427324400/eurosport2.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport 4</title>
+<link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport HD</title>
+<link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Football HD 1</title>
+<link>http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Football HD 2</title>
+<link>http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Football HD 3</title>
+<link>http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Our Football HD</title>
+<link>http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTR Sport</title>
+<link>http://92.50.181.6/tv/1114/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport 1</title>
+<link>http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport 2</title>
+<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport 3</title>
+<link>http://92.50.181.6/tv/1115/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport 4</title>
+<link>http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Football</title>
+<link>http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV Football</title>
+<link>http://hls01-07.az.myvideo.az/hls-live/livepkgr/ntvfootball/ntvfootball/ntvfootball.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SOCCER</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN 3</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EuroSport Fr</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EuroSport Inter</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Sports</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Sports 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?moneysports</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Pac 12 Network US</title>
+<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Pac 12 Bay Area US</title>
+<link>http://xrxs.net/video/live-p12baya-2328.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Pac 12 LAS US</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Pac 12 Mountain US</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Pac 12 Oregon US</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBC Golf</title>
+<link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET 360</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Big Ten Network</title>
+<link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPORTSNET 360HD CANADA HD</title>
+<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN Sports 1 HD English</title>
+<link>http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/anis_sat.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SuperSport 1 HD</title>
+<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SuperSport 2 HD</title>
+<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SuperSport 3 HD</title>
+<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RAI SPORT 1</title>
+<link>mmsh://212.162.68.163:80/raisport2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ThethaoTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BongdaTV</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Tonight TV (UK)</title>
+<link>rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bursaspor TV (Turkey)</title>
+<link>rtmp://stream.yayindayiz.biz:80/Bursaspor/ playpath=bursaspor swfUrl=http://bedavacanlitvizle.org/wp-content/uploads/player/player.swf pageUrl=http://bedavacanlitvizle.org/yayin/bstv.php</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CANALE 7 (Italy)</title>
+<link>rtmp://fms.shared.streamshow.it/canale7 playpath=canale7 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://tivihay.net/kenh-the-thao-canale-7-k326.html</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 1 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 2 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 3 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 4 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 5 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 6 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Time TV 7 (German)</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bein 3 Sports</title>
+<link>http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT SPOR (Turkey)</title>
+<link>http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Big Ten Network</title>
+<link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport Tonight TV (UK)</title>
+<link>rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport China</title>
+<link>rtmp://v2.gdtv.cn/live playpath=soccer swfUrl=http://www.gdtv.cn/vms/demoLiveF4M/livePlayerF4M.swf pageUrl=</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVA Sport (French)</title>
+<link>rtmp://cp39414.live.edgefcs.net/live//event1@9756 swfVfy=true live=true timeout=60</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TVA Sport stream 2 (French)</title>
+<link>rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/…/FlashMediaPlayb…/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html swfVfy=true live=true timeout=60</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN Sports 1 HD Spanish</title>
+<link>http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/anis_sat.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 1</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 2</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN SPORT 3</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Futbol 1</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.93:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Tennis</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.94:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Basketbol</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.95:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Futbol 2</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.96:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nas Futbol</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.97:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Futbol 3</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.98:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Sport Plus</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.99:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport 1</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.65:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Sport</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.60:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sport 2</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.69:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport2</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.81:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HD Sport</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.117:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV+ Futbol 1HD</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.169:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Viasat Sport</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.179:4000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport HD</title>
+<link>http://78.30.254.43:8989/udp/239.0.0.195:4000</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>News and Weather TV</name>
+<thumbnail>weather_news.png</thumbnail>
+<items>
+<item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC World News 1</title>
+<link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC World News 2</title>
+<link>http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item> 
+<title>Canada CP24 HD 720p</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8</link>
+<thumbnail>http://i.ytimg.com/vi/Ewka8V7VF9A/maxresdefault.jpg</thumbnail>
+</item>
+<item>
+<title>CNN International 1</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN International 2</title>
+<link>http://livestation_hls-lh.akamaihd.net/i/cnn_en@105455/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN America</title>
+<link>http://ca-edge-3.cdn2.streamago.tv:1935/streamagoedge/34960/28965/chunklist_w1761528217.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>REUTERS TV</title>
+<link>http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b1056000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox News Radio</title>
+<link>http://ca-edge-3.cdn2.streamago.tv:1935/streamagoedge/34960/28965/chunklist_w1761528217.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHK World HD</title>
+<link>http://plslive-w.nhk.or.jp/nhkworld/app/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ENCA</title>
+<link>http://hd7.lsops.net/live/enca_en_hls.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>i24 NEWS</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Weather Network Canada HD 720p</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8</link>
+<thumbnail>http://i.ytimg.com/vi/Ewka8V7VF9A/maxresdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Weather Channel</title>
+<link>http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_all.smil/chunklist_b2096000.m3u8</link>
+<thumbnail>http://hardynet.net/wp-content/uploads/2015/03/Weather-Channel-App-Logo.png</thumbnail>
+</item>
+<item>
+<title>Weather Network</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/atl/master_Layer5.m3u8</link>
+<thumbnail>http://www.bell.ca/styles/tv/all_languages/all_regions/catalog_images/large/itv/the_weather_network.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>International TV</name>
+<thumbnail>intertv.png</thumbnail>
+<items>
+<item>
+<title>Animal Planet</title>
+<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_ru.jpg</thumbnail>
+</item>
+<item>
+<title>Discovery</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8</link>
+<thumbnail>http://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg</thumbnail>
+</item>
+<item>
+<title>Discovery World</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.78:1234</link>
+<thumbnail>http://telewizard.ru/_nw/0/38174221.png</thumbnail>
+</item>
+<item>
+<title>Discovery Theater</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8</link>
+<thumbnail>http://www.viaporto.tv.br/uploads/7/1/4/2/7142200/7282173.jpeg</thumbnail>
+</item>
+<item>
+<title>NAT GEO WILD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
+</item>
+<item>
+<title>NAT GEO</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8</link>
+<thumbnail>http://www.logotypes101.com/logos/846/37862EA921849CD9F6C035BFE5E6EF9C/National_Geographic_Channel.png</thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET VIET NAM</title>
+<link>http://117.103.206.26:1935/live/_definst_/ANIMALPLANET/ANIMALPLANET_live.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Disney Channel USA</title>
+<link>http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_live.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>National Geographic Channel 1</title>
+<link>http://tv.vnzee.com/live/ngc~ztv_CND_partner.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>National Geographic Channel 2</title>
+<link>http://202.75.23.35:8800/live/ch39/01.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Channel</title>
+<link>http://203.162.235.26:80/lives/origin03/discoveryhd.isml/discoveryhd.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS World</title>
+<link>http://117.103.206.26:1935/live/_definst_/KBSWORLD/KBSWORLD_live.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FRANCE 24</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT Global HD</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT America HD</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-america-live-HD/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Edgesuite TV</title>
+<link>http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bloomberg TV</title>
+<link>http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ALJAZEERA English 1</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ALJAZEERA English 2</title>
+<link>http://hd2.lsops.net/live/aljazeer_en_hls.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Russia Today</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Euro News TV</title>
+<link>http://livestation_hls-lh.akamaihd.net/i/euronews_en@107240/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LONDON LIVE TV</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHELSEA</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS Prime HD</title>
+<link>http://112.175.62.118:1935/kbsn_prime/_definst_/kbsn_prime_4.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS Joy</title>
+<link>http://112.175.62.118:1935/kbsn_joy/_definst_/kbsn_joy_4.stream/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS Drama</title>
+<link>http://112.175.62.118:1935/kbsn_drama/_definst_/kbsn_drama_4.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CCTV International</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Arirang World TV 1</title>
+<link>http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Arirang World TV 2</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DW Asia</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS 24</title>
+<link>http://117.103.206.26:1935/live/_definst_/KBSWORLD/KBSWORLD_live.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNBC</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO HD</title>
+<link>http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_840x480_1200kbps.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO Family HD</title>
+<link>http://113.160.49.34/lives/origin03/hbohd.isml/hbohd.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBA</title>
+<link>http://2co1.vp9.tv/chn/nba/v.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORTS</title>
+<link>http://113.160.49.34/lives/lives/origin03/foxhdmb.isml/foxhdmb.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>World TV</name>
+<thumbnail>world.png</thumbnail>
+<items>
+<item>
+<title>BBC Two</title>
+<link>http://www.giniko.com/watch.php?id=190</link>
+<thumbnail>http://www.giniko.com/logos/190x110/190.jpg</thumbnail>
+</item>
+<item>
+<title>BBC Three</title>
+<link>http://www.giniko.com/watch.php?id=191</link>
+<thumbnail>http://www.giniko.com/logos/190x110/191.jpg</thumbnail>
+</item>
+<item>
+<title>BBC News</title>
+<link>http://www.giniko.com/watch.php?id=27</link>
+<thumbnail>http://www.giniko.com/logos/190x110/27.jpg</thumbnail>
+</item>
+<item>
+<title>BBC World News</title>
+<link>http://www.giniko.com/watch.php?id=216</link>
+<thumbnail>http://www.giniko.com/logos/190x110/216.jpg</thumbnail>
+</item>
+
+<item>
+<title>The World Network</title>
+<link>http://www.giniko.com/watch.php?id=58</link>
+<thumbnail>http://www.giniko.com/logos/190x110/58.jpg</thumbnail>
+</item>
+<item>
+<title>France 24 (English)</title>
+<link>http://www.giniko.com/watch.php?id=93</link>
+<thumbnail>http://www.giniko.com/logos/190x110/93.jpg</thumbnail>
+</item>
+<item>
+<title>Fashion One (HongKong)</title>
+<link>http://www.giniko.com/watch.php?id=34</link>
+<thumbnail>http://www.giniko.com/logos/190x110/34.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fashion One (France)</title>
+<link>http://www.giniko.com/watch.php?id=15</link>
+<thumbnail>http://www.giniko.com/logos/190x110/15.jpeg</thumbnail>
+</item>
+<item>
+<title>Vox Africa</title>
+<link>http://www.giniko.com/watch.php?id=81</link>
+<thumbnail>http://www.giniko.com/logos/190x110/81.jpeg</thumbnail>
+</item>
+<item>
+<title>Russia Today</title>
+<link>http://www.giniko.com/watch.php?id=24</link>
+<thumbnail>http://www.giniko.com/logos/190x110/24.png</thumbnail>
+</item>
+<item>
+<title>CCTV 9 Documentary</title>
+<link>http://www.giniko.com/watch.php?id=161</link>
+<thumbnail>http://www.giniko.com/logos/190x110/161.jpg</thumbnail>
+</item>
+<item>
+<title>CTN</title>
+<link>http://www.giniko.com/watch.php?id=123</link>
+<thumbnail>http://www.giniko.com/logos/190x110/123.jpg</thumbnail>
+</item>
+<item>
+<title>Daystar</title>
+<link>http://www.giniko.com/watch.php?id=109</link>
+<thumbnail>http://www.giniko.com/logos/190x110/109.jpg</thumbnail>
+</item>
+<item>
+<title>GNC</title>
+<link>http://www.giniko.com/watch.php?id=124</link>
+<thumbnail>http://www.giniko.com/logos/190x110/124.jpg</thumbnail>
+</item>
+<item>
+<title>QVC Over The Air</title>
+<link>http://www.giniko.com/watch.php?id=202</link>
+<thumbnail>http://www.giniko.com/logos/190x110/202.jpg</thumbnail>
+</item>
+<item>
+<title>VTV 4</title>
+<link>http://www.giniko.com/watch.php?id=108</link>
+<thumbnail>http://www.giniko.com/logos/190x110/108.jpg</thumbnail>
+</item>
+<item>
+<title>Net Viet</title>
+<link>http://www.giniko.com/watch.php?id=197</link>
+<thumbnail>http://www.giniko.com/logos/190x110/197.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Âm Nhạc TV</name>
+<thumbnail>music.png</thumbnail>
+<items>
+<item>
+<title>Viet MTV</title>
+<link>http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8?bitrate=800&q=high</link>
+<thumbnail>https://lh3.googleusercontent.com/-GOCcPbjEW2U/Ud11H7xAJ3I/AAAAAAAAA-M/r2G4-zL96vs/w397-h136-no/vietmtv.png</thumbnail>
+</item>
+<item>
+<title>VMusic TV</title>
+<link>http://206.190.136.254/liveStream/mtv_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/images/Vmusic_logo.jpg</thumbnail>
+</item>
+<item>
+<title>VPop TV</title>
+<link>http://206.190.136.254/liveStream/vpoptv_1/playlist.m3u8</link>
+<thumbnail>http://www.viettv24.com/main/images/VpopTV_logo.jpg</thumbnail>
+</item>
+<item>
+<title>Nhạc Của Tui</title>
+<link>rtmp://123.30.134.108:1935/live playpath=nctlive swfUrl=http://hktivi.net/player.swf pageUrl=http://hktivi.net/kenh/nhaccuatui.php live=1</link>
+<thumbnail>http://stc.id.nixcdn.com/10/images/logo_600x600.png</thumbnail>
+</item>
+<item>
+<title>iTV</title>
+<link>http://117.103.224.73:1935/live/_definst_/ITV/ITV_live.smil/playlist.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20131009154740/primeval/images/1/19/ITV2006Logo.jpg</thumbnail>
+</item>
+<item>
+<title>MTV</title>
+<link>rtmp://85.132.78.6:1935/live/ playpath=muztv.stream swfUrl=http://zui.vn/templates/images/jwplayer.swf pageUrl=http://zui.vn/livetv/mtv-81.html live=1</link>
+<thumbnail>http://nyoobserver.files.wordpress.com/2011/08/mtv.png</thumbnail>
+</item>
+<item>
+<title>VEVO HD 1</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://channels.roku.com/images/c0c2c0ac8b62409fad03b5ade06b8511-hd.jpg</thumbnail>
+</item>
+<item>
+<title>VEVO HD 2</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail>http://channels.roku.com/images/c0c2c0ac8b62409fad03b5ade06b8511-hd.jpg</thumbnail>
+</item>
+<item>
+<title>VEVO HD 3</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://channels.roku.com/images/c0c2c0ac8b62409fad03b5ade06b8511-hd.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Radio Tổng Hợp</name>
+<thumbnail>radio.png</thumbnail>
+<items>
+<item>
+<title>Radio Bolsa</title>
+<link>http://ice7.securenetsystems.net/RBVU?type=.flv&playSessionID=724B6190-D27B-7531-5AD645183B89ED51</link>
+<thumbnail>http://www.ktulaw.com/wp-content/uploads/Radio-Bolsa-logo.jpg</thumbnail>
+<item>
+<item>
+<title>Little Saigon Radio</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/lstv_aud/chunklist_w1228284842_tkd29ybGR0b2tlbnN0YXJ0dGltZT0xNDM0MzU2Nzk0JndvcmxkdG9rZW5lbmR0aW1lPTE0MzQ0NDEzOTQmd29ybGR0b2tlbmhhc2g9X3dCeXhGU09TLWtGd2RISEREd2JLNDBiWkhfSy1CdG41UVZ1c3RVYUNydz0=.m3u8</link>
+<thumbnail>http://img.onworldtv.com/250x250/banner/2015/03/11/629964-livetv_littlesaigon_banner.jpg</thumbnail>
+</item>
+<item>
+<title>Sai Gon Network Radio Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/sgn_aud/playlist.m3u8?worldtokenstarttime=1437363779&worldtokenendtime=1437448379&worldtokenhash=iggyrO1iUKIFBQqXlx9CDvt0JainDUTO2KW6W3nPb5A=</link>
+<thumbnail>http://img.onworldtv.com/250x250/banner/2015/03/11/884908-livetv_sgn_banner.jpg</thumbnail>
+</item>
+<title>VOA News</title>
+<link>mms://a823.l211056822.c2110.g.lm.akamaistream.net/D/823/2110/v0001/reflector:56822</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHK Vietnam</title>
+<link>mms://wm.nhk.or.jp/rj/on_demand/wma/vietnamese.wma</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RFI Vietnam</title>
+<link>http://95.81.155.3/2584/rfi_en_vietnamien/rfivietnamien.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOH</title>
+<link>mms://221.132.37.15/fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOV GT HN</title>
+<link>rtmp://vov.radiovietnam.vn/live/vovgthn.stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOV GT TP.HCM</title>
+<link>rtmp://vov.radiovietnam.vn/live/vovgthcm.stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOV1</title>
+<link>rtmp://vov.radiovietnam.vn/live/vov1.stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOV2</title>
+<link>rtmp://vov.radiovietnam.vn/live/vov2.stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VOV3</title>
+<link>rtmp://vov.radiovietnam.vn/live/vov3.stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>An Giang Radio</title>
+<link>rtmp://113.161.212.25/live/ playpath=radio swfUrl=http://atv.org.vn/player/player.swf pageUrl=http://nguoiviet.tv/an-giang-radio-2/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bến Tre Radio</title>
+<link>rtmp://113.163.94.245:1936/live/ playpath=audiostream swfUrl=http://thbt.vn/jwplayer/jwplayer.flash.swf pageUrl=http://thbt.vn/jwplayer/?l=rtmp%3A%2F%2F113.163.94.245%3A1936%2Flive%2Faudiostream&i=http://222.255.237.48/wp-content/uploads/2013/11/nen-truc-tuyen-copy.png&w=400&h=280&a=1 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bình Phước Radio</title>
+<link>rtmp://113.161.180.136/live/ playpath=thbp.radio swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/# live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cà Mau Radio</title>
+<link>rtmp://113.161.220.254/livepkgr/ playpath=livestream4?adbe-live-event=liveevent swfUrl=http://ctvcamau.vn/jwplayer/jwplayer.flash.swf pageUrl=http://ctvcamau.vn/jwplayer/?l=rtmp2&i=http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg&w=400&h=300&a=1 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Đồng Nai Radio</title>
+<link>rtmp://vov.radiovietnam.vn:1935/live playpath=dongnai.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf pageUrl=http://www.dnrtv.org.vn/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Đồng Tháp Radio</title>
+<link>rtmp://vov.radiovietnam.vn:1935/live playpath=dongthap.stream swfUrl=http://radiovietnam.vn/media/RadioPlayer.swf pageUrl=http://radiovietnam.vn/sharedradio.aspx?rname=dongthap&w=625&h=320 live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Khánh Hoà Radio</title>
+<link>rtmp://118.69.198.109:1935/live playpath=audio swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/radio-khanh-hoa/ live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sóc Trăng Radio</title>
+<link>rtmp://115.78.3.164/live playpath=FMsoctrang swfUrl=http://thst.vn/MediaPlayer/vplayer.swf pageUrl=http://thst.vn/Phat_thanh.aspx live=1 timeout=90</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+</channels>
+
+
+
+
+
