@@ -57,6 +57,9 @@ http://23.237.22.82:8086/udp/127.0.0.1:56060
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA",24-7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="USA",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
@@ -80,6 +83,9 @@ http://80.80.160.168/live/2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",SyFy
 http://23.237.22.82:8086/udp/127.0.0.1:56063
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
+http://23.237.22.82:8086/udp/127.0.0.1:56060
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
 http://23.237.22.82:8086/udp/127.0.0.1:56054
@@ -138,6 +144,12 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
 https://nimble.d234.81.22:25461/12341234/12341234/11874
 
+#EXTINF:-1 tvg-logo="https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/6809a904-f3d5-4c4b-a768-dfa21ea05d98.jpg" group-title="24/7",Disney Movies
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/60082.m3u8
+
+#EXTINF:-1 tvg-logo="https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/6809a904-f3d5-4c4b-a768-dfa21ea05d98.jpg" group-title="24/7",Disney Movies 2 (Geo)
+http://62.210.114.98:80/live?channelId=326&deviceMac=00:1a:79:47:98:09&uid=4331
+
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 
@@ -155,4 +167,8 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="UK",TLC HD World (Opt-3)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/46/467c58239dbe9ae0c36e0d4eb655bd85.png" group-title="24/7",The Munsters
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/26321.m3u8
 
