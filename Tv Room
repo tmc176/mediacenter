@@ -12,24 +12,4 @@
 <item>
 <title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/981.ts</link>
-<item>
-<title>[COLOR pink][B]WORLD DAILY SERVERS IPTV - - Cần addon f4mTester[/B][/COLOR]</title>title>
-<thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</thumbnail>
-<fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR red][B]IP:[/B][/COLOR] [COLOR white][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
-	<thumbnail>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</thumbnail>
-<fanart>https://i1.wp.com/cafe-iptv.net/wp-content/uploads/2017/07/Free-IPTV-m3u-World-Channels-list-Vlc-Kodi.jpg</fanart>
-<link>NA</link>
-<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<info></info>
-</item>
+
