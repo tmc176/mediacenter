@@ -117,6 +117,9 @@ https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="USA",NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
+#EXTINF:-1 group-title="Sports",CBS Sport Network
+http://72.76.39.230:8000/play/a016/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
