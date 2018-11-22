@@ -97,7 +97,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56060
 http://23.237.22.82:8086/udp/127.0.0.1:56054
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-1)
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/16829.m3u8
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25147
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56069
