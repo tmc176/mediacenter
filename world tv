@@ -108,11 +108,17 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1 (Opt-1)
+http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1 (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
-#EXTINF:-1 group-title="Sports" tvg-id="Fox Sport 2" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports2.png",Fox Sport 2
-https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2 (Opt-1)
+http://163.172.15.141:9732/live?channelId=238&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2 (Opt-2)
+http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="USA",NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
