@@ -94,8 +94,8 @@
 <title>PBS EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts>/link>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
+<title>hg</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25147>/link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
