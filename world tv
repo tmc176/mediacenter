@@ -170,3 +170,9 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56076
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="USA",Disney XD (EST)
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/143.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="USA",Disney XD (PST)
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/22196.m3u8
