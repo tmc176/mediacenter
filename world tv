@@ -174,3 +174,5 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56076
 
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72741/clearlogo/AllintheFamily-72741.png" group-title="24/7",All in the Family
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/59560.m3u8
