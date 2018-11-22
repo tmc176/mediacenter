@@ -105,9 +105,6 @@ http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png" group-title="USA",HGTV (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56069
 
-#EXTINF:0,USA | DIY Network
-http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14501.ts
-
 #EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
