@@ -170,3 +170,54 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56076
+
+#EXTINF:-1,UK: Sky Premiere HD
+http://hall2mark.ddns.net:80/medoum1/medoum/5528
+#EXTINF:-1,UK: Sky Premiere
+http://hall2mark.ddns.net:80/medoum1/medoum/4082
+#EXTINF:-1,UK: Sky Thriller HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3032
+#EXTINF:-1,UK: Sky Thriller
+http://hall2mark.ddns.net:80/medoum1/medoum/2927
+#EXTINF:-1,UK: Sky Hits HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3042
+#EXTINF:-1,UK: Sky hits
+http://hall2mark.ddns.net:80/medoum1/medoum/2884
+#EXTINF:-1,UK: Sky Great HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2891
+#EXTINF:-1,UK: Sky Disney HD
+http://hall2mark.ddns.net:80/medoum1/medoum/4085
+#EXTINF:-1,UK: Sky Disney
+http://hall2mark.ddns.net:80/medoum1/medoum/2885
+#EXTINF:-1,UK: Sky Family HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2890
+#EXTINF:-1,UK: Sky Family
+http://hall2mark.ddns.net:80/medoum1/medoum/4086
+#EXTINF:-1,UK: Sky Action HD
+http://hall2mark.ddns.net:80/medoum1/medoum/4087
+#EXTINF:-1,UK: Sky Action
+http://hall2mark.ddns.net:80/medoum1/medoum/2930
+#EXTINF:-1,UK: SKY Atlantic HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2992
+#EXTINF:-1,UK: Sky Atlantic
+http://hall2mark.ddns.net:80/medoum1/medoum/4072
+#EXTINF:-1,UK: Sky ScFi-Horror HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2893
+#EXTINF:-1,UK: Sky Sci-Fi & Horror
+http://hall2mark.ddns.net:80/medoum1/medoum/4090
+#EXTINF:-1,UK: Sky Showcase HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3053
+#EXTINF:-1,UK: Sky Select HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3040
+#EXTINF:-1,UK: Sky Select
+http://hall2mark.ddns.net:80/medoum1/medoum/2994
+#EXTINF:-1,UK: Sky Comedy HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2887
+#EXTINF:-1,UK: Sky Comedy
+http://hall2mark.ddns.net:80/medoum1/medoum/4088
+#EXTINF:-1,UK: Sky Living HD
+http://hall2mark.ddns.net:80/medoum1/medoum/4071
+#EXTINF:-1,UK: Sky Living
+http://hall2mark.ddns.net:80/medoum1/medoum/2882
+#EXTINF:-1,UK: Horror UK
+http://hall2mark.ddns.net:80/medoum1/medoum/3029
