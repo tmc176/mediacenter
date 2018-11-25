@@ -69,3 +69,6 @@
 <item>
 <title>UK: CBS ACTION</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2957</link>
+<item>
+<title>UK: CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2847</link>
