@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1,Canada: COTTAGE LIFE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
+#EXTINF:-1,Canada: CP24
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
+#EXTINF:-1,Canada: CRIME   INVEST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
+#EXTINF:-1,Canada: CTV 2 VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
+#EXTINF:-1,Canada: CTV NEWS NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
+#EXTINF:-1,Canada: CTV OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
+#EXTINF:-1,Canada: CTV TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
+#EXTINF:-1,Canada: CTV VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
+#EXTINF:-1,Canada: CTV2 OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
+#EXTINF:-1,Canada: DISNEY CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
+#EXTINF:-1,Canada: FOOD NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
+
 #EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="CANADA",CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
 
