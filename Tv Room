@@ -1,15 +1,6 @@
 <streamingInfos>
 
 <item>
-<title>CP24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts</link>
-<item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts</link>
 <item>
@@ -141,3 +132,8 @@
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
