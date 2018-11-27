@@ -170,3 +170,42 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56076
+
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://linux-app.tv:6204/karo1/karo1/10393
+#EXTINF:-1,Us- SLICE HD
+http://linux-app.tv:6204/karo1/karo1/10392
+#EXTINF:-1,Us- Starz HD US
+http://linux-app.tv:6204/karo1/karo1/10390
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://linux-app.tv:6204/karo1/karo1/10389
+#EXTINF:-1,Us- Syfy HD
+http://linux-app.tv:6204/karo1/karo1/10388
+#EXTINF:-1,Us- SyFy HD USA
+http://linux-app.tv:6204/karo1/karo1/10387
+#EXTINF:-1,Us- TBS USA
+http://linux-app.tv:6204/karo1/karo1/10386
+#EXTINF:-1,Us- TLC HD
+http://linux-app.tv:6204/karo1/karo1/10385
+#EXTINF:-1,Us- TNT US
+http://linux-app.tv:6204/karo1/karo1/10384
+#EXTINF:-1,Us- TRU TV HD
+http://linux-app.tv:6204/karo1/karo1/10383
+#EXTINF:-1,Us- TSN 1 HD
+http://linux-app.tv:6204/karo1/karo1/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://linux-app.tv:6204/karo1/karo1/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://linux-app.tv:6204/karo1/karo1/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://linux-app.tv:6204/karo1/karo1/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://linux-app.tv:6204/karo1/karo1/10632
+#EXTINF:-1,Us- TV Land HD
+http://linux-app.tv:6204/karo1/karo1/10382
+#EXTINF:-1,Us- VH1 HD US
+http://linux-app.tv:6204/karo1/karo1/10380
+#EXTINF:-1,Us- Viceland TV
+http://linux-app.tv:6204/karo1/karo1/10379
+#EXTINF:-1,Us- WE HD
+http://linux-app.tv:6204/karo1/karo1/10378
