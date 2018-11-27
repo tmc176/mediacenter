@@ -62,7 +62,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25142</link>
 <item>
 <title>HBO1 CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts</link>
+<item>
+<title>HBO1 CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25149</link>
+<item>
+<title>HBO2 CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts</link>
 <item>
 <title>HBO2 CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25148</link>
@@ -132,10 +138,15 @@
 <item>
 <title>HISTORIO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.t</link>
-
-#EXTINF:-1,Canada: DISNEY CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
-#EXTINF:-1,Canada: HBO 1
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
-#EXTINF:-1,Canada: HBO 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
+<item>
+<title>HBO1 CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts</link>
+<item>
+<title>HBO2 CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
