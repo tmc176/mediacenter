@@ -166,6 +166,8 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56076
+#EXTINF:-1,CA-Sportsnet Ontario
+http://rb-group-server.com:25461/live/nizar123/nizar123/6809.m3u8
 #EXTINF:-1,First.Man.2018.1080p.herabox.mkv
 http://heraiptv.tvpena.xyz:2017/movie/paraylasatilamaz/nextforumozel4578761903/2346.mkv
 #EXTINF:-1,Crazy.Rich.Asians.2018.m1080p.BluRay.TR.ENG
