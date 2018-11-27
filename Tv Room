@@ -76,8 +76,8 @@
 <title>UK: CBS Drama</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2847</link>
 <item>
-<title>TV Land HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/karo1/karo1/10382</link>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
@@ -88,42 +88,4 @@
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
-#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
-http://linux-app.tv:6204/karo1/karo1/10393
-#EXTINF:-1,Us- SLICE HD
-http://linux-app.tv:6204/karo1/karo1/10392
-#EXTINF:-1,Us- Starz HD US
-http://linux-app.tv:6204/karo1/karo1/10390
-#EXTINF:-1,Us- STARZ KIDS & Family HD
-http://linux-app.tv:6204/karo1/karo1/10389
-#EXTINF:-1,Us- Syfy HD
-http://linux-app.tv:6204/karo1/karo1/10388
-#EXTINF:-1,Us- SyFy HD USA
-http://linux-app.tv:6204/karo1/karo1/10387
-#EXTINF:-1,Us- TBS USA
-http://linux-app.tv:6204/karo1/karo1/10386
-#EXTINF:-1,Us- TLC HD
-http://linux-app.tv:6204/karo1/karo1/10385
-#EXTINF:-1,Us- TNT US
-http://linux-app.tv:6204/karo1/karo1/10384
-#EXTINF:-1,Us- TRU TV HD
-http://linux-app.tv:6204/karo1/karo1/10383
-#EXTINF:-1,Us- TSN 1 HD
-http://linux-app.tv:6204/karo1/karo1/10636
-#EXTINF:-1,Us- TSN 2 HD
-http://linux-app.tv:6204/karo1/karo1/10635
-#EXTINF:-1,Us- TSN 3 HD
-http://linux-app.tv:6204/karo1/karo1/10634
-#EXTINF:-1,Us- TSN 4 HD
-http://linux-app.tv:6204/karo1/karo1/10633
-#EXTINF:-1,Us- TSN 5 HD
-http://linux-app.tv:6204/karo1/karo1/10632
-#EXTINF:-1,Us- TV Land HD
-http://linux-app.tv:6204/karo1/karo1/10382
-#EXTINF:-1,Us- VH1 HD US
-http://linux-app.tv:6204/karo1/karo1/10380
-#EXTINF:-1,Us- Viceland TV
-http://linux-app.tv:6204/karo1/karo1/10379
-#EXTINF:-1,Us- WE HD
-http://linux-app.tv:6204/karo1/karo1/10378
 
