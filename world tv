@@ -104,11 +104,33 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1 (Opt-1)
-http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1a:79:47:98:09&uid=4331
+#EXTINF:-1,CA-HISTORY
+http://rb-group-server.com:25461/live/nizar123/nizar123/6801.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2 (Opt-2)
-http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1,CA-Sportsnet One
+http://rb-group-server.com:25461/live/nizar123/nizar123/6808.m3u8
+#EXTINF:-1,CA-Sportsnet 360
+http://rb-group-server.com:25461/live/nizar123/nizar123/6807.m3u8
+#EXTINF:-1,CA-Sportsnet World
+http://rb-group-server.com:25461/live/nizar123/nizar123/6810.m3u8
+#EXTINF:-1,CA-Sportsnet Ontario
+http://rb-group-server.com:25461/live/nizar123/nizar123/6809.m3u8
+
+#EXTINF:-1,CA-TSN1
+http://rb-group-server.com:25461/live/nizar123/nizar123/3684.m3u8
+#EXTINF:-1,CA-TSN2
+http://rb-group-server.com:25461/live/nizar123/nizar123/3683.m3u8
+#EXTINF:-1,CA-TSN3
+http://rb-group-server.com:25461/live/nizar123/nizar123/3682.m3u8
+#EXTINF:-1,CA-TSN4
+http://rb-group-server.com:25461/live/nizar123/nizar123/3681.m3u8
+#EXTINF:-1,CA-TSN5
+http://rb-group-server.com:25461/live/nizar123/nizar123/3680.m3u8
+
+#EXTINF:-1,USA FoxSports 1
+http://rb-group-server.com:25461/live/nizar123/nizar123/3716.m3u8
+#EXTINF:-1,USA Fox Sports 2 HD
+http://rb-group-server.com:25461/live/nizar123/nizar123/3715.m3u8
 
 #EXTINF:0 tvg-name="CBS Sports HQ" tvg-language="English" tvg-country="US" tvg-id="CBS Sports HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVfx6T7iEMvfRxVPTON8ZpWN9gKH5k6lVRAzyKD_-TbA8JlEToG7vQVI" group-title="Public-Sports",CBS Sports HQ (Public-Sports) (US) (English)
 https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
