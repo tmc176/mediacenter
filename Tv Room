@@ -19,6 +19,12 @@
 <title>CTV NEWS NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts</link>
 <item>
+<title>HGTV CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
+<item>
+<title>COTTAGE LIFE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
+<item>
 <title>TV Land HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
 <item>
@@ -37,14 +43,8 @@
 <title>TLC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/638.ts</link>
 <item>
-<title>HGTV CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
-<item>
-<title>COTTAGE LIFE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
-<item>
-<title>HBO2 CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts</link>
+<title>SUNDANCE TV HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/607.ts</link>
 <item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts</link>
@@ -73,11 +73,26 @@
 <title>WE TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1028.ts</link>
 <item>
+<title>OWN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1157.ts</link>
+<item>
+<title>Oxygen</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/574.ts</link>
+<item>
+<title>NICK HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/555.</link>
+<item>
+<title>Nick Jr. HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/556.ts</link>
+<item>
+<title>Nicktoons HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1630.ts</link>
+<item>
+<title>HBO CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts</link>
+<item>
 <title>Showtime East</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/586.ts</link>
-<item>
-<title>Showtime West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2151.ts</link>
 <item>
 <title>SHOWTIME 2 HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/587.ts</link>
@@ -85,29 +100,14 @@
 <title>SHOWTIME EXTREME</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1160.ts</link>
 <item>
-<title>SUNDANCE TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/607.ts</link>
-<item>
 <title>Starz HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1237.ts</link>
 <item>
 <title>Starz Comedy</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1236.ts</link>
 <item>
-<title>Starz Encore</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1238.ts</link>
-<item>
-<title>Starz Encore Western HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1325.ts</link>
-<item>
-<title>TNT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/561.ts</link>
-<item>
-<title>Travel Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/905.ts</link>
-<item>
-<title>TRU TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/563.ts</link>
+<title>Paramount Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1224.ts</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
@@ -117,8 +117,153 @@
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1164.ts
+#EXTINF:0,NAT GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/573.ts
+#EXTINF:0,LIFETIME HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/570.ts
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/552.ts
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1359.ts
+#EXTINF:0,FXM
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1361.ts
+#EXTINF:0,FYI
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2146.ts
+#EXTINF:0,Game Show Network
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/962.ts
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/616.ts
+#EXTINF:0,HBO East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2070.ts
+#EXTINF:0,HBO West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2150.ts
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1417.ts
+#EXTINF:0,HBO ZONE HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/585.ts
+#EXTINF:0,HALLMARK HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/550.ts
+#EXTINF:0,HALLMARK MOVIE HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/569.ts
+#EXTINF:0,HGTV East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/899.ts
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1428.ts
+#EXTINF:0,Freeform East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1362.ts
+#EXTINF:0,Freeform West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2157.ts
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1112.ts
+#EXTINF:0,CW
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1148.ts
+#EXTINF:0,Destination America HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/541.ts
+#EXTINF:0,Disney East HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2140.ts
+#EXTINF:0,DISNEY JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/604.ts
+#EXTINF:0,Disney XD HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/614.ts
+#EXTINF:0,DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/542.ts
+#EXTINF:0,DISCOVERY SCIENCE HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/543.ts
+#EXTINF:0,DIY Network HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1358.ts
+#EXTINF:0,CBSN HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/611.ts
+#EXTINF:0,Cinemax Action Max HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/580.ts
+#EXTINF:0,Cinemax East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2068.ts
+#EXTINF:0,Cinemax West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2149.ts
+#EXTINF:0,CINEMAX MORE MAX
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1163.ts
+#EXTINF:0,CINEMAX OUTER MAX
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1158.ts
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2142.ts
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/539.ts
+#EXTINF:0,COZI
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2143.ts
+#EXTINF:0,CMT HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1161.ts
+#EXTINF:0,American Heroes Channel
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1760.ts
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/981.ts
+#EXTINF:0,Animal Planet East
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/834.ts
+#EXTINF:0,BET East HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/453.ts
+#EXTINF:0,BET HER
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/957.ts
+#EXTINF:0,Bloomberg TV HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1356.ts
+#EXTINF:0,Bravo West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2139.ts
+#EXTINF:0,Cartoon Network East HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/538.ts
+#EXTINF:0,CBS
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/993.ts
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/866.ts
+#EXTINF:0,ABC West
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/980.ts
+
 
 
