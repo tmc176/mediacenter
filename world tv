@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,TV LAND HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/564.ts
-#EXTINF:0,TV One
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/886.ts
-#EXTINF:0,The Weather Channel HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/578.ts
-#EXTINF:0,USA Network East
-http://unlockyourtv.com:8000/live/charles/charles/565.ts
-#EXTINF:0,VELOCITY
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1353.ts
-
-#EXTINF:0,WE TV
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1028.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
 
