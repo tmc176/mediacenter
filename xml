@@ -1,2 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+
+
+<item>
+<title>5 SPIKE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://188.93.238.184:8000/live/ryan/ryan/37420.m3u8</link>
+</item>
+<item>
+<title>5SPIKE | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://188.93.238.184:8000/live/ryan/ryan/9237.m3u8</link>
+</item>
+<item>
+<title>A1 TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://188.93.238.184:8000/live/ryan/ryan/35119.m3u8</link>
+</item>
+<item>
+<title>AASTHA | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://188.93.238.184:8000/live/ryan/ryan/11322.m3u8</link>
+</item>
+<item>
+<title>ABN TV | SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://188.93.238.184:8000/live/ryan/ryan/11337.m3u8</link>
+</item>
 
