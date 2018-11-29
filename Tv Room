@@ -199,9 +199,8 @@
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-
+<title>The Weather Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master.m3u8</link>
 
 
 
