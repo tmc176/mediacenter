@@ -22,26 +22,20 @@
 <title>TV Land HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
 <item>
-<title>ABC SPARK CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25175</link>
-<item>
-<title>ABC SPARK WEST CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25174</link>
-<item>
-<title>Yes Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25114</link>
-<item>
-<title>HISTORY CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25146</link>
-<item>
-<title>DISCOVERY CHANNEL HD CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25162</link>
-<item>
 <title>SLICE CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25140</link>
 <item>
-<title>HGTV CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25147</link>
+<title>TBS East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/560.ts</link>
+<item>
+<title>TBS West</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2155.ts</link>
+<item>
+<title>SyFy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/904.ts</link>
+<item>
+<title>TLC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/638.ts</link>
 <item>
 <title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
@@ -49,59 +43,8 @@
 <title>COTTAGE LIFE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
 <item>
-<title>SHOWCASE EAST CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25142</link>
-<item>
-<title>HBO1 CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts</link>
-<item>
-<title>HBO1 CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25149</link>
-<item>
 <title>HBO2 CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts</link>
-<item>
-<title>HBO2 CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25148</link>
-<item>
-<title>TCM CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25130</link>
-<item>
-<title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14508.ts</link>
-<item>
-<title>TREEHOUSE TV CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25125</link>
-<item>
-<title>NICK CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25145</link>
-<item>
-<title>TELETOON EAST CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25127</link>
-<item>
-<title>YTV-E CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25113</link>
-<item>
-<title>FAMILY CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25157</link>
-<item>
-<title>FAMILY WEST CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25156</link>
-<item>
-<title>FAMILY JR CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25155</link>
-<item>
-<title>DISNEY CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25161</link>
-<item>
-<title>DISNEY JUNIOR CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25160</link>
-<item>
-<title>UK: CBS ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2957</link>
-<item>
-<title>UK: CBS Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2847</link>
 <item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts</link>
@@ -115,7 +58,7 @@
 <title>FOOD NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts</link>
 <item>
-<title>COOKING CHANNELK</title>
+<title>COOKING CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts</link>
 <item>
 <title>COSMO</title>
@@ -129,11 +72,53 @@
 <item>
 <title>WE TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1028.ts</link>
-<title>VELOCITY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1353.ts</link>
+<item>
+<title>Showtime East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/586.ts</link>
+<item>
+<title>Showtime West</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2151.ts</link>
+<item>
+<title>SHOWTIME 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/587.ts</link>
+<item>
+<title>SHOWTIME EXTREME</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1160.ts</link>
+<item>
+<title>SUNDANCE TV HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/607.ts</link>
+<item>
+<title>Starz HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1237.ts</link>
+<item>
+<title>Starz Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1236.ts</link>
+<item>
+<title>Starz Encore</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1238.ts</link>
+<item>
+<title>Starz Encore Western HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1325.ts</link>
+<item>
+<title>TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/561.ts</link>
+<item>
+<title>Travel Channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/905.ts</link>
+<item>
+<title>TRU TV HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/563.ts</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
+
