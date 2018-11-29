@@ -1,5 +1,41 @@
-<dir>
-<name>MOVIES</link>
-<link>https://raw.githubusercontent.com/simon2511/sgtv/master/MOVIES.xml</link>   
-<thumbnail></summary>
-</dir>
+  
+  
+  <item>
+<title>WORLD TV</title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list1.m3u <externallink>
+<thumbnail>https://archive.org/download/si_Vod_201808/vod.png</thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
+ 
+   <item>
+<title>SPORT</title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/pasargod/IPTV-Watch/master/All%20Live%20IPTV <externallink>
+<thumbnail></thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
+
+ 
+
+ 
+ 
+  <item>
+<title>MOVIES 1 CLICK</title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/movies.m3u <externallink>
+<thumbnail>https://archive.org/download/si_Vod_201808/vod.png</thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
+ 
+ 
+ 
+ 
+  <item>
+<title> XXX</title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/xxx.m3u<externallink>
+<thumbnail>https://archive.org/download/download_20180722/download.jpg</thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
+ 
