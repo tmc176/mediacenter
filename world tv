@@ -48,8 +48,8 @@ http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
 http://23.237.22.82:8086/udp/127.0.0.1:56060
 
-#EXTINF:0 tvg-name="Me TVBlaze" tvg-language="English" tvg-country="US" tvg-id="Me TVBlaze" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9rFrrhwztNgAv18ZAcAgZoH8IEBzpC0I6MXg0cJsPIugPWQ3CkpydQ" group-title="News",Me TVBlaze (News) (US) (English)
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
+http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
