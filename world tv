@@ -181,6 +181,133 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
+#EXTINF:-1,Animal Planet
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1869.ts
+#EXTINF:-1,BBC One
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1892.ts
+#EXTINF:-1,BBC TWO
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1891.ts
+#EXTINF:-1,BBC1 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1901.ts
+#EXTINF:-1,BBC2 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1900.ts
+#EXTINF:-1,Blaze
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1838.ts
+#EXTINF:-1,Channel 4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1884.ts
+#EXTINF:-1,Channel 4 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1898.ts
+#EXTINF:-1,Channel 5
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1879.ts
+#EXTINF:-1,Channel 5 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1897.ts
+#EXTINF:-1,ComedyCentral
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1861.ts
+#EXTINF:-1,ComedyXtra
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1860.ts
+#EXTINF:-1,Crime and Investigation
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1842.ts
+#EXTINF:-1,Dave
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1864.ts
+#EXTINF:-1,Disc.History
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1846.ts
+#EXTINF:-1,Disc.Science
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1845.ts
+#EXTINF:-1,Disc.Turbo
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1843.ts
+#EXTINF:-1,Discovery
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1847.ts
+#EXTINF:-1,Discovery Shed
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1844.ts
+#EXTINF:-1,DMAX
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1848.ts
+#EXTINF:-1,Drama
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1851.ts
+#EXTINF:-1,E!
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1854.ts
+#EXTINF:-1,E4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1882.ts
+#EXTINF:-1,Eden
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1832.ts
+#EXTINF:-1,Food Network
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1834.ts
+#EXTINF:-1,FOX
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1857.ts
+#EXTINF:-1,GOLD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1865.ts
+#EXTINF:-1,Good Food
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1836.ts
+#EXTINF:-1,H2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1839.ts
+#EXTINF:-1,HISTORY
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1840.ts
+#EXTINF:-1,Home
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1835.ts
+#EXTINF:-1,horror channel
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1837.ts
+#EXTINF:-1,ID
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1849.ts
+#EXTINF:-1,ITV
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1890.ts
+#EXTINF:-1,ITV HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1899.ts
+#EXTINF:-1,ITV2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1888.ts
+#EXTINF:-1,ITV3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1887.ts
+#EXTINF:-1,ITV4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1886.ts
+#EXTINF:-1,ITVBe
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1885.ts
+#EXTINF:-1,Lifetime
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1852.ts
+#EXTINF:-1,More4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1881.ts
+#EXTINF:-1,National Geo Wild
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1867.ts
+#EXTINF:-1,National Geographic
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1868.ts
+#EXTINF:-1,Pick
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1862.ts
+#EXTINF:-1,QUEST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1850.ts
+#EXTINF:-1,Really
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1853.ts
+#EXTINF:-1,Sky Arts
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1871.ts
+#EXTINF:-1,Sky Atlantic
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1870.ts
+#EXTINF:-1,Sky Witness HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1895.ts
+#EXTINF:-1,Sky Living
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1872.ts
+#EXTINF:-1,Sky1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1874.ts
+#EXTINF:-1,Sky1 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1896.ts
+#EXTINF:-1,Sky2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1873.ts
+#EXTINF:-1,Syfy
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1858.ts
+#EXTINF:-1,TLC
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1856.ts
+#EXTINF:-1,Universal
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1859.ts
+#EXTINF:-1,W
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1866.ts
+#EXTINF:-1,Yesterday
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1833.ts
+#EXTINF:-1,RTE one
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/64.ts
+#EXTINF:-1,RTE two
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/65.ts
+#EXTINF:-1,3e
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/67.ts
+#EXTINF:-1,TV3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/70.ts
+#EXTINF:-1,TG4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/71.ts
+
 #EXTINF:-1,First.Man.2018.1080p.herabox.mkv
 http://heraiptv.tvpena.xyz:2017/movie/paraylasatilamaz/nextforumozel4578761903/2346.mkv
 #EXTINF:-1,Crazy.Rich.Asians.2018.m1080p.BluRay.TR.ENG
