@@ -95,6 +95,29 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
+#EXTINF:-1,Cbeeies
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/92.ts
+#EXTINF:-1,Disney Channel
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/95.ts
+#EXTINF:-1,Disney XD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/96.ts
+#EXTINF:-1,Disney Jr
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/97.ts
+#EXTINF:-1,Cartoon network
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/98.ts
+#EXTINF:-1,Boomerang
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/100.ts
+#EXTINF:-1,Nickelodeon
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/104.ts
+#EXTINF:-1,Nick Toons
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/103.ts
+#EXTINF:-1,Nick Jr
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/105.ts
+#EXTINF:-1,NickJr Too
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/106.ts
+#EXTINF:-1,Baby TV
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/107.ts
+
 #EXTINF:-1,SPORTS NET EAST HD
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
 #EXTINF:-1,SPORTSNET ONTARIO
