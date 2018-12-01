@@ -81,12 +81,67 @@ http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1,5 USA
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1877.ts
 
+#EXTINF:-1,4seven
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1880.ts
+#EXTINF:-1,5STAR
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1876.ts
+#EXTINF:-1,alibi
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1855.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="UK",TLC HD World (Opt-3)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1,SPORTS NET EAST HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
+#EXTINF:-1,SPORTS NET ONE HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1827.ts
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1826.ts
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1825.ts
+#EXTINF:-1,SPORTS NET WEST HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1824.ts
+#EXTINF:-1,SPORTS NET WORLD HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1823.ts
+#EXTINF:-1,SPORTSNET 360
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1822.ts
+#EXTINF:-1,SPORTSNET EAST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1821.ts
+#EXTINF:-1,SPORTSNET ONE
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
+#EXTINF:-1,SPORTSNET ONE HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1829.ts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1818.ts
+#EXTINF:-1,SPORTSNET WEST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1817.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1816.ts
+#EXTINF:-1,SPORTS NET 360 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1815.ts
+#EXTINF:-1,TSN 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/176.ts
+#EXTINF:-1,TSN 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/177.ts
+#EXTINF:-1,TSN 3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/178.ts
+#EXTINF:-1,TSN 4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/179.ts
+#EXTINF:-1,TSN 5
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/180.ts
+#EXTINF:-1,USA FOX SPORTS 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts
+#EXTINF:-1,USA FOX SPORTS 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts
+#EXTINF:-1,WWE Network
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/243.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
 http://80.80.160.168/live/6/live.m3u8
