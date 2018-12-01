@@ -97,34 +97,16 @@ http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1,SPORTS NET EAST HD
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
-#EXTINF:-1,SPORTS NET ONE HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1827.ts
-#EXTINF:-1,SPORTS NET ONTARIO HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1826.ts
-#EXTINF:-1,SPORTS NET PACIFIC HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1825.ts
-#EXTINF:-1,SPORTS NET WEST HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1824.ts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
+#EXTINF:-1,SPORTSNET ONE
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
 #EXTINF:-1,SPORTS NET WORLD HD
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1823.ts
 #EXTINF:-1,SPORTSNET 360
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1822.ts
 #EXTINF:-1,SPORTSNET EAST
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1821.ts
-#EXTINF:-1,SPORTSNET ONE
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
-#EXTINF:-1,SPORTSNET ONE HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1829.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
-#EXTINF:-1,SPORTSNET PACIFIC
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1818.ts
-#EXTINF:-1,SPORTSNET WEST
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1817.ts
-#EXTINF:-1,SPORTSNET WORLD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1816.ts
-#EXTINF:-1,SPORTS NET 360 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1815.ts
 #EXTINF:-1,TSN 1
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/176.ts
 #EXTINF:-1,TSN 2
