@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0,http://unlockyourtv.com:8000/live/charles/charles/866.ts
+
 #EXTINF:0 tvg-name="Fireplace" tvg-language="English/Spanish" tvg-country="US" tvg-id="Fireplace" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="RandomAirTime 24/7",Fireplace (RandomAirTime 24/7) (US) (English/Spanish)
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
