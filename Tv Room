@@ -29,7 +29,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts</link>
 <item>
 <title>HGTV East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/899.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/899</link>
 <item>
 <title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
@@ -38,7 +38,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
 <item>
 <title>DIY Network HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1358.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1358</link>
 <item>
 <title>TV Land HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
@@ -65,7 +65,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/981.ts</link>
 <item>
 <title>CW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1148.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1148</link>
 <item>
 <title>SyFy</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/904.ts</link>
@@ -82,9 +82,6 @@
 <title>FYI</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2146.ts</link>
 <item>
-<title>SUNDANCE TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/607.ts</link>
-<item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts</link>
 <item>
@@ -95,16 +92,16 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/543.ts</link>
 <item>
 <title>DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/542.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/542</link>
 <item>
 <title>CRIME INVEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts</link>
 <item>
 <title>INVESTIGATION DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/552.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/552</link>
 <item>
 <title>History Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1428.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1428</link>
 <item>
 <title>Freeform West</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2157.ts</link>
@@ -125,10 +122,10 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts</link>
 <item>
 <title>CMT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1161.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1410</link>
 <item>
 <title>American Heroes Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1760.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1760</link>
 <item>
 <title>COOKING CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts</link>
@@ -168,57 +165,7 @@
 <item>
 <title>Nicktoons HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1630.ts</link>
-<item>
-<title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/616.ts</link>
-<item>
-<title>HBO West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2150.ts</link>
-<item>
-<title>HBO ZONE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/585.ts</link>
-<item>
-<title>HBO Family</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1417.ts</link>
-<item>
-<title>Showtime East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/586.ts</link>
-<item>
-<title>SHOWTIME 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/587.ts</link>
-<item>
-<title>SHOWTIME EXTREME</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1160.ts</link>
-<item>
-<title>Starz HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1237.ts</link>
-<item>
-<title>Starz Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1236.ts</link>
-<item>
-<title>Paramount Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1224.ts</link>
-<item>
-<title>LIFETIME HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/570.ts</link>
-<item>
-<title>HALLMARK HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/550.ts</link>
-<item>
-<title>HALLMARK MOVIE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/569.ts</link>
-<item>
-<title>Cinemax Action Max HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/580.ts</link>
-<item>
-<title>Cinemax West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2149.ts</link>
-<item>
-<title>CINEMAX MORE MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1163.ts</link>
-<item>
-<title>CINEMAX OUTER MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1158.ts</link>
+
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
@@ -229,354 +176,97 @@
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
-<title>Breakfast Television Toronto</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/134728</link>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
-<title>CITY TORONTO HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/103576</link>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
-<title>CITY TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/77303</link>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
 
-#EXTINF:-1,CA: A&E FHD
-http://niobzca.cf:8080/francis1234/francis1234/77016
-#EXTINF:-1,CA: ABC (East) HD
-http://niobzca.cf:8080/francis1234/francis1234/77284
-#EXTINF:-1,CA: ABC (West) HD
-http://niobzca.cf:8080/francis1234/francis1234/77285
-#EXTINF:-1,CA: ABC HD
-http://niobzca.cf:8080/francis1234/francis1234/77188
-#EXTINF:-1,CA: ABC SPARK HD
-http://niobzca.cf:8080/francis1234/francis1234/124046
-#EXTINF:-1,CA: ADDIK TV (FR)
-http://niobzca.cf:8080/francis1234/francis1234/138618
-#EXTINF:-1,CA: AHC
-http://niobzca.cf:8080/francis1234/francis1234/77015
-#EXTINF:-1,CA: ALJAZEERA NEWS HD
-http://niobzca.cf:8080/francis1234/francis1234/138527
-#EXTINF:-1,CA: AMC FHD
-http://niobzca.cf:8080/francis1234/francis1234/77014
-#EXTINF:-1,CA: ANIMAL PLANET HD
-http://niobzca.cf:8080/francis1234/francis1234/77013
-#EXTINF:-1,CA: BBC CANADA HD
-http://niobzca.cf:8080/francis1234/francis1234/77290
-#EXTINF:-1,CA: BBC EARTH HD
-http://niobzca.cf:8080/francis1234/francis1234/134726
-#EXTINF:-1,CA: BBC NEWS HD
-http://niobzca.cf:8080/francis1234/francis1234/138531
-#EXTINF:-1,CA: BBC WORLD NEWS
-http://niobzca.cf:8080/francis1234/francis1234/126017
-#EXTINF:-1,CA: BET HD
-http://niobzca.cf:8080/francis1234/francis1234/77292
-#EXTINF:-1,CA: BNN FHD
-http://niobzca.cf:8080/francis1234/francis1234/77293
-#EXTINF:-1,CA: BOOMERANG HD
-http://niobzca.cf:8080/francis1234/francis1234/138533
-#EXTINF:-1,CA: Bravo HD
-http://niobzca.cf:8080/francis1234/francis1234/77011
-#EXTINF:-1,CA: Breakfast Television Calgary
-http://niobzca.cf:8080/francis1234/francis1234/138534
-#EXTINF:-1,CA: Breakfast Television Montreal
-http://niobzca.cf:8080/francis1234/francis1234/134727
-#EXTINF:-1,CA: Breakfast Television Toronto
-http://niobzca.cf:8080/francis1234/francis1234/134728
-#EXTINF:-1,CA: BRITISH COLUMBIA (MORNING NEWS)
-http://niobzca.cf:8080/francis1234/francis1234/137870
-#EXTINF:-1,CA: CA - BRAVO
-http://niobzca.cf:8080/francis1234/francis1234/137711
-#EXTINF:-1,CA: Cartoon NetWork HD
-http://niobzca.cf:8080/francis1234/francis1234/77297
-#EXTINF:-1,CA: CBC CALGARY HD
-http://niobzca.cf:8080/francis1234/francis1234/107879
-#EXTINF:-1,CA: CBC MONTREAL (FR)
-http://niobzca.cf:8080/francis1234/francis1234/124035
-#EXTINF:-1,CA: CBC MONTREAL FHD
-http://niobzca.cf:8080/francis1234/francis1234/77228
-#EXTINF:-1,CA: CBC News NetworkHD
-http://niobzca.cf:8080/francis1234/francis1234/138537
-#EXTINF:-1,CA: CBC NEWS TORONTO HD
-http://niobzca.cf:8080/francis1234/francis1234/107884
-#EXTINF:-1,CA: CBC OTTAWA HD
-http://niobzca.cf:8080/francis1234/francis1234/77229
-#EXTINF:-1,CA: CBC REGINA HD
-http://niobzca.cf:8080/francis1234/francis1234/126026
-#EXTINF:-1,CA: CBC Television
-http://niobzca.cf:8080/francis1234/francis1234/134731
-#EXTINF:-1,CA: CBC TORONTO FHD
-http://niobzca.cf:8080/francis1234/francis1234/77216
-#EXTINF:-1,CA: CBS (West) HD
-http://niobzca.cf:8080/francis1234/francis1234/77231
-#EXTINF:-1,CA: CBS EAST
-http://niobzca.cf:8080/francis1234/francis1234/77301
-#EXTINF:-1,CA: CBS HD
-http://niobzca.cf:8080/francis1234/francis1234/138540
-#EXTINF:-1,CA: CBS NEWS
-http://niobzca.cf:8080/francis1234/francis1234/111663
-#EXTINF:-1,CA: CHCH FHD
-http://niobzca.cf:8080/francis1234/francis1234/77302
-#EXTINF:-1,CA: CHEK HD
-http://niobzca.cf:8080/francis1234/francis1234/107891
-#EXTINF:-1,CA: CITY MONTREAL
-http://niobzca.cf:8080/francis1234/francis1234/134732
-#EXTINF:-1,CA: CITY TORONTO HD
-http://niobzca.cf:8080/francis1234/francis1234/77303
-#EXTINF:-1,CA: CITY TV HD
-http://niobzca.cf:8080/francis1234/francis1234/103576
-#EXTINF:-1,CA: CITY TV VANCOUVER
-http://niobzca.cf:8080/francis1234/francis1234/145517
-#EXTINF:-1,CA: CMT HD
-http://niobzca.cf:8080/francis1234/francis1234/77305
-#EXTINF:-1,CA: CNBC HD
-http://niobzca.cf:8080/francis1234/francis1234/77306
-#EXTINF:-1,CA: CNN HD
-http://niobzca.cf:8080/francis1234/francis1234/77192
-#EXTINF:-1,CA: CNN INTERNATIONAL HD
-http://niobzca.cf:8080/francis1234/francis1234/77308
-#EXTINF:-1,CA: COMEDY (East)
-http://niobzca.cf:8080/francis1234/francis1234/129630
-#EXTINF:-1,CA: COMEDY FHD
-http://niobzca.cf:8080/francis1234/francis1234/103578
-#EXTINF:-1,CA: COMEDY GOLD HD
-http://niobzca.cf:8080/francis1234/francis1234/77006
-#EXTINF:-1,CA: COMEDY HD (West)
-http://niobzca.cf:8080/francis1234/francis1234/108476
-#EXTINF:-1,CA: COOKING CHANNEL FHD
-http://niobzca.cf:8080/francis1234/francis1234/77309
-#EXTINF:-1,CA: COTTAGE LIFE HD
-http://niobzca.cf:8080/francis1234/francis1234/77311
-#EXTINF:-1,CA: Country Music Television
-http://niobzca.cf:8080/francis1234/francis1234/92510
-#EXTINF:-1,CA: CRIME & INVESTIGATION
-http://niobzca.cf:8080/francis1234/francis1234/124038
-#EXTINF:-1,CA: CTV 2 FHD
-http://niobzca.cf:8080/francis1234/francis1234/138556
-#EXTINF:-1,CA: CTV 2 OTTAWA
-http://niobzca.cf:8080/francis1234/francis1234/77235
-#EXTINF:-1,CA: CTV 2 VANCOUVER HD
-http://niobzca.cf:8080/francis1234/francis1234/77315
-#EXTINF:-1,CA: CTV MONTREAL HD
-http://niobzca.cf:8080/francis1234/francis1234/96268
-#EXTINF:-1,CA: CTV NEWS NETWORK
-http://niobzca.cf:8080/francis1234/francis1234/77316
-#EXTINF:-1,CA: CTV TORONTO HD
-http://niobzca.cf:8080/francis1234/francis1234/77318
-#EXTINF:-1,CA: CTV TWO BARRIE HD
-http://niobzca.cf:8080/francis1234/francis1234/126043
-#EXTINF:-1,CA: CTV TWO VANCOUVER HD
-http://niobzca.cf:8080/francis1234/francis1234/106600
-#EXTINF:-1,CA: CTV VANCOUVER HD
-http://niobzca.cf:8080/francis1234/francis1234/77234
-#EXTINF:-1,CA: CW FHD
-http://niobzca.cf:8080/francis1234/francis1234/77195
-#EXTINF:-1,CA: DISCOVERY CANADA
-http://niobzca.cf:8080/francis1234/francis1234/129633
-#EXTINF:-1,CA: DISCOVERY CHANNEL HD
-http://niobzca.cf:8080/francis1234/francis1234/77236
-#EXTINF:-1,CA: Discovery ID
-http://niobzca.cf:8080/francis1234/francis1234/77335
-#EXTINF:-1,CA: DISCOVERY INVESTIGATION
-http://niobzca.cf:8080/francis1234/francis1234/129634
-#EXTINF:-1,CA: Discovery Science FHD
-http://niobzca.cf:8080/francis1234/francis1234/77001
-#EXTINF:-1,CA: DISCOVERY VELOCITY HD
-http://niobzca.cf:8080/francis1234/francis1234/121162
-#EXTINF:-1,CA: Disney Channel HD
-http://niobzca.cf:8080/francis1234/francis1234/77000
-#EXTINF:-1,CA: DISNEY JR HD
-http://niobzca.cf:8080/francis1234/francis1234/77239
-#EXTINF:-1,CA: DISNEY XD HD
-http://niobzca.cf:8080/francis1234/francis1234/77409
-#EXTINF:-1,CA: DIY HD
-http://niobzca.cf:8080/francis1234/francis1234/124070
-#EXTINF:-1,CA: DIY NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/77324
-#EXTINF:-1,CA: DOCUMENTARY CHANNEL
-http://niobzca.cf:8080/francis1234/francis1234/145524
-#EXTINF:-1,CA: E! Entertainment HD
-http://niobzca.cf:8080/francis1234/francis1234/77197
-#EXTINF:-1,CA: E! FHD
-http://niobzca.cf:8080/francis1234/francis1234/124071
-#EXTINF:-1,CA: FAMILY CHANNEL (East) HD
-http://niobzca.cf:8080/francis1234/francis1234/77243
-#EXTINF:-1,CA: FAMILY CHARGED HD
-http://niobzca.cf:8080/francis1234/francis1234/138568
-#EXTINF:-1,CA: FAMILY HD
-http://niobzca.cf:8080/francis1234/francis1234/77222
-#EXTINF:-1,CA: FAMILY WEST
-http://niobzca.cf:8080/francis1234/francis1234/123259
-#EXTINF:-1,CA: Fight Box
-http://niobzca.cf:8080/francis1234/francis1234/126766
-#EXTINF:-1,CA: FIGHT NETWORK FHD
-http://niobzca.cf:8080/francis1234/francis1234/76995
-#EXTINF:-1,CA: FOOD NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/136473
-#EXTINF:-1,CA: FOX (West) HD
-http://niobzca.cf:8080/francis1234/francis1234/76993
-#EXTINF:-1,CA: FOX 25 HD
-http://niobzca.cf:8080/francis1234/francis1234/118609
-#EXTINF:-1,CA: FX CANADA FHD
-http://niobzca.cf:8080/francis1234/francis1234/103583
-#EXTINF:-1,CA: FXX CANADA HD
-http://niobzca.cf:8080/francis1234/francis1234/103584
-#EXTINF:-1,CA: FXX HD
-http://niobzca.cf:8080/francis1234/francis1234/77184
-#EXTINF:-1,CA: FYI HD
-http://niobzca.cf:8080/francis1234/francis1234/77330
-#EXTINF:-1,CA: GLOBAL BC
-http://niobzca.cf:8080/francis1234/francis1234/138575
-#EXTINF:-1,CA: Global Calgary
-http://niobzca.cf:8080/francis1234/francis1234/108979
-#EXTINF:-1,CA: Global Edmonton
-http://niobzca.cf:8080/francis1234/francis1234/126054
-#EXTINF:-1,CA: GLOBAL FHD
-http://niobzca.cf:8080/francis1234/francis1234/77199
-#EXTINF:-1,CA: Global Halifax
-http://niobzca.cf:8080/francis1234/francis1234/105810
-#EXTINF:-1,CA: GLOBAL MONTREAL HD
-http://niobzca.cf:8080/francis1234/francis1234/103587
-#EXTINF:-1,CA: GLOBAL NEWS
-http://niobzca.cf:8080/francis1234/francis1234/134739
-#EXTINF:-1,CA: GLOBAL NEWS: CALGARY (MORNING NEWS)
-http://niobzca.cf:8080/francis1234/francis1234/137871
-#EXTINF:-1,CA: GLOBAL NEWS: TORONTO (MORNING NEWS)
-http://niobzca.cf:8080/francis1234/francis1234/137874
-#EXTINF:-1,CA: GLOBAL TORONTO HD
-http://niobzca.cf:8080/francis1234/francis1234/109396
-#EXTINF:-1,CA: GLOBAL VANCOUVER HD
-http://niobzca.cf:8080/francis1234/francis1234/77247
-#EXTINF:-1,CA: GOLF CHANNEL HD
-http://niobzca.cf:8080/francis1234/francis1234/77331
-#EXTINF:-1,CA: HBO 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/76990
-#EXTINF:-1,CA: HBO 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/76989
-#EXTINF:-1,CA: HBO CANADA
-http://niobzca.cf:8080/francis1234/francis1234/107274
-#EXTINF:-1,CA: HBO HD
-http://niobzca.cf:8080/francis1234/francis1234/105812
-#EXTINF:-1,CA: HGTV HD
-http://niobzca.cf:8080/francis1234/francis1234/76988
-#EXTINF:-1,CA: HISTORY 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/101250
-#EXTINF:-1,CA: HISTORY CHANNEL HD
-http://niobzca.cf:8080/francis1234/francis1234/76987
-#EXTINF:-1,CA: INVESTIGATION DISCOVERY HD
-http://niobzca.cf:8080/francis1234/francis1234/138580
-#EXTINF:-1,CA: Lifetime HD
-http://niobzca.cf:8080/francis1234/francis1234/77203
-#EXTINF:-1,CA: LIFETIME MMOVIE NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/145530
-#EXTINF:-1,CA: MOVIE TIME HD
-http://niobzca.cf:8080/francis1234/francis1234/92503
-#EXTINF:-1,CA: NAT GEO HD
-http://niobzca.cf:8080/francis1234/francis1234/94836
-#EXTINF:-1,CA: NAT GEO Wild HD
-http://niobzca.cf:8080/francis1234/francis1234/77206
-#EXTINF:-1,CA: NBA TV FHD
-http://niobzca.cf:8080/francis1234/francis1234/77347
-#EXTINF:-1,CA: NBC FHD
-http://niobzca.cf:8080/francis1234/francis1234/77207
-#EXTINF:-1,CA: NFL NETWORK FHD
-http://niobzca.cf:8080/francis1234/francis1234/145533
-#EXTINF:-1,CA: NICKTOON
-http://niobzca.cf:8080/francis1234/francis1234/136489
-#EXTINF:-1,CA: NTV NEWFOUND LAND HD
-http://niobzca.cf:8080/francis1234/francis1234/126058
-#EXTINF:-1,CA: OKANAGAN
-http://niobzca.cf:8080/francis1234/francis1234/134743
-#EXTINF:-1,CA: OLN HD
-http://niobzca.cf:8080/francis1234/francis1234/77352
-#EXTINF:-1,CA: OUTDOOR LIFE NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/77187
-#EXTINF:-1,CA: OWN HD
-http://niobzca.cf:8080/francis1234/francis1234/76984
-#EXTINF:-1,CA: PARAMOUNT NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/107903
-#EXTINF:-1,CA: PBS (East) HD
-http://niobzca.cf:8080/francis1234/francis1234/77355
-#EXTINF:-1,CA: PEACH TREE HD
-http://niobzca.cf:8080/francis1234/francis1234/77210
-#EXTINF:-1,CA: PeachtreeTV
-http://niobzca.cf:8080/francis1234/francis1234/137699
-#EXTINF:-1,CA: SHOWCASE EAST HD
-http://niobzca.cf:8080/francis1234/francis1234/77359
-#EXTINF:-1,CA: SHOWCASE HD
-http://niobzca.cf:8080/francis1234/francis1234/103571
-#EXTINF:-1,CA: SILVER SCREEN CLASSICS
-http://niobzca.cf:8080/francis1234/francis1234/77360
-#EXTINF:-1,CA: SLICE HD
-http://niobzca.cf:8080/francis1234/francis1234/76980
-#EXTINF:-1,CA: SPACE FHD
-http://niobzca.cf:8080/francis1234/francis1234/76977
-#EXTINF:-1,CA: Spike HD
-http://niobzca.cf:8080/francis1234/francis1234/76976
-#EXTINF:-1,CA: Sports Net One HD
-http://niobzca.cf:8080/francis1234/francis1234/126767
-#EXTINF:-1,CA: Sportsnet 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/125445
-#EXTINF:-1,CA: SPORTSNET 360 FHD
-http://niobzca.cf:8080/francis1234/francis1234/76941
-#EXTINF:-1,CA: SPORTSNET EAST FHD
-http://niobzca.cf:8080/francis1234/francis1234/77212
-#EXTINF:-1,CA: SportsNet One FHD
-http://niobzca.cf:8080/francis1234/francis1234/76940
-#EXTINF:-1,CA: SportsNet Ontario FHD
-http://niobzca.cf:8080/francis1234/francis1234/76942
-#EXTINF:-1,CA: SportsNet Pacific FHD
-http://niobzca.cf:8080/francis1234/francis1234/76939
-#EXTINF:-1,CA: SportsNet WEST HD
-http://niobzca.cf:8080/francis1234/francis1234/76938
-#EXTINF:-1,CA: SportsNet WORLD HD
-http://niobzca.cf:8080/francis1234/francis1234/76937
-#EXTINF:-1,CA: SUPER CHANNEL 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/77367
-#EXTINF:-1,CA: SUPER ECRAN 1
-http://niobzca.cf:8080/francis1234/francis1234/77368
-#EXTINF:-1,CA: SUPER ECRAN 3
-http://niobzca.cf:8080/francis1234/francis1234/77370
-#EXTINF:-1,CA: SUPER ECRAN 4
-http://niobzca.cf:8080/francis1234/francis1234/77371
-#EXTINF:-1,CA: THE FAMILY CHANNEL (East) HD
-http://niobzca.cf:8080/francis1234/francis1234/120114
-#EXTINF:-1,CA: THE WEATHER NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/77268
-#EXTINF:-1,CA: TLC HD
-http://niobzca.cf:8080/francis1234/francis1234/103575
-#EXTINF:-1,CA: TMN 1
-http://niobzca.cf:8080/francis1234/francis1234/77269
-#EXTINF:-1,CA: TMN 2
-http://niobzca.cf:8080/francis1234/francis1234/77270
-#EXTINF:-1,CA: TMN 3
-http://niobzca.cf:8080/francis1234/francis1234/77271
-#EXTINF:-1,CA: TMN 4
-http://niobzca.cf:8080/francis1234/francis1234/77272
-#EXTINF:-1,CA: TMN ENCORE 2
-http://niobzca.cf:8080/francis1234/francis1234/145542
-#EXTINF:-1,CA: TREEHOUSE HD
-http://niobzca.cf:8080/francis1234/francis1234/77225
-#EXTINF:-1,CA: TSN 1 FHD
-http://niobzca.cf:8080/francis1234/francis1234/74882
-#EXTINF:-1,CA: TSN 2 FHD
-http://niobzca.cf:8080/francis1234/francis1234/74883
-#EXTINF:-1,CA: TSN 3 FHD
-http://niobzca.cf:8080/francis1234/francis1234/76947
-#EXTINF:-1,CA: TSN 4 FHD
-http://niobzca.cf:8080/francis1234/francis1234/74885
-#EXTINF:-1,CA: TSN 5 FHD
-http://niobzca.cf:8080/francis1234/francis1234/74886
-#EXTINF:-1,CA: VELOCITY HD
-http://niobzca.cf:8080/francis1234/francis1234/145548
-#EXTINF:-1,CA: W NETWORK HD
-http://niobzca.cf:8080/francis1234/francis1234/145549
-#EXTINF:-1,CA: WEATHER NETWORK (Toronto) HD
-http://niobzca.cf:8080/francis1234/francis1234/108511
-#EXTINF:-1,CA: YES TV (Alberta) HD
-http://niobzca.cf:8080/francis1234/francis1234/108513
-#EXTINF:-1,CA: YES TV (Ontario) HD
-http://niobzca.cf:8080/francis1234/francis1234/108514
-#EXTINF:-1,CA: YTV (East) HD
-http://niobzca.cf:8080/francis1234/francis1234/108515
-#EXTINF:-1,CA: YTV HD
-http://niobzca.cf:8080/francis1234/francis1234/77226
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="nickelodeon.us" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Nick_HD_Logo.svg" group-title="USA",NICK HD
+http://unlockyourtv.com:8000/charles/charles/555
+#EXTINF:-1 tvg-ID="Nick Jr." tvg-name="Nick Jr. HD" tvg-logo="https://vignette.wikia.nocookie.net/news30/images/f/f4/Nick_Jr_HD_logo.png" group-title="USA",Nick Jr. HD
+http://unlockyourtv.com:8000/charles/charles/556
+#EXTINF:-1 tvg-ID="nicktoons.us" tvg-name="Nicktoons HD" tvg-logo="https://i.ytimg.com/vi/ZXKBObUl2fA/maxresdefault.jpg" group-title="USA",Nicktoons HD
+http://unlockyourtv.com:8000/charles/charles/1630
+#EXTINF:-1 tvg-ID="paramountnetwork.us" tvg-name="Paramount Network" tvg-logo="https://orig00.deviantart.net/6253/f/2017/274/0/1/paramount_network_logo_by_westralinc-dbp6ta4.png" group-title="USA",Paramount Network
+http://unlockyourtv.com:8000/charles/charles/1224
+#EXTINF:-1 tvg-ID="Pop [East]" tvg-name="POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Pop_Network_Logo.png" group-title="USA",POP HD
+http://unlockyourtv.com:8000/charles/charles/619
+#EXTINF:-1 tvg-ID="Oxygen (East)" tvg-name="Oxygen" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Oxygen_HD.png" group-title="USA",Oxygen
+http://unlockyourtv.com:8000/charles/charles/574
+#EXTINF:-1 tvg-ID="qvc.us" tvg-name="QVC" tvg-logo="http://images.qvc.com/is/image/pic/cs/sq2_spot1_ToursStoresFlex_20171103.jpg?qlt=95,1" group-title="USA",QVC
+http://unlockyourtv.com:8000/charles/charles/960
+#EXTINF:-1 tvg-ID="oprahwinfreynetwork.us" tvg-name="OWN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="USA",OWN
+http://unlockyourtv.com:8000/charles/charles/1157
+#EXTINF:-1 tvg-ID="" tvg-name="Revolt" tvg-logo="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/f8/179596/b98a6abe09dbdbf3d8e8c3bdd3268409-original.jpg" group-title="USA",Revolt
+http://unlockyourtv.com:8000/charles/charles/2152
+#EXTINF:-1 tvg-ID="Showtime HD (East)" tvg-name="Showtime East" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Showtime_HD.svg/revision/latest?cb=20141031203917" group-title="Premium Movie Channels",Showtime East
+http://unlockyourtv.com:8000/charles/charles/586
+#EXTINF:-1 tvg-ID="Showtime HD (West)" tvg-name="Showtime West" tvg-logo="" group-title="Premium Movie Channels",Showtime West
+http://unlockyourtv.com:8000/charles/charles/2151
+#EXTINF:-1 tvg-ID="showtime2.us" tvg-name="SHOWTIME 2 HD" tvg-logo="http://static.ontvtonight.com/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%202%20HD.jpg" group-title="Premium Movie Channels",SHOWTIME 2 HD
+http://unlockyourtv.com:8000/charles/charles/587
+#EXTINF:-1 tvg-ID="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://static.ontvtonight.com/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Showtime%20Extreme.jpg" group-title="Premium Movie Channels",SHOWTIME EXTREME
+http://unlockyourtv.com:8000/charles/charles/1160
+#EXTINF:-1 tvg-ID="sundancetv.us" tvg-name="SUNDANCE TV HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef8ce1046f9_SundanceTVHD.png.fa6ea95c5674ad3a8f467e1ffd4b4935.png" group-title="USA",SUNDANCE TV HD
+http://unlockyourtv.com:8000/charles/charles/607
+#EXTINF:-1 tvg-ID="starz.us" tvg-name="Starz HD" tvg-logo="https://mms.businesswire.com/media/20160405005570/en/516058/5/stz_2016_bk_rgb.jpg" group-title="Premium Movie Channels",Starz HD
+http://unlockyourtv.com:8000/charles/charles/1237
+#EXTINF:-1 tvg-ID="starzcomedy.us" tvg-name="Starz Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Starz_Comedy_2016.svg" group-title="Premium Movie Channels",Starz Comedy
+http://unlockyourtv.com:8000/charles/charles/1236
+#EXTINF:-1 tvg-ID="starzencore.us" tvg-name="Starz Encore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/2000px-Starz_Edge_2016.svg.png" group-title="Premium Movie Channels",Starz Encore
+http://unlockyourtv.com:8000/charles/charles/1238
+#EXTINF:-1 tvg-ID="" tvg-name="Starz Encore Western HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="Premium Movie Channels",Starz Encore Western HD
+http://unlockyourtv.com:8000/charles/charles/1325
+#EXTINF:-1 tvg-ID="syfy.us" tvg-name="SyFy" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="USA",SyFy
+http://unlockyourtv.com:8000/charles/charles/904
+#EXTINF:-1 tvg-ID="TBS Superstation HD (East)" tvg-name="TBS East" tvg-logo="https://fiber.storage.googleapis.com/channels/logos/tbsHd.png" group-title="USA",TBS East
+http://unlockyourtv.com:8000/charles/charles/560
+#EXTINF:-1 tvg-ID="tlc.us" tvg-name="TLC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/840.png" group-title="USA",TLC
+http://unlockyourtv.com:8000/charles/charles/638
+#EXTINF:-1 tvg-ID="tnt.us" tvg-name="TNT HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png" group-title="USA",TNT HD
+http://unlockyourtv.com:8000/charles/charles/561
+#EXTINF:-1 tvg-ID="travelchannel.us" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
+http://unlockyourtv.com:8000/charles/charles/905
+#EXTINF:-1 tvg-ID="trutv.us" tvg-name="TRU TV HD" tvg-logo="http://www.foxcitiestv.com/files/images/trutv.png" group-title="USA",TRU TV HD
+http://unlockyourtv.com:8000/charles/charles/563
+#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="TV LAND HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Tv_land_us_hd.png" group-title="USA",TV LAND HD
+http://unlockyourtv.com:8000/charles/charles/564
+#EXTINF:-1 tvg-ID="TV ONE HDTV" tvg-name="TV One" tvg-logo="https://mlm408373q-flywheel.netdna-ssl.com/wp-content/themes/tvone/assets/TVOne_represent_tm.png" group-title="USA",TV One
+http://unlockyourtv.com:8000/charles/charles/886
+#EXTINF:-1 tvg-ID="The Weather Channel" tvg-name="The Weather Channel HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/The_Weather_Channel_HD.png" group-title="USA",The Weather Channel HD
+http://unlockyourtv.com:8000/charles/charles/578
+#EXTINF:-1 tvg-ID="USA Network HD (East)" tvg-name="USA Network East" tvg-logo="https://vignette.wikia.nocookie.net/prowrestling/images/3/36/USA_Network_logo.png" group-title="USA",USA Network East
+http://unlockyourtv.com:8000/charles/charles/565
+#EXTINF:-1 tvg-ID="discoveryvelocity.us" tvg-name="VELOCITY" tvg-logo="https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/http://www.blogcdn.com/www.autoblog.com/media/2011/07/velocity-250.jpg" group-title="USA",VELOCITY
+http://unlockyourtv.com:8000/charles/charles/1353
+#EXTINF:-1 tvg-ID="viceland.us" tvg-name="VICELAND HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Sbs_viceland_hd.png" group-title="USA",VICELAND HD
+http://unlockyourtv.com:8000/charles/charles/567
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/03/VH1_HD.png" group-title="USA",VH1 HD
+http://unlockyourtv.com:8000/charles/charles/566
+#EXTINF:-1 tvg-ID="womensentertainment.us" tvg-name="WE TV" tvg-logo="http://pmcdeadline2.files.wordpress.com/2011/11/we-tv-logo-w-tagline__111121191422.jpg" group-title="USA",WE TV
+http://unlockyourtv.com:8000/charles/charles/1028
+#EXTINF:-1 tvg-ID="WGN America" tvg-name="WGN America HD" tvg-logo="http://static.wgnamerica.com/c-ad42ccd6/img/wgn_logo.jpg" group-title="USA",WGN America HD
+http://unlockyourtv.com:8000/charles/charles/568
 
