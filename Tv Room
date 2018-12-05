@@ -174,8 +174,7 @@
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
-
-#EXT#EXTM3UINF:0,A&E
+,A&E
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/866.ts
 #EXTINF:0,ABC West
