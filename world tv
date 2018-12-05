@@ -205,8 +205,48 @@ http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1364.mkv
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1362.mkv
 #EXTINF:-1,chappaquiddick
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1363.mkv
-#EXTINF:-1 tvg-logo="https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/6809a904-f3d5-4c4b-a768-dfa21ea05d98.jpg" group-title="24/7",Disney Movies
-http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/60082.m3u8
 
-#EXTINF:-1 tvg-logo="https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/6809a904-f3d5-4c4b-a768-dfa21ea05d98.jpg" group-title="24/7",Disney Movies 2 (Geo)
-http://62.210.114.98:80/live?channelId=326&deviceMac=00:1a:79:47:98:09&uid=4331
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/12/logo_tv_action_flame.png" group-title="24/7 MMS",Best Action
+mms://72.13.93.186/tubtubsbestaction
+ 
+#EXTINF:-1 tvg-logo="http://global.g-technology.com/sites/all/themes/gtech/images/landing-pages/red-bull/action-and-adventure.png" group-title="24/7 MMS",Best Action & Adventure
+mms://72.13.93.186/bestactionandadventure
+ 
+#EXTINF:-1 tvg-logo="https://www.tafc.com/sites/default/files/classics.png" group-title="24/7 MMS",Best Classics 1
+mms://72.13.93.186/bestclassics
+ 
+#EXTINF:-1 tvg-logo="https://www.tafc.com/sites/default/files/classics.png" group-title="24/7 MMS",Best Classics 2
+mms://72.13.93.186/tubtubsbestclassics
+ 
+#EXTINF:-1 tvg-logo="https://www.stickers.pub/data/images/ccd83cb21ad65deb4c2c39ba1be15235.png" group-title="24/7 MMS",Best Comedy
+mms://72.13.93.186/bestcomedy
+ 
+#EXTINF:-1 tvg-logo="https://www.stickers.pub/data/images/ccd83cb21ad65deb4c2c39ba1be15235.png" group-title="24/7 MMS",Best Comedy 2
+mms://72.13.93.186/tubtubsbestcomedy
+ 
+#EXTINF:-1 tvg-logo="http://teabeercomics.com/wp-content/uploads/2017/01/drama.png" group-title="24/7 MMS",Best Drama 1
+mms://72.13.93.186/bestdrama
+ 
+#EXTINF:-1 tvg-logo="http://teabeercomics.com/wp-content/uploads/2017/01/drama.png" group-title="24/7 MMS",Best Drama 2
+mms://72.13.93.186/tubtubsbestdrama
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/d/d5/Cool_Text_-_Family_200010272766794.png" group-title="24/7 MMS",Best Family Classics 1
+mms:///72.13.93.186/bestfamilyclassics
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/d/d5/Cool_Text_-_Family_200010272766794.png" group-title="24/7 MMS",Best Family Classics 2
+mms://72.13.93.186/tubtubsbestfamily
+ 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/kids-logo-png.png" group-title="24/7 MMS",Best Kids Movies
+mms://72.13.93.186/tubtubsbestkids
+ 
+#EXTINF:-1 tvg-logo="https://voguetheatremanistee.org/wp-content/uploads/2017/12/movies.png" group-title="24/7 MMS",Best Movies
+mms://72.13.93.186/tubtubsbestmovies
+ 
+#EXTINF:-1 tvg-logo="http://eintracht-hildesheim.de/Basketball/Dateien/oldies.png" group-title="24/7 MMS",Best Oldies
+mms://72.13.93.186/bestoldies
+ 
+#EXTINF:-1 tvg-logo="https://mbtskoudsalg.com/images/tv-shows-png-6.png" group-title="24/7 MMS",Best TV Shows
+mms://72.13.93.186/tubtubsbesttvshows
+ 
+#EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/western-png.png" group-title="24/7 MMS",Best Westerns
+mms://72.13.93.186/tubtubsbestwesterns
