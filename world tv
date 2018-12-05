@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,http://unlockyourtv.com:8000/live/charles/charles/866.ts
-
 #EXTINF:0 tvg-name="Fireplace" tvg-language="English/Spanish" tvg-country="US" tvg-id="Fireplace" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="RandomAirTime 24/7",Fireplace (RandomAirTime 24/7) (US) (English/Spanish)
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
@@ -19,9 +17,6 @@ https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="CANADA",CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA",CBC News Network (Geo)
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
@@ -44,8 +39,14 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-2)
 http://23.237.22.82:8086/udp/127.0.0.1:56202
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/400px-FOX_wordmark.svg.png" group-title="USA",Fox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-3)
+http://atlas.its.virginia.edu:8088/hls/m3u8/NBC.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/400px-FOX_wordmark.svg.png" group-title="USA",Fox (Opt-1)
 http://23.237.22.82:8086/udp/127.0.0.1:56163
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/400px-FOX_wordmark.svg.png" group-title="USA",Fox (Opt-2)
+http://atlas.its.virginia.edu:8088/hls/m3u8/FOX.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
 http://23.237.22.82:8086/udp/127.0.0.1:56060
@@ -80,96 +81,9 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC
 http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1,5 USA
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1877.ts
-
-#EXTINF:-1,4seven
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1880.ts
-#EXTINF:-1,5STAR
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1876.ts
-#EXTINF:-1,alibi
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1855.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="UK",TLC HD World (Opt-3)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
-http://80.80.160.168/live/3/live.m3u8
-
-#EXTINF:-1,Cbeeies
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/92.ts
-#EXTINF:-1,Disney Channel
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/95.ts
-#EXTINF:-1,Disney XD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/96.ts
-#EXTINF:-1,Disney Jr
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/97.ts
-#EXTINF:-1,Cartoon network
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/98.ts
-#EXTINF:-1,Boomerang
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/100.ts
-#EXTINF:-1,Nickelodeon
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/104.ts
-#EXTINF:-1,Nick Toons
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/103.ts
-#EXTINF:-1,Nick Jr
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/105.ts
-#EXTINF:-1,NickJr Too
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/106.ts
-#EXTINF:-1,Baby TV
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/107.ts
-
-#EXTINF:-1,SPORTS NET EAST HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
-#EXTINF:-1,SPORTSNET ONE
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
-#EXTINF:-1,SPORTS NET WORLD HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1823.ts
-#EXTINF:-1,SPORTSNET 360
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1822.ts
-#EXTINF:-1,SPORTSNET EAST
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1821.ts
-#EXTINF:-1,TSN 1
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/176.ts
-#EXTINF:-1,TSN 2
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/177.ts
-#EXTINF:-1,TSN 3
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/178.ts
-#EXTINF:-1,TSN 4
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/179.ts
-#EXTINF:-1,TSN 5
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/180.ts
-#EXTINF:-1,USA FOX SPORTS 1
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts
-#EXTINF:-1,USA FOX SPORTS 2
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts
-#EXTINF:-1,WWE Network
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/243.ts
-
-
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="USA",ESPN 2 (Opt-1)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="ESPN 2" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="USA",ESPN 2 (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/12/NFL-Network-Logo-1.jpg" group-title="USA",NFL Network
-http://23.237.22.82:8086/udp/127.0.0.1:56050
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="USA",MLB Network (Opt-1)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.oldworld.ws/img/content/old-world-german-bar/watch-sports-live/m/watch-mlb-world-series-live-logo.jpg" group-title="USA",MLB Live
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="USA",NBA TV
-http://23.237.22.82:8086/udp/127.0.0.1:56052
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
 https://nimble.d234.81.22:25461/12341234/12341234/11874
@@ -183,98 +97,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-#EXTINF:-1,Animal Planet
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1869.ts
-#EXTINF:-1,BBC One
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1892.ts
-#EXTINF:-1,BBC TWO
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1891.ts
-#EXTINF:-1,BBC1 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1901.ts
-#EXTINF:-1,BBC2 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1900.ts
-#EXTINF:-1,Blaze
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1838.ts
-#EXTINF:-1,Channel 4 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1898.ts
-#EXTINF:-1,Channel 5 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1897.ts
-#EXTINF:-1,ComedyCentral
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1861.ts
-#EXTINF:-1,ComedyXtra
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1860.ts
-#EXTINF:-1,Crime and Investigation
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1842.ts
-#EXTINF:-1,Dave
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1864.ts
-#EXTINF:-1,Disc.History
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1846.ts
-#EXTINF:-1,Disc.Science
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1845.ts
-#EXTINF:-1,Discovery
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1847.ts
-#EXTINF:-1,Discovery Shed
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1844.ts
-#EXTINF:-1,DMAX
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1848.ts
-#EXTINF:-1,E4
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1882.ts
-#EXTINF:-1,Eden
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1832.ts
-#EXTINF:-1,Food Network
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1834.ts
-#EXTINF:-1,FOX
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1857.ts
-#EXTINF:-1,GOLD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1865.ts
-#EXTINF:-1,Good Food
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1836.ts
-#EXTINF:-1,HISTORY
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1840.ts
-#EXTINF:-1,Home
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1835.ts
-#EXTINF:-1,horror channel
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1837.ts
-#EXTINF:-1,ID
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1849.ts
-#EXTINF:-1,ITV
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1890.ts
-#EXTINF:-1,ITV HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1899.ts
-#EXTINF:-1,ITV2
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1888.ts
-#EXTINF:-1,ITV3
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1887.ts
-#EXTINF:-1,ITV4
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1886.ts
-#EXTINF:-1,ITVBe
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1885.ts
-#EXTINF:-1,More4
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1881.ts
-#EXTINF:-1,National Geo Wild
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1867.ts
-#EXTINF:-1,National Geographic
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1868.ts
-#EXTINF:-1,Really
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1853.ts
-#EXTINF:-1,Sky Arts
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1871.ts
-#EXTINF:-1,Sky Atlantic
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1870.ts
-#EXTINF:-1,Sky Witness HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1895.ts
-#EXTINF:-1,Sky Living
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1872.ts
-#EXTINF:-1,Sky1 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1896.ts
-#EXTINF:-1,Syfy
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1858.ts
-#EXTINF:-1,TLC
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1856.ts
-#EXTINF:-1,Universal
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1859.ts
-#EXTINF:-1,Yesterday
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1833.ts
 #EXTINF:-1,First.Man.2018.1080p.herabox.mkv
 http://heraiptv.tvpena.xyz:2017/movie/paraylasatilamaz/nextforumozel4578761903/2346.mkv
 #EXTINF:-1,Crazy.Rich.Asians.2018.m1080p.BluRay.TR.ENG
@@ -399,3 +221,5 @@ http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1364.mkv
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1362.mkv
 #EXTINF:-1,chappaquiddick
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1363.mkv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72741/clearlogo/AllintheFamily-72741.png" group-title="24/7",All in the Family
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/59560.m3u8
