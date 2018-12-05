@@ -36,24 +36,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-1)
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-2)
-http://23.237.22.82:8086/udp/127.0.0.1:56202
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-3)
-http://atlas.its.virginia.edu:8088/hls/m3u8/NBC.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/400px-FOX_wordmark.svg.png" group-title="USA",Fox (Opt-1)
-http://23.237.22.82:8086/udp/127.0.0.1:56163
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/400px-FOX_wordmark.svg.png" group-title="USA",Fox (Opt-2)
-http://atlas.its.virginia.edu:8088/hls/m3u8/FOX.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
-http://23.237.22.82:8086/udp/127.0.0.1:56060
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
-http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
@@ -82,7 +64,9 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://80.80.160.168/live/2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="UK",TLC HD World (Opt-3)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
@@ -221,5 +205,8 @@ http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1364.mkv
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1362.mkv
 #EXTINF:-1,chappaquiddick
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1363.mkv
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72741/clearlogo/AllintheFamily-72741.png" group-title="24/7",All in the Family
-http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/59560.m3u8
+#EXTINF:-1 tvg-logo="https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/6809a904-f3d5-4c4b-a768-dfa21ea05d98.jpg" group-title="24/7",Disney Movies
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/60082.m3u8
+
+#EXTINF:-1 tvg-logo="https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/6809a904-f3d5-4c4b-a768-dfa21ea05d98.jpg" group-title="24/7",Disney Movies 2 (Geo)
+http://62.210.114.98:80/live?channelId=326&deviceMac=00:1a:79:47:98:09&uid=4331
