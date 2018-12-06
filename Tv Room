@@ -174,7 +174,7 @@
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
+
 #EXTM3U
 #EXTINF:-1,CANADA: A & E
 http://pie.buzz:83/ToddSmith/352352532/306265
