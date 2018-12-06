@@ -240,20 +240,11 @@
 <title>DISNEY CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts</link>
 <item>
-<title>DISNEY FRENCH</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306201</link>
-<item>
-<title>DISNEY JR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306200</link>
-<item>
 <title>FAMILY CHRGD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310778</link>
 <item>
 <title>FAMILY EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306191</link>
-<item>
-<title>FAMILY WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306189</link>
 <item>
 <title>BBC KIDS</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306257</link>
@@ -275,9 +266,7 @@
 <item>
 <title>YTV WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
-<item>
-<title>ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306261</link>
+
 
 
 
