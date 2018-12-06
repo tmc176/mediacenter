@@ -1,5 +1,7 @@
 <streamingInfos>
-
+<item>
+<title>CITY TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306231</link>
 <item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts</link>
@@ -39,6 +41,7 @@
 <item>
 <title>DEJAVIEW</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306205</link>
+<item>
 <title>TV Land HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
 <item>
@@ -156,8 +159,8 @@
 
 
 <item>
-<title>DEJAVIEW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306205</link>
+<title>CITY TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306231</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
