@@ -3,6 +3,15 @@
 <title>CITY TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306231</link>
 <item>
+<title>CITY MONTREAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306233</link>
+<item>
+<title>CITY VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306230</link>
+<item>
+<title>CITY WINNIPEG</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306229</link>
+<item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts</link>
 <item>
@@ -24,29 +33,29 @@
 <title>GLOBAL VANCOUVER</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts</link>
 <item>
-<title>CP24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306218</link>
+<title>GLOBAL CALGARY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311208</link>
 <item>
-<title>CTV NEWS NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts</link>
+<title>GLOBAL HALIFAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306179</link>
 <item>
-<title>HGTV East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306169</link>
+<title>CBC CALGARY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311218</link>
 <item>
-<title>HGTV CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
+<title>CBC FRENCH</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311214</link>
 <item>
-<title>COTTAGE LIFE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
+<title>CBC OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306240</link>
 <item>
-<title>DIY Network HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306199</link>
+<title>CBC TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306239</link>
 <item>
-<title>DEJAVIEW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306205</link>
+<title>CBC VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306238</link>
 <item>
-<title>TV Land HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
+<title>CBC ST. JOHNS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311212</link>
 <item>
 <title>FOX EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306186</link>
@@ -66,29 +75,26 @@
 <title>CBS EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306237</link>
 <item>
-<title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306265</link>
+<title>CBS WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306236</link>
 <item>
-<title>BRAVO EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts</link>
+<title>NBC EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306140</link>
 <item>
-<title>Bravo West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2139.ts</link>
+<title>NBC WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306139</link>
 <item>
-<title>CW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1148</link>
+<title>THE WEATHER NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306091</link>
 <item>
-<title>SyFy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/904.ts</link>
+<title>CP24</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306218</link>
 <item>
-<title>FX HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1359.ts</link>
+<title>CTV NEWS NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts</link>
 <item>
-<title>FXM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1361.ts</link>
-<item>
-<title>FYI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2146.ts</link>
+<title>CNBC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306227</link>
 <item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts</link>
@@ -96,23 +102,62 @@
 <title>CNN INTERNATIONAL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts</link>
 <item>
+<title>HGTV East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306169</link>
+<item>
+<title>HGTV CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
+<item>
+<title>COTTAGE LIFE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
+<item>
+<title>DIY Network HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306199</link>
+<item>
+<title>DEJAVIEW</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306205</link>
+<item>
+<title>TV Land HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
+<item>
+<title>NTV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306136</link>
+<item>
+<title>LIFETIME</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306154</link>
+<item>
+<title>SHOWCASE EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306117</link>
+<item>
+<title>A&E</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306265</link>
+<item>
+<title>AMC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306258</link>
+<item>
+<title>BRAVO EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts</link>
+<item>
+<title>WGN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306064</link>
+<item>
+<title>CW</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306207</link>
+<item>
+<title>SPACE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310774</link>
+<item>
 <title>DISCOVERY SCIENCE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/543.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306203</link>
 <item>
 <title>DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/542</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306204</link>
 <item>
 <title>CRIME INVEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts</link>
 <item>
-<title>INVESTIGATION DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/552</link>
-<item>
 <title>History Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1428</link>
-<item>
-<title>COMEDY CENTRAL HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/539.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306167</link>
 <item>
 <title>COMEDY GOLD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts</link>
@@ -120,20 +165,50 @@
 <title>COMEDY EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts</link>
 <item>
+<title>COMEDY WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306222</link>
+<item>
 <title>APTN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts</link>
 <item>
 <title>CMT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1410</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306228</link>
 <item>
-<title>VELOCITY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1353.ts</link>
+<title>WFN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306065</link>
 <item>
 <title>Outdoor Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1609.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306129</link>
+<item>
+<title>OLN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306135</link>
+<item>
+<title>Wild TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306063</link>
+<item>
+<title>ANIMAL PLANET</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306257</link>
+<item>
+<title>NAT GEO HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306142</link>
+<item>
+<title>OLN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/30613</link>
+<item>
+<title>TLC CANADA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306090</link>
+<item>
+<title>W NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306066</link>
+<item>
+<title>YES TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306061</link>
+<item>
+<title>SLICE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310776</link>
 <item>
 <title>American Heroes Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/charles/charles/1760</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306258</link>
 <item>
 <title>COOKING CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts</link>
@@ -144,407 +219,67 @@
 <title>PEACH TREE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts</link>
 <item>
-<title>WE TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1028.ts</link>
-<item>
 <title>OWN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1157.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306128</link>
 <item>
-<title>NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1164.ts</link>
+<title>DOCUMENTARY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306198</link>
 <item>
-<title>NAT GEO WILD HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/573.ts</link>
+<title>FOOD NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306187</link>
+<item>
+<title>FYI</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306182</link>
+<item>
+<title>SILVER SCREEN CLASSICS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306116</link>
+<item>
+<title>SMITHSONIAN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310775</link>
 <item>
 <title>DISNEY CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts</link>
 <item>
-<title>Cartoon Network East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/538.ts</link>
+<title>DISNEY FRENCH</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306201</link>
 <item>
-<title>Nick Jr. HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/556.ts</link>
+<title>DISNEY JR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306200</link>
+<item>
+<title>FAMILY CHRGD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310778</link>
+<item>
+<title>FAMILY EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306191</link>
+<item>
+<title>FAMILY WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306189</link>
+<item>
+<title>BBC KIDS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306257</link>
+<item>
+<title>KNOWLEDGE KIDS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306158</link>
+<item>
+<title>NICK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306138</link>
+<item>
+<title>NICKTOON</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306137</link>
+<item>
+<title>TREEHOUSE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306084</link>
+<item>
+<title>YTV EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306059</link>
+<item>
+<title>YTV WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
+<item>
+<title>ACTION</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306261</link>
 
 
-
-<item>
-<title>CBS WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306236</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-
-
-
-#EXTINF:-1,CANADA: ACTION
-http://pie.buzz:83/ToddSmith/352352532/306261
-#EXTINF:-1,CANADA: ADDIK TV
-http://pie.buzz:83/ToddSmith/352352532/306260
-#EXTINF:-1,CANADA: AHC
-http://pie.buzz:83/ToddSmith/352352532/306259
-#EXTINF:-1,CANADA: AMC
-http://pie.buzz:83/ToddSmith/352352532/306258
-#EXTINF:-1,CANADA: ANIMAL PLANET
-http://pie.buzz:83/ToddSmith/352352532/306257
-#EXTINF:-1,CANADA: APTN
-http://pie.buzz:83/ToddSmith/352352532/306256
-#EXTINF:-1,CANADA: ARAB TV
-http://pie.buzz:83/ToddSmith/352352532/311219
-#EXTINF:-1,CANADA: ARTV
-http://pie.buzz:83/ToddSmith/352352532/306255
-#EXTINF:-1,CANADA: BBC CANADA
-http://pie.buzz:83/ToddSmith/352352532/306253
-#EXTINF:-1,CANADA: BBC KIDS
-http://pie.buzz:83/ToddSmith/352352532/306252
-#EXTINF:-1,CANADA: BBC WORLD NEWS
-http://pie.buzz:83/ToddSmith/352352532/306251
-#EXTINF:-1,CANADA: BET
-http://pie.buzz:83/ToddSmith/352352532/306250
-#EXTINF:-1,CANADA: BNN
-http://pie.buzz:83/ToddSmith/352352532/306249
-#EXTINF:-1,CANADA: BOOK TV
-http://pie.buzz:83/ToddSmith/352352532/306248
-#EXTINF:-1,CANADA: BRAVO
-http://pie.buzz:83/ToddSmith/352352532/306247
-#EXTINF:-1,CANADA: CASA
-http://pie.buzz:83/ToddSmith/352352532/306243
-#EXTINF:-1,CANADA: CBC CALGARY
-http://pie.buzz:83/ToddSmith/352352532/311218
-#EXTINF:-1,CANADA: CBC CHARLOTTETOWN
-http://pie.buzz:83/ToddSmith/352352532/311217
-#EXTINF:-1,CANADA: CBC FREDERICTON
-http://pie.buzz:83/ToddSmith/352352532/311215
-#EXTINF:-1,CANADA: CBC FRENCH
-http://pie.buzz:83/ToddSmith/352352532/311214
-#EXTINF:-1,CANADA: CBC MONTREAL
-http://pie.buzz:83/ToddSmith/352352532/306242
-#EXTINF:-1,CANADA: CBC NEWS
-http://pie.buzz:83/ToddSmith/352352532/306241
-#EXTINF:-1,CANADA: CBC OTTAWA
-http://pie.buzz:83/ToddSmith/352352532/306240
-#EXTINF:-1,CANADA: CBC RADIO
-http://pie.buzz:83/ToddSmith/352352532/311213
-#EXTINF:-1,CANADA: CBC ST. JOHNS
-http://pie.buzz:83/ToddSmith/352352532/311212
-#EXTINF:-1,CANADA: CBC TORONTO
-http://pie.buzz:83/ToddSmith/352352532/306239
-#EXTINF:-1,CANADA: CBC VANCOUVER
-http://pie.buzz:83/ToddSmith/352352532/306238
-#EXTINF:-1,CANADA: CBC WINNIPEG
-http://pie.buzz:83/ToddSmith/352352532/311211
-#EXTINF:-1,CANADA: CBS EAST
-http://pie.buzz:83/ToddSmith/352352532/306237
-#EXTINF:-1,CANADA: CBS WEST
-http://pie.buzz:83/ToddSmith/352352532/306236
-#EXTINF:-1,CANADA: CHCH
-http://pie.buzz:83/ToddSmith/352352532/306235
-#EXTINF:-1,CANADA: CINEPOP
-http://pie.buzz:83/ToddSmith/352352532/306234
-#EXTINF:-1,CANADA: CITY MONTREAL
-http://pie.buzz:83/ToddSmith/352352532/306233
-#EXTINF:-1,CANADA: CITY TORONTO
-http://pie.buzz:83/ToddSmith/352352532/306231
-#EXTINF:-1,CANADA: CITY VANCOUVER
-http://pie.buzz:83/ToddSmith/352352532/306230
-#EXTINF:-1,CANADA: CITY WINNIPEG
-http://pie.buzz:83/ToddSmith/352352532/306229
-#EXTINF:-1,CANADA: CMT CANADA
-http://pie.buzz:83/ToddSmith/352352532/306228
-#EXTINF:-1,CANADA: CNBC
-http://pie.buzz:83/ToddSmith/352352532/306227
-#EXTINF:-1,CANADA: CNN
-http://pie.buzz:83/ToddSmith/352352532/306226
-#EXTINF:-1,CANADA: CNN INTERNATIONAL
-http://pie.buzz:83/ToddSmith/352352532/306225
-#EXTINF:-1,CANADA: COMEDY EAST
-http://pie.buzz:83/ToddSmith/352352532/306224
-#EXTINF:-1,CANADA: COMEDY GOLD
-http://pie.buzz:83/ToddSmith/352352532/306223
-#EXTINF:-1,CANADA: COMEDY WEST
-http://pie.buzz:83/ToddSmith/352352532/306222
-#EXTINF:-1,CANADA: COOKING CHANNEL
-http://pie.buzz:83/ToddSmith/352352532/306221
-#EXTINF:-1,CANADA: COSMO
-http://pie.buzz:83/ToddSmith/352352532/306220
-#EXTINF:-1,CANADA: COTTAGE LIFE
-http://pie.buzz:83/ToddSmith/352352532/306219
-#EXTINF:-1,CANADA: CP24
-http://pie.buzz:83/ToddSmith/352352532/306218
-#EXTINF:-1,CANADA: CPAC
-http://pie.buzz:83/ToddSmith/352352532/306217
-#EXTINF:-1,CANADA: CPAC FRENCH
-http://pie.buzz:83/ToddSmith/352352532/306216
-#EXTINF:-1,CANADA: CRIME &  INVEST
-http://pie.buzz:83/ToddSmith/352352532/306215
-#EXTINF:-1,CANADA: CTV 2 VANCOUVER
-http://pie.buzz:83/ToddSmith/352352532/306214
-#EXTINF:-1,CANADA: CBC HALIFAX
-http://pie.buzz:83/ToddSmith/352352532/306213
-#EXTINF:-1,CANADA: CTV MONTREAL
-http://pie.buzz:83/ToddSmith/352352532/325412
-#EXTINF:-1,CANADA: CTV NEWS NETWORK
-http://pie.buzz:83/ToddSmith/352352532/306212
-#EXTINF:-1,CANADA: CTV OTTAWA
-http://pie.buzz:83/ToddSmith/352352532/306211
-#EXTINF:-1,CANADA: CTV TORONTO
-http://pie.buzz:83/ToddSmith/352352532/306210
-#EXTINF:-1,CANADA: CTV VANCOUVER
-http://pie.buzz:83/ToddSmith/352352532/306209
-#EXTINF:-1,CANADA: CTV2 OTTAWA
-http://pie.buzz:83/ToddSmith/352352532/306208
-#EXTINF:-1,CANADA: CW 11
-http://pie.buzz:83/ToddSmith/352352532/306207
-#EXTINF:-1,CANADA: DAYSTAR TV
-http://pie.buzz:83/ToddSmith/352352532/306206
-#EXTINF:-1,CANADA: DEJAVIEW
-http://pie.buzz:83/ToddSmith/352352532/306205
-#EXTINF:-1,CANADA: DISCOVERY CANADA
-http://pie.buzz:83/ToddSmith/352352532/306204
-#EXTINF:-1,CANADA: DISCOVERY SCIENCE
-http://pie.buzz:83/ToddSmith/352352532/306203
-#EXTINF:-1,CANADA: DISNEY CANADA
-http://pie.buzz:83/ToddSmith/352352532/306202
-#EXTINF:-1,CANADA: DISNEY FRENCH
-http://pie.buzz:83/ToddSmith/352352532/306201
-#EXTINF:-1,CANADA: DISNEY JR
-http://pie.buzz:83/ToddSmith/352352532/306200
-#EXTINF:-1,CANADA: DIY
-http://pie.buzz:83/ToddSmith/352352532/306199
-#EXTINF:-1,CANADA: DOCUMENTARY
-http://pie.buzz:83/ToddSmith/352352532/306198
-#EXTINF:-1,CANADA: DTOUR
-http://pie.buzz:83/ToddSmith/352352532/306197
-#EXTINF:-1,CANADA: E! CANADA
-http://pie.buzz:83/ToddSmith/352352532/306196
-#EXTINF:-1,CANADA: ENCORE 1 EAST
-http://pie.buzz:83/ToddSmith/352352532/306195
-#EXTINF:-1,CANADA: ENCORE 2 EAST
-http://pie.buzz:83/ToddSmith/352352532/306194
-#EXTINF:-1,CANADA: FAMILY CHRGD
-http://pie.buzz:83/ToddSmith/352352532/310778
-#EXTINF:-1,CANADA: FAMILY EAST
-http://pie.buzz:83/ToddSmith/352352532/306191
-#EXTINF:-1,CANADA: FAMILY WEST
-http://pie.buzz:83/ToddSmith/352352532/306189
-#EXTINF:-1,CANADA: FIGHT NETWORK
-http://pie.buzz:83/ToddSmith/352352532/306188
-#EXTINF:-1,CANADA: FOOD NETWORK
-http://pie.buzz:83/ToddSmith/352352532/306187
-#EXTINF:-1,CANADA: FOX EAST
-http://pie.buzz:83/ToddSmith/352352532/306186
-#EXTINF:-1,CANADA: FOX WEST
-http://pie.buzz:83/ToddSmith/352352532/306184
-#EXTINF:-1,CANADA: FOX NEWS
-http://pie.buzz:83/ToddSmith/352352532/306185
-#EXTINF:-1,CANADA: FYI
-http://pie.buzz:83/ToddSmith/352352532/306182
-#EXTINF:-1,CANADA: Game TV
-http://pie.buzz:83/ToddSmith/352352532/306181
-#EXTINF:-1,CANADA: GLOBAL CALGARY
-http://pie.buzz:83/ToddSmith/352352532/311208
-#EXTINF:-1,CANADA: GLOBAL EDMONTON
-http://pie.buzz:83/ToddSmith/352352532/311216
-#EXTINF:-1,CANADA: GLOBAL HALIFAX
-http://pie.buzz:83/ToddSmith/352352532/306179
-#EXTINF:-1,CANADA: GLOBAL TORONTO
-http://pie.buzz:83/ToddSmith/352352532/306178
-#EXTINF:-1,CANADA: GLOBAL VANCOUVER
-http://pie.buzz:83/ToddSmith/352352532/306177
-#EXTINF:-1,CANADA: GOLF
-http://pie.buzz:83/ToddSmith/352352532/306176
-#EXTINF:-1,CANADA: GOLF HD
-http://pie.buzz:83/ToddSmith/352352532/306175
-#EXTINF:-1,CANADA: GSN
-http://pie.buzz:83/ToddSmith/352352532/306174
-#EXTINF:-1,CANADA: GUSTO
-http://pie.buzz:83/ToddSmith/352352532/306173
-#EXTINF:-1,CANADA: H2 CANADA
-http://pie.buzz:83/ToddSmith/352352532/306172
-#EXTINF:-1,CANADA: HBO 1
-http://pie.buzz:83/ToddSmith/352352532/306171
-#EXTINF:-1,CANADA: HBO 2
-http://pie.buzz:83/ToddSmith/352352532/306170
-#EXTINF:-1,CANADA: HGTV
-http://pie.buzz:83/ToddSmith/352352532/306169
-#EXTINF:-1,CANADA: HISTORIA
-http://pie.buzz:83/ToddSmith/352352532/306168
-#EXTINF:-1,CANADA: HISTORY
-http://pie.buzz:83/ToddSmith/352352532/306167
-#EXTINF:-1,CANADA: HLN
-http://pie.buzz:83/ToddSmith/352352532/306166
-#EXTINF:-1,CANADA: ICI MONTREAL
-http://pie.buzz:83/ToddSmith/352352532/306163
-#EXTINF:-1,CANADA: ICI TELEVISION
-http://pie.buzz:83/ToddSmith/352352532/311205
-#EXTINF:-1,CANADA: ICI VANCOUVER
-http://pie.buzz:83/ToddSmith/352352532/306162
-#EXTINF:-1,CANADA: ID CANADA
-http://pie.buzz:83/ToddSmith/352352532/306161
-#EXTINF:-1,CANADA: IFC
-http://pie.buzz:83/ToddSmith/352352532/306160
-#EXTINF:-1,CANADA: JOY TV
-http://pie.buzz:83/ToddSmith/352352532/306159
-#EXTINF:-1,CANADA: KNOWLEDGE KIDS
-http://pie.buzz:83/ToddSmith/352352532/306158
-#EXTINF:-1,CANADA: LCN
-http://pie.buzz:83/ToddSmith/352352532/306156
-#EXTINF:-1,CANADA: LIFETIME
-http://pie.buzz:83/ToddSmith/352352532/306154
-#EXTINF:-1,CANADA: MAX
-http://pie.buzz:83/ToddSmith/352352532/306152
-#EXTINF:-1,CANADA: METEO
-http://pie.buzz:83/ToddSmith/352352532/306151
-#EXTINF:-1,CANADA: MIRACLE
-http://pie.buzz:83/ToddSmith/352352532/306150
-#EXTINF:-1,CANADA: MLB NETWORK
-http://pie.buzz:83/ToddSmith/352352532/306149
-#EXTINF:-1,CANADA: MOI CIE
-http://pie.buzz:83/ToddSmith/352352532/306148
-#EXTINF:-1,CANADA: MOVIETIME
-http://pie.buzz:83/ToddSmith/352352532/306147
-#EXTINF:-1,CANADA: MTV
-http://pie.buzz:83/ToddSmith/352352532/306146
-#EXTINF:-1,CANADA: MUCH MUSIC
-http://pie.buzz:83/ToddSmith/352352532/306144
-#EXTINF:-1,CANADA: MUSIQUE PLUS
-http://pie.buzz:83/ToddSmith/352352532/306143
-#EXTINF:-1,CANADA: NAT GEO
-http://pie.buzz:83/ToddSmith/352352532/306142
-#EXTINF:-1,CANADA: NBA TV
-http://pie.buzz:83/ToddSmith/352352532/306141
-#EXTINF:-1,CANADA: NBC EAST
-http://pie.buzz:83/ToddSmith/352352532/306140
-#EXTINF:-1,CANADA: NBC WEST
-http://pie.buzz:83/ToddSmith/352352532/306139
-#EXTINF:-1,CANADA: NICK
-http://pie.buzz:83/ToddSmith/352352532/306138
-#EXTINF:-1,CANADA: NICKTOON
-http://pie.buzz:83/ToddSmith/352352532/306137
-#EXTINF:-1,CANADA: NTV
-http://pie.buzz:83/ToddSmith/352352532/306136
-#EXTINF:-1,CANADA: OLN
-http://pie.buzz:83/ToddSmith/352352532/306135
-#EXTINF:-1,CANADA: OMNI 1
-http://pie.buzz:83/ToddSmith/352352532/306134
-#EXTINF:-1,CANADA: OMNI 2
-http://pie.buzz:83/ToddSmith/352352532/306133
-#EXTINF:-1,CANADA: OUTTV
-http://pie.buzz:83/ToddSmith/352352532/306129
-#EXTINF:-1,CANADA: OWN
-http://pie.buzz:83/ToddSmith/352352532/306128
-#EXTINF:-1,CANADA: PBS EAST
-http://pie.buzz:83/ToddSmith/352352532/306127
-#EXTINF:-1,CANADA: PBS WEST
-http://pie.buzz:83/ToddSmith/352352532/306126
-#EXTINF:-1,CANADA: PEACHTREE
-http://pie.buzz:83/ToddSmith/352352532/310777
-#EXTINF:-1,CANADA: PRISE
-http://pie.buzz:83/ToddSmith/352352532/306124
-#EXTINF:-1,CANADA: RDI
-http://pie.buzz:83/ToddSmith/352352532/306123
-#EXTINF:-1,CANADA: RDS
-http://pie.buzz:83/ToddSmith/352352532/306122
-#EXTINF:-1,CANADA: RDS 2
-http://pie.buzz:83/ToddSmith/352352532/306121
-#EXTINF:-1,CANADA: RDS INFO
-http://pie.buzz:83/ToddSmith/352352532/306120
-#EXTINF:-1,CANADA: SERIES+
-http://pie.buzz:83/ToddSmith/352352532/306119
-#EXTINF:-1,CANADA: SHOPPING
-http://pie.buzz:83/ToddSmith/352352532/306118
-#EXTINF:-1,CANADA: SHOWCASE EAST
-http://pie.buzz:83/ToddSmith/352352532/306117
-#EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
-http://pie.buzz:83/ToddSmith/352352532/306116
-#EXTINF:-1,CANADA: SLICE
-http://pie.buzz:83/ToddSmith/352352532/310776
-#EXTINF:-1,CANADA: SMITHSONIAN
-http://pie.buzz:83/ToddSmith/352352532/310775
-#EXTINF:-1,CANADA: SPACE HD
-http://pie.buzz:83/ToddSmith/352352532/310774
-#EXTINF:-1,CANADA: THE WEATHER NETWORK
-http://pie.buzz:83/ToddSmith/352352532/306091
-#EXTINF:-1,CANADA: TLC CANADA
-http://pie.buzz:83/ToddSmith/352352532/306090
-#EXTINF:-1,CANADA: TMN 1
-http://pie.buzz:83/ToddSmith/352352532/306089
-#EXTINF:-1,CANADA: TMN 2
-http://pie.buzz:83/ToddSmith/352352532/306088
-#EXTINF:-1,CANADA: TMN 3
-http://pie.buzz:83/ToddSmith/352352532/306087
-#EXTINF:-1,CANADA: TMN 4
-http://pie.buzz:83/ToddSmith/352352532/306086
-#EXTINF:-1,CANADA: TREEHOUSE
-http://pie.buzz:83/ToddSmith/352352532/306084
-#EXTINF:-1,CANADA: TSN 1 HD
-http://pie.buzz:83/ToddSmith/352352532/306083
-#EXTINF:-1,CANADA: TSN 2 HD
-http://pie.buzz:83/ToddSmith/352352532/306082
-#EXTINF:-1,CANADA: TSN 3 HD
-http://pie.buzz:83/ToddSmith/352352532/306081
-#EXTINF:-1,CANADA: TSN 4 HD
-http://pie.buzz:83/ToddSmith/352352532/306080
-#EXTINF:-1,CANADA: TSN 5 HD
-http://pie.buzz:83/ToddSmith/352352532/306079
-#EXTINF:-1,CANADA: TV5 QUEBEC
-http://pie.buzz:83/ToddSmith/352352532/306078
-#EXTINF:-1,CANADA: TVA GATINEAU
-http://pie.buzz:83/ToddSmith/352352532/306077
-#EXTINF:-1,CANADA: TVA MONTREAL
-http://pie.buzz:83/ToddSmith/352352532/306076
-#EXTINF:-1,CANADA: TVA QUEBEC
-http://pie.buzz:83/ToddSmith/352352532/306075
-#EXTINF:-1,CANADA: TVA SPORTS
-http://pie.buzz:83/ToddSmith/352352532/306074
-#EXTINF:-1,CANADA: TVO
-http://pie.buzz:83/ToddSmith/352352532/311203
-#EXTINF:-1,CANADA: UNIS TV
-http://pie.buzz:83/ToddSmith/352352532/306072
-#EXTINF:-1,CANADA: V MONTREAL
-http://pie.buzz:83/ToddSmith/352352532/306071
-#EXTINF:-1,CANADA: V QUEBEC
-http://pie.buzz:83/ToddSmith/352352532/306070
-#EXTINF:-1,CANADA: VIE
-http://pie.buzz:83/ToddSmith/352352532/306069
-#EXTINF:-1,CANADA: VISION
-http://pie.buzz:83/ToddSmith/352352532/306068
-#EXTINF:-1,CANADA: VRAK TV
-http://pie.buzz:83/ToddSmith/352352532/306067
-#EXTINF:-1,CANADA: W NETWORK
-http://pie.buzz:83/ToddSmith/352352532/306066
-#EXTINF:-1,CANADA: WFN
-http://pie.buzz:83/ToddSmith/352352532/306065
-#EXTINF:-1,CANADA: WGN
-http://pie.buzz:83/ToddSmith/352352532/306064
-#EXTINF:-1,CANADA: Wild TV
-http://pie.buzz:83/ToddSmith/352352532/306063
-#EXTINF:-1,CANADA: YES TV
-http://pie.buzz:83/ToddSmith/352352532/306061
-#EXTINF:-1,CANADA: YOOPA
-http://pie.buzz:83/ToddSmith/352352532/306060
-#EXTINF:-1,CANADA: YTV
-http://pie.buzz:83/ToddSmith/352352532/306059
-#EXTINF:-1,CANADA: YTV West
-http://pie.buzz:83/ToddSmith/352352532/306058
-#EXTINF:-1,CANADA: Z TELE
-http://pie.buzz:83/ToddSmith/352352532/306057
-#EXTINF:-1,CANADA: ZESTE
-http://pie.buzz:83/ToddSmith/352352532/306056
 
 
 
