@@ -99,12 +99,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-#EXTINF:-1,First.Man.2018.1080p.herabox.mkv
-http://heraiptv.tvpena.xyz:2017/movie/paraylasatilamaz/nextforumozel4578761903/2346.mkv
-#EXTINF:-1,Crazy.Rich.Asians.2018.m1080p.BluRay.TR.ENG
-http://heraiptv.tvpena.xyz:2017/movie/paraylasatilamaz/nextforumozel4578761903/2332.mkv
-#EXTINF:-1,Outlaw.King.2018.m1080p.hera.iptv.TR.ENG
-http://heraiptv.tvpena.xyz:2017/movie/paraylasatilamaz/nextforumozel4578761903/2333.mkv
+
 
 
 
