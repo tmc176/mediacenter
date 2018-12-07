@@ -223,96 +223,757 @@ http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1364.mkv
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1362.mkv
 #EXTINF:-1,chappaquiddick
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1363.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channels", Russia Today Documentary
-https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary Channels", NASA TV HD
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="Documentary Channels", Velocity
-https://goo.gl/fPYx2g
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" group-title="Documentary Channels", Quest Arabiya
-http://95.170.215.124/live/disk1/QUEST-ARABIYA/anevia1/QUEST-ARABIYA-video=1098400-audio_AACL_ara_160000_34=160000.m3u8
+﻿#EXTM3U
+#EXTINF:-1,EN: BBC News
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/46.ts
+#EXTINF:-1,EN: Animal Planet
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/43.ts
+#EXTINF:-1,EN: Discovery SHOWCASE HD
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4425.ts
+#EXTINF:-1,EN: Discovery Turbo
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4426.ts
+#EXTINF:-1,EN: Discovery History
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/49.ts
+#EXTINF:-1,EN: Sky Premiere
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/16.ts
+#EXTINF:-1,EN: FOOD NETWORK
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4428.ts
+#EXTINF:-1,EN: Sky Drama
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/15.ts
+#EXTINF:-1,EN: Sky Comedy
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/17.ts
+#EXTINF:-1,EN: Sky Action
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/18.ts
+#EXTINF:-1,EN: Sport 1
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/12.ts
+#EXTINF:-1,EN: SKY MOVIES CRIME & THRILLER
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/14.ts
+#EXTINF:-1,EN: Sky Living
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/35.ts
+#EXTINF:-1,EN: Sky Movies Showcase
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4429.ts
+#EXTINF:-1,EN: Sky Select
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/13.ts
+#EXTINF:-1,EN: Sport 2
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/11.ts
+#EXTINF:-1,EN: Sport 3
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/10.ts
+#EXTINF:-1,EN: Sport 4
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/9.ts
+#EXTINF:-1,EN:  Sport 5
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/8.ts
+#EXTINF:-1,EN: Sport F1
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/7.ts
+#EXTINF:-1,EN: SkyAtlantic
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/176.ts
+#EXTINF:-1,EN: Sony Movie Channel
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4433.ts
+#EXTINF:-1,EN: C More First
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4431.ts
+#EXTINF:-1,EN: TLC
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/174.ts
+#EXTINF:-1,EN: VH1 Europe
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4443.ts
+#EXTINF:-1,EN: Viasat Sport HD
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4452.ts
+#EXTINF:-1,EN: Yesterday
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4.ts
+#EXTINF:-1,EN: Boomerang
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/63.ts
+#EXTINF:-1,EN: BT sport_1
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/65.ts
+#EXTINF:-1,EN: BT sport_2
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/64.ts
+#EXTINF:-1,EN: BT Sports Europe
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4447.ts
+#EXTINF:-1,EN: Crime Investigation
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/36.ts
+#EXTINF:-1,EN: Channel 4
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4441.ts
+#EXTINF:-1,EN: Channel 5
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4442.ts
+#EXTINF:-1,EN: CNN
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/47.ts
+#EXTINF:-1,EN: Comedy Central
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/31.ts
+#EXTINF:-1,EN: Discovery SC HD
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/42.ts
+#EXTINF:-1,EN: Discovery World
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4424.ts
+#EXTINF:-1,EN: Disney Channel
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/50.ts
+#EXTINF:-1,EN: Disney Channel.
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/186.ts
+#EXTINF:-1,EN: Disney Junior.
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/185.ts
+#EXTINF:-1,EN: Disney XD
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/184.ts
+#EXTINF:-1,EN: Disney_junior
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/2.ts
+#EXTINF:-1,EN: Espn
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/66.ts
+#EXTINF:-1,EN: EuroNews
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4422.ts
+#EXTINF:-1,EN: Eurosport 1 uk
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4445.ts
+#EXTINF:-1,EN: Sky Sports Premier League
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4446.ts
+#EXTINF:-1,EN: Film 4
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4430.ts
+#EXTINF:-1,EN: Film4
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/91.ts
+#EXTINF:-1,EN: FOOTBALL 1
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4453.ts
+#EXTINF:-1,EN: FOOTBALL 2
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4454.ts
+#EXTINF:-1,EN: Fox
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/30.ts
+#EXTINF:-1,EN: Fox News
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/86.ts
+#EXTINF:-1,EN: History uk
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4427.ts
+#EXTINF:-1,EN: Home
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/24.ts
+#EXTINF:-1,EN: Viasat Film Hits
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4440.ts
+#EXTINF:-1,EN: Movies4Men
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4432.ts
+#EXTINF:-1,EN: MTV
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/155.ts
+#EXTINF:-1,EN: MTV Dance
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4444.ts
+#EXTINF:-1,EN: MTV Hits
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/41.ts
+#EXTINF:-1,EN: Nat Geo
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/44.ts
+#EXTINF:-1,EN: Nick Jr
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/183.ts
+#EXTINF:-1,EN: Nickelodeon
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/156.ts
+#EXTINF:-1,EN: NickToons
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/154.ts
+#EXTINF:-1,EN: Sky Movies Sci-Fi and Horror
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/26.ts
+#EXTINF:-1,EN: RT
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/95.ts
+#EXTINF:-1,EN: Rte News Now
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4423.ts
+#EXTINF:-1,EN: Setanta Sports
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4448.ts
+#EXTINF:-1,EN: Sky Arts
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4434.ts
+#EXTINF:-1,EN: Sky Disney
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/20.ts
+#EXTINF:-1,EN: Sky Family
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/19.ts
+#EXTINF:-1,EN: Sky Greats
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/21.ts
+#EXTINF:-1,EN: NBA
+http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/355.ts
+
+#EXTINF:-1,USA - AMC HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1837.ts
+#EXTINF:-1,USA - ANIMAL PLANET HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1860.ts
+#EXTINF:-1,USA - bEIN SPORT HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1859.ts
+#EXTINF:-1,USA - CARTOON NETWORK HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1858.ts
+#EXTINF:-1,USA - CBS ACTION
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1857.ts
+#EXTINF:-1,USA - CBS drama
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1856.ts
+#EXTINF:-1,USA - CBS HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1854.ts
+#EXTINF:-1,USA - CBS REALITY HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1853.ts
+#EXTINF:-1,USA - GOLF HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1872.ts
+#EXTINF:-1,USA - H2 HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1871.ts
+#EXTINF:-1,USA - HALLMARK movies & mysteries HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1870.ts
+#EXTINF:-1,USA - HBO Signature
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1848.ts
+#EXTINF:-1,USA - HBO Signature HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1869.ts
+#EXTINF:-1,USA - NFL Network
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1855.ts
+#EXTINF:-1,USA - Nickelodeon HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1868.ts
+#EXTINF:-1,USA - Star Cinema HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1867.ts
+#EXTINF:-1,USA - Starz Edge HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1866.ts
+#EXTINF:-1,USA - TSN 1
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1865.ts
+#EXTINF:-1,USA - TSN 2
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1864.ts
+#EXTINF:-1,USA - TSN 3
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1863.ts
+#EXTINF:-1,USA - TSN 4
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1862.ts
+#EXTINF:-1,USA - TSN 5
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1861.ts
+#EXTINF:-1,USA - WWE TV HD
+http://iptv.speedhd10.com:8080/live/Skdlz/Toenado/1873.ts
+
+#EXTINF:-1,USA:ESPN 1 HD
+http://xtream.in:9000/live/jedda/jedda123/15831.ts
+#EXTINF:-1,USA:ESPN 2 HD
+http://xtream.in:9000/live/jedda/jedda123/15830.ts
+#EXTINF:-1,USA:SPORTSNET ONE HD
+http://xtream.in:9000/live/jedda/jedda123/15826.ts
+#EXTINF:-1,USA:HBO Family
+http://xtream.in:9000/live/jedda/jedda123/12203.ts
+#EXTINF:-1,USA:HBO HD
+http://xtream.in:9000/live/jedda/jedda123/12202.ts
+#EXTINF:-1,USA:CW HD
+http://xtream.in:9000/live/jedda/jedda123/12208.ts
+#EXTINF:-1,USA:MS NBC HD
+http://xtream.in:9000/live/jedda/jedda123/12223.ts
+#EXTINF:-1,USA:Tennis Channel
+http://xtream.in:9000/live/jedda/jedda123/12220.ts
+#EXTINF:-1,USA:CMTV
+http://xtream.in:9000/live/jedda/jedda123/10333.ts
+#EXTINF:-1,USA:Discovery
+http://xtream.in:9000/live/jedda/jedda123/13230.ts
+#EXTINF:-1,USA:Discovery_Showcase
+http://xtream.in:9000/live/jedda/jedda123/13227.ts
+#EXTINF:-1,USA:FOX
+http://xtream.in:9000/live/jedda/jedda123/13236.ts
+#EXTINF:-1,USA:FOX SPORT 1 HD
+http://xtream.in:9000/live/jedda/jedda123/15829.ts
+#EXTINF:-1,USA:FOX SPORT 2 HD
+http://xtream.in:9000/live/jedda/jedda123/15828.ts
+#EXTINF:-1,USA:NBC SPORTS NETWORK
+http://xtream.in:9000/live/jedda/jedda123/15827.ts
+#EXTINF:-1,USA:TSN SPORT 1 HD
+http://xtream.in:9000/live/jedda/jedda123/15825.ts
+#EXTINF:-1,USA:TSN SPORT 2 HD
+http://xtream.in:9000/live/jedda/jedda123/15824.ts
+#EXTINF:-1,USA:TSN SPORT 3 HD
+http://xtream.in:9000/live/jedda/jedda123/15823.ts
+#EXTINF:-1,USA:TSN SPORT 4 HD
+http://xtream.in:9000/live/jedda/jedda123/15822.ts
+#EXTINF:-1,USA:TSN SPORT 5 HD
+http://xtream.in:9000/live/jedda/jedda123/15821.ts
+#EXTINF:-1,USA:Bein Sports NBA
+http://xtream.in:9000/live/jedda/jedda123/12231.ts
+#EXTINF:-1,USA:WWE NETWORK
+http://xtream.in:9000/live/jedda/jedda123/12239.ts
+#EXTINF:-1,USA:WWE RAW HD
+http://xtream.in:9000/live/jedda/jedda123/12177.ts
+
+#EXTINF:-1,USA: A&E
+http://217.23.5.70:25461/live/anis/anis/15692.ts
+#EXTINF:-1,USA: ABC
+http://217.23.5.70:25461/live/anis/anis/15691.ts
+#EXTINF:-1,USA: AMC
+http://217.23.5.70:25461/live/anis/anis/15690.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://217.23.5.70:25461/live/anis/anis/15689.ts
+#EXTINF:-1,USA: Bein Sports  HD
+http://217.23.5.70:25461/live/anis/anis/15688.ts
+#EXTINF:-1,USA: BRAVO
+http://217.23.5.70:25461/live/anis/anis/15687.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://217.23.5.70:25461/live/anis/anis/15686.ts
+#EXTINF:-1,USA: CBS
+http://217.23.5.70:25461/live/anis/anis/15685.ts
+#EXTINF:-1,USA: Cinemax HD
+http://217.23.5.70:25461/live/anis/anis/15683.ts
+#EXTINF:-1,USA: CNBC HD
+http://217.23.5.70:25461/live/anis/anis/15681.ts
+#EXTINF:-1,USA: CNN HD
+http://217.23.5.70:25461/live/anis/anis/15680.ts
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://217.23.5.70:25461/live/anis/anis/15679.ts
+#EXTINF:-1,USA: DISCOVERY
+http://217.23.5.70:25461/live/anis/anis/15678.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://217.23.5.70:25461/live/anis/anis/15677.ts
+#EXTINF:-1,USA: E!
+http://217.23.5.70:25461/live/anis/anis/15676.ts
+#EXTINF:-1,USA: ESPN 2
+http://217.23.5.70:25461/live/anis/anis/15675.ts
+#EXTINF:-1,USA: ESPN HD
+http://217.23.5.70:25461/live/anis/anis/15674.ts
+#EXTINF:-1,USA: FIGHT NETWORK (HD)
+http://217.23.5.70:25461/live/anis/anis/15673.ts
+#EXTINF:-1,USA: FOOD NETWORK
+http://217.23.5.70:25461/live/anis/anis/15672.ts
+#EXTINF:-1,USA: FOX NEWS
+http://217.23.5.70:25461/live/anis/anis/15671.ts
+#EXTINF:-1,USA: FOX SPORTS 1
+http://217.23.5.70:25461/live/anis/anis/15670.ts
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://217.23.5.70:25461/live/anis/anis/15669.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://217.23.5.70:25461/live/anis/anis/15668.ts
+#EXTINF:-1,USA: FX HD
+http://217.23.5.70:25461/live/anis/anis/15667.ts
+#EXTINF:-1,USA: FXM
+http://217.23.5.70:25461/live/anis/anis/15666.ts
+#EXTINF:-1,USA: FXX
+http://217.23.5.70:25461/live/anis/anis/15665.ts
+#EXTINF:-1,USA: HALLMARK
+http://217.23.5.70:25461/live/anis/anis/15664.ts
+#EXTINF:-1,USA: HBO
+http://217.23.5.70:25461/live/anis/anis/15663.ts
+#EXTINF:-1,USA: HBO Comedy
+http://217.23.5.70:25461/live/anis/anis/15662.ts
+#EXTINF:-1,USA: HBO Family HD
+http://217.23.5.70:25461/live/anis/anis/15661.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://217.23.5.70:25461/live/anis/anis/15660.ts
+#EXTINF:-1,USA: HBO ZONE
+http://217.23.5.70:25461/live/anis/anis/15659.ts
+#EXTINF:-1,USA: HGTV
+http://217.23.5.70:25461/live/anis/anis/15658.ts
+#EXTINF:-1,USA: HISTORY HD
+http://217.23.5.70:25461/live/anis/anis/15657.ts
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY
+http://217.23.5.70:25461/live/anis/anis/15656.ts
+#EXTINF:-1,USA: LIFETIME
+http://217.23.5.70:25461/live/anis/anis/15655.ts
+#EXTINF:-1,USA: Nat Geo
+http://217.23.5.70:25461/live/anis/anis/15654.ts
+#EXTINF:-1,USA: NAT GEO WILD
+http://217.23.5.70:25461/live/anis/anis/15653.ts
+#EXTINF:-1,USA: NBA TV HD1
+http://217.23.5.70:25461/live/anis/anis/15652.ts
+#EXTINF:-1,USA: SHOWTIME HD
+http://217.23.5.70:25461/live/anis/anis/15651.ts
+#EXTINF:-1,USA: SPIKE TV
+http://217.23.5.70:25461/live/anis/anis/15650.ts
+#EXTINF:-1,USA: STARZ
+http://217.23.5.70:25461/live/anis/anis/15649.ts
+#EXTINF:-1,USA: SYFY
+http://217.23.5.70:25461/live/anis/anis/15648.ts
+#EXTINF:-1,USA: TLC
+http://217.23.5.70:25461/live/anis/anis/15647.ts
+#EXTINF:-1,USA: VH1
+http://217.23.5.70:25461/live/anis/anis/15646.ts
+#EXTINF:-1,USA: WWE PPV
+http://217.23.5.70:25461/live/anis/anis/15645.ts
+
+#EXTINF:-1,US_ABC
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2257.ts
+#EXTINF:-1,US_CBS
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2852.ts
+#EXTINF:-1,US_TSN 1
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2248.ts
+#EXTINF:-1,US_TSN 2
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2249.ts
+#EXTINF:-1,US_TSN 3
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2250.ts
+#EXTINF:-1,US_TSN 4
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2251.ts
+#EXTINF:-1,US_TSN 5
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2252.ts
+#EXTINF:-1,US_Network
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2851.ts
+#EXTINF:-1,US_NFL_LIVE
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2850.ts
+#EXTINF:-1,US_WWE_Network
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2848.ts
+#EXTINF:-1,US_Fox Sports  1
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2254.ts
+#EXTINF:-1,US_Fox Sports  2
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2255.ts
+#EXTINF:-1,US_FIGHT_SPORT
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2853.ts
+#EXTINF:-1,US_NBC_SPORT
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2854.ts
+#EXTINF:-1,US_NBA
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2253.ts
+#EXTINF:-1,US_ESPN
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2256.ts
+#EXTINF:-1,US_HBO
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2855.ts
+#EXTINF:-1,US_Nasa
+http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2849.ts
+
+#EXTINF:-1,5USA
+http://185.102.218.3:80/live/ktownmvp22/friday22/34211.m3u8
+#EXTINF:-1,5STAR
+http://185.102.218.3:80/live/ktownmvp22/friday22/34212.m3u8
+#EXTINF:-1,CBS Drama
+http://185.102.218.3:80/live/ktownmvp22/friday22/34214.m3u8
+#EXTINF:-1,CBS Reality
+http://185.102.218.3:80/live/ktownmvp22/friday22/34215.m3u8
+#EXTINF:-1,CBS Action
+http://185.102.218.3:80/live/ktownmvp22/friday22/34213.m3u8
+#EXTINF:-1,Comedy Central UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39642.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://185.102.218.3:80/live/ktownmvp22/friday22/39818.m3u8
+#EXTINF:-1,Dave
+http://185.102.218.3:80/live/ktownmvp22/friday22/34283.m3u8
+#EXTINF:-1,Home
+http://185.102.218.3:80/live/ktownmvp22/friday22/35001.m3u8
+#EXTINF:-1,Gold
+http://185.102.218.3:80/live/ktownmvp22/friday22/35162.m3u8
+#EXTINF:-1,Eden HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39819.m3u8
+#EXTINF:-1,Universal Channel
+http://185.102.218.3:80/live/ktownmvp22/friday22/35463.m3u8
+#EXTINF:-1,Syfy UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/35661.m3u8
+#EXTINF:-1,Lifetime UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/35748.m3u8
+#EXTINF:-1,Yesterday
+http://185.102.218.3:80/live/ktownmvp22/friday22/35756.m3u8
+#EXTINF:-1,Drama
+http://185.102.218.3:80/live/ktownmvp22/friday22/36174.m3u8
+#EXTINF:-1,Watch
+http://185.102.218.3:80/live/ktownmvp22/friday22/36175.m3u8
+#EXTINF:-1,Really
+http://185.102.218.3:80/live/ktownmvp22/friday22/36176.m3u8
+#EXTINF:-1,Food Network UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/36177.m3u8
+#EXTINF:-1,Good Food
+http://185.102.218.3:80/live/ktownmvp22/friday22/36178.m3u8
+#EXTINF:-1,Challenge
+http://185.102.218.3:80/live/ktownmvp22/friday22/37245.m3u8
+#EXTINF:-1,Alibi
+http://185.102.218.3:80/live/ktownmvp22/friday22/37247.m3u8
+#EXTINF:-1,TLC UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39028.m3u8
+#EXTINF:-1,ID UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/47372.m3u8
+#EXTINF:-1,Crime + Investigation UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/50557.m3u8
+#EXTINF:-1,Discovery Channel UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39639.m3u8
+#EXTINF:-1,Discovery Science UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39817.m3u8
+#EXTINF:-1,Discovery Turbo
+http://185.102.218.3:80/live/ktownmvp22/friday22/39640.m3u8
+#EXTINF:-1,Discovery History
+http://185.102.218.3:80/live/ktownmvp22/friday22/39816.m3u8
+#EXTINF:-1,Animal Planet UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39641.m3u8
+#EXTINF:-1,National Geographic UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39029.m3u8
+#EXTINF:-1,Nat Geo Wild UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/72692.m3u8
+#EXTINF:-1,Boomerang UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/37248.m3u8
+#EXTINF:-1,Cartoon Network UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/37249.m3u8
+#EXTINF:-1,Cartoonito UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52252.m3u8
+#EXTINF:-1,Nickelodeon UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/37250.m3u8
+#EXTINF:-1,Nick Jr UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/37251.m3u8
+#EXTINF:-1,Nick Jr Too UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52255.m3u8
+#EXTINF:-1,Nicktoons UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52256.m3u8
+#EXTINF:-1,CBBC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/37252.m3u8
+#EXTINF:-1,CBeebies
+http://185.102.218.3:80/live/ktownmvp22/friday22/37253.m3u8
+#EXTINF:-1,Disney Channel UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/37254.m3u8
+#EXTINF:-1,Disney Junior UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/37255.m3u8
+#EXTINF:-1,Disney XD UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52253.m3u8
+#EXTINF:-1,BabyTV
+http://185.102.218.3:80/live/ktownmvp22/friday22/39643.m3u8
+#EXTINF:-1,Pop UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52257.m3u8
+#EXTINF:-1,Tiny Pop UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52258.m3u8
+#EXTINF:-1,Pop Max UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/52254.m3u8
+#EXTINF:-1,H2
+http://185.102.218.3:80/live/ktownmvp22/friday22/47860.m3u8
+#EXTINF:-1,E! UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39814.m3u8
+#EXTINF:-1,MTV UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39815.m3u8
+#EXTINF:-1,Fox UK
+http://185.102.218.3:80/live/ktownmvp22/friday22/39837.m3u8
+#EXTINF:-1,Sky 1 HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/72667.m3u8
+#EXTINF:-1,Sky Cinema Drama HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/72668.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2743.m3u8
+#EXTINF:-1,Sky Cinema Greats HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2737.m3u8
+#EXTINF:-1,Sky Cinema Premiere HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2738.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39813.m3u8
+#EXTINF:-1,Sky Cinema Thriller HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2739.m3u8
+#EXTINF:-1,Global BC
+http://185.102.218.3:80/live/ktownmvp22/friday22/2749.m3u8
+#EXTINF:-1,CBC Vancover
+http://185.102.218.3:80/live/ktownmvp22/friday22/2747.m3u8
+#EXTINF:-1,CTV 2 Vancover Island
+http://185.102.218.3:80/live/ktownmvp22/friday22/3143.m3u8
+#EXTINF:-1,CTV Vancouver
+http://185.102.218.3:80/live/ktownmvp22/friday22/2748.m3u8
+#EXTINF:-1,CityTV Vancouver
+http://185.102.218.3:80/live/ktownmvp22/friday22/2822.m3u8
+#EXTINF:-1,CTV Montreal HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73276.m3u8
+#EXTINF:-1,CBC Montreal HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73277.m3u8
+#EXTINF:-1,Global TV Montreal
+http://185.102.218.3:80/live/ktownmvp22/friday22/75898.m3u8
+#EXTINF:-1,Global HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2823.m3u8
+#EXTINF:-1,CTV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2820.m3u8
+#EXTINF:-1,CP24 HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2852.m3u8
+#EXTINF:-1,CHCH HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2700.m3u8
+#EXTINF:-1,CTV News HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2851.m3u8
+#EXTINF:-1,CBC News HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2850.m3u8
+#EXTINF:-1,BNN HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2704.m3u8
+#EXTINF:-1,Nat Geo Wild CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2758.m3u8
+#EXTINF:-1,Love Nature HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2853.m3u8
+#EXTINF:-1,LCN HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73279.m3u8
+#EXTINF:-1,W Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2709.m3u8
+#EXTINF:-1,Space HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39619.m3u8
+#EXTINF:-1,Slice HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2782.m3u8
+#EXTINF:-1,Showcase HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/75897.m3u8
+#EXTINF:-1,Peachtree HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39618.m3u8
+#EXTINF:-1,ID HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/7941.m3u8
+#EXTINF:-1,HGTV CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2860.m3u8
+#EXTINF:-1,TLC CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2752.m3u8
+#EXTINF:-1,Bravo CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73286.m3u8
+#EXTINF:-1,Discovery Channel CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2753.m3u8
+#EXTINF:-1,E! HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2760.m3u8
+#EXTINF:-1,Much Music HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73283.m3u8
+#EXTINF:-1,Vision TV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73294.m3u8
+#EXTINF:-1,Disney Channel CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2781.m3u8
+#EXTINF:-1,Disney Jr CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39620.m3u8
+#EXTINF:-1,Family CHRGD HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2858.m3u8
+#EXTINF:-1,Family HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2764.m3u8
+#EXTINF:-1,Treehouse HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2766.m3u8
+#EXTINF:-1,Teletoon HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2855.m3u8
+#EXTINF:-1,YTV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2854.m3u8
+#EXTINF:-1,CBC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2818.m3u8
+#EXTINF:-1,OMNI 1 HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2699.m3u8
+#EXTINF:-1,OMNI 2 HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2861.m3u8
+#EXTINF:-1,Animal Planet CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73287.m3u8
+#EXTINF:-1,Nat Geo CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73285.m3u8
+#EXTINF:-1,OWN CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73293.m3u8
+#EXTINF:-1,Velocity CA HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/73284.m3u8
+#EXTINF:-1,World Fishing TV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/77588.m3u8
+#EXTINF:-1,CityTV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2821.m3u8
+#EXTINF:-1,CBC Halifax HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/77949.m3u8
+#EXTINF:-1,CTV Halifax HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/77950.m3u8
+#EXTINF:-1,Global Halifax
+http://185.102.218.3:80/live/ktownmvp22/friday22/77951.m3u8
+#EXTINF:-1,NTV Halifax
+http://185.102.218.3:80/live/ktownmvp22/friday22/77952.m3u8
+#EXTINF:-1,ABC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2435.m3u8
+#EXTINF:-1,CBS HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2440.m3u8
+#EXTINF:-1,NBC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2455.m3u8
+#EXTINF:-1,FOX HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2448.m3u8
+#EXTINF:-1,CW HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/8198.m3u8
+#EXTINF:-1,A&E HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2463.m3u8
+#EXTINF:-1,AMC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2436.m3u8
+#EXTINF:-1,Food Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2913.m3u8
+#EXTINF:-1,Cooking Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/52259.m3u8
+#EXTINF:-1,Animal Planet HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2437.m3u8
+#EXTINF:-1,Bravo HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2438.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2439.m3u8
+#EXTINF:-1,Fox Business HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/34023.m3u8
+#EXTINF:-1,CNBC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2441.m3u8
+#EXTINF:-1,MSNBC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/3082.m3u8
+#EXTINF:-1,CNN News HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2442.m3u8
+#EXTINF:-1,Comedy Central HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2443.m3u8
+#EXTINF:-1,Destination America HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39437.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2445.m3u8
+#EXTINF:-1,Discovery Family HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/47566.m3u8
+#EXTINF:-1,Discovery Science HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/54628.m3u8
+#EXTINF:-1,Discovery Life HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/54868.m3u8
+#EXTINF:-1,Nat Geo HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2754.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/50910.m3u8
+#EXTINF:-1,History HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2915.m3u8
+#EXTINF:-1,Fox News HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2449.m3u8
+#EXTINF:-1,Weather Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/40877.m3u8
+#EXTINF:-1,FX HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2451.m3u8
+#EXTINF:-1,FXX HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2452.m3u8
+#EXTINF:-1,FXM HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56409.m3u8
+#EXTINF:-1,El Rey Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/38912.m3u8
+#EXTINF:-1,Nick HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2460.m3u8
+#EXTINF:-1,Nick Jr HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/38910.m3u8
+#EXTINF:-1,Disney Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/8197.m3u8
+#EXTINF:-1,Disney Jr HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39421.m3u8
+#EXTINF:-1,Disney XD HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2762.m3u8
+#EXTINF:-1,FreeForm HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2450.m3u8
+#EXTINF:-1,Universal Kids HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56461.m3u8
+#EXTINF:-1,Lifetime HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2465.m3u8
+#EXTINF:-1,Paramount Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2457.m3u8
+#EXTINF:-1,TBS HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2461.m3u8
+#EXTINF:-1,TNT HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2459.m3u8
+#EXTINF:-1,USA Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2462.m3u8
+#EXTINF:-1,Velocity HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2776.m3u8
+#EXTINF:-1,Travel Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39874.m3u8
+#EXTINF:-1,Outdoor Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/40878.m3u8
+#EXTINF:-1,Oxygen HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/40685.m3u8
+#EXTINF:-1,SYFY HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2458.m3u8
+#EXTINF:-1,Sundance HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2780.m3u8
+#EXTINF:-1,OWN HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2779.m3u8
+#EXTINF:-1,BBC America HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2456.m3u8
+#EXTINF:-1,HGTV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2454.m3u8
+#EXTINF:-1,DIY Network HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/40663.m3u8
+#EXTINF:-1,American Heroes Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/74790.m3u8
+#EXTINF:-1,Hallmark Channel HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2453.m3u8
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39629.m3u8
+#EXTINF:-1,Reelz HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/47564.m3u8
+#EXTINF:-1,Tru TV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2466.m3u8
+#EXTINF:-1,Revolt HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56459.m3u8
+#EXTINF:-1,Fusion HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56457.m3u8
+#EXTINF:-1,Fuse HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56452.m3u8
+#EXTINF:-1,GSN HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39847.m3u8
+#EXTINF:-1,POP HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56460.m3u8
+#EXTINF:-1,CMT HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/47565.m3u8
+#EXTINF:-1,FYI HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/56458.m3u8
+#EXTINF:-1,TLC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2777.m3u8
+#EXTINF:-1,PBS HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2774.m3u8
+#EXTINF:-1,BET HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/8246.m3u8
+#EXTINF:-1,IFC HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/2773.m3u8
+#EXTINF:-1,LMN HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/16705.m3u8
+#EXTINF:-1,MTV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/12901.m3u8
+#EXTINF:-1,MTV2 HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/57842.m3u8
+#EXTINF:-1,VH1 HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/39363.m3u8
+#EXTINF:-1,WE TV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/55523.m3u8
+#EXTINF:-1,Viceland HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/16318.m3u8
+#EXTINF:-1,AXS TV HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/74788.m3u8
+#EXTINF:-1,TVLand HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/40662.m3u8
+#EXTINF:-1,TVOne HD
+http://185.102.218.3:80/live/ktownmvp22/friday22/40695.m3u8
 
 
 
 
-
-#EXTINF:-1 group-title="UK/US Channels", UK.BT-Sports1
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1349|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.BT-Sports2
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1348|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK-Discovery-History.HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports1HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports2HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports3HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports4HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports5HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.SkySports.F1HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1320|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Action
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1332|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Scifi.Horror
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1327|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Modern
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1328|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Family
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1329|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Drama
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1330|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Comedy
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1331|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Thriller-HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1947|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movie-ShowCase
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1948|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Atlantic-Plus1
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1946|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Nat-GeoGraphic
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1340|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Discovery-Channel
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.SkyPremier
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3066|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.SkyLiving
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3065|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Seclect
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3069|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Disney
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3063|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Nickelodeon
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3071|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Discovery-Science.HD
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3059|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Animal-Planet
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3061|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Nat-Geo-Wild
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.History
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3060|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Alibi
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3057|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Itv-1
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3056|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Itv-2
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3055|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.Itv-3
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3054|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.DisneyXd
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3072|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.BBC-1
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1351|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.BBC-News
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3046|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.BBC-2
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1350|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.BBC-3
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 group-title="UK/US Channels", UK.BBC-4
-http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 
 
