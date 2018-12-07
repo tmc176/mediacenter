@@ -273,11 +273,80 @@
 <title>YTV WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
 <item>
-<title>HBO 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306171</link>
+<title>UK-Discovery-History.HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts</link>
 <item>
-<title>HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306170</link>
+<title>UK.Discovery-Channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts</link>
+
+#EXTINF:-1 group-title="UK/US Channels", UK.BT-Sports1
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1349|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.BT-Sports2
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1348|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK-Discovery-History.HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports1HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports2HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports3HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports4HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Sports5HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.SkySports.F1HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1320|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Action
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1332|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Scifi.Horror
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1327|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Modern
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1328|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Family
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1329|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Drama
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1330|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Comedy
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1331|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Thriller-HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1947|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movie-ShowCase
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1948|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Atlantic-Plus1
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1946|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Nat-GeoGraphic
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1340|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Discovery-Channel
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.SkyPremier
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3066|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.SkyLiving
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3065|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Movies-Seclect
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3069|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Sky-Disney
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3063|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Nickelodeon
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3071|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Discovery-Science.HD
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3059|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Animal-Planet
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3061|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Nat-Geo-Wild
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.History
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3060|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Alibi
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3057|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Itv-1
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3056|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Itv-2
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3055|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.Itv-3
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3054|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="UK/US Channels", UK.DisneyXd
+http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3072|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 
 
 
