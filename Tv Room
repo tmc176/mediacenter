@@ -231,6 +231,12 @@
 <title>FYI</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306182</link>
 <item>
+<title>HBO 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306171</link>
+<item>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306170</link>
+<item>
 <title>SILVER SCREEN CLASSICS</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306116</link>
 <item>
@@ -266,7 +272,12 @@
 <item>
 <title>YTV WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
-
+<item>
+<title>HBO 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306171</link>
+<item>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306170</link>
 
 
 
