@@ -156,6 +156,9 @@
 <title>CRIME INVEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts</link>
 <item>
+<title>DISCOVERY VELOCITY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308922</link>
+<item>
 <title>History Channel HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306167</link>
 <item>
@@ -276,14 +279,11 @@
 <title>YTV WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
 <item>
-<title>ME TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308857</link>
+<title>DISCOVERY VELOCITY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308922</link>
 <item>
 <title>OUTDOOR CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308818</link>
-#EXTINF:-1,USA: OUTDOOR CHANNEL
-http://s1.premiumhd.org:83/nuala1/nuala2/308818
-
-#EXTINF:-1,USA: ME TV
-http://s1.premiumhd.org:83/nuala1/nuala2/308857
+DISCOVERY VELOCITY
+http://s1.premiumhd.org:83/nuala1/nuala2/308922
 
