@@ -180,6 +180,9 @@
 <title>Outdoor Channel HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306129</link>
 <item>
+<title>ME TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308857</link>
+<item>
 <title>OLN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306135</link>
 <item>
@@ -273,12 +276,14 @@
 <title>YTV WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
 <item>
-<title>UK-Discovery-History.HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts</link>
+<title>ME TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308857</link>
 <item>
-<title>UK.Discovery-Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zona-live-tv.com/stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts</link>
+<title>OUTDOOR CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308818</link>
+#EXTINF:-1,USA: OUTDOOR CHANNEL
+http://s1.premiumhd.org:83/nuala1/nuala2/308818
 
-
-
+#EXTINF:-1,USA: ME TV
+http://s1.premiumhd.org:83/nuala1/nuala2/308857
 
