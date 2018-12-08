@@ -102,8 +102,8 @@
 <title>CNN INTERNATIONAL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts</link>
 <item>
-<title>HGTV East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306169</link>
+<title>USA: HGTV HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308871</link>
 <item>
 <title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
@@ -284,6 +284,7 @@
 <item>
 <title>OUTDOOR CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308818</link>
-DISCOVERY VELOCITY
-http://s1.premiumhd.org:83/nuala1/nuala2/308922
+
+#EXTINF:-1,USA: HGTV FHD
+http://s1.premiumhd.org:83/nuala1/nuala2/308872
 
