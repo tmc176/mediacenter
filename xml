@@ -1,146 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="sky.de">
-  <channels>
-    <channel update="i" site="sky.de" site_id="2" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
-    <channel update="i" site="sky.de" site_id="498" xmltv_id="Sky Atlantic+1 HD">Sky Atlantic+1 HD</channel>
-    <channel update="i" site="sky.de" site_id="4" xmltv_id="Fox HD">Fox HD</channel>
-    <channel update="i" site="sky.de" site_id="6" xmltv_id="TNT Serie HD">TNT Serie HD</channel>
-    <channel update="i" site="sky.de" site_id="446" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
-    <channel update="i" site="sky.de" site_id="115" xmltv_id="Syfy HD">Syfy HD</channel>
-    <channel update="i" site="sky.de" site_id="116" xmltv_id="13th Street HD">13th Street HD</channel>
-    <channel update="i" site="sky.de" site_id="13" xmltv_id="AXN HD">AXN HD</channel>
-    <channel update="i" site="sky.de" site_id="172" xmltv_id="Universal HD">Universal HD</channel>
-    <channel update="i" site="sky.de" site_id="522" xmltv_id="TNT Comedy HD">TNT Comedy HD</channel>
-    <channel update="i" site="sky.de" site_id="117" xmltv_id="E! Entertainm. HD">E! Entertainm. HD</channel>
-    <channel update="i" site="sky.de" site_id="175" xmltv_id="Pro7 FUN HD">Pro7 FUN HD</channel>
-    <channel update="i" site="sky.de" site_id="1" xmltv_id="Sky Krimi">Sky Krimi</channel>
-    <channel update="i" site="sky.de" site_id="174" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
-    <channel update="i" site="sky.de" site_id="3" xmltv_id="Fox Serie">Fox Serie</channel>
-    <channel update="i" site="sky.de" site_id="5" xmltv_id="TNT Serie">TNT Serie</channel>
-    <channel update="i" site="sky.de" site_id="7" xmltv_id="RTL Crime">RTL Crime</channel>
-    <channel update="i" site="sky.de" site_id="8" xmltv_id="Syfy">Syfy</channel>
-    <channel update="i" site="sky.de" site_id="9" xmltv_id="13th Street">13th Street</channel>
-    <channel update="i" site="sky.de" site_id="11" xmltv_id="RTL Passion">RTL Passion</channel>
-    <channel update="i" site="sky.de" site_id="10" xmltv_id="RTL Living">RTL Living</channel>
-    <channel update="i" site="sky.de" site_id="12" xmltv_id="AXN Action">AXN Action</channel>
-    <channel update="i" site="sky.de" site_id="14" xmltv_id="Animax">Animax</channel>
-    <channel update="i" site="sky.de" site_id="15" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
-    <channel update="i" site="sky.de" site_id="16" xmltv_id="Romance TV">Romance TV</channel>
-    <channel update="i" site="sky.de" site_id="17" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
-    <channel update="i" site="sky.de" site_id="118" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
-    <channel update="i" site="sky.de" site_id="119" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
-    <channel update="i" site="sky.de" site_id="120" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
-    <channel update="i" site="sky.de" site_id="121" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
-    <channel update="i" site="sky.de" site_id="122" xmltv_id="Sky Bundesliga HD 5">Sky Bundesliga HD 5</channel>
-    <channel update="i" site="sky.de" site_id="123" xmltv_id="Sky Bundesliga HD 6">Sky Bundesliga HD 6</channel>
-    <channel update="i" site="sky.de" site_id="124" xmltv_id="Sky Bundesliga HD 7">Sky Bundesliga HD 7</channel>
-    <channel update="i" site="sky.de" site_id="125" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
-    <channel update="i" site="sky.de" site_id="126" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
-    <channel update="i" site="sky.de" site_id="127" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
-    <channel update="i" site="sky.de" site_id="128" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
-    <channel update="i" site="sky.de" site_id="129" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
-    <channel update="i" site="sky.de" site_id="130" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
-    <channel update="i" site="sky.de" site_id="131" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
-    <channel update="i" site="sky.de" site_id="132" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
-    <channel update="i" site="sky.de" site_id="133" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
-    <channel update="i" site="sky.de" site_id="134" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
-    <channel update="i" site="sky.de" site_id="135" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
-    <channel update="i" site="sky.de" site_id="136" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
-    <channel update="i" site="sky.de" site_id="137" xmltv_id="Sky Sport HD 10">Sky Sport HD 10</channel>
-    <channel update="i" site="sky.de" site_id="138" xmltv_id="Sky Sport HD 11">Sky Sport HD 11</channel>
-    <channel update="i" site="sky.de" site_id="492" xmltv_id="Sky Sport Austria HD">Sky Sport Austria HD</channel>
-    <channel update="i" site="sky.de" site_id="162" xmltv_id="Sport1 US HD">Sport1 US HD</channel>
-    <channel update="i" site="sky.de" site_id="173" xmltv_id="Sport1 US HD 1">Sport1 US HD 1</channel>
-    <channel update="i" site="sky.de" site_id="53" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
-    <channel update="i" site="sky.de" site_id="51" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="sky.de" site_id="161" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="sky.de" site_id="163" xmltv_id="Eurosport360HD 1">Eurosport360HD 1</channel>
-    <channel update="i" site="sky.de" site_id="164" xmltv_id="Eurosport360HD 2">Eurosport360HD 2</channel>
-    <channel update="i" site="sky.de" site_id="165" xmltv_id="Eurosport360HD 3">Eurosport360HD 3</channel>
-    <channel update="i" site="sky.de" site_id="166" xmltv_id="Eurosport360HD 4">Eurosport360HD 4</channel>
-    <channel update="i" site="sky.de" site_id="167" xmltv_id="Eurosport360HD 5">Eurosport360HD 5</channel>
-    <channel update="i" site="sky.de" site_id="168" xmltv_id="Eurosport360HD 6">Eurosport360HD 6</channel>
-    <channel update="i" site="sky.de" site_id="169" xmltv_id="Eurosport360HD 7">Eurosport360HD 7</channel>
-    <channel update="i" site="sky.de" site_id="170" xmltv_id="Eurosport360HD 8">Eurosport360HD 8</channel>
-    <channel update="i" site="sky.de" site_id="171" xmltv_id="Eurosport360HD 9">Eurosport360HD 9</channel>
-    <channel update="i" site="sky.de" site_id="21" xmltv_id="Sky Sport News">Sky Sport News</channel>
-    <channel update="i" site="sky.de" site_id="139" xmltv_id="Sky Bundesliga 1">Sky Bundesliga 1</channel>
-    <channel update="i" site="sky.de" site_id="140" xmltv_id="Sky Bundesliga 2">Sky Bundesliga 2</channel>
-    <channel update="i" site="sky.de" site_id="141" xmltv_id="Sky Bundesliga 3">Sky Bundesliga 3</channel>
-    <channel update="i" site="sky.de" site_id="142" xmltv_id="Sky Bundesliga 4">Sky Bundesliga 4</channel>
-    <channel update="i" site="sky.de" site_id="143" xmltv_id="Sky Bundesliga 5">Sky Bundesliga 5</channel>
-    <channel update="i" site="sky.de" site_id="144" xmltv_id="Sky Bundesliga 6">Sky Bundesliga 6</channel>
-    <channel update="i" site="sky.de" site_id="145" xmltv_id="Sky Bundesliga 7">Sky Bundesliga 7</channel>
-    <channel update="i" site="sky.de" site_id="146" xmltv_id="Sky Bundesliga 8">Sky Bundesliga 8</channel>
-    <channel update="i" site="sky.de" site_id="147" xmltv_id="Sky Bundesliga 9">Sky Bundesliga 9</channel>
-    <channel update="i" site="sky.de" site_id="148" xmltv_id="Sky Bundesliga 10">Sky Bundesliga 10</channel>
-    <channel update="i" site="sky.de" site_id="149" xmltv_id="Sky Sport  1">Sky Sport  1</channel>
-    <channel update="i" site="sky.de" site_id="150" xmltv_id="Sky Sport  2">Sky Sport  2</channel>
-    <channel update="i" site="sky.de" site_id="151" xmltv_id="Sky Sport  3">Sky Sport  3</channel>
-    <channel update="i" site="sky.de" site_id="152" xmltv_id="Sky Sport  4">Sky Sport  4</channel>
-    <channel update="i" site="sky.de" site_id="153" xmltv_id="Sky Sport  5">Sky Sport  5</channel>
-    <channel update="i" site="sky.de" site_id="154" xmltv_id="Sky Sport  6">Sky Sport  6</channel>
-    <channel update="i" site="sky.de" site_id="155" xmltv_id="Sky Sport  7">Sky Sport  7</channel>
-    <channel update="i" site="sky.de" site_id="156" xmltv_id="Sky Sport  8">Sky Sport  8</channel>
-    <channel update="i" site="sky.de" site_id="157" xmltv_id="Sky Sport  9">Sky Sport  9</channel>
-    <channel update="i" site="sky.de" site_id="158" xmltv_id="Sky Sport  10">Sky Sport  10</channel>
-    <channel update="i" site="sky.de" site_id="159" xmltv_id="Sky Sport  11">Sky Sport  11</channel>
-    <channel update="i" site="sky.de" site_id="47" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
-    <channel update="i" site="sky.de" site_id="114" xmltv_id="Sportdigital HD">Sportdigital HD</channel>
-    <channel update="i" site="sky.de" site_id="56" xmltv_id="Sky Cinema HD">Sky Cinema HD</channel>
-    <channel update="i" site="sky.de" site_id="447" xmltv_id="Sky Cinema+1 HD">Sky Cinema+1 HD</channel>
-    <channel update="i" site="sky.de" site_id="448" xmltv_id="Sky Cinema+24 HD">Sky Cinema+24 HD</channel>
-    <channel update="i" site="sky.de" site_id="65" xmltv_id="Sky Hits HD">Sky Hits HD</channel>
-    <channel update="i" site="sky.de" site_id="60" xmltv_id="Sky Action HD">Sky Action HD</channel>
-    <channel update="i" site="sky.de" site_id="67" xmltv_id="Disney Cinemagic HD">Disney Cinemagic HD</channel>
-    <channel update="i" site="sky.de" site_id="160" xmltv_id="MGM HD">MGM HD</channel>
-    <channel update="i" site="sky.de" site_id="54" xmltv_id="Sky 3D">Sky 3D</channel>
-    <channel update="i" site="sky.de" site_id="55" xmltv_id="Sky Cinema">Sky Cinema</channel>
-    <channel update="i" site="sky.de" site_id="57" xmltv_id="Sky Cinema+1">Sky Cinema+1</channel>
-    <channel update="i" site="sky.de" site_id="58" xmltv_id="Sky Cinema+24">Sky Cinema+24</channel>
-    <channel update="i" site="sky.de" site_id="64" xmltv_id="Sky Hits">Sky Hits</channel>
-    <channel update="i" site="sky.de" site_id="59" xmltv_id="Sky Action">Sky Action</channel>
-    <channel update="i" site="sky.de" site_id="61" xmltv_id="Sky Comedy">Sky Comedy</channel>
-    <channel update="i" site="sky.de" site_id="62" xmltv_id="Sky Emotion">Sky Emotion</channel>
-    <channel update="i" site="sky.de" site_id="63" xmltv_id="Sky Nostalgie">Sky Nostalgie</channel>
-    <channel update="i" site="sky.de" site_id="66" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
-    <channel update="i" site="sky.de" site_id="68" xmltv_id="MGM">MGM</channel>
-    <channel update="i" site="sky.de" site_id="72" xmltv_id="Heimatkanal">Heimatkanal</channel>
-    <channel update="i" site="sky.de" site_id="69" xmltv_id="TNT Film (TCM)">TNT Film (TCM)</channel>
-    <channel update="i" site="sky.de" site_id="70" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
-    <channel update="i" site="sky.de" site_id="71" xmltv_id="kabel eins classics">kabel eins classics</channel>
-    <channel update="i" site="sky.de" site_id="73" xmltv_id="Beate-Uhse.TV">Beate-Uhse.TV</channel>
-    <channel update="i" site="sky.de" site_id="113" xmltv_id="Sky Select HD">Sky Select HD</channel>
-    <channel update="i" site="sky.de" site_id="102" xmltv_id="Sky Select 1">Sky Select 1</channel>
-    <channel update="i" site="sky.de" site_id="103" xmltv_id="Sky Select 2">Sky Select 2</channel>
-    <channel update="i" site="sky.de" site_id="104" xmltv_id="Sky Select 3">Sky Select 3</channel>
-    <channel update="i" site="sky.de" site_id="105" xmltv_id="Sky Select 4">Sky Select 4</channel>
-    <channel update="i" site="sky.de" site_id="106" xmltv_id="Sky Select 5">Sky Select 5</channel>
-    <channel update="i" site="sky.de" site_id="107" xmltv_id="Sky Select 6">Sky Select 6</channel>
-    <channel update="i" site="sky.de" site_id="108" xmltv_id="Sky Select 7">Sky Select 7</channel>
-    <channel update="i" site="sky.de" site_id="109" xmltv_id="Sky Select 8">Sky Select 8</channel>
-    <channel update="i" site="sky.de" site_id="110" xmltv_id="Sky Select 9">Sky Select 9</channel>
-    <channel update="i" site="sky.de" site_id="111" xmltv_id="Sky Select Event A">Sky Select Event A</channel>
-    <channel update="i" site="sky.de" site_id="112" xmltv_id="Sky Select Event B">Sky Select Event B</channel>
-    <channel update="i" site="sky.de" site_id="81" xmltv_id="NatGeo HD">NatGeo HD</channel>
-    <channel update="i" site="sky.de" site_id="88" xmltv_id="NatGeo Wild HD">NatGeo Wild HD</channel>
-    <channel update="i" site="sky.de" site_id="388" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
-    <channel update="i" site="sky.de" site_id="86" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="sky.de" site_id="83" xmltv_id="Discovery HD">Discovery HD</channel>
-    <channel update="i" site="sky.de" site_id="52" xmltv_id="Motorvision TV">Motorvision TV</channel>
-    <channel update="i" site="sky.de" site_id="451" xmltv_id="A&amp;E">A&amp;E</channel>
-    <channel update="i" site="sky.de" site_id="82" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="sky.de" site_id="80" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="sky.de" site_id="87" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
-    <channel update="i" site="sky.de" site_id="84" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
-    <channel update="i" site="sky.de" site_id="387" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
-    <channel update="i" site="sky.de" site_id="92" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="sky.de" site_id="93" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="sky.de" site_id="96" xmltv_id="Junior">Junior</channel>
-    <channel update="i" site="sky.de" site_id="94" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="sky.de" site_id="95" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="sky.de" site_id="452" xmltv_id="Juk1ebox">Jukebox</channel>
-    <channel update="i" site="sky.de" site_id="98" xmltv_id="Goldstar TV">Goldstar TV</channel>
-    <channel update="i" site="sky.de" site_id="99" xmltv_id="Classica">Classica</channel>
-  </channels>
-</site>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="World Fishing Network">
+    <display-name lang="en">World Fishing Network</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="en">HGTV</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <programme start="20181209140000 -0500" stop="20181209143000 -0500" channel="World Fishing Network">
+    <title lang="en">Collegiate Bass Championships</title>
+    <sub-title lang="en">2018 Cabela's School of the Year presented by Abu Garcia &amp; 2018 Championship Pre</sub-title>
+    <desc lang="en">Cabela's Collegiate Bass Fishing Series takes a look at the Cabela's School of the Year presented by Abu Garcia race, the most coveted title in college fishing(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209143000 -0500" stop="20181209150000 -0500" channel="World Fishing Network">
+    <title lang="en">Skeeter Basschamps with Fish Fishburne</title>
+    <sub-title lang="en">Team Champs vs TX Shootout</sub-title>
+    <desc lang="en">Watch as the Team Championship winners take on the TX Shootout Winners(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209150000 -0500" stop="20181209153000 -0500" channel="World Fishing Network">
+    <title lang="en">National Walleye Tour</title>
+    <sub-title lang="en">2018 NWT Devils Lake Wraps Up</sub-title>
+    <desc lang="en">The National Walleye Tour continues with the 2018 Devils Lake event where things may have started off slow but ended up with some superb walleye fishing(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209153000 -0500" stop="20181209160000 -0500" channel="World Fishing Network">
+    <title lang="en">Force on Force</title>
+    <sub-title lang="en">Preliminary Round #3</sub-title>
+    <desc lang="en">Best friends and two time Champions Sean Dalrymple and Jeff Campbell are surprised with a new twist in this Preliminary round(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209160000 -0500" stop="20181209163000 -0500" channel="World Fishing Network">
+    <title lang="en">Strike King's Fish Hard</title>
+    <sub-title lang="en">St. Clair Kentucky Fork</sub-title>
+    <desc lang="en">James Niggemeyer fishes a Lake in East Texas for Lunker bass(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209163000 -0500" stop="20181209170000 -0500" channel="World Fishing Network">
+    <title lang="en">Pro Team Journal</title>
+    <sub-title lang="en">KVD Squared</sub-title>
+    <desc lang="en">Fishing Legend Kevin Vandam utilizes the squarebill family of baits he helped design to catch smallmouth bass in one of the many lakes surrounding Traverse City, Michigan(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209170000 -0500" stop="20181209173000 -0500" channel="World Fishing Network">
+    <title lang="en">Angler West TV</title>
+    <sub-title lang="en">Columbia River &amp; Potholes Walleye</sub-title>
+    <desc lang="en">Fish the Columbia at Boardman, OR for Walleye with guide, Walleye Willie along with Raith Heryford &amp; Todd Storm(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209173000 -0500" stop="20181209180000 -0500" channel="World Fishing Network">
+    <title lang="en">Angler and Hunter Television</title>
+    <sub-title lang="en">Hunting is for the Dogs</sub-title>
+    <desc lang="en">Dogs are man's best friend, and a hunting dog is an invaluable companion. From a house pet to a champion bird dog, we highlight the spaniel breeds that make hunting upland game so popular(n)</desc>
+    <category lang="en">Information Program</category>
+  </programme>
+  <programme start="20181209180000 -0500" stop="20181209183000 -0500" channel="World Fishing Network">
+    <title lang="en">Fins n' Skins Classic Adventures</title>
+    <sub-title lang="en">Chad Besplug in Saskatoon</sub-title>
+    <desc lang="en">This week we head to the historic Whitecap Dakota First Nation lands at the heights of the South Saskatchewan River Valley Basin, just south of Saskatoon, Canada(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209183000 -0500" stop="20181209190000 -0500" channel="World Fishing Network">
+    <title lang="en">Trev Gowdy's Monster Fish</title>
+    <sub-title lang="en">Northumberland Strait Bluefin</sub-title>
+    <desc lang="en">Fred battles monster Bluefin in the Northumberland Strait in Canadian waters(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209190000 -0500" stop="20181209193000 -0500" channel="World Fishing Network">
+    <title lang="en">JP DeRose Breaking Boundaries</title>
+    <sub-title lang="en">Tropic star lodge jigging</sub-title>
+    <desc lang="en">Fishing show(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209193000 -0500" stop="20181209200000 -0500" channel="World Fishing Network">
+    <title lang="en">Reel west coast</title>
+    <sub-title lang="en">Tofino coho derby</sub-title>
+    <desc lang="en">Fishing show(n)</desc>
+    <category lang="en">Sports Program</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20181209200000 -0500" stop="20181209203000 -0500" channel="World Fishing Network">
+    <title lang="en">Wild Fish Wild Places</title>
+    <sub-title lang="en">Kamchatka Russia</sub-title>
+    <desc lang="en">Dreu and Denis have been waiting 10 years for this trip to come to fruition(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209203000 -0500" stop="20181209210000 -0500" channel="World Fishing Network">
+    <title lang="en">Hooked on Africa</title>
+    <sub-title lang="en">Still Waters</sub-title>
+    <desc lang="en">Gareth and Jeremy further explore the the superb dams of the Natal Midlands(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209210000 -0500" stop="20181209213000 -0500" channel="World Fishing Network">
+    <title lang="en">The MudbuMs</title>
+    <sub-title lang="en">The End of the World, Part 2</sub-title>
+    <desc lang="en">The boys are still down south at the mouth of the Big Muddy(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209213000 -0500" stop="20181209220000 -0500" channel="World Fishing Network">
+    <title lang="en">Dirt Bags</title>
+    <sub-title lang="en">Urban Fly Fishing</sub-title>
+    <desc lang="en">Cort and Derek head to the city of Miami and meet up with their friend Eric Estrada to fish in the urban canals and in the ocean(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209220000 -0500" stop="20181209223000 -0500" channel="World Fishing Network">
+    <title lang="en">Charlie Moore: No Offense</title>
+    <sub-title lang="en">No Crabbin' Around</sub-title>
+    <desc lang="en">Charlie travels to beautiful Annapolis, Maryland. He hooks up with a local old-time fishing crew and catches white bass and stripers(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209223000 -0500" stop="20181209230000 -0500" channel="World Fishing Network">
+    <title lang="en">The Obsession of Carter Andrews</title>
+    <sub-title lang="en">Score to Settle</sub-title>
+    <desc lang="en">Carter and Mike Holiday wreck fish the Treasure Coast before Carter decides he has a score to settle back on the beach(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209230000 -0500" stop="20181209233000 -0500" channel="World Fishing Network">
+    <title lang="en">JP DeRose Breaking Boundaries</title>
+    <sub-title lang="en">Tropic star lodge jigging</sub-title>
+    <desc lang="en">Fishing show(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20181209233000 -0500" stop="20181210000000 -0500" channel="World Fishing Network">
+    <title lang="en">Reel west coast</title>
+    <sub-title lang="en">Tofino coho derby</sub-title>
+    <desc lang="en">Fishing show(n)</desc>
+    <category lang="en">Sports Program</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20181209140000 -0500" stop="20181209150000 -0500" channel="HGTV">
+    <title lang="en">Pas le choix de rénover!</title>
+    <sub-title lang="en">Style Home for a New Family</sub-title>
+    <desc lang="en">Chip and Joanna take on a historical project for Courtney and Joey Scrivano, who are ready to upgrade from their modest loft to a house where they can raise their new baby. The 1927 Tudor home is outdated and lacks a true master suite(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209150000 -0500" stop="20181209160000 -0500" channel="HGTV">
+    <title lang="en">Pas le choix de rénover!</title>
+    <sub-title lang="en">New Chapter for Family of Four</sub-title>
+    <desc lang="en">After looking at houses for months with no luck, Gayle and Tim Jackson need help to find a new place for their family of four that has four bedrooms and three bathrooms that, ideally, can be renovated within their budget(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209160000 -0500" stop="20181209170000 -0500" channel="HGTV">
+    <title lang="en">Pas le choix de rénover!</title>
+    <sub-title lang="en">A Modern Cabin Makeover</sub-title>
+    <desc lang="en">Chip and Joanna team up with their friend Jimmy Don to transform a bland little house into a modern mountain cabin for his son. Special guest First Lady Laura Bush helps with the finishing touches(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209170000 -0500" stop="20181209173000 -0500" channel="HGTV">
+    <title lang="en">Desert Flippers</title>
+    <sub-title lang="en">Bedroom Flip</sub-title>
+    <desc lang="en">Lindsey and Eric find a five-bedroom home with a list price well below the area comps. Although the property looks good on the outside, the interior is a mess that was left in a state of mid-renovation(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209173000 -0500" stop="20181209180000 -0500" channel="HGTV">
+    <title lang="en">Desert Flippers</title>
+    <sub-title lang="en">Just Add Water</sub-title>
+    <desc lang="en">Lindsey and Eric Bennett look to turn a quick profit after finding a great deal on a house(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209180000 -0500" stop="20181209183000 -0500" channel="HGTV">
+    <title lang="en">Desert Flippers</title>
+    <sub-title lang="en">Flight Path Flip</sub-title>
+    <desc lang="en">With low inventory in the desert, Lindsey and Eric take a risk and purchase a home that sits at the end of an airport runway. The key to the flip is blowing away buyers with a new open concept inside and massive entertaining and living space outside(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209183000 -0500" stop="20181209190000 -0500" channel="HGTV">
+    <title lang="en">Desert Flippers</title>
+    <sub-title lang="en">Attack of the Tree</sub-title>
+    <desc lang="en">Lindsey and Eric get more than they bargained for when they buy an abandoned, overgrown home. After peeling away the dirt and grime, they hope to update the design and maximize the house's stunning mountain views(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209190000 -0500" stop="20181209193000 -0500" channel="HGTV">
+    <title lang="en">Desert Flippers</title>
+    <sub-title lang="en">Attack of the Shack</sub-title>
+    <desc lang="en">Eric and Lindsey Bennett take on a property in disrepair that has been deemed a tear-down by the seller. The flippers think they can salvage the home and give it new life, but the more they uncover, the more frightening this flip becomes(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209193000 -0500" stop="20181209200000 -0500" channel="HGTV">
+    <title lang="en">Desert Flippers</title>
+    <sub-title lang="en">Hot Mess</sub-title>
+    <desc lang="en">Lindsey and Eric take on a challenging fire-damaged home with a low price tag and high-market risk(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209200000 -0500" stop="20181209210000 -0500" channel="HGTV">
+    <title lang="en">Pas le choix de rénover!</title>
+    <sub-title lang="en">Loving Dreamhouse</sub-title>
+    <desc lang="en">Andrew and Brittany Chapman are looking to buy their first home together in the Mountainview area. With a strong budget, it opens up many possibilities for the Chapmans(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209210000 -0500" stop="20181209220000 -0500" channel="HGTV">
+    <title lang="en">Beachfront Bargain Hunt: Renovation</title>
+    <sub-title lang="en">Major Makeover in Maryland</sub-title>
+    <desc lang="en">A couple hunts for a family beach house in Maryland and settles on a smaller home in the perfect location(n)</desc>
+    <category lang="en">Information Program</category>
+  </programme>
+  <programme start="20181209220000 -0500" stop="20181209230000 -0500" channel="HGTV">
+    <title lang="en">Holmes + Holmes</title>
+    <sub-title lang="en">Smart Suburban Holmes</sub-title>
+    <desc lang="en">With the interior of the river house complete, it's time to focus on the suburban home as the open house date fast approaches. Mike, MJ and the crew work feverishly to get the smart home ready and receive the valuation they're hoping to earn(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+  <programme start="20181209230000 -0500" stop="20181210000000 -0500" channel="HGTV">
+    <title lang="en">Pas le choix de rénover!</title>
+    <sub-title lang="en">Loving Dreamhouse</sub-title>
+    <desc lang="en">Andrew and Brittany Chapman are looking to buy their first home together in the Mountainview area. With a strong budget, it opens up many possibilities for the Chapmans(n)</desc>
+    <category lang="en">Reality Show Program</category>
+  </programme>
+</tv>
