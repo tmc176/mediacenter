@@ -1,6 +1,9 @@
 <streamingInfos>
 
 <item>
+<title>CANADA",CBC Television</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8</link>
+<item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts</link>
 <item>
@@ -17,7 +20,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts</link>
 <item>
 <title>GLOBAL TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8</link>
 <item>
 <title>GLOBAL VANCOUVER</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts</link>
@@ -163,14 +166,22 @@
 <title>USA Network HD US</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/547</link>
 <item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>CANADA",World Fishing Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8</link>
+<item>
+<title>YES Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/48.m3u8</link>
+<item>
+<title>USA",TLC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/2/live.m3u8</link>
+<item>
+<title>"USA",Science Channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/9/live.m3u8</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-
 
 
