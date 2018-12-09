@@ -99,789 +99,223 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-#EXTINF:-1,24/7 | A TOUCH OF FROST (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320460
-#EXTINF:-1,24/7 | ABSOLUTELY FABULOUS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/321973
-#EXTINF:-1,24/7 | ALASKAN BUSH PEOPLE (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324547
-#EXTINF:-1,24/7 | AUF WIEDERSEHEN PET (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325959
-#EXTINF:-1,24/7 | AUSTIN POWERS MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320640
-#EXTINF:-1,24/7 | BACK TO THE FUTURE MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324601
-#EXTINF:-1,24/7 | BALLERS S1-3 (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320303
-#EXTINF:-1,24/7 | BAND OF BROTHERS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/326003
-#EXTINF:-1,24/7 | BLACK MIRROR (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325420
-#EXTINF:-1,24/7 | BLACKADDER (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320728
-#EXTINF:-1,24/7 | BRUCE/BRANDON LEE (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324990
-#EXTINF:-1,24/7 | DINNERLADIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320472
-#EXTINF:-1,24/7 | DIRTY MONEY (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324546
-#EXTINF:-1,24/7 | ECW RISE AND FALL (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320509
-#EXTINF:-1,24/7 | FUTURAMA (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325387
-#EXTINF:-1,24/7 | GAME SHAKERS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320833
-#EXTINF:-1,24/7 | GAVIN & STACEY (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320691
-#EXTINF:-1,24/7 | GOODNIGHT SWEETHEART (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320471
-#EXTINF:-1,24/7 | HARRY POTTER MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324598
-#EXTINF:-1,24/7 | HEY DUGGEE (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325385
-#EXTINF:-1,24/7 | INBETWEENERS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320465
-#EXTINF:-1,24/7 | IT AINT HALF HOT MUM (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320459
-#EXTINF:-1,24/7 | MEN BEHAVING BADLY (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320727
-#EXTINF:-1,24/7 | MIGHTY BOOSH (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325787
-#EXTINF:-1,24/7 | MORECAMBE AND WISE SHOW (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320506
-#EXTINF:-1,24/7 | ONLY FOOLS & HORSES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320641
-#EXTINF:-1,24/7 | ONLY FOOLS XMAS SPECIAL (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320662
-#EXTINF:-1,24/7 | OPEN ALL HOURS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320466
-#EXTINF:-1,24/7 | PLANET OF THE APES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320462
-#EXTINF:-1,24/7 | PORRIDGE (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320505
-#EXTINF:-1,24/7 | POWER (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324577
-#EXTINF:-1,24/7 | RAB C NESBITT (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/321849
-#EXTINF:-1,24/7 | RISING DAMP (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320507
-#EXTINF:-1,24/7 | SERIAL KILLERS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324545
-#EXTINF:-1,24/7 | SHREK MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320468
-#EXTINF:-1,24/7 | SOMETHING SPECIAL (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325449
-#EXTINF:-1,24/7 | TAKEN MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324603
-#EXTINF:-1,24/7 | THE BOURNE MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324605
-#EXTINF:-1,24/7 | THE EXPENDABLES MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324604
-#EXTINF:-1,24/7 | THE FAST SHOW (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320729
-#EXTINF:-1,24/7 | THE ROYLE FAMILY (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324426
-#EXTINF:-1,24/7 | THE UNKNOWN WAR (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324543
-#EXTINF:-1,24/7 | THE YOUNG ONES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320684
-#EXTINF:-1,24/7 | TOP GEAR SPECIALS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325964
-#EXTINF:-1,24/7 | TOY STORY MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320726
-#EXTINF:-1,24/7 | TRANSFOMERS MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324599
-#EXTINF:-1,24/7 | TWO PINTS & A PACKET OF CRISPS (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/324600
-#EXTINF:-1,24/7 | WCW RISE AND FALL (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/320510
-#EXTINF:-1,24/7| CHRISTMAS MOVIES (L)
-http://s1.premiumhd.org:83/nuala1/nuala2/325016
-#EXTINF:-1,24/7 | A DIFFERENT WORLD
-http://s1.premiumhd.org:83/nuala1/nuala2/324625
-#EXTINF:-1,24/7 | ADVENTURE TIME
-http://s1.premiumhd.org:83/nuala1/nuala2/303086
-#EXTINF:-1,24/7 | ADVENTURES OF PETE & PETE
-http://s1.premiumhd.org:83/nuala1/nuala2/314003
-#EXTINF:-1,24/7 | ALAN PARTRIDGE
-http://s1.premiumhd.org:83/nuala1/nuala2/303085
-#EXTINF:-1,24/7 | AMERICAN DAD
-http://s1.premiumhd.org:83/nuala1/nuala2/168536
-#EXTINF:-1,24/7 | AMERICAN HORROR STORY
-http://s1.premiumhd.org:83/nuala1/nuala2/309343
-#EXTINF:-1,24/7 | AMERICAN PICKERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302532
-#EXTINF:-1,24/7 | AMERICAS FUNNIEST HOME VIDEOS
-http://s1.premiumhd.org:83/nuala1/nuala2/324624
-#EXTINF:-1,24/7 | ANCIENT ALIENS
-http://s1.premiumhd.org:83/nuala1/nuala2/309342
-#EXTINF:-1,24/7 | ANCIENT ALIENS (Season 13)
-http://s1.premiumhd.org:83/nuala1/nuala2/324623
-#EXTINF:-1,24/7 | AQUA TEEN HUNGER FORCE
-http://s1.premiumhd.org:83/nuala1/nuala2/320186
-#EXTINF:-1,24/7 | ARE YOU AFRAID OF THE DARK
-http://s1.premiumhd.org:83/nuala1/nuala2/302530
-#EXTINF:-1,24/7 | ARNOLD SCHWARZENEGGER MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324423
-#EXTINF:-1,24/7 | ARRESTED DEVELOPMENT
-http://s1.premiumhd.org:83/nuala1/nuala2/303083
-#EXTINF:-1,24/7 | ARROW
-http://s1.premiumhd.org:83/nuala1/nuala2/309341
-#EXTINF:-1,24/7 | BACK TO THE FUTURE MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/303069
-#EXTINF:-1,24/7 | BANSHEE
-http://s1.premiumhd.org:83/nuala1/nuala2/309340
-#EXTINF:-1,24/7 | BAR RESCUE
-http://s1.premiumhd.org:83/nuala1/nuala2/302528
-#EXTINF:-1,24/7 | BARNEY AND FRIENDS
-http://s1.premiumhd.org:83/nuala1/nuala2/325413
-#EXTINF:-1,24/7 | BATMAN
-http://s1.premiumhd.org:83/nuala1/nuala2/302527
-#EXTINF:-1,24/7 | BATMAN BRAVE & THE BOLD
-http://s1.premiumhd.org:83/nuala1/nuala2/303078
-#EXTINF:-1,24/7 | BATMAN THE ANIMATED SERIES
-http://s1.premiumhd.org:83/nuala1/nuala2/303066
-#EXTINF:-1,24/7 | BATTLESTAR GALACTICA I
-http://s1.premiumhd.org:83/nuala1/nuala2/302526
-#EXTINF:-1,24/7 | BEAUTIFUL RELAXING NATURE
-http://s1.premiumhd.org:83/nuala1/nuala2/320185
-#EXTINF:-1,24/7 | BENIDORM
-http://s1.premiumhd.org:83/nuala1/nuala2/302837
-#EXTINF:-1,24/7 | BERNIE MAC SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/305102
-#EXTINF:-1,24/7 | BETTER CALL SAUL
-http://s1.premiumhd.org:83/nuala1/nuala2/320184
-#EXTINF:-1,24/7 | BILLY CONNOLLY STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/303064
-#EXTINF:-1,24/7 | BILLY THE EXTERMINATOR
-http://s1.premiumhd.org:83/nuala1/nuala2/324622
-#EXTINF:-1,24/7 | BLACKLADDER
-http://s1.premiumhd.org:83/nuala1/nuala2/303062
-#EXTINF:-1,24/7 | BLAZE & THE MONSTER MACHINES
-http://s1.premiumhd.org:83/nuala1/nuala2/303075
-#EXTINF:-1,24/7 | BLOSSOM
-http://s1.premiumhd.org:83/nuala1/nuala2/309338
-#EXTINF:-1,24/7 | BOBS BURGERS I
-http://s1.premiumhd.org:83/nuala1/nuala2/268810
-#EXTINF:-1,24/7 | BOBS BURGERS II
-http://s1.premiumhd.org:83/nuala1/nuala2/303059
-#EXTINF:-1,24/7 | BOBS BURGERS III
-http://s1.premiumhd.org:83/nuala1/nuala2/303058
-#EXTINF:-1,24/7 | BONANZA
-http://s1.premiumhd.org:83/nuala1/nuala2/314002
-#EXTINF:-1,24/7 | BOTTOM
-http://s1.premiumhd.org:83/nuala1/nuala2/144000
-#EXTINF:-1,24/7 | BOXING MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/303057
-#EXTINF:-1,24/7 | BOY MEETS WORLD
-http://s1.premiumhd.org:83/nuala1/nuala2/305103
-#EXTINF:-1,24/7 | BRAD PITT MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/325963
-#EXTINF:-1,24/7 | BREAKING BAD
-http://s1.premiumhd.org:83/nuala1/nuala2/303072
-#EXTINF:-1,24/7 | BUFFY THE VAMPIRE SLAYER
-http://s1.premiumhd.org:83/nuala1/nuala2/303055
-#EXTINF:-1,24/7 | BUGS BUNNY CLASSICS
-http://s1.premiumhd.org:83/nuala1/nuala2/254226
-#EXTINF:-1,24/7 | CHARLIE BROWN
-http://s1.premiumhd.org:83/nuala1/nuala2/303048
-#EXTINF:-1,24/7 | CHEERS
-http://s1.premiumhd.org:83/nuala1/nuala2/303047
-#EXTINF:-1,24/7 | CHRIS ROCK STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/303046
-#EXTINF:-1,24/7 | COACH
-http://s1.premiumhd.org:83/nuala1/nuala2/309337
-#EXTINF:-1,24/7 | COLD CASE FILES
-http://s1.premiumhd.org:83/nuala1/nuala2/324621
-#EXTINF:-1,24/7 | COLONY
-http://s1.premiumhd.org:83/nuala1/nuala2/143999
-#EXTINF:-1,24/7 | COLONY SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/303045
-#EXTINF:-1,24/7 | COLUMBO
-http://s1.premiumhd.org:83/nuala1/nuala2/309336
-#EXTINF:-1,24/7 | COPS
-http://s1.premiumhd.org:83/nuala1/nuala2/309335
-#EXTINF:-1,24/7 | CRIMINAL MINDS
-http://s1.premiumhd.org:83/nuala1/nuala2/309334
-#EXTINF:-1,24/7 | CSI
-http://s1.premiumhd.org:83/nuala1/nuala2/305104
-#EXTINF:-1,24/7 | CSI MIAMI
-http://s1.premiumhd.org:83/nuala1/nuala2/309333
-#EXTINF:-1,24/7 | CURB YOUR ENTHUSIASM
-http://s1.premiumhd.org:83/nuala1/nuala2/303044
-#EXTINF:-1,24/7 | DALLAS
-http://s1.premiumhd.org:83/nuala1/nuala2/303043
-#EXTINF:-1,24/7 | DAREDEVIL
-http://s1.premiumhd.org:83/nuala1/nuala2/303042
-#EXTINF:-1,24/7 | DAWSONS CREEK
-http://s1.premiumhd.org:83/nuala1/nuala2/309332
-#EXTINF:-1,24/7 | DEEP SPACE 9
-http://s1.premiumhd.org:83/nuala1/nuala2/320587
-#EXTINF:-1,24/7 | DENZEL WASHINGTON MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/325416
-#EXTINF:-1,24/7 | DESPERATE HOUSEWIVES
-http://s1.premiumhd.org:83/nuala1/nuala2/314001
-#EXTINF:-1,24/7 | DEXTER
-http://s1.premiumhd.org:83/nuala1/nuala2/303040
-#EXTINF:-1,24/7 | DEXTER II
-http://s1.premiumhd.org:83/nuala1/nuala2/143998
-#EXTINF:-1,24/7 | DIFF'RENT STROKES
-http://s1.premiumhd.org:83/nuala1/nuala2/314000
-#EXTINF:-1,24/7 | DINERS DRIVE INS & DIVES
-http://s1.premiumhd.org:83/nuala1/nuala2/309331
-#EXTINF:-1,24/7 | DINOSAURS
-http://s1.premiumhd.org:83/nuala1/nuala2/302521
-#EXTINF:-1,24/7 | DISNEY CLASSICS
-http://s1.premiumhd.org:83/nuala1/nuala2/254225
-#EXTINF:-1,24/7 | DISNEY MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/303035
-#EXTINF:-1,24/7 | DOC MCSTUFFINS
-http://s1.premiumhd.org:83/nuala1/nuala2/320582
-#EXTINF:-1,24/7 | DOG THE BOUNTY HUNTER
-http://s1.premiumhd.org:83/nuala1/nuala2/324620
-#EXTINF:-1,24/7 | DOOGIE HOWSER M.D.
-http://s1.premiumhd.org:83/nuala1/nuala2/313999
-#EXTINF:-1,24/7 | DOPE
-http://s1.premiumhd.org:83/nuala1/nuala2/324619
-#EXTINF:-1,24/7 | DOUG
-http://s1.premiumhd.org:83/nuala1/nuala2/313998
-#EXTINF:-1,24/7 | DOWNTOWN ABBEY
-http://s1.premiumhd.org:83/nuala1/nuala2/303034
-#EXTINF:-1,24/7 | DR. WHO
-http://s1.premiumhd.org:83/nuala1/nuala2/303033
-#EXTINF:-1,24/7 | DRAGON BALL Z
-http://s1.premiumhd.org:83/nuala1/nuala2/303032
-#EXTINF:-1,24/7 | DRAGONBALL Z
-http://s1.premiumhd.org:83/nuala1/nuala2/302520
-#EXTINF:-1,24/7 | DRAGONS DEN (SHARK TANK)
-http://s1.premiumhd.org:83/nuala1/nuala2/324618
-#EXTINF:-1,24/7 | DRUGS INC
-http://s1.premiumhd.org:83/nuala1/nuala2/324617
-#EXTINF:-1,24/7 | DUCKTALES
-http://s1.premiumhd.org:83/nuala1/nuala2/302519
-#EXTINF:-1,24/7 | DYNASTY
-http://s1.premiumhd.org:83/nuala1/nuala2/313997
-#EXTINF:-1,24/7 | EASTBOUND & DOWN
-http://s1.premiumhd.org:83/nuala1/nuala2/309330
-#EXTINF:-1,24/7 | ED, EDD AND EDDY
-http://s1.premiumhd.org:83/nuala1/nuala2/326800
-#EXTINF:-1,24/7 | EDDIE MURPHY MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324422
-#EXTINF:-1,24/7 | ELENA OF AVALOR
-http://s1.premiumhd.org:83/nuala1/nuala2/325419
-#EXTINF:-1,24/7 | ENTOURAGE
-http://s1.premiumhd.org:83/nuala1/nuala2/302836
-#EXTINF:-1,24/7 | EVERYBODY HATES CHRIS
-http://s1.premiumhd.org:83/nuala1/nuala2/313996
-#EXTINF:-1,24/7 | EVERYBODY LOVES RAYMOND
-http://s1.premiumhd.org:83/nuala1/nuala2/303029
-#EXTINF:-1,24/7 | EVIL GENIUS
-http://s1.premiumhd.org:83/nuala1/nuala2/324616
-#EXTINF:-1,24/7 | FAIRLY ODDPARENTS
-http://s1.premiumhd.org:83/nuala1/nuala2/309584
-#EXTINF:-1,24/7 | FAMILY GUY
-http://s1.premiumhd.org:83/nuala1/nuala2/318066
-#EXTINF:-1,24/7 | FAMILY MATTERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302544
-#EXTINF:-1,24/7 | FAST & FURIOUS MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/303018
-#EXTINF:-1,24/7 | FATHER TED
-http://s1.premiumhd.org:83/nuala1/nuala2/303017
-#EXTINF:-1,24/7 | FEAR FACTOR
-http://s1.premiumhd.org:83/nuala1/nuala2/326786
-#EXTINF:-1,24/7 | FIREMAN SAM
-http://s1.premiumhd.org:83/nuala1/nuala2/303015
-#EXTINF:-1,24/7 | FLINTSTONES
-http://s1.premiumhd.org:83/nuala1/nuala2/303025
-#EXTINF:-1,24/7 | FLINTSTONES II
-http://s1.premiumhd.org:83/nuala1/nuala2/268811
-#EXTINF:-1,24/7 | FRAGGLE ROCK
-http://s1.premiumhd.org:83/nuala1/nuala2/303027
-#EXTINF:-1,24/7 | FRASIER
-http://s1.premiumhd.org:83/nuala1/nuala2/303014
-#EXTINF:-1,24/7 | FRESH PRINCE
-http://s1.premiumhd.org:83/nuala1/nuala2/303013
-#EXTINF:-1,24/7 | FRIDAY THE 13TH
-http://s1.premiumhd.org:83/nuala1/nuala2/313975
-#EXTINF:-1,24/7 | FRIENDS
-http://s1.premiumhd.org:83/nuala1/nuala2/303012
-#EXTINF:-1,24/7 | FRINGE
-http://s1.premiumhd.org:83/nuala1/nuala2/313995
-#EXTINF:-1,24/7 | FULL HOUSE
-http://s1.premiumhd.org:83/nuala1/nuala2/309329
-#EXTINF:-1,24/7 | GAME OF THRONES
-http://s1.premiumhd.org:83/nuala1/nuala2/303005
-#EXTINF:-1,24/7 | GILLIGANS ISLAND
-http://s1.premiumhd.org:83/nuala1/nuala2/305105
-#EXTINF:-1,24/7 | GIRLFRIENDS
-http://s1.premiumhd.org:83/nuala1/nuala2/313994
-#EXTINF:-1,24/7 | GLOW
-http://s1.premiumhd.org:83/nuala1/nuala2/303004
-#EXTINF:-1,24/7 | GODZILLA MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/300977
-#EXTINF:-1,24/7 | GOLDEN GIRLS
-http://s1.premiumhd.org:83/nuala1/nuala2/303007
-#EXTINF:-1,24/7 | GOLDEN GIRLS II
-http://s1.premiumhd.org:83/nuala1/nuala2/300979
-#EXTINF:-1,24/7 | GOLDEN GIRLS III
-http://s1.premiumhd.org:83/nuala1/nuala2/302874
-#EXTINF:-1,24/7 | GOMER PYLE
-http://s1.premiumhd.org:83/nuala1/nuala2/309328
-#EXTINF:-1,24/7 | GOTHAM
-http://s1.premiumhd.org:83/nuala1/nuala2/303002
-#EXTINF:-1,24/7 | GREYS ANATOMY
-http://s1.premiumhd.org:83/nuala1/nuala2/305106
-#EXTINF:-1,24/7 | GUNSMOKE
-http://s1.premiumhd.org:83/nuala1/nuala2/324414
-#EXTINF:-1,24/7 | HALLOWEEN
-http://s1.premiumhd.org:83/nuala1/nuala2/313974
-#EXTINF:-1,24/7 | HAPPY DAYS
-http://s1.premiumhd.org:83/nuala1/nuala2/302998
-#EXTINF:-1,24/7 | HARRY POTTER
-http://s1.premiumhd.org:83/nuala1/nuala2/303000
-#EXTINF:-1,24/7 | HARRY POTTER II
-http://s1.premiumhd.org:83/nuala1/nuala2/302541
-#EXTINF:-1,24/7 | HAVE GUNS WILL TRAVEL
-http://s1.premiumhd.org:83/nuala1/nuala2/324413
-#EXTINF:-1,24/7 | HE-MAN & THE MASTERS OF THE UNIVERSE
-http://s1.premiumhd.org:83/nuala1/nuala2/302999
-#EXTINF:-1,24/7 | HERCULES THE LEGENDARY JOURNEYS
-http://s1.premiumhd.org:83/nuala1/nuala2/309327
-#EXTINF:-1,24/7 | HEY DUDE
-http://s1.premiumhd.org:83/nuala1/nuala2/313993
-#EXTINF:-1,24/7 | HOARDERS
-http://s1.premiumhd.org:83/nuala1/nuala2/324615
-#EXTINF:-1,24/7 | HOGAN'S HEROES
-http://s1.premiumhd.org:83/nuala1/nuala2/309326
-#EXTINF:-1,24/7 | HOMELAND
-http://s1.premiumhd.org:83/nuala1/nuala2/309325
-#EXTINF:-1,24/7 | HOUSE MD
-http://s1.premiumhd.org:83/nuala1/nuala2/305107
-#EXTINF:-1,24/7 | HOUSE OF CARDS
-http://s1.premiumhd.org:83/nuala1/nuala2/302997
-#EXTINF:-1,24/7 | HOW I MET YOUR MOTHER
-http://s1.premiumhd.org:83/nuala1/nuala2/302996
-#EXTINF:-1,24/7 | I LOVE LUCY
-http://s1.premiumhd.org:83/nuala1/nuala2/324989
-#EXTINF:-1,24/7 | ICARLY
-http://s1.premiumhd.org:83/nuala1/nuala2/324412
-#EXTINF:-1,24/7 | IMPRACTICAL JOKERS
-http://s1.premiumhd.org:83/nuala1/nuala2/313992
-#EXTINF:-1,24/7 | IN LIVING COLOR
-http://s1.premiumhd.org:83/nuala1/nuala2/302994
-#EXTINF:-1,24/7 | IN THE NIGHT GARDEN
-http://s1.premiumhd.org:83/nuala1/nuala2/302992
-#EXTINF:-1,24/7 | INK MASTER
-http://s1.premiumhd.org:83/nuala1/nuala2/313991
-#EXTINF:-1,24/7 | INSPECTOR GADGET
-http://s1.premiumhd.org:83/nuala1/nuala2/268814
-#EXTINF:-1,24/7 | JACKIE CHAN MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324421
-#EXTINF:-1,24/7 | JAMIE FOXX SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/305108
-#EXTINF:-1,24/7 | JASON STATHAM MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/325414
-#EXTINF:-1,24/7 | JEFFERSONS
-http://s1.premiumhd.org:83/nuala1/nuala2/302990
-#EXTINF:-1,24/7 | JET LI MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324614
-#EXTINF:-1,24/7 | JIMMY CARR STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302989
-#EXTINF:-1,24/7 | JOHNNY TEST
-http://s1.premiumhd.org:83/nuala1/nuala2/302988
-#EXTINF:-1,24/7 | JURASSIC PARK MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/302991
-#EXTINF:-1,24/7 | JUST GOOD FRIENDS
-http://s1.premiumhd.org:83/nuala1/nuala2/302987
-#EXTINF:-1,24/7 | KEVIN HART STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302985
-#EXTINF:-1,24/7 | KING OF THE HILL
-http://s1.premiumhd.org:83/nuala1/nuala2/302984
-#EXTINF:-1,24/7 | KNIGHT RIDER
-http://s1.premiumhd.org:83/nuala1/nuala2/302983
-#EXTINF:-1,24/7 | LAS VEGAS
-http://s1.premiumhd.org:83/nuala1/nuala2/305109
-#EXTINF:-1,24/7 | LAST MAN STANDING
-http://s1.premiumhd.org:83/nuala1/nuala2/309324
-#EXTINF:-1,24/7 | LEONARDO DICAPRIO MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324419
-#EXTINF:-1,24/7 | LETHAL WEAPON MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/300976
-#EXTINF:-1,24/7 | LIFE ON MARS
-http://s1.premiumhd.org:83/nuala1/nuala2/302978
-#EXTINF:-1,24/7 | LITTLE BRITIAN
-http://s1.premiumhd.org:83/nuala1/nuala2/302977
-#EXTINF:-1,24/7 | LITTLE HOUSE ON THE PRAIRIE
-http://s1.premiumhd.org:83/nuala1/nuala2/302982
-#EXTINF:-1,24/7 | LIVE PD
-http://s1.premiumhd.org:83/nuala1/nuala2/302539
-#EXTINF:-1,24/7 | LIVING SINGLE
-http://s1.premiumhd.org:83/nuala1/nuala2/300964
-#EXTINF:-1,24/7 | LONGMIRE
-http://s1.premiumhd.org:83/nuala1/nuala2/309323
-#EXTINF:-1,24/7 | LOONEY TUNES
-http://s1.premiumhd.org:83/nuala1/nuala2/268816
-#EXTINF:-1,24/7 | LOONEY TUNES II
-http://s1.premiumhd.org:83/nuala1/nuala2/302981
-#EXTINF:-1,24/7 | M*A*S*H
-http://s1.premiumhd.org:83/nuala1/nuala2/302963
-#EXTINF:-1,24/7 | MACGYVER
-http://s1.premiumhd.org:83/nuala1/nuala2/309322
-#EXTINF:-1,24/7 | MAD TV
-http://s1.premiumhd.org:83/nuala1/nuala2/324613
-#EXTINF:-1,24/7 | MAGNUM P.I.
-http://s1.premiumhd.org:83/nuala1/nuala2/309321
-#EXTINF:-1,24/7 | MAJOR LEAGUE MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/300975
-#EXTINF:-1,24/7 | MALCOLM IN THE MIDDLE
-http://s1.premiumhd.org:83/nuala1/nuala2/302964
-#EXTINF:-1,24/7 | MARRIED WITH CHILDREN
-http://s1.premiumhd.org:83/nuala1/nuala2/302973
-#EXTINF:-1,24/7 | MARRIED WITH CHILDREN II
-http://s1.premiumhd.org:83/nuala1/nuala2/302972
-#EXTINF:-1,24/7 | MARTIN
-http://s1.premiumhd.org:83/nuala1/nuala2/302538
-#EXTINF:-1,24/7 | MARVELS IRON FIST
-http://s1.premiumhd.org:83/nuala1/nuala2/302971
-#EXTINF:-1,24/7 | MASTER OF NONE
-http://s1.premiumhd.org:83/nuala1/nuala2/302962
-#EXTINF:-1,24/7 | MAX & PADDY
-http://s1.premiumhd.org:83/nuala1/nuala2/144003
-#EXTINF:-1,24/7 | MEL GIBSON MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/325415
-#EXTINF:-1,24/7 | MEN BEHAVING BADLY
-http://s1.premiumhd.org:83/nuala1/nuala2/302961
-#EXTINF:-1,24/7 | MIAMI VICE
-http://s1.premiumhd.org:83/nuala1/nuala2/302968
-#EXTINF:-1,24/7 | MICKEY & THE ROADSTERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302959
-#EXTINF:-1,24/7 | MICKY FLANAGAN STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302957
-#EXTINF:-1,24/7 | MINDHUNTER
-http://s1.premiumhd.org:83/nuala1/nuala2/302956
-#EXTINF:-1,24/7 | MINNIE BOWTIQUE
-http://s1.premiumhd.org:83/nuala1/nuala2/268817
-#EXTINF:-1,24/7 | MISTER ED
-http://s1.premiumhd.org:83/nuala1/nuala2/305111
-#EXTINF:-1,24/7 | MOESHA
-http://s1.premiumhd.org:83/nuala1/nuala2/305110
-#EXTINF:-1,24/7 | MONKEY MAGIC
-http://s1.premiumhd.org:83/nuala1/nuala2/302835
-#EXTINF:-1,24/7 | MR. BEAN
-http://s1.premiumhd.org:83/nuala1/nuala2/302954
-#EXTINF:-1,24/7 | MR. BEAN CARTOON
-http://s1.premiumhd.org:83/nuala1/nuala2/302955
-#EXTINF:-1,24/7 | MR. PICKLES
-http://s1.premiumhd.org:83/nuala1/nuala2/320183
-#EXTINF:-1,24/7 | MRS. BROWNS BOYS
-http://s1.premiumhd.org:83/nuala1/nuala2/302834
-#EXTINF:-1,24/7 | MY FAMILY
-http://s1.premiumhd.org:83/nuala1/nuala2/302953
-#EXTINF:-1,24/7 | MY WIFE AND KIDS
-http://s1.premiumhd.org:83/nuala1/nuala2/313990
-#EXTINF:-1,24/7 | NAKED AND AFRAID
-http://s1.premiumhd.org:83/nuala1/nuala2/309588
-#EXTINF:-1,24/7 | NICHOLAS CAGE MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324612
-#EXTINF:-1,24/7 | NIGHTMARE ON ELM ST
-http://s1.premiumhd.org:83/nuala1/nuala2/313976
-#EXTINF:-1,24/7 | NORTHERN EXPOSURE
-http://s1.premiumhd.org:83/nuala1/nuala2/309320
-#EXTINF:-1,24/7 | OCTONAUTS
-http://s1.premiumhd.org:83/nuala1/nuala2/320583
-#EXTINF:-1,24/7 | ONLY FOOLS AND HORSES
-http://s1.premiumhd.org:83/nuala1/nuala2/143950
-#EXTINF:-1,24/7 | ONLY FOOLS AND HORSESII
-http://s1.premiumhd.org:83/nuala1/nuala2/302949
-#EXTINF:-1,24/7 | ONLY FOOLS XMAS SPECIALS
-http://s1.premiumhd.org:83/nuala1/nuala2/302950
-#EXTINF:-1,24/7 | ORANGE IS THE NEW BLACK
-http://s1.premiumhd.org:83/nuala1/nuala2/302948
-#EXTINF:-1,24/7 | OZARK
-http://s1.premiumhd.org:83/nuala1/nuala2/302946
-#EXTINF:-1,24/7 | PAW PATROL
-http://s1.premiumhd.org:83/nuala1/nuala2/302945
-#EXTINF:-1,24/7 | PAW PATROL II
-http://s1.premiumhd.org:83/nuala1/nuala2/268818
-#EXTINF:-1,24/7 | PEAKY BLINDERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302938
-#EXTINF:-1,24/7 | PEEP SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/302937
-#EXTINF:-1,24/7 | PEPPA PIG
-http://s1.premiumhd.org:83/nuala1/nuala2/143990
-#EXTINF:-1,24/7 | PEPPA PIG II
-http://s1.premiumhd.org:83/nuala1/nuala2/302936
-#EXTINF:-1,24/7 | PETER KAY PHOENIX NIGHTS
-http://s1.premiumhd.org:83/nuala1/nuala2/302935
-#EXTINF:-1,24/7 | PETER KAY STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302934
-#EXTINF:-1,24/7 | PHINEAS & FERB
-http://s1.premiumhd.org:83/nuala1/nuala2/309585
-#EXTINF:-1,24/7 | PJ MASKS
-http://s1.premiumhd.org:83/nuala1/nuala2/302942
-#EXTINF:-1,24/7 | POKEMON
-http://s1.premiumhd.org:83/nuala1/nuala2/302933
-#EXTINF:-1,24/7 | POLDARK
-http://s1.premiumhd.org:83/nuala1/nuala2/302932
-#EXTINF:-1,24/7 | POPEYE
-http://s1.premiumhd.org:83/nuala1/nuala2/302941
-#EXTINF:-1,24/7 | POWER
-http://s1.premiumhd.org:83/nuala1/nuala2/144002
-#EXTINF:-1,24/7 | POWER II
-http://s1.premiumhd.org:83/nuala1/nuala2/302940
-#EXTINF:-1,24/7 | PREDATOR / ALIEN MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/300973
-#EXTINF:-1,24/7 | PRISON BREAK
-http://s1.premiumhd.org:83/nuala1/nuala2/302939
-#EXTINF:-1,24/7 | PRISON BREAK II
-http://s1.premiumhd.org:83/nuala1/nuala2/302929
-#EXTINF:-1,24/7 | PROPERTY BROTHERS
-http://s1.premiumhd.org:83/nuala1/nuala2/324611
-#EXTINF:-1,24/7 | PUPPY DOG PALS
-http://s1.premiumhd.org:83/nuala1/nuala2/302928
-#EXTINF:-1,24/7 | QUANTUM LEAP
-http://s1.premiumhd.org:83/nuala1/nuala2/305112
-#EXTINF:-1,24/7 | QUENTIN TARANTINO MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324610
-#EXTINF:-1,24/7 | RAY DONOVAN
-http://s1.premiumhd.org:83/nuala1/nuala2/313989
-#EXTINF:-1,24/7 | RED DWARF
-http://s1.premiumhd.org:83/nuala1/nuala2/302923
-#EXTINF:-1,24/7 | RESCUE RANGERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302922
-#EXTINF:-1,24/7 | RICK & MORTY
-http://s1.premiumhd.org:83/nuala1/nuala2/254222
-#EXTINF:-1,24/7 | RICKY & MORTY II
-http://s1.premiumhd.org:83/nuala1/nuala2/302921
-#EXTINF:-1,24/7 | RICKY GERVAIS STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302920
-#EXTINF:-1,24/7 | ROBOT CHICKEN
-http://s1.premiumhd.org:83/nuala1/nuala2/320182
-#EXTINF:-1,24/7 | ROSEANNE SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/302918
-#EXTINF:-1,24/7 | SALUTE YOUR SHORTS
-http://s1.premiumhd.org:83/nuala1/nuala2/313988
-#EXTINF:-1,24/7 | SANFORD & SON
-http://s1.premiumhd.org:83/nuala1/nuala2/302916
-#EXTINF:-1,24/7 | SAVED BY THE BELL
-http://s1.premiumhd.org:83/nuala1/nuala2/302535
-#EXTINF:-1,24/7 | SAW
-http://s1.premiumhd.org:83/nuala1/nuala2/313973
-#EXTINF:-1,24/7 | SCOOBY DOO
-http://s1.premiumhd.org:83/nuala1/nuala2/302910
-#EXTINF:-1,24/7 | SCREAM QUEENS
-http://s1.premiumhd.org:83/nuala1/nuala2/302909
-#EXTINF:-1,24/7 | SCRUBS
-http://s1.premiumhd.org:83/nuala1/nuala2/302915
-#EXTINF:-1,24/7 | SCRUBS II
-http://s1.premiumhd.org:83/nuala1/nuala2/302895
-#EXTINF:-1,24/7 | SEINFELD
-http://s1.premiumhd.org:83/nuala1/nuala2/302908
-#EXTINF:-1,24/7 | SESAME STREET
-http://s1.premiumhd.org:83/nuala1/nuala2/320584
-#EXTINF:-1,24/7 | SEX IN THE CITY
-http://s1.premiumhd.org:83/nuala1/nuala2/302907
-#EXTINF:-1,24/7 | SGT. BILKO
-http://s1.premiumhd.org:83/nuala1/nuala2/302906
-#EXTINF:-1,24/7 | SHERLOCK
-http://s1.premiumhd.org:83/nuala1/nuala2/302905
-#EXTINF:-1,24/7 | SIMPSONS
-http://s1.premiumhd.org:83/nuala1/nuala2/268820
-#EXTINF:-1,24/7 | SIMPSONS-TREEHOUSE OF HORROR
-http://s1.premiumhd.org:83/nuala1/nuala2/302904
-#EXTINF:-1,24/7 | SMURFS
-http://s1.premiumhd.org:83/nuala1/nuala2/302903
-#EXTINF:-1,24/7 | SONS OF ANARCHY
-http://s1.premiumhd.org:83/nuala1/nuala2/302914
-#EXTINF:-1,24/7 | SONS OF ANARCHY II
-http://s1.premiumhd.org:83/nuala1/nuala2/302901
-#EXTINF:-1,24/7 | SOUTH PARK
-http://s1.premiumhd.org:83/nuala1/nuala2/302899
-#EXTINF:-1,24/7 | SPACE GHOST
-http://s1.premiumhd.org:83/nuala1/nuala2/268819
-#EXTINF:-1,24/7 | SPIDER-MAN
-http://s1.premiumhd.org:83/nuala1/nuala2/302898
-#EXTINF:-1,24/7 | SPONGEBOB
-http://s1.premiumhd.org:83/nuala1/nuala2/302896
-#EXTINF:-1,24/7 | SQUIDBILLIES
-http://s1.premiumhd.org:83/nuala1/nuala2/320181
-#EXTINF:-1,24/7 | ST. ELSEWHERE
-http://s1.premiumhd.org:83/nuala1/nuala2/313987
-#EXTINF:-1,24/7 | STAR TREK
-http://s1.premiumhd.org:83/nuala1/nuala2/302894
-#EXTINF:-1,24/7 | STAR TREK II
-http://s1.premiumhd.org:83/nuala1/nuala2/300971
-#EXTINF:-1,24/7 | STAR WARS CLONE WARS
-http://s1.premiumhd.org:83/nuala1/nuala2/302893
-#EXTINF:-1,24/7 | STAR WARS MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/268908
-#EXTINF:-1,24/7 | STARSKY & HUTCH
-http://s1.premiumhd.org:83/nuala1/nuala2/309319
-#EXTINF:-1,24/7 | STEP BY STEP
-http://s1.premiumhd.org:83/nuala1/nuala2/313986
-#EXTINF:-1,24/7 | STEPHEN KING MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/313985
-#EXTINF:-1,24/7 | STEPTOE & SONS
-http://s1.premiumhd.org:83/nuala1/nuala2/302892
-#EXTINF:-1,24/7 | STRANGER THINGS
-http://s1.premiumhd.org:83/nuala1/nuala2/302891
-#EXTINF:-1,24/7 | STREET OUTLAWS
-http://s1.premiumhd.org:83/nuala1/nuala2/302890
-#EXTINF:-1,24/7 | SYLVESTER STALLONE MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324418
-#EXTINF:-1,24/7 | TALES FROM THE CRYPT
-http://s1.premiumhd.org:83/nuala1/nuala2/300970
-#EXTINF:-1,24/7 | TAXI
-http://s1.premiumhd.org:83/nuala1/nuala2/318110
-#EXTINF:-1,24/7 | TEAM UMIZOOMI
-http://s1.premiumhd.org:83/nuala1/nuala2/320585
-#EXTINF:-1,24/7 | THE ANDY GRIFFITH SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/302882
-#EXTINF:-1,24/7 | THE BIG BANG THEORY
-http://s1.premiumhd.org:83/nuala1/nuala2/302880
-#EXTINF:-1,24/7 | THE BLUE PLANET SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/302879
-#EXTINF:-1,24/7 | THE CATHERINE TATE SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/302878
-#EXTINF:-1,24/7 | THE COSBY SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/309318
-#EXTINF:-1,24/7 | THE CURSE OF OAK ISLAND
-http://s1.premiumhd.org:83/nuala1/nuala2/309317
-#EXTINF:-1,24/7 | THE FIRST 48
-http://s1.premiumhd.org:83/nuala1/nuala2/309316
-#EXTINF:-1,24/7 | THE FLASH
-http://s1.premiumhd.org:83/nuala1/nuala2/302877
-#EXTINF:-1,24/7 | THE GOLDBERGS
-http://s1.premiumhd.org:83/nuala1/nuala2/302875
-#EXTINF:-1,24/7 | THE GOOD PLACE
-http://s1.premiumhd.org:83/nuala1/nuala2/302873
-#EXTINF:-1,24/7 | THE HANGOVER MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/302872
-#EXTINF:-1,24/7 | THE INBETWEENERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302833
-#EXTINF:-1,24/7 | THE IT CROWD
-http://s1.premiumhd.org:83/nuala1/nuala2/302871
-#EXTINF:-1,24/7 | THE JETSONS
-http://s1.premiumhd.org:83/nuala1/nuala2/268822
-#EXTINF:-1,24/7 | THE KING OF QUEENS
-http://s1.premiumhd.org:83/nuala1/nuala2/302870
-#EXTINF:-1,24/7 | THE LEAGUE
-http://s1.premiumhd.org:83/nuala1/nuala2/309315
-#EXTINF:-1,24/7 | THE LEAGUE OF GENTLEMEN
-http://s1.premiumhd.org:83/nuala1/nuala2/302832
-#EXTINF:-1,24/7 | THE LOVE BOAT
-http://s1.premiumhd.org:83/nuala1/nuala2/309313
-#EXTINF:-1,24/7 | THE MUMMY MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/300969
-#EXTINF:-1,24/7 | THE MUNSTERS
-http://s1.premiumhd.org:83/nuala1/nuala2/302868
-#EXTINF:-1,24/7 | THE NANNY
-http://s1.premiumhd.org:83/nuala1/nuala2/313984
-#EXTINF:-1,24/7 | THE OFFICE
-http://s1.premiumhd.org:83/nuala1/nuala2/300968
-#EXTINF:-1,24/7 | THE OFFICE II
-http://s1.premiumhd.org:83/nuala1/nuala2/302865
-#EXTINF:-1,24/7 | THE OFFICE UK
-http://s1.premiumhd.org:83/nuala1/nuala2/302866
-#EXTINF:-1,24/7 | THE REGUALR SHOW
-http://s1.premiumhd.org:83/nuala1/nuala2/302864
-#EXTINF:-1,24/7 | THE ROYAL FAMILY
-http://s1.premiumhd.org:83/nuala1/nuala2/302863
-#EXTINF:-1,24/7 | THE SOPRANOS
-http://s1.premiumhd.org:83/nuala1/nuala2/302861
-#EXTINF:-1,24/7 | THE SOPRANOS II
-http://s1.premiumhd.org:83/nuala1/nuala2/300967
-#EXTINF:-1,24/7 | THE SPECTACULAR SPIDER-MAN
-http://s1.premiumhd.org:83/nuala1/nuala2/302860
-#EXTINF:-1,24/7 | THE VENTURE BROS.
-http://s1.premiumhd.org:83/nuala1/nuala2/320180
-#EXTINF:-1,24/7 | THE VICAR OF DIBLEY
-http://s1.premiumhd.org:83/nuala1/nuala2/302859
-#EXTINF:-1,24/7 | THE WALKING DEAD
-http://s1.premiumhd.org:83/nuala1/nuala2/302858
-#EXTINF:-1,24/7 | THE WAYANS BROS
-http://s1.premiumhd.org:83/nuala1/nuala2/305113
-#EXTINF:-1,24/7 | THE WIGGLES
-http://s1.premiumhd.org:83/nuala1/nuala2/320586
-#EXTINF:-1,24/7 | THE WONDER YEARS
-http://s1.premiumhd.org:83/nuala1/nuala2/302857
-#EXTINF:-1,24/7 | THE YOUNG ONES
-http://s1.premiumhd.org:83/nuala1/nuala2/302856
-#EXTINF:-1,24/7 | THREE'S COMPANY II
-http://s1.premiumhd.org:83/nuala1/nuala2/263184
-#EXTINF:-1,24/7 | THREES COMPANY
-http://s1.premiumhd.org:83/nuala1/nuala2/302855
-#EXTINF:-1,24/7 | TMNT 1987
-http://s1.premiumhd.org:83/nuala1/nuala2/254221
-#EXTINF:-1,24/7 | TOM & JERRY
-http://s1.premiumhd.org:83/nuala1/nuala2/268824
-#EXTINF:-1,24/7 | TOM AND JERRY II
-http://s1.premiumhd.org:83/nuala1/nuala2/302885
-#EXTINF:-1,24/7 | TONY JAA MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324629
-#EXTINF:-1,24/7 | TOP CAT
-http://s1.premiumhd.org:83/nuala1/nuala2/302884
-#EXTINF:-1,24/7 | TRAILER PARK BOYS
-http://s1.premiumhd.org:83/nuala1/nuala2/303084
-#EXTINF:-1,24/7 | TRUE BLOOD
-http://s1.premiumhd.org:83/nuala1/nuala2/302850
-#EXTINF:-1,24/7 | TWEET AND DAVE
-http://s1.premiumhd.org:83/nuala1/nuala2/324609
-#EXTINF:-1,24/7 | TWO AND A HALF MEN
-http://s1.premiumhd.org:83/nuala1/nuala2/302849
-#EXTINF:-1,24/7 | TWO DOORS DOWN
-http://s1.premiumhd.org:83/nuala1/nuala2/324627
-#EXTINF:-1,24/7 | TWO PINTS OF LAGER & A PACKET OF CRISPS
-http://s1.premiumhd.org:83/nuala1/nuala2/302848
-#EXTINF:-1,24/7 | UK STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302831
-#EXTINF:-1,24/7 | UNSOLVED MYSTERIES II
-http://s1.premiumhd.org:83/nuala1/nuala2/302845
-#EXTINF:-1,24/7 | US STAND UP
-http://s1.premiumhd.org:83/nuala1/nuala2/302847
-#EXTINF:-1,24/7 | VAMPIRE MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/302844
-#EXTINF:-1,24/7 | VAN DAMM MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/300965
-#EXTINF:-1,24/7 | VICE PRINCIPALS
-http://s1.premiumhd.org:83/nuala1/nuala2/309312
-#EXTINF:-1,24/7 | VIN DEISEL MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324417
-#EXTINF:-1,24/7 | WACKY RACES
-http://s1.premiumhd.org:83/nuala1/nuala2/324626
-#EXTINF:-1,24/7 | WAGON TRAIN
-http://s1.premiumhd.org:83/nuala1/nuala2/313983
-#EXTINF:-1,24/7 | WEBSTER
-http://s1.premiumhd.org:83/nuala1/nuala2/313982
-#EXTINF:-1,24/7 | WEEDS
-http://s1.premiumhd.org:83/nuala1/nuala2/313981
-#EXTINF:-1,24/7 | WESLEY SNIPES MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324416
-#EXTINF:-1,24/7 | WESTERNS
-http://s1.premiumhd.org:83/nuala1/nuala2/303147
-#EXTINF:-1,24/7 | WESTERNS II
-http://s1.premiumhd.org:83/nuala1/nuala2/168538
-#EXTINF:-1,24/7 | WESTWORLD
-http://s1.premiumhd.org:83/nuala1/nuala2/143994
-#EXTINF:-1,24/7 | WHATS HAPPENING
-http://s1.premiumhd.org:83/nuala1/nuala2/313980
-#EXTINF:-1,24/7 | WHOS THE BOSS
-http://s1.premiumhd.org:83/nuala1/nuala2/309311
-#EXTINF:-1,24/7 | WILL & GRACE
-http://s1.premiumhd.org:83/nuala1/nuala2/302838
-#EXTINF:-1,24/7 | WILL SMITH MOVIES
-http://s1.premiumhd.org:83/nuala1/nuala2/324415
-#EXTINF:-1,24/7 | WWE ROYAL RUMBLE
-http://s1.premiumhd.org:83/nuala1/nuala2/325451
-#EXTINF:-1,24/7 | WWE SUMMER SLAM
-http://s1.premiumhd.org:83/nuala1/nuala2/325417
-#EXTINF:-1,24/7 | WWE WRESTLEMANIA
-http://s1.premiumhd.org:83/nuala1/nuala2/302841
-#EXTINF:-1,24/7 | WWE WRESTLEMANIA II
-http://s1.premiumhd.org:83/nuala1/nuala2/254227
-#EXTINF:-1,24/7 | XENA WARRIOR PRINCESS
-http://s1.premiumhd.org:83/nuala1/nuala2/313979
-
+#EXTM3U https://hdbox.ws 
+#EXTINF:-1,A&E HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/550
+#EXTINF:-1,A&E TV HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7771
+#EXTINF:-1,ABC FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7592
+#EXTINF:-1,ABC HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/539
+#EXTINF:-1,ABC News HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/540
+#EXTINF:-1,AFN Spectrum HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7726
+#EXTINF:-1,AFN Sport 1 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/1136
+#EXTINF:-1,AFN Sport 2 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/1135
+#EXTINF:-1,AMC HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/521
+#EXTINF:-1,AMC US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7792
+#EXTINF:-1,Amazing Discoveries HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/551
+#EXTINF:-1,Animal Planet US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7791
+#EXTINF:-1,BET HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7770
+#EXTINF:-1,BYU TV US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/522
+#EXTINF:-1,Bloomberg Europe US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/503
+#EXTINF:-1,Bloomberg TV HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/489
+#EXTINF:-1,Boomerang US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/502
+#EXTINF:-1,Bravo HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/541
+#EXTINF:-1,Bravo US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7790
+#EXTINF:-1,C-Span 1 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/564
+#EXTINF:-1,C-Span 2 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/565
+#EXTINF:-1,C-Span 3 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/566
+#EXTINF:-1,CBS US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/486
+#EXTINF:-1,CBSN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/524
+#EXTINF:-1,CNBC US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/525
+#EXTINF:-1,CNN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/568
+#EXTINF:-1,CW HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/543
+#EXTINF:-1,CW US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7777
+#EXTINF:-1,CW11 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/500
+#EXTINF:-1,DIY Network US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/482
+#EXTINF:-1,DW US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/528
+#EXTINF:-1,Discovery Channel CA FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7580
+#EXTINF:-1,Discovery Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7767
+#EXTINF:-1,Discovery HD Showcase US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/499
+#EXTINF:-1,Discovery HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/526
+#EXTINF:-1,Discovery Science HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/510
+#EXTINF:-1,Discovery Velocity US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/527
+#EXTINF:-1,Disney Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7766
+#EXTINF:-1,Disney XD HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7765
+#EXTINF:-1,E! Entertainment HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7764
+#EXTINF:-1,ESPN 1 HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7763
+#EXTINF:-1,ESPN 1 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/552
+#EXTINF:-1,ESPN 2 FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/569
+#EXTINF:-1,ESPN 2 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7787
+#EXTINF:-1,ESPN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/544
+#EXTINF:-1,El Rey Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7715
+#EXTINF:-1,FOX 43 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/570
+#EXTINF:-1,FX HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/513
+#EXTINF:-1,FX US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7784
+#EXTINF:-1,Fashion One HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/498
+#EXTINF:-1,Fight HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/529
+#EXTINF:-1,Fight Sport HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/584
+#EXTINF:-1,Fine Living US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/497
+#EXTINF:-1,Food Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/511
+#EXTINF:-1,Food Network US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7783
+#EXTINF:-1,Fox HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/512
+#EXTINF:-1,Free Form HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/572
+#EXTINF:-1,FreeForm HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7688
+#EXTINF:-1,Fuel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/496
+#EXTINF:-1,GSN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7749
+#EXTINF:-1,H2 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/514
+#EXTINF:-1,HBO Comedy HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/530
+#EXTINF:-1,HBO East US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/483
+#EXTINF:-1,HBO Family HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7748
+#EXTINF:-1,HBO HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/531
+#EXTINF:-1,HBO Signature HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7747
+#EXTINF:-1,HBO Signature US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/484
+#EXTINF:-1,HBO US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7776
+#EXTINF:-1,HBO Zone US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/532
+#EXTINF:-1,HGTV HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/495
+#EXTINF:-1,HGTV US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7782
+#EXTINF:-1,HIFI US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/516
+#EXTINF:-1,Hallmark Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7746
+#EXTINF:-1,Hallmark US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/515
+#EXTINF:-1,History HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/546
+#EXTINF:-1,History US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7781
+#EXTINF:-1,IFC HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7710
+#EXTINF:-1,Investigation Discovery HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7693
+#EXTINF:-1,Lifetime HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7745
+#EXTINF:-1,MLB HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/573
+#EXTINF:-1,MLB Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7701
+#EXTINF:-1,MLB Network US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/574
+#EXTINF:-1,MSNBC HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/575
+#EXTINF:-1,MTV Base HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7744
+#EXTINF:-1,MTV Rocks US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/494
+#EXTINF:-1,NBA HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/533
+#EXTINF:-1,NBC Golf Channel FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/6147
+#EXTINF:-1,NBC Golf Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/6146
+#EXTINF:-1,NBC Golf HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7743
+#EXTINF:-1,NBC News HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7742
+#EXTINF:-1,NBC SN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7741
+#EXTINF:-1,NBC US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/490
+#EXTINF:-1,NBCSN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/555
+#EXTINF:-1,SyFy HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/548
+#EXTINF:-1,SyFy US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7779
+#EXTINF:-1,TBS HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/578
+#EXTINF:-1,TNT HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/549
+#EXTINF:-1,Travel Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7694
+#EXTINF:-1,truTV HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7705
+#EXTINF:-1,UFC Fight Pass US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/6421
+#EXTINF:-1,US Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/520
+#EXTINF:-1,USA HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7729
+#EXTINF:-1,USA Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/547
+#EXTINF:-1,Univision HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7704
+#EXTINF:-1,VH1 Classic US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/491
+#EXTINF:-1,WWE HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/562
+#EXTINF:-1,WWE Network FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7544
+#EXTINF:-1,WWE US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7778
 
 
 
