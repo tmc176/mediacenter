@@ -1,16 +1,5 @@
 <streamingInfos>
-<item>
-<title>CITY TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306231</link>
-<item>
-<title>CITY MONTREAL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306233</link>
-<item>
-<title>CITY VANCOUVER</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306230</link>
-<item>
-<title>CITY WINNIPEG</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306229</link>
+
 <item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts</link>
@@ -33,68 +22,23 @@
 <title>GLOBAL VANCOUVER</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts</link>
 <item>
-<title>GLOBAL CALGARY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311208</link>
-<item>
-<title>GLOBAL HALIFAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306179</link>
-<item>
-<title>CBC CALGARY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311218</link>
-<item>
-<title>CBC FRENCH</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311214</link>
-<item>
-<title>CBC OTTAWA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306240</link>
-<item>
-<title>CBC TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306239</link>
-<item>
-<title>CBC VANCOUVER</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306238</link>
-<item>
-<title>CBC ST. JOHNS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/311212</link>
-<item>
 <title>FOX EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306186</link>
-<item>
-<title>FOX WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306184</link>
-<item>
-<title>ABC West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306262</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/512</link>
 <item>
 <title>ABC EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306264</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7592</link>
 <item>
 <title>ABC SPARK CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts</link>
 <item>
 <title>CBS EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306237</link>
-<item>
-<title>CBS WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306236</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/486</link>
 <item>
 <title>NBC EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306140</link>
-<item>
-<title>NBC WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306139</link>
-<item>
-<title>THE WEATHER NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306091</link>
-<item>
-<title>CP24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306218</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/490</link>
 <item>
 <title>CTV NEWS NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts</link>
-<item>
-<title>CNBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306227</link>
 <item>
 <title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts</link>
@@ -102,8 +46,8 @@
 <title>CNN INTERNATIONAL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts</link>
 <item>
-<title>USA: HGTV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308871</link>
+<title>USA:HGTV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/495</link>
 <item>
 <title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
@@ -112,109 +56,52 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
 <item>
 <title>DIY Network HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306199</link>
-<item>
-<title>DEJAVIEW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306205</link>
-<item>
-<title>TV Land HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/564.ts</link>
-<item>
-<title>NTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306136</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/482</link>
 <item>
 <title>LIFETIME</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306154</link>
-<item>
-<title>SHOWCASE EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306117</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7745</link>
 <item>
 <title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306265</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7771</link>
 <item>
 <title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306258</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/521</link>
 <item>
 <title>BRAVO EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts</link>
 <item>
-<title>WGN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306064</link>
-<item>
 <title>CW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306207</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/543</link>
 <item>
-<title>SPACE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310774</link>
+<title>Discovery HD Showcase US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/499</link>
 <item>
 <title>DISCOVERY SCIENCE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306203</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/510</link>
 <item>
 <title>DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306204</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7767</link>
 <item>
 <title>CRIME INVEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts</link>
 <item>
 <title>DISCOVERY VELOCITY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308922</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/527</link>
+<item>
+<title>Discovery US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7766</link>
+<item>
+<title>History US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7781</link>
 <item>
 <title>History Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306167</link>
-<item>
-<title>COMEDY GOLD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts</link>
-<item>
-<title>COMEDY EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts</link>
-<item>
-<title>COMEDY WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306222</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/546</link>
 <item>
 <title>APTN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts</link>
 <item>
-<title>CMT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306228</link>
-<item>
-<title>WFN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306065</link>
-<item>
-<title>Outdoor Channel HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306129</link>
-<item>
-<title>ME TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308857</link>
-<item>
-<title>OLN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306135</link>
-<item>
-<title>Wild TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306063</link>
-<item>
 <title>ANIMAL PLANET</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306257</link>
-<item>
-<title>NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306142</link>
-<item>
-<title>OLN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/30613</link>
-<item>
-<title>TLC CANADA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306090</link>
-<item>
-<title>W NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306066</link>
-<item>
-<title>YES TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306061</link>
-<item>
-<title>SLICE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310776</link>
-<item>
-<title>American Heroes Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306258</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7791</link>
 <item>
 <title>COOKING CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts</link>
@@ -225,66 +112,149 @@
 <title>PEACH TREE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts</link>
 <item>
-<title>OWN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306128</link>
-<item>
-<title>DOCUMENTARY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306198</link>
+<title>Discovery Channel CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7580</link>
 <item>
 <title>FOOD NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306187</link>
-<item>
-<title>FYI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306182</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/511</link>
 <item>
 <title>HBO 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306171</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7776</link>
 <item>
 <title>HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306170</link>
-<item>
-<title>SILVER SCREEN CLASSICS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306116</link>
-<item>
-<title>SMITHSONIAN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310775</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/531</link>
 <item>
 <title>DISNEY CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts</link>
 <item>
-<title>FAMILY CHRGD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/310778</link>
+<title>Discovery US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7766</link>
 <item>
-<title>FAMILY EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306191</link>
-<item>
-<title>BBC KIDS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306257</link>
-<item>
-<title>KNOWLEDGE KIDS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306158</link>
-<item>
-<title>NICK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306138</link>
-<item>
-<title>NICKTOON</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306137</link>
-<item>
-<title>TREEHOUSE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306084</link>
-<item>
-<title>YTV EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306059</link>
-<item>
-<title>YTV WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306058</link>
-<item>
-<title>DISCOVERY VELOCITY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308922</link>
-<item>
-<title>OUTDOOR CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/308818</link>
-
+<title>History US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7781</link>
 #EXTINF:-1,USA: HGTV FHD
 http://s1.premiumhd.org:83/nuala1/nuala2/308872
+#EXTINF:-1,ABC FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7592
+#EXTINF:-1,ABC HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/539
+#EXTINF:-1,CBS US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/486
+
+#EXTINF:-1,CNN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/568
+#EXTINF:-1,CW HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/543
+#EXTINF:-1,CW US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7777
+#EXTINF:-1,CW11 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/500
+#EXTINF:-1,DIY Network US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/482
+#EXTINF:-1,Discovery HD Showcase US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/499
+#EXTINF:-1,Disney Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7766
+#EXTINF:-1,Disney XD HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7765
+#EXTINF:-1,ESPN 1 HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7763
+#EXTINF:-1,ESPN 1 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/552
+#EXTINF:-1,ESPN 2 FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/569
+#EXTINF:-1,ESPN 2 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7787
+#EXTINF:-1,ESPN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/544
+#EXTINF:-1,FOX 43 US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/570
+#EXTINF:-1,FX HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/513
+#EXTINF:-1,FX US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7784
+#EXTINF:-1,Food Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/511
+#EXTINF:-1,Food Network US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7783
+#EXTINF:-1,Fox HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/512
+#EXTINF:-1,Free Form HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/572
+#EXTINF:-1,HBO Comedy HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/530
+#EXTINF:-1,HBO East US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/483
+#EXTINF:-1,HBO Family HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7748
+#EXTINF:-1,HBO HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/531
+#EXTINF:-1,HBO Signature HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7747
+#EXTINF:-1,HBO Signature US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/484
+#EXTINF:-1,HBO US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7776
+#EXTINF:-1,HBO Zone US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/532
+#EXTINF:-1,HGTV HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/495
+#EXTINF:-1,HGTV US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7782
+#EXTINF:-1,Hallmark Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7746
+#EXTINF:-1,Hallmark US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/515
+#EXTINF:-1,IFC HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7710
+#EXTINF:-1,Investigation Discovery HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7693
+#EXTINF:-1,Lifetime HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7745
+#EXTINF:-1,MLB HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/573
+#EXTINF:-1,MLB Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7701
+#EXTINF:-1,MLB Network US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/574
+#EXTINF:-1,NBA HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/533
+#EXTINF:-1,NBC Golf Channel FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/6147
+#EXTINF:-1,NBC Golf Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/6146
+#EXTINF:-1,NBC Golf HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7743
+#EXTINF:-1,NBC News HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7742
+#EXTINF:-1,NBC SN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7741
+#EXTINF:-1,NBC US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/490
+#EXTINF:-1,NBCSN HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/555
+#EXTINF:-1,SyFy HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/548
+#EXTINF:-1,SyFy US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7779
+#EXTINF:-1,TBS HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/578
+#EXTINF:-1,TNT HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/549
+#EXTINF:-1,Travel Channel HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7694
+#EXTINF:-1,UFC Fight Pass US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/6421
+#EXTINF:-1,US Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/520
+#EXTINF:-1,USA HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7729
+#EXTINF:-1,USA Network HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/547
+#EXTINF:-1,WWE HD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/562
+#EXTINF:-1,WWE Network FHD US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7544
+#EXTINF:-1,WWE US
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7778
 
