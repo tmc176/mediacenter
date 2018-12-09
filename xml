@@ -1,43 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-
-<item>
-<title>*** AutoIPTV ***</title>
-<link>https://autoiptv.net</link>
-</item>
-<item>
-<title>https://autoiptv.net</title>
-<link>https://autoiptv.net</link>
-</item>
-<item>
-<title>*** Playlists ***</title>
-<link>https://autoiptv.net/playlists</link>
-</item>
-<item>
-<title>https://autoiptv.net/playlists</title>
-<link>https://autoiptv.net/playlists</link>
-</item>
-<item>
-<title>MEGA COSMOS | SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</link>
-</item>
-<item>
-<title>RADYO RADYO | SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/574.m3u8</link>
-</item>
-<item>
-<title>RADYO RADYO | SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ns3121518.ip-54-36-111.eu:8000/live/ZzQUCDggym/NpcvPnxVVM/574.m3u8</link>
-</item>
-<item>
-<title>STAR TV | SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8</link>
-</item>
-<item>
-<title>TSN 1 | SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1268.m3u8</link>
-</item>
-<item>
-<title>US DISCOVERY CHANNEL | HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14940.m3u8</link>
-</item>
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX 5 | SD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2977.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX 5 STARMAX | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2976.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX ACTION | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2974.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX ACTION EAST | HD (US)
+http://delux-iptv.com:8000/live/iptv-delux1/121667572516132/2975.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX ACTIONMAX | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/4745.m3u8
+#EXTINF:0 tvg-id="ext" group-title="(US) United States",CINEMAX MOREMAX | SD (US)
+http://145.239.0.158:8080/live/mehmet/mehmet123/4744.m3u8
