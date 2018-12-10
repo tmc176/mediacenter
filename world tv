@@ -107,3 +107,2812 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master.
 
 #EXTINF:0 tvg-name="CBS Sports HQ" tvg-language="English" tvg-country="US" tvg-id="CBS Sports HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVfx6T7iEMvfRxVPTON8ZpWN9gKH5k6lVRAzyKD_-TbA8JlEToG7vQVI" group-title="Public-Sports",CBS Sports HQ (Public-Sports) (US) (English)
 https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+
+
+#EXTINF:-1,Discovery Turbo
+http://177.139.171.102:27030/live/alvaro/17/124.ts
+#EXTINF:-1,HBO
+http://177.139.171.102:27030/live/alvaro/17/132.ts
+#EXTINF:-1,HBO 2
+http://177.139.171.102:27030/live/alvaro/17/144.ts
+#EXTINF:-1,ESPN
+http://177.139.171.102:27030/live/alvaro/17/123.ts
+#EXTINF:-1,Fox Sports
+http://177.139.171.102:27030/live/alvaro/17/141.ts
+#EXTINF:-1,Fox Sports 2
+http://177.139.171.102:27030/live/alvaro/17/139.ts
+#EXTINF:-1,HBO Plus
+http://177.139.171.102:27030/live/alvaro/17/186.ts
+#EXTINF:-1,History Channel 2
+http://177.139.171.102:27030/live/alvaro/17/191.ts
+#EXTINF:-1,Fox Premium 1 - series
+http://177.139.171.102:27030/live/alvaro/17/28.ts
+#EXTINF:-1,Fox Premium 2 - series
+http://177.139.171.102:27030/live/alvaro/17/232.ts
+#EXTINF:-1,Comedy Central - series
+http://177.139.171.102:27030/live/alvaro/17/202.ts
+#EXTINF:-1,Warner Channel - series
+http://177.139.171.102:27030/live/alvaro/17/45.ts
+#EXTINF:-1,TBS - series
+http://177.139.171.102:27030/live/alvaro/17/121.ts
+#EXTINF:-1,TNT - series
+http://177.139.171.102:27030/live/alvaro/17/2.ts
+#EXTINF:-1,Canada: ABC SPARK CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
+#EXTINF:-1,Canada: AMC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
+#EXTINF:-1,Canada: ANIMAL PLANET
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
+#EXTINF:-1,Canada: APTN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
+#EXTINF:-1,Canada: BBC CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
+#EXTINF:-1,Canada: BBC KIDS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
+#EXTINF:-1,Canada: BRAVO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts
+#EXTINF:-1,Canada: CMT CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11462.ts
+#EXTINF:-1,Canada: CNBC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
+#EXTINF:-1,Canada: CNN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
+#EXTINF:-1,Canada: CNN INTERNATIONAL
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
+#EXTINF:-1,Canada: COMEDY EAST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts
+#EXTINF:-1,Canada: COMEDY GOLD
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts
+#EXTINF:-1,Canada: COOKING CHANNEL
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts
+#EXTINF:-1,Canada: COSMO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11460.ts
+#EXTINF:-1,Canada: COTTAGE LIFE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
+#EXTINF:-1,Canada: CP24
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
+#EXTINF:-1,Canada: CRIME   INVEST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
+#EXTINF:-1,Canada: CTV 2 VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
+#EXTINF:-1,Canada: CTV NEWS NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
+#EXTINF:-1,Canada: CTV OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
+#EXTINF:-1,Canada: CTV TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
+#EXTINF:-1,Canada: CTV VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
+#EXTINF:-1,Canada: CTV2 OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
+#EXTINF:-1,Canada: DISNEY CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
+#EXTINF:-1,Canada: FOOD NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
+#EXTINF:-1,Canada: FOX NEWS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
+#EXTINF:-1,Canada: GLOBAL TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts
+#EXTINF:-1,Canada: GLOBAL VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts
+#EXTINF:-1,Canada: HBO 1
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
+#EXTINF:-1,Canada: HBO 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
+#EXTINF:-1,Canada: HGTV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts
+#EXTINF:-1,Canada: HISTORIO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.ts
+#EXTINF:-1,Canada: ONE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11352.ts
+#EXTINF:-1,Canada: OUTTV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11490.ts
+#EXTINF:-1,Canada: OWN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11489.ts
+#EXTINF:-1,Canada: PBS EAST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts
+#EXTINF:-1,Canada: PEACH TREE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts
+#EXTINF:-1,A&E HD
+http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
+#EXTINF:-1,A&E SD
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+#EXTINF:-1,AMC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/229.ts
+#EXTINF:-1,AMC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/228.ts
+#EXTINF:-1,Animal Planet HD
+http://maxptv.ddns.net:25461/live/MA020/0706/227.ts
+#EXTINF:-1,Animal Planet SD
+http://maxptv.ddns.net:25461/live/MA020/0706/232.ts
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/200.ts
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/199.ts
+#EXTINF:-1,Cinemax HD
+http://maxptv.ddns.net:25461/live/MA020/0706/198.ts
+#EXTINF:-1,Cinemax SD
+http://maxptv.ddns.net:25461/live/MA020/0706/197.ts
+#EXTINF:-1,Comedy Central HD
+http://maxptv.ddns.net:25461/live/MA020/0706/194.ts
+#EXTINF:-1,Comedy Central SD
+http://maxptv.ddns.net:25461/live/MA020/0706/193.ts
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/190.ts
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/189.ts
+#EXTINF:-1,Discovery Civilization HD
+http://maxptv.ddns.net:25461/live/MA020/0706/188.ts
+#EXTINF:-1,Discovery Civilization SD
+http://maxptv.ddns.net:25461/live/MA020/0706/187.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.ddns.net:25461/live/MA020/0706/186.ts
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.ddns.net:25461/live/MA020/0706/185.ts
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/184.ts
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/183.ts
+#EXTINF:-1,Discovery Science HD
+http://maxptv.ddns.net:25461/live/MA020/0706/182.ts
+#EXTINF:-1,Discovery Science SD
+http://maxptv.ddns.net:25461/live/MA020/0706/181.ts
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.ddns.net:25461/live/MA020/0706/180.ts
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/178.ts
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/177.ts
+#EXTINF:-1,Discovery World HD
+http://maxptv.ddns.net:25461/live/MA020/0706/176.ts
+#EXTINF:-1,Discovery World SD
+http://maxptv.ddns.net:25461/live/MA020/0706/175.ts
+#EXTINF:-1,Discovery theater SD
+http://maxptv.ddns.net:25461/live/MA020/0706/179.ts
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.ddns.net:25461/live/MA020/0706/174.ts
+#EXTINF:-1,Disney Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/173.ts
+#EXTINF:-1,Disney Junior HD
+http://maxptv.ddns.net:25461/live/MA020/0706/172.ts
+#EXTINF:-1,Disney Junior SD
+http://maxptv.ddns.net:25461/live/MA020/0706/171.ts
+#EXTINF:-1,Disney XD HD
+http://maxptv.ddns.net:25461/live/MA020/0706/170.ts
+#EXTINF:-1,Disney XD SD
+http://maxptv.ddns.net:25461/live/MA020/0706/169.ts
+#EXTINF:-1,FOX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/154.ts
+#EXTINF:-1,FOX Life HD
+http://maxptv.ddns.net:25461/live/MA020/0706/153.ts
+#EXTINF:-1,FOX Life SD
+http://maxptv.ddns.net:25461/live/MA020/0706/152.ts
+#EXTINF:-1,FOX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/147.ts
+#EXTINF:-1,FX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/142.ts
+#EXTINF:-1,FX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/141.ts
+#EXTINF:-1,Fish Tv
+http://maxptv.ddns.net:25461/live/MA020/0706/214.ts
+#EXTINF:-1,Fish Tv HD
+http://maxptv.ddns.net:25461/live/MA020/0706/213.ts
+#EXTINF:-1,Food Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/333.ts
+#EXTINF:-1,Food Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/334.ts
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/151.ts
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/150.ts
+#EXTINF:-1,Fox Premium HD
+http://maxptv.ddns.net:25461/live/MA020/0706/149.ts
+#EXTINF:-1,Fox Premium SD
+http://maxptv.ddns.net:25461/live/MA020/0706/148.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:-1,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:-1,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:-1,HBO 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
+#EXTINF:-1,HBO 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
+#EXTINF:-1,HBO Family HD
+http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
+#EXTINF:-1,HBO Family SD
+http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
+#EXTINF:-1,HBO HD
+http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
+#EXTINF:-1,HBO Plus *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
+#EXTINF:-1,HBO Plus *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
+#EXTINF:-1,HBO Plus HD
+http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
+#EXTINF:-1,HBO Plus SD
+http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
+#EXTINF:-1,HBO SD
+http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
+#EXTINF:-1,HBO Signature HD
+http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
+#EXTINF:-1,HBO Signature SD
+http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
+#EXTINF:-1,History Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/120.ts
+#EXTINF:-1,History Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/119.ts
+#EXTINF:-1,ID HD
+http://maxptv.ddns.net:25461/live/MA020/0706/118.ts
+#EXTINF:-1,ID SD
+http://maxptv.ddns.net:25461/live/MA020/0706/117.ts
+#EXTINF:-1,Lifetime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/116.ts
+#EXTINF:-1,Lifetime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/115.ts
+#EXTINF:-1,MAX Prime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/109.ts
+#EXTINF:-1,MAX Prime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/108.ts
+#EXTINF:-1,MTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/102.ts
+#EXTINF:-1,MTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/101.ts
+#EXTINF:-1,Max HD
+http://maxptv.ddns.net:25461/live/MA020/0706/112.ts
+#EXTINF:-1,Max Prime *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/111.ts
+#EXTINF:-1,Max Prime *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/110.ts
+#EXTINF:-1,Max SD
+http://maxptv.ddns.net:25461/live/MA020/0706/107.ts
+#EXTINF:-1,Max UP HD
+http://maxptv.ddns.net:25461/live/MA020/0706/106.ts
+#EXTINF:-1,Max UP SD
+http://maxptv.ddns.net:25461/live/MA020/0706/105.ts
+#EXTINF:-1,Megapix HD
+http://maxptv.ddns.net:25461/live/MA020/0706/104.ts
+#EXTINF:-1,Megapix SD
+http://maxptv.ddns.net:25461/live/MA020/0706/103.ts
+#EXTINF:-1,NHK HD
+http://maxptv.ddns.net:25461/live/MA020/0706/92.ts
+#EXTINF:-1,NHK SD
+http://maxptv.ddns.net:25461/live/MA020/0706/91.ts
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/98.ts
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/97.ts
+#EXTINF:-1,NatGeo Wild HD
+http://maxptv.ddns.net:25461/live/MA020/0706/96.ts
+#EXTINF:-1,NatGeo Wild SD
+http://maxptv.ddns.net:25461/live/MA020/0706/95.ts
+#EXTINF:-1,National Geographic HD
+http://maxptv.ddns.net:25461/live/MA020/0706/94.ts
+#EXTINF:-1,National Geographic SD
+http://maxptv.ddns.net:25461/live/MA020/0706/93.ts
+#EXTINF:-1,Nick Jr HD
+http://maxptv.ddns.net:25461/live/MA020/0706/90.ts
+#EXTINF:-1,Nick Jr SD
+http://maxptv.ddns.net:25461/live/MA020/0706/89.ts
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.ddns.net:25461/live/MA020/0706/88.ts
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.ddns.net:25461/live/MA020/0706/87.ts
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/86.ts
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/85.ts
+#EXTINF:-1,Premiere 1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/82.ts
+#EXTINF:-1,Premiere 1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/81.ts
+#EXTINF:-1,Premiere 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/80.ts
+#EXTINF:-1,Premiere 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/79.ts
+#EXTINF:-1,Premiere 3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/78.ts
+#EXTINF:-1,Premiere 3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/77.ts
+#EXTINF:-1,Premiere 4 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/76.ts
+#EXTINF:-1,Premiere 4 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/75.ts
+#EXTINF:-1,Premiere 5 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/74.ts
+#EXTINF:-1,Premiere 5 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/73.ts
+#EXTINF:-1,Premiere 6 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/72.ts
+#EXTINF:-1,Premiere 6 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/71.ts
+#EXTINF:-1,Premiere 7 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/70.ts
+#EXTINF:-1,Premiere 7 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/69.ts
+#EXTINF:-1,Sony HD
+http://maxptv.ddns.net:25461/live/MA020/0706/52.ts
+#EXTINF:-1,Sony SD
+http://maxptv.ddns.net:25461/live/MA020/0706/51.ts
+#EXTINF:-1,Space HD
+http://maxptv.ddns.net:25461/live/MA020/0706/50.ts
+#EXTINF:-1,Space SD
+http://maxptv.ddns.net:25461/live/MA020/0706/49.ts
+#EXTINF:-1,Studio Universal HD
+http://maxptv.ddns.net:25461/live/MA020/0706/42.ts
+#EXTINF:-1,Studio Universal SD
+http://maxptv.ddns.net:25461/live/MA020/0706/41.ts
+#EXTINF:-1,Syfy HD
+http://maxptv.ddns.net:25461/live/MA020/0706/40.ts
+#EXTINF:-1,Syfy SD
+http://maxptv.ddns.net:25461/live/MA020/0706/39.ts
+#EXTINF:-1,TBS HD
+http://maxptv.ddns.net:25461/live/MA020/0706/38.ts
+#EXTINF:-1,TBS SD
+http://maxptv.ddns.net:25461/live/MA020/0706/37.ts
+#EXTINF:-1,TCM HD
+http://maxptv.ddns.net:25461/live/MA020/0706/36.ts
+#EXTINF:-1,TCM SD
+http://maxptv.ddns.net:25461/live/MA020/0706/35.ts
+#EXTINF:-1,TLC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/22.ts
+#EXTINF:-1,TLC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/21.ts
+#EXTINF:-1,TNT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/20.ts
+#EXTINF:-1,TNT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/19.ts
+#EXTINF:-1,Tooncast HD
+http://maxptv.ddns.net:25461/live/MA020/0706/16.ts
+#EXTINF:-1,Tooncast SD
+http://maxptv.ddns.net:25461/live/MA020/0706/15.ts
+#EXTINF:-1,Universal Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/12.ts
+#EXTINF:-1,Universal Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/11.ts
+#EXTINF:-1,Warner Bros HD
+http://maxptv.ddns.net:25461/live/MA020/0706/4.ts
+#EXTINF:-1,Warner Bros SD
+http://maxptv.ddns.net:25461/live/MA020/0706/3.ts
+#EXTINF:-1,==● ▄ ★ 24/7 MULTIMEDIA ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1378
+#EXTINF:-1,24/7 Movies Clásicos
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4857
+#EXTINF:-1,24/7 4K Infantil
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4853
+#EXTINF:-1,24/7 ALF SD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1981
+#EXTINF:-1,24/7 AVATAR: La Leyenda de Aang
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4839
+#EXTINF:-1,24/7 Bob Esponja
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1816
+#EXTINF:-1,24/7 Chespirito
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4855
+#EXTINF:-1,24/7 Death Note
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4842
+#EXTINF:-1,24/7 Dinosaurios
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4828
+#EXTINF:-1,24/7 Documental: 72 Animales HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/5351
+#EXTINF:-1,24/7 50 Clásicos Disney HQ
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4859
+#EXTINF:-1,24/7 Dragon Ball
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1968
+#EXTINF:-1,24/7 Dragon Ball Z iO
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4850
+#EXTINF:-1,24/7 Dragon Ball Z
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1970
+#EXTINF:-1,24/7 Dragon Ball Super C.67
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4840
+#EXTINF:-1,24/7 Dragones: Carrera al borde
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/3481
+#EXTINF:-1,24/7 Drake & Josh SD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4844
+#EXTINF:-1,24/7 Dos hombres y medio
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4851
+#EXTINF:-1,24/7 El Chapulín Colorado
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4854
+#EXTINF:-1,24/7 El amanecer de los Croods
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/3934
+#EXTINF:-1,24/7 El Chavo Animado
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4843
+#EXTINF:-1,24/7 El chavo del 8
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4827
+#EXTINF:-1,24/7 El príncipe del rap
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4094
+#EXTINF:-1,24/7 Familia peluche
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4849
+#EXTINF:-1,24/7 Garfield
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1969
+#EXTINF:-1,24/7 Gravity Falls
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2598
+#EXTINF:-1,24/7 Hannah Montana
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1820
+#EXTINF:-1,24/7 Home: Las aventuras de Tip y Oh
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4093
+#EXTINF:-1,24/7 Hora De Aventura
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4835
+#EXTINF:-1,24/7 Kong: El rey de los monos
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4095
+#EXTINF:-1,24/7 La niñera |The Nanny|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4848
+#EXTINF:-1,24/7 Las aventuras del Gato con Botas
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/3936
+#EXTINF:-1,24/7 Los Hechiceros de Waverly Place
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1801
+#EXTINF:-1,24/7 Los Jovenes Titanes en acción HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4847
+#EXTINF:-1,24/7 Los locos Addams
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4838
+#EXTINF:-1,24/7 Los Simpson T01-T15
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1817
+#EXTINF:-1,24/7 Los Simpson T16-T27
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1819
+#EXTINF:-1,24/7 Los Super Campeones
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4830
+#EXTINF:-1,24/7 Los padrinos mágicos
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4846
+#EXTINF:-1,24/7 Los Picapiedra
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/5677
+#EXTINF:-1,24/7 Malcolm In The Middle
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4118
+#EXTINF:-1,24/7 Mi Bella Genio
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2097
+#EXTINF:-1,24/7 Series animados SD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1982
+#EXTINF:-1,24/7 Smallville
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4813
+#EXTINF:-1,24/7 Supernatural SD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4845
+#EXTINF:-1,24/7 South Park
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4841
+#EXTINF:-1,24/7 Tesoros Disney
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1800
+#EXTINF:-1,24/7 The big bang theory
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2392
+#EXTINF:-1,24/7 Tres por Tres | FULL HOUSE |
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4829
+#EXTINF:-1,24/7 Trolls: ¡No pierdas el ritmo!
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4097
+#EXTINF:-1,24/7 Turbo FAST
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4098
+#EXTINF:-1,24/7 The X Files
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4860
+#EXTINF:-1,24/7 Un jefe en pañales
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/3933
+#EXTINF:-1,24/7 Viva el Rey Julien
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4833
+#EXTINF:-1,24/7 Videos Remix
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4858
+#EXTINF:-1,PPV: Cinema FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1377
+#EXTINF:-1,PPV: Cinemax Action FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1376
+#EXTINF:-1,PPV: Cinemax East FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1375
+#EXTINF:-1,PPV: IndiePlex FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1374
+#EXTINF:-1,PPV: MovieMax FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1373
+#EXTINF:-1,PPV: RetroPlex FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1372
+#EXTINF:-1,PPV: Showtime FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1371
+#EXTINF:-1,PPV: Showtime West HD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1370
+#EXTINF:-1,PPV: Starz Black FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1369
+#EXTINF:-1,PPV: Starz Cinema FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1368
+#EXTINF:-1,PPV: Starz Comedy HD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1367
+#EXTINF:-1,PPV: Starz East FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1366
+#EXTINF:-1,PPV: Starz Edge FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1365
+#EXTINF:-1,PPV: Starz Encore Action FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1364
+#EXTINF:-1,PPV: Starz Encore Black FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1363
+#EXTINF:-1,PPV: Starz Encore Classic FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1362
+#EXTINF:-1,PPV: Starz Encore Family FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1361
+#EXTINF:-1,PPV: Starz Encore FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1360
+#EXTINF:-1,PPV: Starz Encore Suspense FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1359
+#EXTINF:-1,PPV: Starz Encore Western FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1358
+#EXTINF:-1,PPV: Starz Kids & Family FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1357
+#EXTINF:-1,PPV: Starz West FHD [Dual audio] (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1356
+#EXTINF:-1,●▄ ★ Bonus CANALES |HD|HQ| ★ ▄●
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1967
+#EXTINF:-1,A&E HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1966
+#EXTINF:-1,A&E HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1965
+#EXTINF:-1,AMC HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1964
+#EXTINF:-1,AMC HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1963
+#EXTINF:-1,ANIMAL PLANET HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1962
+#EXTINF:-1,ANIMAL PLANET HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1961
+
+#EXTINF:-1,Discovery Channel HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1938
+#EXTINF:-1,Discovery Channel HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1937
+#EXTINF:-1,Discovery Home & Health HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1936
+#EXTINF:-1,Discovery Home & Health HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1935
+#EXTINF:-1,Discovery ID HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1934
+#EXTINF:-1,Discovery ID HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1933
+#EXTINF:-1,Discovery KIDS HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1932
+#EXTINF:-1,Discovery KIDS HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1931
+#EXTINF:-1,Discovery Theather HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1930
+#EXTINF:-1,Discovery Theather HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1929
+#EXTINF:-1,Discovery World HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1928
+#EXTINF:-1,Discovery World HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1927
+#EXTINF:-1,Disney HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1926
+#EXTINF:-1,Disney HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1925
+#EXTINF:-1,ESPN HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1920
+#EXTINF:-1,ESPN HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1919
+#EXTINF:-1,Fox Action HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1916
+#EXTINF:-1,Fox Action HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1915
+#EXTINF:-1,Fox Action MEX HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1914
+#EXTINF:-1,Fox Action MEX HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1913
+#EXTINF:-1,Fox Cinema HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1912
+#EXTINF:-1,Fox Cinema HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1911
+#EXTINF:-1,Fox Classic HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1910
+#EXTINF:-1,Fox Classic HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1909
+#EXTINF:-1,Fox Comedy HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1908
+#EXTINF:-1,Fox Comedy HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1907
+#EXTINF:-1,Fox Family HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1906
+#EXTINF:-1,Fox Family HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1905
+#EXTINF:-1,Fox HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1904
+#EXTINF:-1,Fox HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1903
+#EXTINF:-1,Fox Life HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1902
+#EXTINF:-1,Fox Life HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1901
+#EXTINF:-1,Fox Movies HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1900
+#EXTINF:-1,Fox Movies HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1899
+#EXTINF:-1,Fox Series HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1898
+#EXTINF:-1,Fox Series HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1897
+#EXTINF:-1,Fox Sports 1 HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1896
+#EXTINF:-1,Fox Sports 1 HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1895
+#EXTINF:-1,Fox Sports 1 MX. HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1894
+#EXTINF:-1,Fox Sports 1 MX. HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1893
+#EXTINF:-1,Fox Sports 2 HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1892
+#EXTINF:-1,Fox Sports 2 HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1891
+#EXTINF:-1,FX HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1884
+#EXTINF:-1,FX HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1883
+#EXTINF:-1,Golden HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1880
+#EXTINF:-1,Golden HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1879
+#EXTINF:-1,Golden Premier HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1878
+#EXTINF:-1,Golden Premier HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1877
+#EXTINF:-1,HBO 2 HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1876
+#EXTINF:-1,HBO 2 HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1875
+#EXTINF:-1,HBO Family HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1874
+#EXTINF:-1,HBO Family HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1873
+#EXTINF:-1,HBO HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1872
+#EXTINF:-1,HBO HQ  *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1871
+#EXTINF:-1,HBO Plus HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1870
+#EXTINF:-1,HBO Plus HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1869
+#EXTINF:-1,HBO Signature HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1868
+#EXTINF:-1,HBO Signature HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1867
+#EXTINF:-1,History HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1866
+#EXTINF:-1,History HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1865
+#EXTINF:-1,Max Prime HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1864
+#EXTINF:-1,Max Prime HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1863
+#EXTINF:-1,Max UP HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1862
+#EXTINF:-1,Max UP HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1861
+
+#EXTINF:-1,NATGEO HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1856
+#EXTINF:-1,NATGEO HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1855
+#EXTINF:-1,NATGEO KIDS HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1854
+#EXTINF:-1,NATGEO KIDS HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1853
+#EXTINF:-1,NATGEO WILD HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1852
+#EXTINF:-1,NATGEO WILD HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1851
+#EXTINF:-1,NICK 2 HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1850
+#EXTINF:-1,NICK 2 HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1849
+#EXTINF:-1,NICK JR HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1848
+#EXTINF:-1,NICK JR HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1847
+#EXTINF:-1,Nickelodeon HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1846
+#EXTINF:-1,Nickelodeon HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1845
+#EXTINF:-1,Paramount  HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1844
+#EXTINF:-1,Paramount  HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1843
+
+#EXTINF:-1,Sony HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1840
+#EXTINF:-1,Sony HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1839
+#EXTINF:-1,Space HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1838
+#EXTINF:-1,Space HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1837
+#EXTINF:-1,Sundance TV HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1836
+#EXTINF:-1,Sundance TV HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1835
+#EXTINF:-1,TLC HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1832
+#EXTINF:-1,TLC HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1831
+#EXTINF:-1,TNT HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1830
+#EXTINF:-1,TNT HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1829
+#EXTINF:-1,TNT Series HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1828
+#EXTINF:-1,TNT Series HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1827
+#EXTINF:-1,TRU TV HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1826
+#EXTINF:-1,TRU TV HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1825
+#EXTINF:-1,Warner Channel HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1824
+#EXTINF:-1,Warner Channel HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1823
+#EXTINF:-1,WIN Sports HD *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1822
+#EXTINF:-1,WIN Sports HQ *
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/1821
+#EXTINF:-1,==● ▄ ★ ENTRETENIMIENTO ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/684
+#EXTINF:-1,A&E
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/683
+#EXTINF:-1,AXN MX
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/682
+#EXTINF:-1,AXN sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/681
+#EXTINF:-1,Comedy Central
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/680
+#EXTINF:-1,Discovery Home & Health
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/679
+#EXTINF:-1,Discovery Home & Health sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/678
+#EXTINF:-1,Discovery ID
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/677
+#EXTINF:-1,Discovery Turbo
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/676
+#EXTINF:-1,Distrito comedia MX
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/675
+#EXTINF:-1,E! ENTERTAINMENT
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/674
+#EXTINF:-1,EL Gourmet
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/673
+#EXTINF:-1,Europa Europa
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/672
+#EXTINF:-1,Fox
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/667
+#EXTINF:-1,Fox Cinema
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/671
+#EXTINF:-1,Fox Classic
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/670
+#EXTINF:-1,Fox Comedy
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/669
+#EXTINF:-1,Fox Family
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/668
+#EXTINF:-1,Fox Life
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/666
+#EXTINF:-1,Fox Premium Action
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/665
+#EXTINF:-1,Fox Premium Movies
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/664
+#EXTINF:-1,Fox Premium Series
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/663
+#EXTINF:-1,Fox sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/662
+#EXTINF:-1,FX mx
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/661
+#EXTINF:-1,FX sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/660
+#EXTINF:-1,Las Estrellas
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/659
+#EXTINF:-1,SYFY
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/657
+#EXTINF:-1,TCM
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/656
+#EXTINF:-1,Telemundo
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/655
+#EXTINF:-1,Tlnovelas
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/654
+#EXTINF:-1,TNT SERIES
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/653
+#EXTINF:-1,TNT SERIES mx
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/652
+#EXTINF:-1,TRU TV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/651
+#EXTINF:-1,==● ▄ ★ CINE ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/711
+#EXTINF:-1,AMC
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/710
+#EXTINF:-1,Cine Latino
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/709
+#EXTINF:-1,Cinecanal
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/708
+#EXTINF:-1,Cinemax
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/707
+#EXTINF:-1,Film&Arts
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/706
+#EXTINF:-1,FXM
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/705
+#EXTINF:-1,Golden
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/703
+#EXTINF:-1,Golden Edge
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/704
+#EXTINF:-1,HBO
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/700
+#EXTINF:-1,HBO 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/702
+#EXTINF:-1,HBO Family
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/701
+#EXTINF:-1,HBO Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/699
+#EXTINF:-1,HBO Signature
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/698
+#EXTINF:-1,Max
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/697
+#EXTINF:-1,MAX Prime
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/695
+#EXTINF:-1,MAX Prime Este
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/696
+#EXTINF:-1,MultiPremier
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/694
+#EXTINF:-1,Paramount Channel
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/693
+#EXTINF:-1,Sony
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/692
+#EXTINF:-1,Space
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/691
+#EXTINF:-1,Studio Universal
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/690
+#EXTINF:-1,TBS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/689
+#EXTINF:-1,The Filmzone
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/688
+#EXTINF:-1,TNT
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/687
+#EXTINF:-1,Universal Channel
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/686
+#EXTINF:-1,Warner Channel
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/685
+#EXTINF:-1,==● ▄ ★ CULTURA ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/727
+#EXTINF:-1,Animal Planet
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/726
+#EXTINF:-1,Discovery Channel
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/725
+#EXTINF:-1,Discovery Civilization
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/724
+#EXTINF:-1,Discovery Science
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/723
+#EXTINF:-1,Discovery Theater
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/722
+#EXTINF:-1,Discovery TLC
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/721
+#EXTINF:-1,Discovery World
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/720
+#EXTINF:-1,H2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/719
+#EXTINF:-1,History MX
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/718
+#EXTINF:-1,History sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/717
+#EXTINF:-1,Lifetime
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/716
+#EXTINF:-1,NAT GEO
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/715
+#EXTINF:-1,Nat Geo mx
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/714
+#EXTINF:-1,NAT GEO sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/713
+#EXTINF:-1,Nat Geo Wild
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/712
+#EXTINF:-1,==● ▄ ★ DEPORTES ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/756
+#EXTINF:-1,AYM Sports IS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/755
+#EXTINF:-1,Bein Sports n
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/754
+#EXTINF:-1,BOX Nation HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/753
+#EXTINF:-1,Claro Sports
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/752
+#EXTINF:-1,DirecTv Sports
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/750
+#EXTINF:-1,Directv Sports   HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/751
+#EXTINF:-1,DirecTv Sports 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/748
+#EXTINF:-1,Directv Sports 2 HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/749
+#EXTINF:-1,Directv Sports HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/747
+#EXTINF:-1,ESPN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/743
+#EXTINF:-1,ESPN 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/746
+#EXTINF:-1,ESPN 3
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/745
+#EXTINF:-1,ESPN Deportes HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/744
+#EXTINF:-1,ESPN Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/742
+#EXTINF:-1,Fight Time
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2646
+#EXTINF:-1,Fight Box HD US
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/741
+#EXTINF:-1,Fox Sports
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/738
+#EXTINF:-1,Fox Sports 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/740
+#EXTINF:-1,Fox Sports 3
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/739
+#EXTINF:-1,GOL TV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/737
+#EXTINF:-1,Golf Latin America
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/736
+#EXTINF:-1,iZZi: Afizzionados
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4099
+#EXTINF:-1,Px TV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/735
+#EXTINF:-1,Todo Deporte
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/733
+#EXTINF:-1,UFC Fighting
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/732
+#EXTINF:-1,Fighting Cannel HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/731
+#EXTINF:-1,univision Deportes
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/729
+#EXTINF:-1,Univision Deportes HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/730
+#EXTINF:-1,TDN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/734
+#EXTINF:-1,univision TDN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/728
+#EXTINF:-1,Univision TDN op2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2647
+#EXTINF:-1,Univision TDN MX op2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2648
+#EXTINF:-1,==● ▄ ★ DEPORTES SUR ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/810
+#EXTINF:-1,CDF FHD |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/808
+#EXTINF:-1,CDF HD | CL |
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/3453
+#EXTINF:-1,CDF HD |CL| (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/807
+#EXTINF:-1,CL: CDF Estadio HD op2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2085
+#EXTINF:-1,Estadio CDF HD |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/790
+#EXTINF:-1,CDF Basico |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/809
+#EXTINF:-1,CDF Premium |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/806
+#EXTINF:-1,CDO Basico |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/805
+#EXTINF:-1,CDO Premium |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/804
+#EXTINF:-1,CNT Sports |EC| laino
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/801
+#EXTINF:-1,CNT Sports FHD |EC| (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/803
+#EXTINF:-1,CNT Sports HD |EC| (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/802
+#EXTINF:-1,ESPN sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/791
+#EXTINF:-1,ESPN 2 sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/798
+#EXTINF:-1,ESPN 3 sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/796
+#EXTINF:-1,ESPN HD sur (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/793
+#EXTINF:-1,ESPN HD 2 sur (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/795
+#EXTINF:-1,ESPN HD 3 sur (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/794
+#EXTINF:-1,Fox Sports 1 HD |ARG|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2656
+#EXTINF:-1,Fox Sports 2 HD |ARG|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2657
+#EXTINF:-1,Fox Sports 3 HD |ARG|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2658
+#EXTINF:-1,Fox Sports |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/768
+#EXTINF:-1,Fox Sports HD |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/772
+#EXTINF:-1,Fox Sports 1 HD |CL|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/787
+#EXTINF:-1,Fox Sports 1 HD |CL| op2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/786
+#EXTINF:-1,Fox Sports Premium HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/773
+#EXTINF:-1,Fox Sports |CO|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/767
+#EXTINF:-1,Fox Sports |PY|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/766
+#EXTINF:-1,Fox Sports 1 |AR|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/783
+#EXTINF:-1,Fox Sports 2 |AR|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/778
+#EXTINF:-1,Fox Sports Premium |AR|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/771
+#EXTINF:-1,Fox Sports Premium |AR| op2 (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/770
+#EXTINF:-1,Fox Sports 1 SUR
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/784
+#EXTINF:-1,Fox Sports 2 SUR
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/779
+#EXTINF:-1,Fox Sports 3 SUR
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/774
+#EXTINF:-1,Libertadores Fox Sports 1 HD sur (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/788
+#EXTINF:-1,Fox Sports 2 HD sur (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/782
+#EXTINF:-1,Fox Sports 3 HD sur (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/777
+#EXTINF:-1,Fox Sports VEN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/769
+#EXTINF:-1,Fox Sports 2 HD VE (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/781
+#EXTINF:-1,Fox Sports 3 HD VE (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/776
+#EXTINF:-1,GOL TV |EC|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/764
+#EXTINF:-1,GOL TV |EC| op2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2644
+#EXTINF:-1,Gol TV HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2645
+#EXTINF:-1,GOL TV HD (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/765
+#EXTINF:-1,PE: Gol Peru HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2092
+#EXTINF:-1,GOLPERU |PE|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/763
+#EXTINF:-1,Movistar Deportes HD |PE|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2860
+#EXTINF:-1,PE: Movistar Deportes HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2093
+#EXTINF:-1,Movistar Deportes (CMD) |PE|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/762
+#EXTINF:-1,TNT Sports |AR|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/761
+#EXTINF:-1,TNT Sports |AR| op2 (L)
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/760
+#EXTINF:-1,TyC Sports
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/759
+#EXTINF:-1,UY: VTV op2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2084
+#EXTINF:-1,VTV HD |URU|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2642
+#EXTINF:-1,VTV+ HD |URU|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2643
+#EXTINF:-1,Win Sports |CO|
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/757
+#EXTINF:-1,Win Sports | CO |
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/3454
+#EXTINF:-1,==● ▄ ★ INFANTIL ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/835
+#EXTINF:-1,Baby TV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/833
+#EXTINF:-1,Boomerang
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/831
+#EXTINF:-1,Cartoon Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/830
+#EXTINF:-1,Cartoon Network sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/829
+#EXTINF:-1,Discovery KIDS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/828
+#EXTINF:-1,Discovery KIDS sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/827
+#EXTINF:-1,Disney
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/824
+#EXTINF:-1,Disney Junior
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/826
+#EXTINF:-1,Disney sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/822
+#EXTINF:-1,Disney sur Junior
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/823
+#EXTINF:-1,Disney XD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/820
+#EXTINF:-1,Disney XD sur
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/819
+#EXTINF:-1,NAT GEO KIDS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/818
+#EXTINF:-1,Nick 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/817
+#EXTINF:-1,Nick Jr
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/816
+#EXTINF:-1,Nickelodeon
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/815
+#EXTINF:-1,Nieckelodeon HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4831
+#EXTINF:-1,Nicktoons
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/814
+#EXTINF:-1,TIIN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/813
+#EXTINF:-1,Tooncast
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/811
+#EXTINF:-1,Zoomoo
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/4852
+#EXTINF:-1,==● ▄ ★ MUSICA ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/849
+#EXTINF:-1,Bandamax
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/848
+#EXTINF:-1,HTV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/847
+#EXTINF:-1,MTV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/846
+#EXTINF:-1,MTV BASE
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/845
+#EXTINF:-1,MTV Classic
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/844
+#EXTINF:-1,MTV Dance
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/843
+#EXTINF:-1,MTV Hits
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/842
+#EXTINF:-1,MTV Rocks
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/841
+#EXTINF:-1,RMS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/840
+#EXTINF:-1,Telehit
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/839
+#EXTINF:-1,MI MUSICA HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/838
+#EXTINF:-1,VH1
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/836
+#EXTINF:-1,VH1 CLASSICS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/837
+#EXTINF:-1,==● ▄ ★ VARIOS ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/873
+#EXTINF:-1,Bethel
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2597
+#EXTINF:-1,CNN Chile
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/872
+#EXTINF:-1,CNN Espanol
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/871
+#EXTINF:-1,CNN Internacional
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/870
+#EXTINF:-1,Cronica
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/857
+#EXTINF:-1,DW
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/869
+#EXTINF:-1,El Financiero Bloomberg
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/868
+#EXTINF:-1,Enlace
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/867
+#EXTINF:-1,GARAGE
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/866
+#EXTINF:-1,INTI
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/865
+#EXTINF:-1,ISAT
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/864
+#EXTINF:-1,RT
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/859
+#EXTINF:-1,Sur TV
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/863
+#EXTINF:-1,TVE
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/862
+#EXTINF:-1,WOBI
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/861
+#EXTINF:-1,==● ▄ ★ USA ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/185
+#EXTINF:-1,USA | ABC HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/184
+#EXTINF:-1,USA | ABC NEWS HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/183
+#EXTINF:-1,USA | AFN SPORTS
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/182
+#EXTINF:-1,USA | AFN SPORTS 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/181
+#EXTINF:-1,USA | AMC HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/180
+#EXTINF:-1,USA | Bein Sports USA HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/179
+#EXTINF:-1,USA | CARTOON NETWORK
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/178
+#EXTINF:-1,USA | CBS Sports Network HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/177
+#EXTINF:-1,USA | CBSN HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/176
+#EXTINF:-1,USA | CNBC
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/175
+#EXTINF:-1,USA | Comedy Central
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/174
+#EXTINF:-1,USA | DISCCOVERY HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/173
+#EXTINF:-1,USA | Discovery Science HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/172
+#EXTINF:-1,USA | DIY Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/171
+#EXTINF:-1,USA | ESPN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/170
+#EXTINF:-1,USA | ESPN 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/169
+#EXTINF:-1,USA | ESPN News US HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/168
+#EXTINF:-1,USA | ESPN U HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/167
+#EXTINF:-1,USA | Fight HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/166
+#EXTINF:-1,USA | FIGHT SPORT
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/165
+#EXTINF:-1,USA | Food Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/164
+#EXTINF:-1,USA | Food Network HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/163
+#EXTINF:-1,USA | Fox HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/162
+#EXTINF:-1,USA | FOX News HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/161
+#EXTINF:-1,USA | Fox Sports 1
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/160
+#EXTINF:-1,USA | Fox Sports 2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/159
+#EXTINF:-1,USA | Fox SPORTS 506 HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/158
+#EXTINF:-1,USA | FOXX HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/157
+#EXTINF:-1,USA | FX HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/156
+#EXTINF:-1,USA | H2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/155
+#EXTINF:-1,USA | HBO Comedy
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/154
+#EXTINF:-1,USA | HBO East
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/153
+#EXTINF:-1,USA | HBO HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/152
+#EXTINF:-1,USA | HBO Signature
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/151
+#EXTINF:-1,USA | HBO Zone
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/150
+#EXTINF:-1,USA | MBL HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/149
+#EXTINF:-1,USA | MLB Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/148
+#EXTINF:-1,USA | MSNBC HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/147
+#EXTINF:-1,USA | National Geographic
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/146
+#EXTINF:-1,USA | NBA TV HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/145
+#EXTINF:-1,USA | NBC
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/144
+#EXTINF:-1,USA | NBC Golf
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/143
+#EXTINF:-1,USA | NBCSN HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/142
+#EXTINF:-1,USA | NFL Network 1
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/141
+#EXTINF:-1,USA | NFL Network HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/140
+#EXTINF:-1,USA | NHL Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/139
+#EXTINF:-1,USA | NICKELODEN HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/138
+#EXTINF:-1,USA | OWN HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/137
+#EXTINF:-1,USA | PAC-12 Arizona
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/136
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/135
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/134
+#EXTINF:-1,USA | PAC-12 Oregon
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/133
+#EXTINF:-1,USA | PAC-12 Washington
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/132
+#EXTINF:-1,USA | Red Bull
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/131
+#EXTINF:-1,USA | SEC Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/130
+#EXTINF:-1,USA | Smile Of A Child
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/129
+#EXTINF:-1,USA | SPIKE HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/128
+#EXTINF:-1,USA | Sports-Net
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/127
+#EXTINF:-1,USA | TBS HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/126
+#EXTINF:-1,USA | Tennis Channel HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/125
+#EXTINF:-1,USA | TLC HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/124
+#EXTINF:-1,USA | Toon Kids
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/123
+#EXTINF:-1,USA | UFC Fight pass
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/122
+#EXTINF:-1,USA | USA Network HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/121
+#EXTINF:-1,USA | Versus HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/120
+#EXTINF:-1,USA | WWE HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/119
+#EXTINF:-1,==● ▄ ★ USA VIP ★ ▄ ●==
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/118
+#EXTINF:-1,USA VIP: abc-15-arizona.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2858
+#EXTINF:-1,USA VIP: abc-atlanta.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2857
+#EXTINF:-1,USA VIP: AHC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2856
+#EXTINF:-1,USA VIP: AMC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2855
+#EXTINF:-1,USA VIP: ANIMALPLANET.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2853
+#EXTINF:-1,USA VIP: BABYTV.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2852
+#EXTINF:-1,USA VIP: BBC AMERICA.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2849
+#EXTINF:-1,USA VIP: BOOMERANG.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2847
+#EXTINF:-1,USA VIP: BRAVO.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2846
+#EXTINF:-1,USA VIP: cartoon-network.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2844
+#EXTINF:-1,USA VIP: CARTOON.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2845
+#EXTINF:-1,USA VIP: cbs-atlanta.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2843
+#EXTINF:-1,USA VIP: cbs-sports-network.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2842
+#EXTINF:-1,USA VIP: cbs5-arizona.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2841
+#EXTINF:-1,USA VIP: CBSSPORTSNETWORK.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2840
+#EXTINF:-1,USA VIP: cinemax-east.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2839
+#EXTINF:-1,USA VIP: cinemax-west.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2838
+#EXTINF:-1,USA VIP: CINESONY.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2837
+#EXTINF:-1,USA VIP: CNBC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2836
+#EXTINF:-1,USA VIP: CNNENG.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2832
+#EXTINF:-1,USA VIP: COOKING.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2831
+#EXTINF:-1,USA VIP: decades.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2829
+#EXTINF:-1,USA VIP: destination-america.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2827
+#EXTINF:-1,USA VIP: discovery-channel.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2825
+#EXTINF:-1,USA VIP: discovery-family.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2824
+#EXTINF:-1,USA VIP: discovery-life.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2823
+#EXTINF:-1,USA VIP: DISCOVERYFAMSPA.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2820
+#EXTINF:-1,USA VIP: DISCOVERYSPA.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2818
+#EXTINF:-1,USA VIP: DISNEY Channel.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2817
+#EXTINF:-1,USA VIP: disneychannel-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2815
+#EXTINF:-1,USA VIP: DISNEYJR.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2814
+#EXTINF:-1,USA VIP: disneyjunior-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2813
+#EXTINF:-1,USA VIP: DISNEYXD.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2812
+#EXTINF:-1,USA VIP: diy.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2811
+#EXTINF:-1,USA VIP: E! ENTERTAINTMENT.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2808
+#EXTINF:-1,USA VIP: ELEVENSPORTS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2809
+#EXTINF:-1,USA VIP: EPIXHITS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2807
+#EXTINF:-1,USA VIP: espn-bases-loaded.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2805
+#EXTINF:-1,USA VIP: espn-deportes.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2803
+#EXTINF:-1,USA VIP: espn-news.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2802
+#EXTINF:-1,USA VIP: espn2.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2800
+#EXTINF:-1,USA VIP: ESPN201.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2799
+#EXTINF:-1,USA VIP: ESPNBASESLOADED.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2798
+#EXTINF:-1,USA VIP: ESPNNEWS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2796
+#EXTINF:-1,USA VIP: ESPNU.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2795
+#EXTINF:-1,USA VIP: Fight Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/110
+#EXTINF:-1,USA VIP: FOOD network.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2793
+#EXTINF:-1,USA VIP: FOX Collage Sports Atlantic
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/109
+#EXTINF:-1,USA VIP: FOX Collage Sports Central
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/108
+#EXTINF:-1,USA VIP: FOX Collage Sports Pacific
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/107
+#EXTINF:-1,USA VIP: FOX DEPORTES.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2787
+#EXTINF:-1,USA VIP: Fox Soccer Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/106
+#EXTINF:-1,USA VIP: FOX Sports Arizona
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/105
+#EXTINF:-1,USA VIP: FOX Sports Carolinas
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/104
+#EXTINF:-1,USA VIP: FOX Sports Detroit
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/103
+#EXTINF:-1,USA VIP: FOX Sports Midwest
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/102
+#EXTINF:-1,USA VIP: FOX Sports New Orleans
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/101
+#EXTINF:-1,USA VIP: FOX Sports North
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/100
+#EXTINF:-1,USA VIP: FOX Sports Ohio
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/99
+#EXTINF:-1,USA VIP: FOX Sports Oklahoma
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/98
+#EXTINF:-1,USA VIP: Fox Sports San Diego USA
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/97
+#EXTINF:-1,USA VIP: FOX Sports Southeast
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/96
+#EXTINF:-1,USA VIP: FOX Sports SouthWest
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/95
+#EXTINF:-1,USA VIP: FOX Sports SouthWest Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/94
+#EXTINF:-1,USA VIP: FOX Sports SUN
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/93
+#EXTINF:-1,USA VIP: FOX Sports West
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/92
+#EXTINF:-1,USA VIP: Fox Sports West USA
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/91
+#EXTINF:-1,USA VIP: FOX Sports Wisconsin
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/90
+#EXTINF:-1,USA VIP: fox-atlanta.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2792
+#EXTINF:-1,USA VIP: fox-business-network.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2791
+#EXTINF:-1,USA VIP: fox-college-sport-central.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2790
+#EXTINF:-1,USA VIP: fox-college-sports-atlantic.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2789
+#EXTINF:-1,USA VIP: fox-news-channel.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2786
+#EXTINF:-1,USA VIP: fox10news-arizona.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2785
+#EXTINF:-1,USA VIP: FOXBUSINESS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2784
+#EXTINF:-1,USA VIP: FOXCOLLEGESPORTSATLANTIC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2783
+#EXTINF:-1,USA VIP: FOXCOLLEGESPORTSCENTRAL.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2782
+#EXTINF:-1,USA VIP: FOXCOLLEGESPORTSPACIFIC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2781
+#EXTINF:-1,USA VIP: FOXNEWS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2778
+#EXTINF:-1,USA VIP: FREEFORM.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2775
+#EXTINF:-1,USA VIP: FS1.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2774
+#EXTINF:-1,USA VIP: FS2.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2773
+#EXTINF:-1,USA VIP: fusion.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2772
+#EXTINF:-1,USA VIP: fx.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2771
+#EXTINF:-1,USA VIP: fxm.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2770
+#EXTINF:-1,USA VIP: ginx-esports-tv.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2768
+#EXTINF:-1,USA VIP: Gol TV English
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/88
+#EXTINF:-1,USA VIP: GOLFCHANNEL.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2767
+#EXTINF:-1,USA VIP: hallmark-channel.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2765
+#EXTINF:-1,USA VIP: hallmark-movies-mysteries.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2764
+#EXTINF:-1,USA VIP: HALLMARK.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2766
+#EXTINF:-1,USA VIP: HALLMARKDRAMA.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2763
+#EXTINF:-1,USA VIP: HALLMARKMM.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2762
+#EXTINF:-1,USA VIP: hbo-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2761
+#EXTINF:-1,USA VIP: HBOEAST.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2760
+#EXTINF:-1,USA VIP: HBOWEST.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2759
+#EXTINF:-1,USA VIP: HGTV USA
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/87
+#EXTINF:-1,USA VIP: HGTV.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2758
+#EXTINF:-1,USA VIP: ID.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2756
+#EXTINF:-1,USA VIP: IFC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2755
+#EXTINF:-1,USA VIP: MLBNETWORK.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2754
+#EXTINF:-1,USA VIP: MSG 2 Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/86
+#EXTINF:-1,USA VIP: MSG Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/85
+#EXTINF:-1,USA VIP: MSG Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/84
+#EXTINF:-1,USA VIP: MSG2
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/83
+#EXTINF:-1,USA VIP: MSNBC
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/82
+#EXTINF:-1,USA VIP: MSNBC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2752
+#EXTINF:-1,USA VIP: my45-arizona.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2751
+#EXTINF:-1,USA VIP: NATGEO.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2750
+#EXTINF:-1,USA VIP: NATGEOMUNDO.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2749
+#EXTINF:-1,USA VIP: NATGEOWILD.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2748
+#EXTINF:-1,USA VIP: NBA TV HD
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/81
+#EXTINF:-1,USA VIP: NBATV.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2747
+#EXTINF:-1,USA VIP: NBC Los 
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/80
+#EXTINF:-1,USA VIP: NBC Miami
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/79
+#EXTINF:-1,USA VIP: NBC New York USA
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/78
+#EXTINF:-1,USA VIP: NBC Sports Boston
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/77
+#EXTINF:-1,USA VIP: NBC Sports California
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/76
+#EXTINF:-1,USA VIP: NBC Sports Chicago
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/75
+#EXTINF:-1,USA VIP: NBC Sports Chicago Plus
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/74
+#EXTINF:-1,USA VIP: NBC Sports Northwest
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/73
+#EXTINF:-1,USA VIP: NBC Sports Philadelphia
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/72
+#EXTINF:-1,USA VIP: NBC Sports Washington
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/71
+#EXTINF:-1,USA VIP: NBC Washington
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/70
+#EXTINF:-1,USA VIP: NBCSPORTSNETWORK.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2745
+#EXTINF:-1,USA VIP: NFL Network
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/69
+#EXTINF:-1,USA VIP: NFL: Red Zone
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/68
+#EXTINF:-1,USA VIP: NFLNETWORK.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2744
+#EXTINF:-1,USA VIP: NFLREDZONE.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2743
+#EXTINF:-1,USA VIP: Olympic Channel USA
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/67
+#EXTINF:-1,USA VIP: OXYGEN.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2742
+#EXTINF:-1,USA VIP: PAC 12 Arizona
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/66
+#EXTINF:-1,USA VIP: PAC 12 Bay Area
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/65
+#EXTINF:-1,USA VIP: PAC 12 Los 
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/64
+#EXTINF:-1,USA VIP: PAC 12 Mountain
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/63
+#EXTINF:-1,USA VIP: PAC 12 Networks
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/62
+#EXTINF:-1,USA VIP: PAC 12 Oregon
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/61
+#EXTINF:-1,USA VIP: PAC 12 Washington
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/60
+#EXTINF:-1,USA VIP: PAC12 Network USA
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/59
+#EXTINF:-1,USA VIP: SCIENCE.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2741
+#EXTINF:-1,USA VIP: SHOWTIMEEAST.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2740
+#EXTINF:-1,USA VIP: SHOWTIMEWEST.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2739
+#EXTINF:-1,USA VIP: SONY MOVIE.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2738
+#EXTINF:-1,USA VIP: SUNDANCE.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2736
+#EXTINF:-1,USA VIP: syfy-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2734
+#EXTINF:-1,USA VIP: SYFY.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2735
+#EXTINF:-1,USA VIP: tbs-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2732
+#EXTINF:-1,USA VIP: TBS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2733
+#EXTINF:-1,USA VIP: TCM.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2731
+#EXTINF:-1,USA VIP: telemundo-39.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2730
+#EXTINF:-1,USA VIP: telemundo-52.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2729
+#EXTINF:-1,USA VIP: telemundo-chicago.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2728
+#EXTINF:-1,USA VIP: TELEMUNDO-MIAMI.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2727
+#EXTINF:-1,USA VIP: telemundo-phoenix.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2726
+#EXTINF:-1,USA VIP: tlc-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2724
+#EXTINF:-1,USA VIP: TLC.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2725
+#EXTINF:-1,USA VIP: tnt-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2722
+#EXTINF:-1,USA VIP: TNT.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2723
+#EXTINF:-1,USA VIP: travel-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2720
+#EXTINF:-1,USA VIP: TRAVEL.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2721
+#EXTINF:-1,USA VIP: trutv.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2719
+#EXTINF:-1,USA VIP: universal-kids.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2718
+#EXTINF:-1,USA VIP: UNIVERSALKIDS.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2717
+#EXTINF:-1,USA VIP: UNIVERSO.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2716
+#EXTINF:-1,USA VIP: USA.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2715
+#EXTINF:-1,USA VIP: usanetwork-pacific.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2714
+#EXTINF:-1,USA VIP: VELOCITY.
+http://io.xtrego.com:8080/williamardian/WPwr51QTQQ/2713
+----------
+#EXTINF:-1,•●★----| USA Channels |---★●•
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2354
+#EXTINF:-1,|US| A&E
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2348
+#EXTINF:-1,|US| ABC
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2341
+#EXTINF:-1,|US| ABC News
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2349
+#EXTINF:-1,|US| AMC HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2314
+#EXTINF:-1,|US| Animal Planet
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2342
+#EXTINF:-1,|US| Bein Sports
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2313
+#EXTINF:-1,|US| Cartoon Network
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2343
+#EXTINF:-1,|US| CBS HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2324
+#EXTINF:-1,|US| CNN HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2323
+#EXTINF:-1,|US| Comedy Central
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2322
+#EXTINF:-1,|US| Discovery HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2312
+#EXTINF:-1,|US| Discovery Science HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2344
+#EXTINF:-1,|US| E!
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2345
+#EXTINF:-1,|US| ESPN 2 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2335
+#EXTINF:-1,|US| ESPN U HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2334
+#EXTINF:-1,|US| ESPN USA HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2336
+#EXTINF:-1,|US| Fight Network
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2295
+#EXTINF:-1,|US| Fox HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2321
+#EXTINF:-1,|US| Fox News HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2311
+#EXTINF:-1,|US| Fox Sports 1 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2333
+#EXTINF:-1,|US| Fox Sports 2 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2332
+#EXTINF:-1,|US| FX
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2310
+#EXTINF:-1,|US| FXX
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2309
+#EXTINF:-1,|US| Golf HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2329
+#EXTINF:-1,|US| HBO
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2305
+#EXTINF:-1,|US| HBO Comedy
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2308
+#EXTINF:-1,|US| HBO Signature
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2307
+#EXTINF:-1,|US| HBO Zone
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2306
+#EXTINF:-1,|US| HGTV
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2353
+#EXTINF:-1,|US| History
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2304
+#EXTINF:-1,|US| Investigation Discovery HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2303
+#EXTINF:-1,|US| MLB Network HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2296
+#EXTINF:-1,|US| MoreMax HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2302
+#EXTINF:-1,|US| National Geographic
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2338
+#EXTINF:-1,|US| NBA HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2331
+#EXTINF:-1,|US| NBC
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2320
+#EXTINF:-1,|US| NFL Channel HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2330
+#EXTINF:-1,|US| NHL Network HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2328
+#EXTINF:-1,|US| Nickelodeon
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2346
+#EXTINF:-1,|US| Showtime
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2300
+#EXTINF:-1,|US| Spike HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2301
+#EXTINF:-1,|US| Sports Net 360 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2326
+#EXTINF:-1,|US| Sports Net Ontario HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2325
+#EXTINF:-1,|US| Starz Cinema HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2299
+#EXTINF:-1,|US| Starz HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2298
+#EXTINF:-1,|US| Syfy HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2347
+#EXTINF:-1,|US| TBS HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2339
+#EXTINF:-1,|US| TLC HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2350
+#EXTINF:-1,|US| TNT HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2340
+#EXTINF:-1,|US| TSN 1 HD-CA
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2319
+#EXTINF:-1,|US| TSN 2 HD-CA
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2318
+#EXTINF:-1,|US| TSN 3 HD-CA
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2317
+#EXTINF:-1,|US| TSN 4 HD-CA
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2316
+#EXTINF:-1,|US| TSN 5 HD-CA
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2315
+#EXTINF:-1,|US| Univision Deportes
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2351
+#EXTINF:-1,|US| USA Network
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2297
+#EXTINF:-1,|US| Viceland
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2352
+#EXTINF:-1,|US| WWE Network HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2327
+--------
+#EXTINF:-1,❤❤❤❤  USA  ❤❤❤❤
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5122
+#EXTINF:-1,US_A&E HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14985
+#EXTINF:-1,US_A&E TV HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14984
+#EXTINF:-1,US_ABC FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14983
+#EXTINF:-1,US_ABC HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14982
+#EXTINF:-1,US_ABC News HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14981
+#EXTINF:-1,US_AFN Spectrum HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14980
+#EXTINF:-1,US_AFN Sport 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14979
+#EXTINF:-1,US_AFN Sport 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14978
+#EXTINF:-1,US_Amazing Discoveries HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14977
+#EXTINF:-1,US_AMC
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14976
+#EXTINF:-1,US_AMC HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14975
+#EXTINF:-1,US_Animal Planet
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14974
+#EXTINF:-1,US_Animal Planet HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14973
+#EXTINF:-1,US_beINSports HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14972
+#EXTINF:-1,US_BET HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14971
+#EXTINF:-1,US_Bloomberg Europe
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14970
+#EXTINF:-1,US_Bloomberg TV 1080P HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14969
+#EXTINF:-1,US_Boomerang
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14968
+#EXTINF:-1,US_Bravo
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14967
+#EXTINF:-1,US_Bravo HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14966
+#EXTINF:-1,US_BYU TV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14965
+#EXTINF:-1,US_C-Span 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14964
+#EXTINF:-1,US_C-Span 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14963
+#EXTINF:-1,US_C-Span 3
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14962
+#EXTINF:-1,US_CA Sportsnet 360 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14961
+#EXTINF:-1,US_Cable News Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14960
+#EXTINF:-1,US_Cartoon Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14959
+#EXTINF:-1,US_CBS
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14958
+#EXTINF:-1,US_CBSN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14957
+#EXTINF:-1,US_Chiller HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14956
+#EXTINF:-1,US_CineMax 5 StarMax
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14955
+#EXTINF:-1,US_Cinemax Action
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14954
+#EXTINF:-1,US_CineMax Action HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14953
+#EXTINF:-1,US_CineMax ActionMax East
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14952
+#EXTINF:-1,US_CineMax East
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14951
+#EXTINF:-1,US_Cinemax More HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14950
+#EXTINF:-1,US_CineMax MoreMax
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14949
+#EXTINF:-1,US_CNBC
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14948
+#EXTINF:-1,US_CNN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14947
+#EXTINF:-1,US_Comedy Central
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14946
+#EXTINF:-1,US_Comedy Central FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14945
+#EXTINF:-1,US_CSNS Sports California HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14944
+#EXTINF:-1,US_CW
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14943
+#EXTINF:-1,US_CW HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14942
+#EXTINF:-1,US_CW11 US
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14941
+#EXTINF:-1,US_Discovery Channel CA FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14940
+#EXTINF:-1,US_Discovery Channel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14939
+#EXTINF:-1,US_Discovery HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14938
+#EXTINF:-1,US_Discovery HD Showcase
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14937
+#EXTINF:-1,US_Discovery Science HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14936
+#EXTINF:-1,US_Discovery Velocity
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14935
+#EXTINF:-1,US_Disney Channel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14934
+#EXTINF:-1,US_Disney XD HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14933
+#EXTINF:-1,US_DIY Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14932
+#EXTINF:-1,US_DIY Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14931
+#EXTINF:-1,US_DW
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14930
+#EXTINF:-1,US_E! Entertainment HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14929
+#EXTINF:-1,US_El Rey Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14928
+#EXTINF:-1,US_ESPN 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14927
+#EXTINF:-1,US_ESPN 1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14926
+#EXTINF:-1,US_ESPN 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14925
+#EXTINF:-1,US_ESPN 2 FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14924
+#EXTINF:-1,US_ESPN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14923
+#EXTINF:-1,US_Fashion One HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14922
+#EXTINF:-1,US_Fight HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14921
+#EXTINF:-1,US_Fight Sport
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14920
+#EXTINF:-1,US_Fine Living
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14919
+#EXTINF:-1,US_Food Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14918
+#EXTINF:-1,US_Food Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14917
+#EXTINF:-1,US_FOX 43
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14916
+#EXTINF:-1,US_Fox College Sports Atlantic HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14915
+#EXTINF:-1,US_Fox HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14914
+#EXTINF:-1,US_Fox News HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14913
+#EXTINF:-1,US_Fox Soccer Plus
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14912
+#EXTINF:-1,US_Fox Soccer Plus HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14911
+#EXTINF:-1,US_Fox Sports 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14910
+#EXTINF:-1,US_Fox Sports 1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14909
+#EXTINF:-1,US_Fox Sports 2 FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14908
+#EXTINF:-1,US_Fox Sports 2 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14907
+#EXTINF:-1,US_Fox Sports 506 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14906
+#EXTINF:-1,US_Fox Sports College Central HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14905
+#EXTINF:-1,US_Fox Sports HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14904
+#EXTINF:-1,US_Fox Sports North HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14903
+#EXTINF:-1,US_Free Form HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14902
+#EXTINF:-1,US_FreeForm HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14901
+#EXTINF:-1,US_FS1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14900
+#EXTINF:-1,US_Fuel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14899
+#EXTINF:-1,US_FX
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14898
+#EXTINF:-1,US_FX HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14897
+#EXTINF:-1,US_GSN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14896
+#EXTINF:-1,US_H2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14895
+#EXTINF:-1,US_Hallmark
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14894
+#EXTINF:-1,US_Hallmark Channel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14893
+#EXTINF:-1,US_HBO
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14892
+#EXTINF:-1,US_HBO Comedy HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14891
+#EXTINF:-1,US_HBO East
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14890
+#EXTINF:-1,US_HBO Family HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14889
+#EXTINF:-1,US_HBO HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14888
+#EXTINF:-1,US_HBO Signature
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14887
+#EXTINF:-1,US_HBO Signature HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14886
+#EXTINF:-1,US_HBO Zone
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14885
+#EXTINF:-1,US_HGTV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14884
+#EXTINF:-1,US_HGTV HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14883
+#EXTINF:-1,US_HIFI
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14882
+#EXTINF:-1,US_History
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14881
+#EXTINF:-1,US_History HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14880
+#EXTINF:-1,US_HSN YT LIVE 1080P HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14879
+#EXTINF:-1,US_IFC HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14878
+#EXTINF:-1,US_Investigation Discovery HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14877
+#EXTINF:-1,US_Lifetime HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14876
+#EXTINF:-1,US_MLB HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14875
+#EXTINF:-1,US_MLB Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14874
+#EXTINF:-1,US_MLB Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14873
+#EXTINF:-1,US_MSNBC HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14872
+#EXTINF:-1,US_MTV Base HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14871
+#EXTINF:-1,US_MTV Rocks
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14870
+#EXTINF:-1,US_Nat Geo Wild HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14869
+#EXTINF:-1,US_Nat Geographic HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14868
+#EXTINF:-1,US_National Geographic
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14867
+#EXTINF:-1,US_NBA HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14866
+#EXTINF:-1,US_NBA Live 1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14865
+#EXTINF:-1,US_NBA Live 2 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14864
+#EXTINF:-1,US_NBA Live 3 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14863
+#EXTINF:-1,US_NBA Live 4 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14862
+#EXTINF:-1,US_NBA Live 5 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14861
+#EXTINF:-1,US_NBA Live 6 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14860
+#EXTINF:-1,US_NBA Live 7 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14859
+#EXTINF:-1,US_NBA Live 8 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14858
+#EXTINF:-1,US_NBC
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14857
+#EXTINF:-1,US_NBC Golf Channel FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14856
+#EXTINF:-1,US_NBC Golf Channel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14855
+#EXTINF:-1,US_NBC Golf HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14854
+#EXTINF:-1,US_NBC News HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14853
+#EXTINF:-1,US_NBC SN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14852
+#EXTINF:-1,US_NBCSN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14851
+#EXTINF:-1,US_Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14850
+#EXTINF:-1,US_NFL Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14849
+#EXTINF:-1,US_NFL Network 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14848
+#EXTINF:-1,US_NFL Network 1080i
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14847
+#EXTINF:-1,US_NFL Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14846
+#EXTINF:-1,US_NFL Now HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14845
+#EXTINF:-1,US_NFL Redzone HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14844
+#EXTINF:-1,US_NHL Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14843
+#EXTINF:-1,US_Oprah Winfrey Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14842
+#EXTINF:-1,US_Outdoor Channel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14841
+#EXTINF:-1,US_PAC-12 Arizona
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14840
+#EXTINF:-1,US_PAC-12 Bay Area
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14839
+#EXTINF:-1,US_PAC-12 Los Angeles FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14838
+#EXTINF:-1,US_PAC-12 Oregon FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14837
+#EXTINF:-1,US_PAC-12 Washington FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14836
+#EXTINF:-1,US_Reelz HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14835
+#EXTINF:-1,US_Science HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14834
+#EXTINF:-1,US_SEC Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14833
+#EXTINF:-1,US_Showtime 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14832
+#EXTINF:-1,US_Showtime 2 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14831
+#EXTINF:-1,US_Showtime East HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14830
+#EXTINF:-1,US_Showtime FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14829
+#EXTINF:-1,US_Showtime Showcase HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14828
+#EXTINF:-1,US_Showtime West
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14827
+#EXTINF:-1,US_Smile Of A Child
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14826
+#EXTINF:-1,US_Spike HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14825
+#EXTINF:-1,US_Spike TV HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14824
+#EXTINF:-1,US_Sportsnet East HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14823
+#EXTINF:-1,US_Sportsnet Ontario HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14822
+#EXTINF:-1,US_Sportsnet West HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14821
+#EXTINF:-1,US_Sprout World HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14820
+#EXTINF:-1,US_Starz Cinema
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14819
+#EXTINF:-1,US_Starz Comedy
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14818
+#EXTINF:-1,US_Starz Edge
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14817
+#EXTINF:-1,US_Starz Edge HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14816
+#EXTINF:-1,US_Starz Encore
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14815
+#EXTINF:-1,US_Starz Encore HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14814
+#EXTINF:-1,US_SyFy
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14813
+#EXTINF:-1,US_SyFy HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14812
+#EXTINF:-1,US_TBS HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14811
+#EXTINF:-1,US_TLC HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14810
+#EXTINF:-1,US_TNT HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14809
+#EXTINF:-1,US_Travel Channel HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14808
+#EXTINF:-1,US_truTV HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14807
+#EXTINF:-1,US_TSN 1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14806
+#EXTINF:-1,US_TSN 2 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14805
+#EXTINF:-1,US_TSN 3 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14804
+#EXTINF:-1,US_TSN 4 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14803
+#EXTINF:-1,US_TSN 5 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14802
+#EXTINF:-1,US_UFC Fight Pass
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14801
+#EXTINF:-1,US_Univision HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14800
+#EXTINF:-1,US_USA HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14799
+#EXTINF:-1,US_USA Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14798
+#EXTINF:-1,US_VH1 Classic
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14797
+#EXTINF:-1,US_WWE
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14796
+#EXTINF:-1,US_WWE HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14795
+#EXTINF:-1,US_WWE Network FHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/14794
+#EXTINF:-1,US: TBS HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5061
+#EXTINF:-1,US: Starz East
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5063
+#EXTINF:-1,US: NFL HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5073
+#EXTINF:-1,US: Freeform HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5077
+#EXTINF:-1,US: LIFE TIME
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5079
+#EXTINF:-1,US: HBO SIGNATURE
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5085
+#EXTINF:-1,US: HBO Comdey
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5086
+#EXTINF:-1,US: HBO East
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5087
+#EXTINF:-1,US: HALLMARK
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5089
+#EXTINF:-1,US: CNN HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7531
+#EXTINF:-1,US: ESPN U HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7506
+#EXTINF:-1,US: Fox Sports West
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7518
+#EXTINF:-1,US: MLB Network HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7516
+#EXTINF:-1,US: MoreMax HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7521
+#EXTINF:-1,US: NBA HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7507
+#EXTINF:-1,US: PAC-12 Arizona HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7514
+#EXTINF:-1,US: PAC-12 Bay Area HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7513
+#EXTINF:-1,US: PAC-12 Mountain HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7511
+#EXTINF:-1,US: PAC-12 Oregon HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7510
+#EXTINF:-1,US: PAC-12 Washington HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7509
+#EXTINF:-1,US: Showtime
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7519
+#EXTINF:-1,US: Spike HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7520
+#EXTINF:-1,US: USA Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7517
+#EXTINF:-1,US: Cinemax
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5094
+#EXTINF:-1,US: CBS ACTION
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5098
+#EXTINF:-1,US: Travel Channel
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/10557
+#EXTINF:-1,US: Bloomberg
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5100
+#EXTINF:-1,US: A&E
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5105
+#EXTINF:-1,US: ABC News HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/5106
+#EXTINF:-1,ES: TELECINCO HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4975
+
+#EXTINF:-1,###### CANADA CHANNEL LIST ######
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19850
+#EXTINF:-1,CA:  GOLF CHANNEL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19836
+#EXTINF:-1,CA: A&E | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19678
+#EXTINF:-1,CA: A&E | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19849
+#EXTINF:-1,CA: A&E | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19677
+#EXTINF:-1,CA: A&E | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19848
+#EXTINF:-1,CA: ABC (West) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19847
+#EXTINF:-1,CA: ACTION | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19676
+#EXTINF:-1,CA: ACTION | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19846
+#EXTINF:-1,CA: AMC | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19845
+#EXTINF:-1,CA: AMC | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19844
+#EXTINF:-1,CA: ANIMAL PLANET | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19675
+#EXTINF:-1,CA: ANIMAL PLANET | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19843
+#EXTINF:-1,CA: BBC CANADA | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19842
+#EXTINF:-1,CA: BBC EARTH | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19674
+#EXTINF:-1,CA: BBC WORLD NEWS | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19841
+#EXTINF:-1,CA: BBC WORLD NEWS | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19673
+#EXTINF:-1,CA: BNN | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19672
+#EXTINF:-1,CA: BNN | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19840
+#EXTINF:-1,CA: BNN | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19839
+#EXTINF:-1,CA: BRAVO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19838
+#EXTINF:-1,CA: Breakfast Television Calgary (5-10am)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19671
+#EXTINF:-1,CA: Breakfast Television Montreal (5-10am)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19670
+#EXTINF:-1,CA: Breakfast Television Toronto (5-10am)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19669
+#EXTINF:-1,CA: CANADIAN ARAB TV | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19711
+#EXTINF:-1,CA: CARTOON NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19837
+#EXTINF:-1,CA: CBC CALGARY | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19835
+#EXTINF:-1,CA: CBC CALGARY | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19710
+#EXTINF:-1,CA: CBC CHARLOTTETOWN | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19709
+#EXTINF:-1,CA: CBC EDMONTON | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19834
+#EXTINF:-1,CA: CBC FEDERICTON | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19668
+#EXTINF:-1,CA: CBC FREDERICTON | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19708
+#EXTINF:-1,CA: CBC FRENCH | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19833
+#EXTINF:-1,CA: CBC HALIFAX | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19707
+#EXTINF:-1,CA: CBC HALIFAX | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19667
+#EXTINF:-1,CA: CBC MONTREAL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19832
+#EXTINF:-1,CA: CBC MONTREAL | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19831
+#EXTINF:-1,CA: CBC MONTREAL | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19666
+#EXTINF:-1,CA: CBC NEWS | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19665
+#EXTINF:-1,CA: CBC NEWS | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19830
+#EXTINF:-1,CA: CBC News Network
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19664
+#EXTINF:-1,CA: CBC NEWS NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19706
+#EXTINF:-1,CA: CBC NEWS TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19829
+#EXTINF:-1,CA: CBC OTTAWA | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19828
+#EXTINF:-1,CA: CBC OTTAWA | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19827
+#EXTINF:-1,CA: CBC RADIO
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19705
+#EXTINF:-1,CA: CBC REGINA | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19704
+#EXTINF:-1,CA: CBC ST. JOHNS | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19703
+#EXTINF:-1,CA: CBC Television
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19663
+#EXTINF:-1,CA: CBC TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19826
+#EXTINF:-1,CA: CBC TORONTO | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19825
+#EXTINF:-1,CA: CBC VANCOUVER | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19824
+#EXTINF:-1,CA: CBC VANCOUVER | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19823
+#EXTINF:-1,CA: CBC WINDSOR | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19702
+#EXTINF:-1,CA: CBC WINNIPEG | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19822
+#EXTINF:-1,CA: CBC WINNIPEG | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19701
+#EXTINF:-1,CA: CBC YELLOWKNIFE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19700
+#EXTINF:-1,CA: CBS (West) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19821
+#EXTINF:-1,CA: CBS NEWS | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19699
+#EXTINF:-1,CA: CHCH | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19820
+#EXTINF:-1,CA: CHCH | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19819
+#EXTINF:-1,CA: CHEK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19818
+#EXTINF:-1,CA: CITY TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19817
+#EXTINF:-1,CA: CITY TORONTO | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19816
+#EXTINF:-1,CA: CITY TORONTO | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19662
+#EXTINF:-1,CA: CITY TV CALGARY | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19698
+#EXTINF:-1,CA: CITY TV MONTREAL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19661
+#EXTINF:-1,CA: CITY TV TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19815
+#EXTINF:-1,CA: CITY TV VANCOUVER | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19660
+#EXTINF:-1,CA: CITY VANCOUVER | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19814
+#EXTINF:-1,CA: CITY VANCOUVER | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19813
+#EXTINF:-1,CA: CMT | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19812
+#EXTINF:-1,CA: CMT | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19811
+#EXTINF:-1,CA: CNN | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19810
+#EXTINF:-1,CA: CNN | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19809
+#EXTINF:-1,CA: CNN INTERNATIONAL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19659
+#EXTINF:-1,CA: CNN INTERNATIONAL | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19808
+#EXTINF:-1,CA: CNN INTERNATIONAL |HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19697
+#EXTINF:-1,CA: COMEDY (East) | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19807
+#EXTINF:-1,CA: COMEDY | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19806
+#EXTINF:-1,CA: COMEDY | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19658
+#EXTINF:-1,CA: COMEDY WEST | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19805
+#EXTINF:-1,CA: COOKING CHANNEL | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19804
+#EXTINF:-1,CA: COOKING CHANNEL | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19696
+#EXTINF:-1,CA: CP24 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19803
+#EXTINF:-1,CA: CP24 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19802
+#EXTINF:-1,CA: CPAC | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19801
+#EXTINF:-1,CA: CPAC | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19800
+#EXTINF:-1,CA: CTV MONTREAL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19657
+#EXTINF:-1,CA: CTV NEWS TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19799
+#EXTINF:-1,CA: CTV NEWS VANCOUVER | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19798
+#EXTINF:-1,CA: CTV TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19797
+#EXTINF:-1,CA: CTV TORONTO | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19796
+#EXTINF:-1,CA: CTV TWO BARRIE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19795
+#EXTINF:-1,CA: CTV TWO VANCOUVER | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19794
+#EXTINF:-1,CA: CTV VANCOUVER | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19793
+#EXTINF:-1,CA: CTV VANCOUVER | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19792
+#EXTINF:-1,CA: CW | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19791
+#EXTINF:-1,CA: DISCOVERY CANADA | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19790
+#EXTINF:-1,CA: DISCOVERY CANADA | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19656
+#EXTINF:-1,CA: DISCOVERY CHANNEL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19655
+#EXTINF:-1,CA: DISCOVERY INVESTIGATION SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19654
+#EXTINF:-1,CA: DISCOVERY SCIENCE  | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19653
+#EXTINF:-1,CA: DISCOVERY SCIENCE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19789
+#EXTINF:-1,CA: DISCOVERY SCIENCE | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19788
+#EXTINF:-1,CA: DISCOVERY VELOCITY | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19787
+#EXTINF:-1,CA: DISNEY | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19652
+#EXTINF:-1,CA: DISNEY CHANNEL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19786
+#EXTINF:-1,CA: DISNEY JR | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19695
+#EXTINF:-1,CA: DISNEY JR | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19785
+#EXTINF:-1,CA: DISNEY JUNIOR | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19784
+#EXTINF:-1,CA: DISNEY XD | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19651
+#EXTINF:-1,CA: DIY NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19694
+#EXTINF:-1,CA: DIY NETWORK | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19650
+#EXTINF:-1,CA: DIY NETWORK | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19783
+#EXTINF:-1,CA: DOCUMENTARY CHANNEL | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19782
+#EXTINF:-1,CA: E! | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19693
+#EXTINF:-1,CA: FIGHT NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19781
+#EXTINF:-1,CA: FOOD NEWTORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19649
+#EXTINF:-1,CA: FOX (West) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19648
+#EXTINF:-1,CA: FOX | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19780
+#EXTINF:-1,CA: FOX NEWS | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19779
+#EXTINF:-1,CA: FOX Q13 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19778
+#EXTINF:-1,CA: FX CANADA | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19777
+#EXTINF:-1,CA: FXX CANADA | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19776
+#EXTINF:-1,CA: GAMESHOW NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19775
+#EXTINF:-1,CA: GLOBAL BC | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19647
+#EXTINF:-1,CA: GLOBAL CALGARY | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19692
+#EXTINF:-1,CA: GLOBAL EDMONTON | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19691
+#EXTINF:-1,CA: GLOBAL HALIFAX | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19690
+#EXTINF:-1,CA: GLOBAL MONTREAL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19646
+#EXTINF:-1,CA: GLOBAL NEWS | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19689
+#EXTINF:-1,CA: GLOBAL NEWS: BRITISH COLUMBIA (MORNING NEWS)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19645
+#EXTINF:-1,CA: GLOBAL NEWS: CALGARY (MORNING NEWS)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19644
+#EXTINF:-1,CA: GLOBAL NEWS: EDMONTON (MORNING NEWS)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19643
+#EXTINF:-1,CA: GLOBAL NEWS: OKANAGAN (MORNING NEWS)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19642
+#EXTINF:-1,CA: GLOBAL NEWS: TORONTO (MORNING NEWS)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19641
+#EXTINF:-1,CA: GLOBAL TORONTO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19774
+#EXTINF:-1,CA: GLOBAL TORONTO | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19773
+#EXTINF:-1,CA: GLOBAL TV | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19772
+#EXTINF:-1,CA: GLOBAL VANCOUVER | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19688
+#EXTINF:-1,CA: GLOBAL VANCOUVER | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19771
+#EXTINF:-1,CA: GOLBAL BC | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19687
+#EXTINF:-1,CA: HBO 2 CANADA | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19770
+#EXTINF:-1,CA: HBO CANADA (West) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19769
+#EXTINF:-1,CA: HBO CANADA | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19768
+#EXTINF:-1,CA: HGTV | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19767
+#EXTINF:-1,CA: HISTORY | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19640
+#EXTINF:-1,CA: HISTORY 2 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19639
+#EXTINF:-1,CA: HISTORY CHANNEL | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19766
+#EXTINF:-1,CA: HLN | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19765
+#EXTINF:-1,CA: HLN | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19764
+#EXTINF:-1,CA: ICI TELEVISION | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19686
+#EXTINF:-1,CA: INVESTIGATION DISCOVERY | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19763
+#EXTINF:-1,CA: LEAFS TV | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19638
+#EXTINF:-1,CA: Legislative Assembly Of Ontario
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19685
+#EXTINF:-1,CA: Legislative Assembly Of Ontario | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19637
+#EXTINF:-1,CA: LIFETIME | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19762
+#EXTINF:-1,CA: LIFETIME | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19636
+#EXTINF:-1,CA: LOVE NATURE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19761
+#EXTINF:-1,CA: MSNBC | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19684
+#EXTINF:-1,CA: MSNBC | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19635
+#EXTINF:-1,CA: NAT GEO | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19634
+#EXTINF:-1,CA: NAT GEO | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19760
+#EXTINF:-1,CA: NAT GEO WILD | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19759
+#EXTINF:-1,CA: NBA TV | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19758
+#EXTINF:-1,CA: NBA TV | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19757
+#EXTINF:-1,CA: NTV NEWFOUND LAND | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19683
+#EXTINF:-1,CA: NTV Newfoundland | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19633
+#EXTINF:-1,CA: OLN | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19756
+#EXTINF:-1,CA: OLN | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19682
+#EXTINF:-1,CA: OMNI 1 | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19755
+#EXTINF:-1,CA: OUTDOOR LIFE NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19754
+#EXTINF:-1,CA: OWN | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19753
+#EXTINF:-1,CA: OWN | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19681
+#EXTINF:-1,CA: OWN | SD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19632
+#EXTINF:-1,CA: PARAMOUNT NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19752
+#EXTINF:-1,CA: PBS (East) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19751
+#EXTINF:-1,CA: PEACH TREE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19750
+#EXTINF:-1,CA: SHOWCASE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19631
+#EXTINF:-1,CA: SHOWCASE | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19749
+#EXTINF:-1,CA: SLICE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19630
+#EXTINF:-1,CA: SLICE | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19748
+#EXTINF:-1,CA: SPACE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19629
+#EXTINF:-1,CA: SPACE | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19747
+#EXTINF:-1,CA: SPORTSNET 360 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19746
+#EXTINF:-1,CA: SPORTSNET 360 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19628
+#EXTINF:-1,CA: SPORTSNET 360 | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19745
+#EXTINF:-1,CA: SPORTSNET EAST | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19744
+#EXTINF:-1,CA: SPORTSNET EAST | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19627
+#EXTINF:-1,CA: SPORTSNET ONE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19743
+#EXTINF:-1,CA: SPORTSNET ONE | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19626
+#EXTINF:-1,CA: SPORTSNET ONE | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19742
+#EXTINF:-1,CA: SPORTSNET ONTARIO | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19741
+#EXTINF:-1,CA: SPORTSNET ONTARIO | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19740
+#EXTINF:-1,CA: SPORTSNET PACIFIC | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19739
+#EXTINF:-1,CA: SPORTSNET PACIFIC | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19625
+#EXTINF:-1,CA: SportsNet WEST | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19738
+#EXTINF:-1,CA: SPORTSNET WEST | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19737
+#EXTINF:-1,CA: SportsNet WEST | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19624
+#EXTINF:-1,CA: SPORTSNET WORLD | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19736
+#EXTINF:-1,CA: SUPER CHANNEL 2 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19735
+#EXTINF:-1,CA: SUPER ECRAN 1 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19734
+#EXTINF:-1,CA: SUPER ECRAN 2 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19733
+#EXTINF:-1,CA: SUPER ECRAN 3 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19732
+#EXTINF:-1,CA: SUPER ECRAN 4 | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19731
+#EXTINF:-1,CA: TELETOON | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19623
+#EXTINF:-1,CA: Teletoon | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19730
+#EXTINF:-1,CA: THE FAMILY CHANNEL (East) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19729
+#EXTINF:-1,CA: THE SHOPPING CHANNEL | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19728
+#EXTINF:-1,CA: THE SHOPPING NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19680
+#EXTINF:-1,CA: THE WEATHER NETWORK | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19727
+#EXTINF:-1,CA: TLC | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19726
+#EXTINF:-1,CA: TREEHOUSE | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19679
+#EXTINF:-1,CA: TREEHOUSE | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19725
+#EXTINF:-1,CA: TSN 1 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19724
+#EXTINF:-1,CA: TSN 2 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19723
+#EXTINF:-1,CA: TSN 2 | HD*
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19722
+#EXTINF:-1,CA: TSN 3 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19622
+#EXTINF:-1,CA: TSN 3 | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19721
+#EXTINF:-1,CA: TSN 4 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19720
+#EXTINF:-1,CA: TSN 4 | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19621
+#EXTINF:-1,CA: TSN 5 | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19719
+#EXTINF:-1,CA: TSN 5 | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19718
+#EXTINF:-1,CA: TVA SPORTS | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19620
+#EXTINF:-1,CA: TVO | UHD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19717
+#EXTINF:-1,CA: WEATHER NETWORK (Toronto) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19716
+#EXTINF:-1,CA: WEATHER NETWORK FRENCH HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19619
+#EXTINF:-1,CA: WOMENS NETWORK | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19715
+#EXTINF:-1,CA: YES TV (Alberta) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19714
+#EXTINF:-1,CA: YES TV (Ontario) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19713
+#EXTINF:-1,CA: YTV (East) | HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19712
+#EXTINF:-1,CA: YTV (East) | SD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/19618
+----------
+#EXTINF:-1,Us- TSN 1 HD
+http://smart-hdip.com:6204/zamir/zamir/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://smart-hdip.com:6204/zamir/zamir/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://smart-hdip.com:6204/zamir/zamir/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://smart-hdip.com:6204/zamir/zamir/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://smart-hdip.com:6204/zamir/zamir/10632
+#EXTINF:-1,Us- PAC-12 Arizona HD
+http://smart-hdip.com:6204/zamir/zamir/10642
+#EXTINF:-1,Us- PAC-12 Bay Area HD
+http://smart-hdip.com:6204/zamir/zamir/10641
+#EXTINF:-1,Us- PAC-12 Los Angeles HD
+http://smart-hdip.com:6204/zamir/zamir/10640
+#EXTINF:-1,Us- PAC-12 Mountain HD-
+http://smart-hdip.com:6204/zamir/zamir/10639
+#EXTINF:-1,Us- PAC-12 Oregon HD
+http://smart-hdip.com:6204/zamir/zamir/10638
+#EXTINF:-1,Us- A&E  US
+http://smart-hdip.com:6204/zamir/zamir/10441
+#EXTINF:-1,Us- ABC US
+http://smart-hdip.com:6204/zamir/zamir/10440
+#EXTINF:-1,Us- CNBC US
+http://smart-hdip.com:6204/zamir/zamir/10429
+#EXTINF:-1,Us- CNN US HD
+http://smart-hdip.com:6204/zamir/zamir/10428
+#EXTINF:-1,Us- MTV HD US
+http://smart-hdip.com:6204/zamir/zamir/10403
+#EXTINF:-1,Us- Starz HD US
+http://smart-hdip.com:6204/zamir/zamir/10390
+#EXTINF:-1,Us- SyFy HD USA
+http://smart-hdip.com:6204/zamir/zamir/10387
+#EXTINF:-1,Us- TBS USA
+http://smart-hdip.com:6204/zamir/zamir/10386
+#EXTINF:-1,Us- TNT US
+http://smart-hdip.com:6204/zamir/zamir/10384
+#EXTINF:-1,Us- VH1 HD US
+http://smart-hdip.com:6204/zamir/zamir/10380
+#EXTINF:-1,Us- History HD US
+http://smart-hdip.com:6204/zamir/zamir/10405
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://smart-hdip.com:6204/zamir/zamir/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://smart-hdip.com:6204/zamir/zamir/10401
+#EXTINF:-1,Us- Discovery Channel US HD
+http://smart-hdip.com:6204/zamir/zamir/10424
+#EXTINF:-1,Us- Discovery Science US HD
+http://smart-hdip.com:6204/zamir/zamir/10421
+#EXTINF:-1,Us- Bloomberg US
+http://smart-hdip.com:6204/zamir/zamir/10436
+#EXTINF:-1,Us- Cartoon Network US
+http://smart-hdip.com:6204/zamir/zamir/10434
+#EXTINF:-1,Us- Disney Channel US
+http://smart-hdip.com:6204/zamir/zamir/10420
+#EXTINF:-1,Us- Disney Junior US
+http://smart-hdip.com:6204/zamir/zamir/10419
+#EXTINF:-1,Us- Nick Junior US
+http://smart-hdip.com:6204/zamir/zamir/10397
+#EXTINF:-1,Us- Nick Toons US
+http://smart-hdip.com:6204/zamir/zamir/10396
+#EXTINF:-1,Us- CBS Sport HD
+http://smart-hdip.com:6204/zamir/zamir/10433
+#EXTINF:-1,Us- CBS US
+http://smart-hdip.com:6204/zamir/zamir/10432
+#EXTINF:-1,Us- HBO Comedy HD
+http://smart-hdip.com:6204/zamir/zamir/10411
+#EXTINF:-1,Us- HBO Signature
+http://smart-hdip.com:6204/zamir/zamir/10410
+#EXTINF:-1,Us- HBO US HD
+http://smart-hdip.com:6204/zamir/zamir/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://smart-hdip.com:6204/zamir/zamir/10408
+#EXTINF:-1,Us- Animal Planet HD
+http://smart-hdip.com:6204/zamir/zamir/10439
+#EXTINF:-1,Us- BET HD
+http://smart-hdip.com:6204/zamir/zamir/10645
+#EXTINF:-1,Us- Bravo HD
+http://smart-hdip.com:6204/zamir/zamir/10435
+#EXTINF:-1,Us- CINEMAX HD
+http://smart-hdip.com:6204/zamir/zamir/10431
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://smart-hdip.com:6204/zamir/zamir/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://smart-hdip.com:6204/zamir/zamir/10422
+#EXTINF:-1,Us- Fox sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/10415
+#EXTINF:-1,Us- FX HD
+http://smart-hdip.com:6204/zamir/zamir/10414
+#EXTINF:-1,Us- GSN HD
+http://smart-hdip.com:6204/zamir/zamir/10412
+#EXTINF:-1,Us- HGTV HD
+http://smart-hdip.com:6204/zamir/zamir/10407
+#EXTINF:-1,Us- History
+http://smart-hdip.com:6204/zamir/zamir/10406
+#EXTINF:-1,Us- Life Time HD
+http://smart-hdip.com:6204/zamir/zamir/10404
+#EXTINF:-1,Us- NBA HD
+http://smart-hdip.com:6204/zamir/zamir/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://smart-hdip.com:6204/zamir/zamir/10399
+#EXTINF:-1,Us- NBCSN HD
+http://smart-hdip.com:6204/zamir/zamir/10398
+#EXTINF:-1,Us- NEWS 12
+http://smart-hdip.com:6204/zamir/zamir/10643
+#EXTINF:-1,Us- OWN HD
+http://smart-hdip.com:6204/zamir/zamir/10395
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://smart-hdip.com:6204/zamir/zamir/10393
+#EXTINF:-1,Us- SLICE HD
+http://smart-hdip.com:6204/zamir/zamir/10392
+#EXTINF:-1,Us- Syfy HD
+http://smart-hdip.com:6204/zamir/zamir/10388
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://smart-hdip.com:6204/zamir/zamir/10389
+#EXTINF:-1,Us- TLC HD
+http://smart-hdip.com:6204/zamir/zamir/10385
+#EXTINF:-1,Us- TRU TV HD
+http://smart-hdip.com:6204/zamir/zamir/10383
+#EXTINF:-1,Us- TV Land HD
+http://smart-hdip.com:6204/zamir/zamir/10382
+#EXTINF:-1,Us- Viceland TV
+http://smart-hdip.com:6204/zamir/zamir/10379
+#EXTINF:-1,Us- WE HD
+http://smart-hdip.com:6204/zamir/zamir/10378
+#EXTINF:-1,Us- Weather channel
+http://smart-hdip.com:6204/zamir/zamir/10377
+#EXTINF:-1,Us- WWE HD
+http://smart-hdip.com:6204/zamir/zamir/10376
