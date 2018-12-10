@@ -179,9 +179,65 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/9/live.m3u8</link>
 <item>
 <title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.20.25:8080/test11/test11/13437</link>
 <item>
 <title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=mms://72.13.93.186/tubtubsbestaction</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.20.25:8080/test11/test11/13427</link>
 
-
+tp://51.15.20.25:8080/test11/test11/13397
+EXTINF:-1,CA: Golf Channel
+http://51.15.20.25:8080/test11/test11/13399
+EXTINF:-1,CA: GSN
+http://51.15.20.25:8080/test11/test11/13400
+EXTINF:-1,CA: HBO 2 Canada
+http://51.15.20.25:8080/test11/test11/13437
+EXTINF:-1,CA: HBO Canada
+http://51.15.20.25:8080/test11/test11/13438
+EXTINF:-1,CA: History
+http://51.15.20.25:8080/test11/test11/13401
+EXTINF:-1,CA: Lifetime
+http://51.15.20.25:8080/test11/test11/13431
+EXTINF:-1,CA: MTV 2 Canada
+http://51.15.20.25:8080/test11/test11/13403
+EXTINF:-1,CA: MTV Canada
+http://51.15.20.25:8080/test11/test11/13404
+EXTINF:-1,CA: Much
+http://51.15.20.25:8080/test11/test11/13430
+EXTINF:-1,CA: NBA TV
+http://51.15.20.25:8080/test11/test11/13439
+EXTINF:-1,CA: Nick
+http://51.15.20.25:8080/test11/test11/13407
+EXTINF:-1,CA: omni 1
+http://51.15.20.25:8080/test11/test11/13408
+EXTINF:-1,CA: omni 2
+http://51.15.20.25:8080/test11/test11/13409
+EXTINF:-1,CA: RDS2 TV
+http://51.15.20.25:8080/test11/test11/13412
+EXTINF:-1,CA: Slice
+http://51.15.20.25:8080/test11/test11/13414
+EXTINF:-1,CA: Spike HD
+http://51.15.20.25:8080/test11/test11/13415
+EXTINF:-1,CA: Treehouse
+http://51.15.20.25:8080/test11/test11/13425
+EXTINF:-1,CA: V Montreal
+http://51.15.20.25:8080/test11/test11/13405
+EXTINF:-1,CA: World Fishing TV
+http://51.15.20.25:8080/test11/test11/13427
+EXTINF:-1,CA: YTV HD
+http://51.15.20.25:8080/test11/test11/13428
+EXTINF:-1,CA : Comedy Gold TV
+http://51.15.20.25:8080/test11/test11/13389
+EXTINF:-1,CA : deja view
+http://51.15.20.25:8080/test11/test11/13393
+EXTINF:-1,CA : Movietime TV
+http://51.15.20.25:8080/test11/test11/13402
+EXTINF:-1,CA : own (oprah winfrew network)
+http://51.15.20.25:8080/test11/test11/13410
+EXTINF:-1,CA : Peachtree HDTV
+http://51.15.20.25:8080/test11/test11/13411
+EXTINF:-1,CA : Sportsnet West HD
+http://51.15.20.25:8080/test11/test11/13420
+EXTINF:-1,CA : tG4 HD
+http://51.15.20.25:8080/test11/test11/13398
+EXTINF:-1,CA : w network
+http://51.15.20.25:8080/test11/test11/13426
