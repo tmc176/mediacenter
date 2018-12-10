@@ -178,8 +178,8 @@
 <title>"USA",Science Channel</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/9/live.m3u8</link>
 <item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.20.25:8080/test11/test11/13437</link>
+<title>METV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.20.25:8080/test11/test11/13427</link>
