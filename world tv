@@ -99,4 +99,1139 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-
+#EXTINF:-1,|UK|  gold
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9887
+#EXTINF:-1,|UK| 3E HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10058
+#EXTINF:-1,|UK| 4 MUSIC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10057
+#EXTINF:-1,|UK| 4 SEVEN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10056
+#EXTINF:-1,|UK| 5 STAR HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10055
+#EXTINF:-1,|UK| 5 USA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10054
+#EXTINF:-1,|UK| AL JAZEERA EN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10053
+#EXTINF:-1,|UK| Alibi
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9885
+#EXTINF:-1,|UK| ALIBI HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10052
+#EXTINF:-1,|UK| AMC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10051
+#EXTINF:-1,|UK| ANIMAL PLANET HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10050
+#EXTINF:-1,|UK| ANIMAL PLANET SD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9863
+#EXTINF:-1,|UK| At The Races
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9884
+#EXTINF:-1,|UK| AT THE RACES HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10049
+#EXTINF:-1,|UK| BABY TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10048
+#EXTINF:-1,|UK| BBC 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10047
+#EXTINF:-1,|UK| BBC 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10046
+#EXTINF:-1,|UK| BBC 3 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10045
+#EXTINF:-1,|UK| BBC 4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10044
+#EXTINF:-1,|UK| BBC ENTERTAINMENT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10043
+#EXTINF:-1,|UK| BBC NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10042
+#EXTINF:-1,|UK| BBC RED BUTTON HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10041
+#EXTINF:-1,|UK| BBC WORLD NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10040
+#EXTINF:-1,|UK| BIKE CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9869
+#EXTINF:-1,|UK| BLOOMBERG HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10039
+#EXTINF:-1,|UK| BOOMREANG HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10038
+#EXTINF:-1,|UK| BOX NATION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10037
+#EXTINF:-1,|UK| British Eurosport 1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9883
+#EXTINF:-1,|UK| British Eurosport 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9995
+#EXTINF:-1,|UK| BT Sport 1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9882
+#EXTINF:-1,|UK| BT SPORT 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10036
+#EXTINF:-1,|UK| BT Sport 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9881
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10035
+#EXTINF:-1,|UK| BT Sport 3
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9880
+#EXTINF:-1,|UK| BT SPORT 3 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10034
+#EXTINF:-1,|UK| BT SPORT ESPN
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10033
+#EXTINF:-1,|UK| C ITV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10032
+#EXTINF:-1,|UK| CAPITAL TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10031
+#EXTINF:-1,|UK| CARTOON NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10030
+#EXTINF:-1,|UK| CARTOONITO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10029
+#EXTINF:-1,|UK| CBS ACTION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10028
+#EXTINF:-1,|UK| CBS DRAMA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10027
+#EXTINF:-1,|UK| CBS REALITY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10026
+#EXTINF:-1,|UK| CCTV NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10025
+#EXTINF:-1,|UK| CHALLENGE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10024
+#EXTINF:-1,|UK| CHANNEL 4 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10023
+#EXTINF:-1,|UK| CHANNEL 5 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10022
+#EXTINF:-1,|UK| CHELSEA TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10021
+#EXTINF:-1,|UK| CNN INTERNATIONAL EUROPE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10020
+#EXTINF:-1,|UK| COMEDY CENTRAL EXTRA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10018
+#EXTINF:-1,|UK| COMEDY CENTRAL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10019
+#EXTINF:-1,|UK| CRIME INVESTIGATION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10017
+#EXTINF:-1,|UK| DAVE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10016
+#EXTINF:-1,|UK| DinsenyChannelUK
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9868
+#EXTINF:-1,|UK| DISCOVERY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10014
+#EXTINF:-1,|UK| DISCOVERY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10015
+#EXTINF:-1,|UK| DISCOVERY HISTORY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10013
+#EXTINF:-1,|UK| DISCOVERY SCIENCE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10012
+#EXTINF:-1,|UK| DISCOVERY SHED HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10011
+#EXTINF:-1,|UK| DISCOVERY TURBO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10010
+#EXTINF:-1,|UK| DiscoveryCI
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9867
+#EXTINF:-1,|UK| DiscoveryHistory
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9866
+#EXTINF:-1,|UK| DiscoverySc
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9865
+#EXTINF:-1,|UK| Disney Channel
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10009
+#EXTINF:-1,|UK| Disney Junior
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10008
+#EXTINF:-1,|UK| Disney XD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10007
+#EXTINF:-1,|UK| Dmax
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10006
+#EXTINF:-1,|UK| Drama
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10005
+#EXTINF:-1,|UK| DW
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10004
+#EXTINF:-1,|UK| E!
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10003
+#EXTINF:-1,|UK| E4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10002
+#EXTINF:-1,|UK| Eden
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10001
+#EXTINF:-1,|UK| Eir Sports 1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/10000
+#EXTINF:-1,|UK| EirSports 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9999
+#EXTINF:-1,|UK| Electro Sound
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9998
+#EXTINF:-1,|UK| Euronews
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9997
+#EXTINF:-1,|UK| Film 4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9994
+#EXTINF:-1,|UK| Flava
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9993
+#EXTINF:-1,|UK| Food Network
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9992
+#EXTINF:-1,|UK| Fox
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9879
+#EXTINF:-1,|UK| FOX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9991
+#EXTINF:-1,|UK| Fox News
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9990
+#EXTINF:-1,|UK| France 24
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9989
+#EXTINF:-1,|UK| GOLD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9988
+#EXTINF:-1,|UK| Good Food
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9987
+#EXTINF:-1,|UK| History
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9878
+#EXTINF:-1,|UK| History 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9877
+#EXTINF:-1,|UK| HISTORY 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9985
+#EXTINF:-1,|UK| HISTORY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9986
+#EXTINF:-1,|UK| Home & Health
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9983
+#EXTINF:-1,|UK| HOME HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9984
+#EXTINF:-1,|UK| Horror Channel
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9982
+#EXTINF:-1,|UK| HORROR CHANNEL (FILMON)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9864
+#EXTINF:-1,|UK| Horse & Country
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9981
+#EXTINF:-1,|UK| ID HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9980
+#EXTINF:-1,|UK| Irish TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9979
+#EXTINF:-1,|UK| ITV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9973
+#EXTINF:-1,|UK| ITV 1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9978
+#EXTINF:-1,|UK| ITV 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9977
+#EXTINF:-1,|UK| ITV 3
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9976
+#EXTINF:-1,|UK| ITV 4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9975
+#EXTINF:-1,|UK| ITV Be
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9974
+#EXTINF:-1,|UK| Kerrang
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9972
+#EXTINF:-1,|UK| Kiss TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9971
+#EXTINF:-1,|UK| LFC
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9970
+#EXTINF:-1,|UK| LIFETIME HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9862
+#EXTINF:-1,|UK| London Live
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9969
+#EXTINF:-1,|UK| More 4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9968
+#EXTINF:-1,|UK| Motors TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9967
+#EXTINF:-1,|UK| Movies4men
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9966
+#EXTINF:-1,|UK| MTV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9965
+#EXTINF:-1,|UK| MTV Base
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9964
+#EXTINF:-1,|UK| MTV Classic
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9963
+#EXTINF:-1,|UK| MTV Dance
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9962
+#EXTINF:-1,|UK| MTV Hits
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9961
+#EXTINF:-1,|UK| MTV Live HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9960
+#EXTINF:-1,|UK| MTV Music
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9959
+#EXTINF:-1,|UK| MTV Rocks
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9958
+#EXTINF:-1,|UK| MUTV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9957
+#EXTINF:-1,|UK| Nat Geo Wild
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9861
+#EXTINF:-1,|UK| NAT GEO WILD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9956
+#EXTINF:-1,|UK| NatGeoGraphic
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9860
+#EXTINF:-1,|UK| National Geographic
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9876
+#EXTINF:-1,|UK| NATIONAL GEOGRAPHIC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9955
+#EXTINF:-1,|UK| NHK World News HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9954
+#EXTINF:-1,|UK| Nick Jr
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9953
+#EXTINF:-1,|UK| Nick Jr Too
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9952
+#EXTINF:-1,|UK| Nickelodeon
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9951
+#EXTINF:-1,|UK| Pick
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9950
+#EXTINF:-1,|UK| PICK (BACKUP)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9859
+#EXTINF:-1,|UK| Press TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9949
+#EXTINF:-1,|UK| Quest
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9948
+#EXTINF:-1,|UK| Racing UK
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9947
+#EXTINF:-1,|UK| Real Lives
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9946
+#EXTINF:-1,|UK| Really
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9945
+#EXTINF:-1,|UK| RT News HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9944
+#EXTINF:-1,|UK| RTE 1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9943
+#EXTINF:-1,|UK| RTE 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9942
+#EXTINF:-1,|UK| RTE Jr
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9941
+#EXTINF:-1,|UK| RTE News
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9940
+#EXTINF:-1,|UK| Setanta Ireland
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9939
+#EXTINF:-1,|UK| SKY 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9938
+#EXTINF:-1,|UK| Sky 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9875
+#EXTINF:-1,|UK| SKY 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9937
+#EXTINF:-1,|UK| SKY ARTS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9936
+#EXTINF:-1,|UK| SKY ATLANTIC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9935
+#EXTINF:-1,|UK| SKY ATLANTIC SD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9874
+#EXTINF:-1,|UK| SKY MOVIES ACTION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9933
+#EXTINF:-1,|UK| SKY MOVIES CHRISMAS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9858
+#EXTINF:-1,|UK| SKY MOVIES COMEDY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9932
+#EXTINF:-1,|UK| SKY MOVIES DISNEY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9931
+#EXTINF:-1,|UK| SKY MOVIES DRAMA&ROMANCE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9930
+#EXTINF:-1,|UK| SKY MOVIES FAMILY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9929
+#EXTINF:-1,|UK| SKY MOVIES GREATS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9928
+#EXTINF:-1,|UK| SKY MOVIES PREMIERE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9927
+#EXTINF:-1,|UK| SKY MOVIES SCFI/HORROR HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9926
+#EXTINF:-1,|UK| SKY MOVIES SELECT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9925
+#EXTINF:-1,|UK| SKY MOVIES SHOWCASE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9924
+#EXTINF:-1,|UK| SKY MOVIES THRILLER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9923
+#EXTINF:-1,|UK| Sky News
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9922
+#EXTINF:-1,|UK| Sky Sports Action
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9919
+#EXTINF:-1,|UK| Sky Sports Arena
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9873
+#EXTINF:-1,|UK| SKY SPORTS ARENA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9857
+#EXTINF:-1,|UK| Sky Sports Cricket
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9920
+#EXTINF:-1,|UK| Sky Sports F1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9916
+#EXTINF:-1,|UK| Sky Sports Football
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9872
+#EXTINF:-1,|UK| SKY SPORTS FOOTBALL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9856
+#EXTINF:-1,|UK| Sky Sports Golf
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9918
+#EXTINF:-1,|UK| Sky Sports Main Event
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9921
+#EXTINF:-1,|UK| Sky Sports Mix
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9915
+#EXTINF:-1,|UK| Sky Sports News
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9871
+#EXTINF:-1,|UK| Sky Sports News HQ
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9914
+#EXTINF:-1,|UK| Sky Sports Premier League
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9917
+#EXTINF:-1,|UK| SKY WITNESS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9934
+#EXTINF:-1,|UK| SKY WITNESS SD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9870
+#EXTINF:-1,|UK| Sony Entertainment TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9913
+#EXTINF:-1,|UK| SONY MOVIES HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9907
+#EXTINF:-1,|UK| Spike
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9906
+#EXTINF:-1,|UK| Syfy
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9855
+#EXTINF:-1,|UK| TCM
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9905
+#EXTINF:-1,|UK| TG4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9904
+#EXTINF:-1,|UK| The Vault
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9903
+#EXTINF:-1,|UK| Tiny Pop
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9902
+#EXTINF:-1,|UK| TLC
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9901
+#EXTINF:-1,|UK| Travel Channel
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9900
+#EXTINF:-1,|UK| True Drama
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9899
+#EXTINF:-1,|UK| True Entertainment
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9898
+#EXTINF:-1,|UK| True Movies
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9897
+#EXTINF:-1,|UK| True Movies 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9896
+#EXTINF:-1,|UK| TruTV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9895
+#EXTINF:-1,|UK| TV3 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9854
+#EXTINF:-1,|UK| UNIVERSAL CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9853
+#EXTINF:-1,|UK| UTV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9894
+#EXTINF:-1,|UK| VH1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9893
+#EXTINF:-1,|UK| VH1 Classic
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9892
+#EXTINF:-1,|UK| Vintage TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9891
+#EXTINF:-1,|UK| Viva
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9890
+#EXTINF:-1,|UK| Watch
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9889
+#EXTINF:-1,|UK| Yesterday
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/9888
+#EXTINF:-1,|US|***U.S.A***|US|
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6355
+#EXTINF:-1,|US| 360 NORTH HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6354
+#EXTINF:-1,|US| A & E HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6353
+#EXTINF:-1,|US| ABC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6352
+#EXTINF:-1,|US| ABC NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6351
+#EXTINF:-1,|US| AFN MOVIE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6350
+#EXTINF:-1,|US| AFN PULSE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6349
+#EXTINF:-1,|US| AFN SPORTS 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6347
+#EXTINF:-1,|US| AFN SPORTS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6348
+#EXTINF:-1,|US| AMAZING FACTS TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6346
+#EXTINF:-1,|US| AMC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6345
+#EXTINF:-1,|US| AMG TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6344
+#EXTINF:-1,|US| ANIMAL PLANET HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6343
+#EXTINF:-1,|US| BEIN SPORTS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6342
+#EXTINF:-1,|US| BLOOMBERG HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6341
+#EXTINF:-1,|US| BOSTON CITY TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6340
+#EXTINF:-1,|US| BRAVO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6339
+#EXTINF:-1,|US| BTN SPORT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6338
+#EXTINF:-1,|US| BYU SPORTS TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6337
+#EXTINF:-1,|US| CBS FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6336
+#EXTINF:-1,|US| CBS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6335
+#EXTINF:-1,|US| CBS HD US
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6334
+#EXTINF:-1,|US| CBS NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6333
+#EXTINF:-1,|US| CBSN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6332
+#EXTINF:-1,|US| CINEMAX ACTIONMAX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6331
+#EXTINF:-1,|US| CINEMAX MOREMAX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6330
+#EXTINF:-1,|US| CNBC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6329
+#EXTINF:-1,|US| CNBS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6328
+#EXTINF:-1,|US| CNN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6327
+#EXTINF:-1,|US| COMEDY CENTRAL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6326
+#EXTINF:-1,|US| CPAC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6325
+#EXTINF:-1,|US| CRIME  INVESTIGATION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6285
+#EXTINF:-1,|US| CW HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6323
+#EXTINF:-1,|US| CW SD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6324
+#EXTINF:-1,|US| DISCOVERY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6322
+#EXTINF:-1,|US| DISCOVERY SCIENCE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6321
+#EXTINF:-1,|US| DISCOVERY SHOWCASE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6320
+#EXTINF:-1,|US| DIY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6319
+#EXTINF:-1,|US| DIY NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6318
+#EXTINF:-1,|US| E! HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6317
+#EXTINF:-1,|US| ESPN 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6316
+#EXTINF:-1,|US| ESPN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6315
+#EXTINF:-1,|US| FASHION ONE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6314
+#EXTINF:-1,|US| FIGHT NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6313
+#EXTINF:-1,|US| FOOD NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6312
+#EXTINF:-1,|US| FOX 5 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6311
+#EXTINF:-1,|US| FOX 59 NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6310
+#EXTINF:-1,|US| FOX DEPORTES HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6309
+#EXTINF:-1,|US| FOX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6308
+#EXTINF:-1,|US| FOX SPORT 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6307
+#EXTINF:-1,|US| FOX SPORT 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6306
+#EXTINF:-1,|US| FOX SPORTS 506 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6305
+#EXTINF:-1,|US| FREEFORM HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6304
+#EXTINF:-1,|US| FX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6303
+#EXTINF:-1,|US| FXX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6302
+#EXTINF:-1,|US| GLOBAL TV BC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6301
+#EXTINF:-1,|US| GLOBAL TV HALIFAX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6300
+#EXTINF:-1,|US| GLOBAL TV TORONTO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6299
+#EXTINF:-1,|US| H2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6298
+#EXTINF:-1,|US| HALLMARK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6297
+#EXTINF:-1,|US| HBO COMEDY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6295
+#EXTINF:-1,|US| HBO FAMILY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6294
+#EXTINF:-1,|US| HBO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6296
+#EXTINF:-1,|US| HBO SIGNATURE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6293
+#EXTINF:-1,|US| HBO ZONE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6292
+#EXTINF:-1,|US| HGTV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6291
+#EXTINF:-1,|US| HIFI HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6290
+#EXTINF:-1,|US| HISTORY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6289
+#EXTINF:-1,|US| HSN 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6288
+#EXTINF:-1,|US| HSN 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6287
+#EXTINF:-1,|US| INVESTIGATION DISCOVERY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6286
+#EXTINF:-1,|US| KTVU NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6284
+#EXTINF:-1,|US| MAX WEST HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6282
+#EXTINF:-1,|US| MELLO TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6281
+#EXTINF:-1,|US| MIAMI TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6280
+#EXTINF:-1,|US| MOTOR SPORTS 7 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6279
+#EXTINF:-1,|US| MOVIE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6278
+#EXTINF:-1,|US| MUTE TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6277
+#EXTINF:-1,|US| NASA TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6276
+#EXTINF:-1,|US| NATIONAL GEOGRAPHIC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6275
+#EXTINF:-1,|US| NBA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6274
+#EXTINF:-1,|US| NBC GOLF HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6273
+#EXTINF:-1,|US| NBC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6272
+#EXTINF:-1,|US| NBC HD US
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6271
+#EXTINF:-1,|US| NBCSN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6270
+#EXTINF:-1,|US| NEWS 12 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6269
+#EXTINF:-1,|US| NFL NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6268
+#EXTINF:-1,|US| NICKELODEON HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6267
+#EXTINF:-1,|US| O.W.N HD (oprah winfrey network)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6266
+#EXTINF:-1,|US| PAG HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6265
+#EXTINF:-1,|US| PBS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6264
+#EXTINF:-1,|US| POCKER CENTRAL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6263
+#EXTINF:-1,|US| REAL LIVES HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6283
+#EXTINF:-1,|US| REDBULL TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6262
+#EXTINF:-1,|US| RT AMERICA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6261
+#EXTINF:-1,|US| RT DOCUMENTARY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6260
+#EXTINF:-1,|US| SHOWTIME HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6259
+#EXTINF:-1,|US| SHOWTIME WEST HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6258
+#EXTINF:-1,|US| SPIKE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6257
+#EXTINF:-1,|US| SPORTS NET ONE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6254
+#EXTINF:-1,|US| SPORTS NET ONTARIO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6253
+#EXTINF:-1,|US| SPORTS NET WORLD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6256
+#EXTINF:-1,|US| SPORTS NET WORLD SD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6252
+#EXTINF:-1,|US| SPORTS NIGHT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6255
+#EXTINF:-1,|US| STARZ CINEMA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6251
+#EXTINF:-1,|US| STARZ EDGE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6250
+#EXTINF:-1,|US| SYFY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6249
+#EXTINF:-1,|US| TBS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6248
+#EXTINF:-1,|US| TECH CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6247
+#EXTINF:-1,|US| TEN CRICKET HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6246
+#EXTINF:-1,|US| THE FLORIDA CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6245
+#EXTINF:-1,|US| TLC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6244
+#EXTINF:-1,|US| TNT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6243
+#EXTINF:-1,|US| TOONAMI AFTERMATH HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6242
+#EXTINF:-1,|US| TRAVEL CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6241
+#EXTINF:-1,|US| TSC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6240
+#EXTINF:-1,|US| TSN 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6239
+#EXTINF:-1,|US| TSN 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6238
+#EXTINF:-1,|US| TSN 3 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6237
+#EXTINF:-1,|US| TSN 4 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6236
+#EXTINF:-1,|US| TSN 5 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6235
+#EXTINF:-1,|US| UC TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6234
+#EXTINF:-1,|US| USA NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6233
+#EXTINF:-1,|US| VERSUS NBA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6232
+#EXTINF:-1,|US| WEATHER CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6231
+#EXTINF:-1,|US| WGN NEWS CHICAGO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6230
+#EXTINF:-1,|US| WILLOW CRICKET HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6229
+#EXTINF:-1,|US| WORLD FASHION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6228
+#EXTINF:-1,|US| WWE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6227
+#EXTINF:-1,|US| WXYZ TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6226
+#EXTINF:-1,|CA|***CANADA***|CA|
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6596
+#EXTINF:-1,|CA| A&E FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6595
+#EXTINF:-1,|CA| ABC (EAST) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6594
+#EXTINF:-1,|CA| ABC (WEST) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6593
+#EXTINF:-1,|CA| ABC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6592
+#EXTINF:-1,|CA| ABC SPARK CANADA
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6591
+#EXTINF:-1,|CA| ABC SPARK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6590
+#EXTINF:-1,|CA| ACTION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6589
+#EXTINF:-1,|CA| ADDIK TV (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6588
+#EXTINF:-1,|CA| AMC FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6587
+#EXTINF:-1,|CA| ANIMAL PLANET HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6586
+#EXTINF:-1,|CA| ARTV (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6585
+#EXTINF:-1,|CA| ASSEMBLEE NATIONALE QUEBEC (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6584
+#EXTINF:-1,|CA| BBC CANADA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6583
+#EXTINF:-1,|CA| BBC KIDS
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6582
+#EXTINF:-1,|CA| BBC WORLD NEWS
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6581
+#EXTINF:-1,|CA| BET HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6580
+#EXTINF:-1,|CA| BNN FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6579
+#EXTINF:-1,|CA| BRAVO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6578
+#EXTINF:-1,|CA| CANADIAN ARAB TV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6577
+#EXTINF:-1,|CA| CANAL D HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6576
+#EXTINF:-1,|CA| CANAL SAVOIR HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6575
+#EXTINF:-1,|CA| CARTOON NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6574
+#EXTINF:-1,|CA| CASA (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6573
+#EXTINF:-1,|CA| CBC CALGARY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6572
+#EXTINF:-1,|CA| CBC CHARLOTTETOWN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6571
+#EXTINF:-1,|CA| CBC EDMONTON HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6570
+#EXTINF:-1,|CA| CBC FEDERICTON HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6569
+#EXTINF:-1,|CA| CBC FREDERICTON HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6568
+#EXTINF:-1,|CA| CBC FRENCH HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6567
+#EXTINF:-1,|CA| CBC HALIFAX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6566
+#EXTINF:-1,|CA| CBC MONTREAL (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6565
+#EXTINF:-1,|CA| CBC MONTREAL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6564
+#EXTINF:-1,|CA| CBC NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6563
+#EXTINF:-1,|CA| CBC NEWS NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6562
+#EXTINF:-1,|CA| CBC NEWS TORONTO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6561
+#EXTINF:-1,|CA| CBC OTTAWA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6560
+#EXTINF:-1,|CA| CBC RADIO
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6559
+#EXTINF:-1,|CA| CBC REGINA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6558
+#EXTINF:-1,|CA| CBC ST JOHNS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6557
+#EXTINF:-1,|CA| CBC TORONTO FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6556
+#EXTINF:-1,|CA| CBC VANCOUVER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6555
+#EXTINF:-1,|CA| CBC WINDSOR HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6554
+#EXTINF:-1,|CA| CBC WINNIPEG HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6553
+#EXTINF:-1,|CA| CBC YELLOWKNIFE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6552
+#EXTINF:-1,|CA| CBS (WEST) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6551
+#EXTINF:-1,|CA| CBS EAST
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6550
+#EXTINF:-1,|CA| CBS NEWS
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6549
+#EXTINF:-1,|CA| CHCH FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6548
+#EXTINF:-1,|CA| CINEPOP (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6547
+#EXTINF:-1,|CA| CITY SASKATCHEWAN
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6546
+#EXTINF:-1,|CA| CITY TORONTO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6545
+#EXTINF:-1,|CA| CITY TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6544
+#EXTINF:-1,|CA| CITY VANCOUVER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6543
+#EXTINF:-1,|CA| CITY WINNIPEG
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6542
+#EXTINF:-1,|CA| CMT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6541
+#EXTINF:-1,|CA| CNBC WOLRD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6540
+#EXTINF:-1,|CA| CNBC WORLD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6539
+#EXTINF:-1,|CA| CNN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6538
+#EXTINF:-1,|CA| COMEDY (EAST)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6537
+#EXTINF:-1,|CA| COMEDY GOLD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6536
+#EXTINF:-1,|CA| COMEDY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6535
+#EXTINF:-1,|CA| COMEDY WEST HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6534
+#EXTINF:-1,|CA| COOKING CHANNEL FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6533
+#EXTINF:-1,|CA| COTTAGE LIFE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6532
+#EXTINF:-1,|CA| COUNTRY MUSIC TELEVISION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6531
+#EXTINF:-1,|CA| CP24 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6530
+#EXTINF:-1,|CA| CPAC (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6529
+#EXTINF:-1,|CA| CPAC FRENCH
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6528
+#EXTINF:-1,|CA| CPAC FRENCH HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6527
+#EXTINF:-1,|CA| CPAC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6526
+#EXTINF:-1,|CA| CRIME  INVESTIGATION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6525
+#EXTINF:-1,|CA| CTV (KITCHENER) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6524
+#EXTINF:-1,|CA| CTV 2 VANCOUVER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6523
+#EXTINF:-1,|CA| CTV NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6522
+#EXTINF:-1,|CA| CTV NEWS NETWORK
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6521
+#EXTINF:-1,|CA| CTV TORONTO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6520
+#EXTINF:-1,|CA| CTV TWO BARRIE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6519
+#EXTINF:-1,|CA| CTV TWO VANCOUVER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6518
+#EXTINF:-1,|CA| CTV VANCOUVER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6517
+#EXTINF:-1,|CA| CTV2 OTTAWA
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6516
+#EXTINF:-1,|CA| CW FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6515
+#EXTINF:-1,|CA| DISCOVERY CANADA
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6514
+#EXTINF:-1,|CA| DISCOVERY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6513
+#EXTINF:-1,|CA| DISCOVERY INVESTIGATION
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6512
+#EXTINF:-1,|CA| DISCOVERY SCIENCE FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6511
+#EXTINF:-1,|CA| DISCOVERY VELOCITY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6510
+#EXTINF:-1,|CA| DISNEY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6509
+#EXTINF:-1,|CA| DISNEY FRENCH
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6508
+#EXTINF:-1,|CA| DISNEY JUNIOR HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6507
+#EXTINF:-1,|CA| DISNEY XD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6506
+#EXTINF:-1,|CA| DIY NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6505
+#EXTINF:-1,|CA| DOCUMENTARY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6504
+#EXTINF:-1,|CA| E! ENTERTAINMENT HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6503
+#EXTINF:-1,|CA| E! FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6502
+#EXTINF:-1,|CA| EVASION (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6501
+#EXTINF:-1,|CA| FAMILY
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6500
+#EXTINF:-1,|CA| FAMILY WEST
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6499
+#EXTINF:-1,|CA| FIGHT BOX
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6498
+#EXTINF:-1,|CA| FIGHT NETWORK FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6497
+#EXTINF:-1,|CA| FOOD NEWTORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6496
+#EXTINF:-1,|CA| FOX 25 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6495
+#EXTINF:-1,|CA| FOX FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6494
+#EXTINF:-1,|CA| FOX NEWS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6493
+#EXTINF:-1,|CA| FOX Q13 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6492
+#EXTINF:-1,|CA| FX CANADA FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6491
+#EXTINF:-1,|CA| FXX CANADA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6490
+#EXTINF:-1,|CA| FXX HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6489
+#EXTINF:-1,|CA| FYI HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6488
+#EXTINF:-1,|CA| GAME TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6487
+#EXTINF:-1,|CA| GAMESHOW NETWORK FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6486
+#EXTINF:-1,|CA| GLOBAL CALGARY
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6485
+#EXTINF:-1,|CA| GLOBAL EDMONTON
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6484
+#EXTINF:-1,|CA| GLOBAL FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6483
+#EXTINF:-1,|CA| GLOBAL HALIFAX
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6482
+#EXTINF:-1,|CA| GLOBAL TORONTO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6481
+#EXTINF:-1,|CA| GLOBAL VANCOUVER HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6480
+#EXTINF:-1,|CA| GOLBAL BC
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6479
+#EXTINF:-1,|CA| GOLF CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6478
+#EXTINF:-1,|CA| GSN FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6477
+#EXTINF:-1,|CA| HBO 2 CANADA HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6476
+#EXTINF:-1,|CA| HBO 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6475
+#EXTINF:-1,|CA| HBO CANADA
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6474
+#EXTINF:-1,|CA| HBO CANADA (WEST) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6473
+#EXTINF:-1,|CA| HBO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6472
+#EXTINF:-1,|CA| HGTV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6471
+#EXTINF:-1,|CA| HISTORIO (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6470
+#EXTINF:-1,|CA| HISTORY 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6469
+#EXTINF:-1,|CA| HISTORY CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6468
+#EXTINF:-1,|CA| HLN FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6467
+#EXTINF:-1,|CA| ICI MONTREAL (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6466
+#EXTINF:-1,|CA| ICI TELEVISION HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6465
+#EXTINF:-1,|CA| ICI VANCOUVER (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6464
+#EXTINF:-1,|CA| INVESTIGATION DISCOVERY HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6463
+#EXTINF:-1,|CA| JOY TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6462
+#EXTINF:-1,|CA| KNOWLEDGE KIDS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6461
+#EXTINF:-1,|CA| LCN (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6460
+#EXTINF:-1,|CA| LEGISLATIVE ASSEMBLY OF ONTARIO
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6459
+#EXTINF:-1,|CA| LIFETIME HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6458
+#EXTINF:-1,|CA| MAX (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6457
+#EXTINF:-1,|CA| METEO (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6456
+#EXTINF:-1,|CA| MIRACLE
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6455
+#EXTINF:-1,|CA| MOI CIE (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6454
+#EXTINF:-1,|CA| MOVIE TIME HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6453
+#EXTINF:-1,|CA| MSNBC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6452
+#EXTINF:-1,|CA| MUCH
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6451
+#EXTINF:-1,|CA| MUCH MUSIC
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6450
+#EXTINF:-1,|CA| MUSIQUE PLUS (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6449
+#EXTINF:-1,|CA| NAT GEO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6448
+#EXTINF:-1,|CA| NAT GEO WILD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6447
+#EXTINF:-1,|CA| NBA TV FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6446
+#EXTINF:-1,|CA| NBC FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6445
+#EXTINF:-1,|CA| NICK
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6444
+#EXTINF:-1,|CA| OLN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6443
+#EXTINF:-1,|CA| OMNI 1 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6442
+#EXTINF:-1,|CA| OMNI 2 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6441
+#EXTINF:-1,|CA| OMNI BC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6440
+#EXTINF:-1,|CA| OUTDOOR LIFE NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6439
+#EXTINF:-1,|CA| OWN HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6438
+#EXTINF:-1,|CA| PARAMOUNT NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6437
+#EXTINF:-1,|CA| PBS (EAST) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6436
+#EXTINF:-1,|CA| PEACH TREE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6435
+#EXTINF:-1,|CA| PRISE (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6434
+#EXTINF:-1,|CA| RDI (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6433
+#EXTINF:-1,|CA| RDS (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6432
+#EXTINF:-1,|CA| RDS 2 (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6431
+#EXTINF:-1,|CA| RDS INFO (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6430
+#EXTINF:-1,|CA| RDS2 HD TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6429
+#EXTINF:-1,|CA| SERIS (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6428
+#EXTINF:-1,|CA| SHOWCASE EAST HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6427
+#EXTINF:-1,|CA| SHOWCASE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6426
+#EXTINF:-1,|CA| SILVER SCREEN CLASSICS
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6425
+#EXTINF:-1,|CA| SLICE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6424
+#EXTINF:-1,|CA| SPACE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6423
+#EXTINF:-1,|CA| SPIKE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6422
+#EXTINF:-1,|CA| SPORTNET ONE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6421
+#EXTINF:-1,|CA| SPORTNET ONTARIO HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6420
+#EXTINF:-1,|CA| SPORTNET PACIFIC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6419
+#EXTINF:-1,|CA| SPORTSNET 1 HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6418
+#EXTINF:-1,|CA| SPORTSNET 360 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6417
+#EXTINF:-1,|CA| SPORTSNET EAST HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6416
+#EXTINF:-1,|CA| SPORTSNET ONE FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6415
+#EXTINF:-1,|CA| SPORTSNET ONTARIO FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6414
+#EXTINF:-1,|CA| SPORTSNET PACIFIC FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6413
+#EXTINF:-1,|CA| SPORTSNET WEST HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6412
+#EXTINF:-1,|CA| SPORTSNET WORLD HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6411
+#EXTINF:-1,|CA| STRINGRAY CLASSICA
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6410
+#EXTINF:-1,|CA| STRINGRAY ICONCERTS
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6409
+#EXTINF:-1,|CA| SUPER ECRAN 1
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6408
+#EXTINF:-1,|CA| SUPER ECRAN 1 (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6407
+#EXTINF:-1,|CA| SUPER ECRAN 2
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6406
+#EXTINF:-1,|CA| SUPER ECRAN 2 (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6405
+#EXTINF:-1,|CA| SUPER ECRAN 3
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6404
+#EXTINF:-1,|CA| SUPER ECRAN 3 (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6403
+#EXTINF:-1,|CA| SUPER ECRAN 4
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6402
+#EXTINF:-1,|CA| SUPER ECRAN 4 (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6401
+#EXTINF:-1,|CA| TELE QUEBEC
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6400
+#EXTINF:-1,|CA| TELE QUEBEC (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6399
+#EXTINF:-1,|CA| TELE QUEBEC HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6398
+#EXTINF:-1,|CA| TELE TOON FRENCH (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6397
+#EXTINF:-1,|CA| TELEMAGINO (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6396
+#EXTINF:-1,|CA| TELETOON  1 HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6395
+#EXTINF:-1,|CA| TELETOON HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6394
+#EXTINF:-1,|CA| TFO (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6393
+#EXTINF:-1,|CA| THE FAMILY CHANNEL (East) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6392
+#EXTINF:-1,|CA| THE SHOPPING CHANNEL FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6391
+#EXTINF:-1,|CA| THE SHOPPING NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6390
+#EXTINF:-1,|CA| THE WEATHER CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6389
+#EXTINF:-1,|CA| THE WEATHER NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6388
+#EXTINF:-1,|CA| TLC HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6387
+#EXTINF:-1,|CA| TRAVEL CHANNEL HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6386
+#EXTINF:-1,|CA| TREEHOUSE HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6385
+#EXTINF:-1,|CA| TSN 1 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6384
+#EXTINF:-1,|CA| TSN 2 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6383
+#EXTINF:-1,|CA| TSN 3 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6382
+#EXTINF:-1,|CA| TSN 4 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6381
+#EXTINF:-1,|CA| TSN 5 FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6380
+#EXTINF:-1,|CA| TV5 QUEBEC (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6379
+#EXTINF:-1,|CA| TVA GATINEAU (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6378
+#EXTINF:-1,|CA| TVA MONTREAL (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6377
+#EXTINF:-1,|CA| TVA QUEBEC (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6376
+#EXTINF:-1,|CA| TVA SPORTS (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6375
+#EXTINF:-1,|CA| TVA SPORTS HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6374
+#EXTINF:-1,|CA| TVO FHD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6373
+#EXTINF:-1,|CA| UNIS TV (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6372
+#EXTINF:-1,|CA| V MONTREAL (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6371
+#EXTINF:-1,|CA| V QUEBEC (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6370
+#EXTINF:-1,|CA| VIE (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6369
+#EXTINF:-1,|CA| VRAK TV (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6368
+#EXTINF:-1,|CA| WEATHER NETWORK (Toronto) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6367
+#EXTINF:-1,|CA| WEATHER NETWORK HD (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6366
+#EXTINF:-1,|CA| WOMENS NETWORK HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6365
+#EXTINF:-1,|CA| World Fishing HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6364
+#EXTINF:-1,|CA| YES TV
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6363
+#EXTINF:-1,|CA| YES TV (Alberta) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6362
+#EXTINF:-1,|CA| YES TV (Ontario) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6361
+#EXTINF:-1,|CA| YOOPA (FR)
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6360
+#EXTINF:-1,|CA| YTV (East) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6359
+#EXTINF:-1,|CA| YTV HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6358
