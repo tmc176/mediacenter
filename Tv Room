@@ -1,8 +1,8 @@
 <streamingInfos>
 
 <item>
-<title>CANADA",CBC Television</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8</link>
+<title>CP24</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts</link>
 <item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts</link>
@@ -178,10 +178,15 @@
 <title>"USA",Science Channel</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/9/live.m3u8</link>
 <item>
-<title>METV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8</link>
+<title>Tv Land</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/zamir/zamir/10382</link>
 <item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.20.25:8080/test11/test11/13427</link>
-
+<title>YES TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6361</link>
+<item>
+<title>WE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/jabar3/jabar3/10378</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
