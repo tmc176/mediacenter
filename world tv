@@ -99,14 +99,4 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-#EXTINF:0 tvg-name="Sportsnet East Canada" tvg-language="English" tvg-country="CA" tvg-id="Sportsnet East Canada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh_gswSu5Wl0sJVhgNZrVp_38Qb6jEYpSHpOBGaoyS8Fbhv_zbABMWXA" group-title="Sports",Sportsnet East Canada (Sports) (CA) (English)
-http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
-
-#EXTINF:0 tvg-name="The Weather Network" tvg-language="English" tvg-country="CA" tvg-id="The Weather Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNc8wFCC4nNpER_q1ulSSn0Njb5mGzlmb63QCONAcnl4oLlJzBeXhzlU" group-title="News",The Weather Network (News) (CA) (English)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master.m3u8
-
-#EXTINF:0 tvg-name="CBS Sports HQ" tvg-language="English" tvg-country="US" tvg-id="CBS Sports HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVfx6T7iEMvfRxVPTON8ZpWN9gKH5k6lVRAzyKD_-TbA8JlEToG7vQVI" group-title="Public-Sports",CBS Sports HQ (Public-Sports) (US) (English)
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
-
-
 
