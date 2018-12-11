@@ -187,6 +187,14 @@
 <title>WE HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/jabar3/jabar3/10378</link>
 <item>
+<title>WEATHER NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6367</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
+WEATHER NETWORK (Toronto) HD
+http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6367
