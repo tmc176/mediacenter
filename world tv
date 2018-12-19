@@ -101,15 +101,15 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 
 #EXTM3U
 #EXTINF:-1,Canada: ABC SPARK CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.m3u8
 #EXTINF:-1,Canada: AMC
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.m3u8
 #EXTINF:-1,Canada: ANIMAL PLANET
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.m3u8
 #EXTINF:-1,Canada: APTN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.m3u8
 #EXTINF:-1,Canada: BBC CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.m3u8
 #EXTINF:-1,Canada: BBC KIDS
 http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
 #EXTINF:-1,Canada: BBC WORLD NEWS
