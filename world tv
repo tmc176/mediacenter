@@ -204,6 +204,11 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 #EXTINF:-1,Velocity
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 1
 http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts
@@ -517,18 +522,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/410.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",DISNEY XD
 http://gorilladick4.us:2086/live/irishboy/irishboy/520.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",DISNEY JR.
-http://gorilladick4.us:2086/live/irishboy/irishboy/374.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",CARTOON NETWORK
-http://gorilladick4.us:2086/live/irishboy/irishboy/416.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",BOOMERANG
-http://gorilladick4.us:2086/live/irishboy/irishboy/686.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICK JR TOO
-http://gorilladick4.us:2086/live/irishboy/irishboy/1035.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",STARZ KIDS
 http://gorilladick4.us:2086/live/irishboy/irishboy/364.ts
