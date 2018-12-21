@@ -201,6 +201,9 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYRAfpuhs__w0gN8w_9TT0PACDZR2vUoV2zBEsV-CpGWBW_Vl"  group-title="USA",U.S.A NETWORK
 http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=334.m3u8 
 
+#EXTINF:0,Updated:8/15-Lifetime Movie Network
+http://167.114.101.188:1935/flu555/_definst_/lmn/playlist.m3u8?token=
+
 #EXTINF:-1,Velocity
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 
