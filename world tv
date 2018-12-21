@@ -201,24 +201,6 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYRAfpuhs__w0gN8w_9TT0PACDZR2vUoV2zBEsV-CpGWBW_Vl"  group-title="USA",U.S.A NETWORK
 http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=334.m3u8 
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK INTRO
-https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK ANTHEM
-https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",BT SPORTS 1
-http://gorilladick4.us:2086/live/irishboy/irishboy/1005.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",BT SPORTS 2
-http://gorilladick4.us:2086/live/irishboy/irishboy/1006.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",BT SPORTS 3
-http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",BT SPORTS ESPN
-http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
-
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 1
 http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts
@@ -236,47 +218,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/1096.ts
 http://gorilladick4.us:2086/live/irishboy/irishboy/1095.ts
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",BEIN SPORTS ESPANOL FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1668.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",BEIN SPORTS
-http://gorilladick4.us:2086/live/irishboy/irishboy/350.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS F1
-http://gorilladick4.us:2086/live/irishboy/irishboy/1001.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS ACTION
-http://gorilladick4.us:2086/live/irishboy/irishboy/998.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS NEWS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1003.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS MIX
-http://gorilladick4.us:2086/live/irishboy/irishboy/1002.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS PRE. LEAGUE
-http://gorilladick4.us:2086/live/irishboy/irishboy/1000.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS GOLF
-http://gorilladick4.us:2086/live/irishboy/irishboy/999.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS CRICKET
-http://gorilladick4.us:2086/live/irishboy/irishboy/997.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS MAIN EVENT
-http://gorilladick4.us:2086/live/irishboy/irishboy/996.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SKY SPORTS BOX OFFICE PPV
-http://gorilladick4.us:2086/live/irishboy/irishboy/1004.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",PREMIER SPORTS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1012.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",EURO SPORTS 1
-http://gorilladick4.us:2086/live/irishboy/irishboy/1010.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS 1
 http://gorilladick4.us:2086/live/irishboy/irishboy/541.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
@@ -285,24 +226,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/384.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS WEST
 http://gorilladick4.us:2086/live/irishboy/irishboy/1633.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SOCCER PLUS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1502.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX DEPORTES
-http://gorilladick4.us:2086/live/irishboy/irishboy/1642.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",ESPN 1 
-http://gorilladick4.us:2086/live/irishboy/irishboy/468.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",ESPN 2
-http://gorilladick4.us:2086/live/irishboy/irishboy/478.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",ESPN U
-http://gorilladick4.us:2086/live/irishboy/irishboy/479.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",ESPN DEPORTES
-http://gorilladick4.us:2086/live/irishboy/irishboy/1641.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET WORLD
 http://gorilladick4.us:2086/live/irishboy/irishboy/1087.ts
@@ -319,44 +242,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/2292.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",WWE
 http://gorilladick4.us:2086/live/irishboy/irishboy/543.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TENNIS
-http://gorilladick4.us:2086/live/irishboy/irishboy/517.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBA TV FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/403.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBC SPORTS BOSTON
-http://gorilladick4.us:2086/live/irishboy/irishboy/2152.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBC SPORTS CALIFORNIA
-http://gorilladick4.us:2086/live/irishboy/irishboy/2151.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBC SPORTS CHICAGO
-http://gorilladick4.us:2086/live/irishboy/irishboy/2148.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBC SPORTS NORTHWEST
-http://gorilladick4.us:2086/live/irishboy/irishboy/2154.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBC SPORTS NETWORK
-http://gorilladick4.us:2086/live/irishboy/irishboy/367.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",NBC SPORTS WASHINGTON
-http://gorilladick4.us:2086/live/irishboy/irishboy/2157.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS PRIME TICKET FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1866.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",WILLOW FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1676.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",ELEVEN SPORTS HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/2275.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",OLYMPIC CHANNEL HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/2293.ts
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES THRILLER HD
@@ -530,7 +415,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/347.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",OXYGEN FHD
 http://gorilladick4.us:2086/live/irishboy/irishboy/1507.ts
-
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NATIONAL GEOGRAPHIC
 http://gorilladick4.us:2086/live/irishboy/irishboy/537.ts
@@ -600,111 +484,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/396.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",WORLD HD
 http://gorilladick4.us:2086/live/irishboy/irishboy/1094.ts
 
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",NICK MUSIC FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1732.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",GREAT AMERICAN COUNTRY FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1729.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MTV FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/422.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MTV U FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1692.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MTV TR3S FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1678.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MTV CLASSIC FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1690.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MTV 2 FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/376.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MTV TR3S
-http://gorilladick4.us:2086/live/irishboy/irishboy/1678.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",VIRGIN MUSIC FHD
-http://wow01.105.net/live/virgin1/.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",GLOBAL HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1084.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE HIP HOP & R&B
-http://gorilladick4.us:2086/live/irishboy/irishboy/1567.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE Y2K
-http://gorilladick4.us:2086/live/irishboy/irishboy/1581.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE TROPICALES
-http://gorilladick4.us:2086/live/irishboy/irishboy/1585.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE TODDLER TUNES
-http://gorilladick4.us:2086/live/irishboy/irishboy/1587.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE TODAY'S COUNTRY
-http://gorilladick4.us:2086/live/irishboy/irishboy/1578.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE THROWBACK JAMS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1580.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE TEEN BEATS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1577.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE ROCK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1576.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE RAP
-http://gorilladick4.us:2086/live/irishboy/irishboy/1574.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE RAP 00'S
-http://gorilladick4.us:2086/live/irishboy/irishboy/1575.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE R&B SOUL
-http://gorilladick4.us:2086/live/irishboy/irishboy/1573.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE POP LATINO
-http://gorilladick4.us:2086/live/irishboy/irishboy/1584.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE POP HITS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1572.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE POP & COUNTRY
-http://gorilladick4.us:2086/live/irishboy/irishboy/1571.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE MUSICA URBANA
-http://gorilladick4.us:2086/live/irishboy/irishboy/1583.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE MEXICANA
-http://gorilladick4.us:2086/live/irishboy/irishboy/1582.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE METAL
-http://gorilladick4.us:2086/live/irishboy/irishboy/1570.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE KIDS ONLY
-http://gorilladick4.us:2086/live/irishboy/irishboy/1586.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE INDIE
-http://gorilladick4.us:2086/live/irishboy/irishboy/1569.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE HIT LIST
-http://gorilladick4.us:2086/live/irishboy/irishboy/1568.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE DANCE/EDM
-http://gorilladick4.us:2086/live/irishboy/irishboy/1566.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE BRITISH HITS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1564.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE ALTERNATIVE
-http://gorilladick4.us:2086/live/irishboy/irishboy/1565.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MUSIC♥",MUSIC CHOICE 90'S
-http://gorilladick4.us:2086/live/irishboy/irishboy/1579.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",CARTOONITO
 http://gorilladick4.us:2086/live/irishboy/irishboy/1036.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
