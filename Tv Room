@@ -158,7 +158,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title>GLOBAL TORONTO HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:80/ANDERSON1/ANDERSON1/6353</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8</link>
 
 #EXTINF:-1,|US| 5 USA
 http://painel.tvdigitalsbl.net:80/ANDERSON1/ANDERSON1/6352
