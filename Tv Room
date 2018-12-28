@@ -1,9 +1,6 @@
 <streamingInfos>
 
 <item>
-<title>CP24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9347</link>
-<item>
 <title>CITY TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9877</link>
 <item>
@@ -25,20 +22,8 @@
 <title>GLOBAL VANCOUVER</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts</link>
 <item>
-<title>FOX EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9339</link>
-<item>
-<title>ABC EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23968</link>
-<item>
 <title>ABC SPARK CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts</link>
-<item>
-<title>CBS EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23930</link>
-<item>
-<title>NBC EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23735</link>
 <item>
 <title>CTV NEWS NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts</link>
@@ -49,47 +34,14 @@
 <title>CNN INTERNATIONAL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts</link>
 <item>
-<title>USA:HGTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/7649</link>
-<item>
 <title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts</link>
 <item>
 <title>COTTAGE LIFE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts</link>
 <item>
-<title>DIY Network HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9874</link>
-<item>
-<title>LIFETIME</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23787</link>
-<item>
-<title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23950</link>
-<item>
 <title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts</link>
-<item>
-<title>BRAVO EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9348</link>
-<item>
-<title>Discovery HD Showcase US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23883</link>
-<item>
-<title>CW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9973</link>
-<item>
-<title>DISCOVERY SCIENCE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23884</link>
-<item>
-<title>CRIME INVEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9346</link>
-<item>
-<title>DISCOVERY VELOCITY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9845</link>
-<item>
-<title>History US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23798</link>
 <item>
 <title>APTN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts</link>
@@ -118,106 +70,8 @@
 <title>HBO 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts</link>
 <item>
-<title>CMT CANADA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9926</link>
-<item>
-<title>SHOWTIME</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9332</link>
-<item>
-<title>FX CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9838</link>
-<item>
-<title>Travel Channel HD US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23620</link>
-<item>
-<title>USA Network HD US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23607</link>
-<item>
-<title>Tv Land</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23615</link>
-<item>
-<title>TV Land (East)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23614</link>
-<item>
-<title>TV Land (West)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23613</link>
-<item>
-<title>TV LAND</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23612</link>
-<item>
-<title>YES CA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9326</link>
-<item>
-<title>YES TV WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/10263</link>
-<item>
 <title>DISNEY CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts</link>
-<item>
-<title>Disney XD HD US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23885</link>
-<item>
-<title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9928</link>
-<item>
-<title>YTV-E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9325</link>
-<item>
-<title>FAMILY WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9341</link>
-<item>
-<title>FAMILY EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9835</link>
-<item>
-<title>FAMILY WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9951</link>
-<item>
-<title>TVO Kids</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9818</link>
-<item>
-<title>NAT GEO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9865</link>
-<item>
-<title>OWN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9951</link>
-<item>
-<title>SMITHSONIAN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9810</link>
-<item>
-<title>SHOWCASE EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9821</link>
-<item>
-<title>SPACE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9944</link>
-<item>
-<title>WFN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9893</link>
-<item>
-<title>WILD TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9891</link>
-<item>
-<title>OUTDOOR CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23689</link>
-<item>
-<title>WE TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23598</link>
-<item>
-<title>OXYGEN TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23685</link>
-<item>
-<title>ME TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23782</link>
-<item>
-<title>HALLMARK CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23815</link>
-<item>
-<title>American Heroes Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23954</link>
-<item>
-<title>TLC CANADA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/10268</link>
-<item>
-<title>TNT TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23624</link>
+
 
 
