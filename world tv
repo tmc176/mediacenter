@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="Fireplace" tvg-language="English/Spanish" tvg-country="US" tvg-id="Fireplace" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="RandomAirTime 24/7",Fireplace (RandomAirTime 24/7) (US) (English/Spanish)
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+#EXTINF:0 tvg-name="New Years" tvg-language="English/Spanish" tvg-country="US" tvg-id="New years" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="RandomAirTime 24/7",Fireplace (RandomAirTime 24/7) (US) (English/Spanish)
+https://youtu.be/78gYapFCsb4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
