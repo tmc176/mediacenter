@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square [M3U8]
-http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (47th + Broadway) [M3U8]
-http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (Street Cam) [M3U8]
-http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (Crossroads) [M3U8]
-http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (South View) [M3U8]
-http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
 
