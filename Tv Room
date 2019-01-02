@@ -1,1 +1,297 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
+http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 1
+http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/1098.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 3
+http://gorilladick4.us:2086/live/irishboy/irishboy/1097.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 4
+http://gorilladick4.us:2086/live/irishboy/irishboy/1096.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 5
+http://gorilladick4.us:2086/live/irishboy/irishboy/1095.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS 1
+http://gorilladick4.us:2086/live/irishboy/irishboy/541.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/384.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS WEST
+http://gorilladick4.us:2086/live/irishboy/irishboy/1633.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET WORLD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1087.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET EAST
+http://gorilladick4.us:2086/live/irishboy/irishboy/1088.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET 360
+http://gorilladick4.us:2086/live/irishboy/irishboy/1093.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",WWE
+http://gorilladick4.us:2086/live/irishboy/irishboy/543.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES THRILLER HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1023.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES SELECT HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1022.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES SCI-FI/HORROR HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1021.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES PREMIER HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1020.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES HITS HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1019.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES GREATS HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1018.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES FAMILY HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1017.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES DRAMA & ROMANCE HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1016.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES COMEDY HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1014.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES ACTION HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1013.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES DISNEY
+http://gorilladick4.us:2086/live/irishboy/irishboy/1015.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SYFY FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/380.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SUNDANCE FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/347.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",STARZ FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/404.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",STARZ KIDS FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/364.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",PARAMOUNT NETWORK FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/371.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SHOWTIME FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/418.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",TLC FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/379.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",VICELAND FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/467.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HGTV FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/412.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO SIGNATURE FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/346.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO FAMILY FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/341.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO
+http://gorilladick4.us:2086/live/irishboy/irishboy/502.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/348.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO ZONE
+http://gorilladick4.us:2086/live/irishboy/irishboy/345.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO COMEDY
+http://gorilladick4.us:2086/live/irishboy/irishboy/500.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",FXX
+http://gorilladick4.us:2086/live/irishboy/irishboy/372.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",FILM 4
+http://gorilladick4.us:2086/live/irishboy/irishboy/1048.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",UNIVERSAL UK
+http://gorilladick4.us:2086/live/irishboy/irishboy/1063.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HORROR CHANNEL
+http://gorilladick4.us:2086/live/irishboy/irishboy/1074.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HALLMARK FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/544.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HALLMARK DRAMA (HD)
+http://gorilladick4.us:2086/live/irishboy/irishboy/2166.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HALLMARK MOVIES & MYSTERIES FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/431.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",GSN FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/398.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX
+http://gorilladick4.us:2086/live/irishboy/irishboy/414.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX 5 STAR MAX [EXCLUSIVE]
+http://gorilladick4.us:2086/live/irishboy/irishboy/1695.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX ACTION MAX [EXCLUSIVE]
+http://gorilladick4.us:2086/live/irishboy/irishboy/1681.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX MOREMAX
+http://gorilladick4.us:2086/live/irishboy/irishboy/351.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX THRILLER MAX
+http://gorilladick4.us:2086/live/irishboy/irishboy/397.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",COMEDY TV
+http://gorilladick4.us:2086/live/irishboy/irishboy/1726.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",LIFETIME MOVIE NETWORK
+http://gorilladick4.us:2086/live/irishboy/irishboy/532.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",TRUE MOVIES 1
+http://gorilladick4.us:2086/live/irishboy/irishboy/1077.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",TRUE MOVIES 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/1076.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",MOVIES 4 MEN
+http://gorilladick4.us:2086/live/irishboy/irishboy/1068.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",MOVIES 24
+http://gorilladick4.us:2086/live/irishboy/irishboy/1075.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",FX MOVIES
+http://gorilladick4.us:2086/live/irishboy/irishboy/1643.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",MGM
+http://gorilladick4.us:2086/live/irishboy/irishboy/1730.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SYFY
+http://gorilladick4.us:2086/live/irishboy/irishboy/380.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SUNDANCE
+http://gorilladick4.us:2086/live/irishboy/irishboy/347.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",OXYGEN FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1507.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NATIONAL GEOGRAPHIC
+http://gorilladick4.us:2086/live/irishboy/irishboy/537.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NAT GEO WILD
+http://gorilladick4.us:2086/live/irishboy/irishboy/358.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",HISTORY
+http://gorilladick4.us:2086/live/irishboy/irishboy/425.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NAT GEO WILD UK
+http://gorilladick4.us:2086/live/irishboy/irishboy/1033.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NAT GEO UK
+http://gorilladick4.us:2086/live/irishboy/irishboy/1032.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",INVESTIGATION DISCOVERY
+http://gorilladick4.us:2086/live/irishboy/irishboy/407.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY
+http://gorilladick4.us:2086/live/irishboy/irishboy/402.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY SCIENCE
+http://gorilladick4.us:2086/live/irishboy/irishboy/465.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY LIFE
+http://gorilladick4.us:2086/live/irishboy/irishboy/1644.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY FAMILY
+http://gorilladick4.us:2086/live/irishboy/irishboy/385.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY HISTORY
+http://gorilladick4.us:2086/live/irishboy/irishboy/1030.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY SCIENCE UK
+http://gorilladick4.us:2086/live/irishboy/irishboy/1028.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY TURBO
+http://gorilladick4.us:2086/live/irishboy/irishboy/1029.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY UK
+http://gorilladick4.us:2086/live/irishboy/irishboy/1027.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DESTINATION AMERICA
+http://gorilladick4.us:2086/live/irishboy/irishboy/411.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",CRIME AND INVESTIGATION
+http://gorilladick4.us:2086/live/irishboy/irishboy/516.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",ANIMAL PLANET
+http://gorilladick4.us:2086/live/irishboy/irishboy/383.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",OUTDOOR
+http://gorilladick4.us:2086/live/irishboy/irishboy/393.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",TRAVEL CHANNEL
+http://gorilladick4.us:2086/live/irishboy/irishboy/538.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",CNN FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/369.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",A&E FHD
+http://gorilladick4.us:2086/live/irishboy/irishboy/396.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",WORLD HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1094.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",CARTOONITO
+http://gorilladick4.us:2086/live/irishboy/irishboy/1036.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",BBC 4 / CBEEBIES
+http://gorilladick4.us:2086/live/irishboy/irishboy/1039.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",PBS KIDS
+http://gorilladick4.us:2086/live/irishboy/irishboy/1839.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",BABY FIRST
+http://gorilladick4.us:2086/live/irishboy/irishboy/1724.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICKTOONS
+http://gorilladick4.us:2086/live/irishboy/irishboy/353.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICKELODEON
+http://gorilladick4.us:2086/live/irishboy/irishboy/423.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICK JR.
+http://gorilladick4.us:2086/live/irishboy/irishboy/395.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICK JR UK
+http://gorilladick4.us:2086/live/irishboy/irishboy/1544.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",DISNEY
+http://gorilladick4.us:2086/live/irishboy/irishboy/410.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",DISNEY XD
+http://gorilladick4.us:2086/live/irishboy/irishboy/520.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",STARZ KIDS
+http://gorilladick4.us:2086/live/irishboy/irishboy/364.ts
+
 
