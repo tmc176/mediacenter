@@ -1,11 +1,11 @@
 <streamingInfos>
 
 <item>
-<item>#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2<item>
+<item>http-user-agent=PotzGtvRebrand/V.2.2<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts</link>
 <item>
-<item>#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2<item>
+<item>http-user-agent=PotzGtvRebrand/V.2.2<item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gorilladick4.us:2086/live/irishboy/irishboy/1021.ts</link>
 
