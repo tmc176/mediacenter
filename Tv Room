@@ -1,4 +1,34 @@
-#EXTM3U
+<streamingInfos>
+
+<item>
+<title>A & E</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26173</link>
+<item>
+<title>ABC EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26172</link>
+<item>
+<title>ABC WEST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26170</link>
+<item>
+<title>ABC SPARK CANADA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26171</link>
+<item>
+<title>ACTION</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26169</link>
+<item>
+<title>AMC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26166</link>
+<item>
+<title>AHC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26167</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
+
 
 #EXTINF:-1,CA - A & E
 http://live.kodisolutions.tv:8080/fredf/fredf/26173
