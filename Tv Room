@@ -1,35 +1,85 @@
 <streamingInfos>
 
 <item>
-<title>A & E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26173</link>
+<title>CITY MONTREAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25971</link>
 <item>
-<title>ABC EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26172</link>
+<title>CITY SASKATCHEWAN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25963</link>
 <item>
-<title>ABC WEST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26170</link>
+<title>CITY TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26141</link>
 <item>
-<title>ABC SPARK CANADA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26171</link>
+<title>CITY VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26140</link>
 <item>
-<title>ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26169</link>
+<title>CITY WINNIPEG</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25962</link>
 <item>
-<title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26166</link>
+<title>GLOBAL HALIFAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25967</link>
 <item>
-<title>AHC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26167</link>
+<title>GLOBAL TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26089</link>
+<item>
+<title>GLOBAL VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26088</link>
+<item>
+<title>CTV TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26122</link>
+<item>
+<title>CTV OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26123</link>
+<item>
+<title>CTV VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26121</link>
+<item>
+<title>CTV HALIFAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25968</link>
+<item>
+<title>CTV 2 TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25957</link>
+<item>
+<title>CTV2 OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26120</link>
+<item>
+<title>CTV 2 VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26125</link>
+<item>
+<title>CITY MONTREAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25971</link>
+<item>
+<title>CITY SASKATCHEWAN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25963</link>
+<item>
+<title>CBC MONTREAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26148</link>
+<item>
+<title>CBC NOVA SCOTIA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25961</link>
+<item>
+<title>CBC OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25962</link>
+<item>
+<title>CBC TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26147</link>
+<item>
+<title>CBC VANCOUVER</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26146</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-
-
-
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+#EXTINF:-1,CA - CBC NEWS
+http://live.kodisolutions.tv:8080/fredf/fredf/26149
 #EXTINF:-1,CA - A & E
 http://live.kodisolutions.tv:8080/fredf/fredf/26173
 #EXTINF:-1,CA - ABC EAST
@@ -40,42 +90,18 @@ http://live.kodisolutions.tv:8080/fredf/fredf/26171
 http://live.kodisolutions.tv:8080/fredf/fredf/26170
 #EXTINF:-1,CA - ACTION
 http://live.kodisolutions.tv:8080/fredf/fredf/26169
-#EXTINF:-1,CA - ADDIK TV
-http://live.kodisolutions.tv:8080/fredf/fredf/26168
-#EXTINF:-1,CA - AHC
-http://live.kodisolutions.tv:8080/fredf/fredf/26167
 #EXTINF:-1,CA - AMC
 http://live.kodisolutions.tv:8080/fredf/fredf/26166
 #EXTINF:-1,CA - ANIMAL PLANET
 http://live.kodisolutions.tv:8080/fredf/fredf/26165
 #EXTINF:-1,CA - APTN
 http://live.kodisolutions.tv:8080/fredf/fredf/26164
-#EXTINF:-1,CA - ARTV
-http://live.kodisolutions.tv:8080/fredf/fredf/26163
-#EXTINF:-1,CA - Assemblée Nationale Québec
-http://live.kodisolutions.tv:8080/fredf/fredf/26162
-#EXTINF:-1,CA - BBC CANADA
-http://live.kodisolutions.tv:8080/fredf/fredf/26161
 #EXTINF:-1,CA - BBC KIDS
 http://live.kodisolutions.tv:8080/fredf/fredf/26160
-#EXTINF:-1,CA - BBC WORLD NEWS
-http://live.kodisolutions.tv:8080/fredf/fredf/26159
-#EXTINF:-1,CA - BET
-http://live.kodisolutions.tv:8080/fredf/fredf/26158
-#EXTINF:-1,CA - BNN
-http://live.kodisolutions.tv:8080/fredf/fredf/26157
-#EXTINF:-1,CA - BOOK TV
-http://live.kodisolutions.tv:8080/fredf/fredf/26156
 #EXTINF:-1,CA - BRAVO
 http://live.kodisolutions.tv:8080/fredf/fredf/26155
-#EXTINF:-1,CA - CANAL D
-http://live.kodisolutions.tv:8080/fredf/fredf/26154
-#EXTINF:-1,CA - CANAL SAVOIR
-http://live.kodisolutions.tv:8080/fredf/fredf/26153
 #EXTINF:-1,CA - CARTOON NETWORK
 http://live.kodisolutions.tv:8080/fredf/fredf/26152
-#EXTINF:-1,CA - CASA
-http://live.kodisolutions.tv:8080/fredf/fredf/26151
 #EXTINF:-1,CA - CBC MONTREAL
 http://live.kodisolutions.tv:8080/fredf/fredf/26150
 #EXTINF:-1,CA - CBC NEWS
