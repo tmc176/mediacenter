@@ -1,306 +1,428 @@
-<streamingInfos>
+#EXTM3U
 
-<item>
-<item>http-user-agent=PotzGtvRebrand/V.2.2<item>
-<title>TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts</link>
-<item>
-<item>http-user-agent=PotzGtvRebrand/V.2.2<item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gorilladick4.us:2086/live/irishboy/irishboy/1021.ts</link>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
-http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 1
-http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 2
-http://gorilladick4.us:2086/live/irishboy/irishboy/1098.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 3
-http://gorilladick4.us:2086/live/irishboy/irishboy/1097.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 4
-http://gorilladick4.us:2086/live/irishboy/irishboy/1096.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",TSN 5
-http://gorilladick4.us:2086/live/irishboy/irishboy/1095.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS 1
-http://gorilladick4.us:2086/live/irishboy/irishboy/541.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS 2
-http://gorilladick4.us:2086/live/irishboy/irishboy/384.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",FOX SPORTS WEST
-http://gorilladick4.us:2086/live/irishboy/irishboy/1633.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET WORLD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1087.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET EAST
-http://gorilladick4.us:2086/live/irishboy/irishboy/1088.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",SPORTS NET 360
-http://gorilladick4.us:2086/live/irishboy/irishboy/1093.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SPORTS♥",WWE
-http://gorilladick4.us:2086/live/irishboy/irishboy/543.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES THRILLER HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1023.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES SELECT HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1022.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES SCI-FI/HORROR HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1021.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES PREMIER HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1020.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES HITS HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1019.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES GREATS HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1018.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES FAMILY HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1017.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES DRAMA & ROMANCE HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1016.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES COMEDY HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1014.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES ACTION HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1013.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SKY MOVIES DISNEY
-http://gorilladick4.us:2086/live/irishboy/irishboy/1015.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SYFY FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/380.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SUNDANCE FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/347.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",STARZ FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/404.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",STARZ KIDS FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/364.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",PARAMOUNT NETWORK FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/371.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SHOWTIME FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/418.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",TLC FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/379.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",VICELAND FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/467.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HGTV FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/412.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO SIGNATURE FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/346.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO FAMILY FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/341.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO
-http://gorilladick4.us:2086/live/irishboy/irishboy/502.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO 2
-http://gorilladick4.us:2086/live/irishboy/irishboy/348.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO ZONE
-http://gorilladick4.us:2086/live/irishboy/irishboy/345.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HBO COMEDY
-http://gorilladick4.us:2086/live/irishboy/irishboy/500.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",FXX
-http://gorilladick4.us:2086/live/irishboy/irishboy/372.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",FILM 4
-http://gorilladick4.us:2086/live/irishboy/irishboy/1048.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",UNIVERSAL UK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1063.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HORROR CHANNEL
-http://gorilladick4.us:2086/live/irishboy/irishboy/1074.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HALLMARK FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/544.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HALLMARK DRAMA (HD)
-http://gorilladick4.us:2086/live/irishboy/irishboy/2166.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",HALLMARK MOVIES & MYSTERIES FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/431.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",GSN FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/398.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX
-http://gorilladick4.us:2086/live/irishboy/irishboy/414.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX 5 STAR MAX [EXCLUSIVE]
-http://gorilladick4.us:2086/live/irishboy/irishboy/1695.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX ACTION MAX [EXCLUSIVE]
-http://gorilladick4.us:2086/live/irishboy/irishboy/1681.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX MOREMAX
-http://gorilladick4.us:2086/live/irishboy/irishboy/351.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",CINEMAX THRILLER MAX
-http://gorilladick4.us:2086/live/irishboy/irishboy/397.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",COMEDY TV
-http://gorilladick4.us:2086/live/irishboy/irishboy/1726.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",LIFETIME MOVIE NETWORK
-http://gorilladick4.us:2086/live/irishboy/irishboy/532.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",TRUE MOVIES 1
-http://gorilladick4.us:2086/live/irishboy/irishboy/1077.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",TRUE MOVIES 2
-http://gorilladick4.us:2086/live/irishboy/irishboy/1076.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",MOVIES 4 MEN
-http://gorilladick4.us:2086/live/irishboy/irishboy/1068.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",MOVIES 24
-http://gorilladick4.us:2086/live/irishboy/irishboy/1075.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",FX MOVIES
-http://gorilladick4.us:2086/live/irishboy/irishboy/1643.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",MGM
-http://gorilladick4.us:2086/live/irishboy/irishboy/1730.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SYFY
-http://gorilladick4.us:2086/live/irishboy/irishboy/380.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",SUNDANCE
-http://gorilladick4.us:2086/live/irishboy/irishboy/347.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS MOVIES♥",OXYGEN FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1507.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NATIONAL GEOGRAPHIC
-http://gorilladick4.us:2086/live/irishboy/irishboy/537.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NAT GEO WILD
-http://gorilladick4.us:2086/live/irishboy/irishboy/358.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",HISTORY
-http://gorilladick4.us:2086/live/irishboy/irishboy/425.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NAT GEO WILD UK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1033.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",NAT GEO UK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1032.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",INVESTIGATION DISCOVERY
-http://gorilladick4.us:2086/live/irishboy/irishboy/407.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY
-http://gorilladick4.us:2086/live/irishboy/irishboy/402.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY SCIENCE
-http://gorilladick4.us:2086/live/irishboy/irishboy/465.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY LIFE
-http://gorilladick4.us:2086/live/irishboy/irishboy/1644.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY FAMILY
-http://gorilladick4.us:2086/live/irishboy/irishboy/385.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY HISTORY
-http://gorilladick4.us:2086/live/irishboy/irishboy/1030.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY SCIENCE UK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1028.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY TURBO
-http://gorilladick4.us:2086/live/irishboy/irishboy/1029.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DISCOVERY UK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1027.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",DESTINATION AMERICA
-http://gorilladick4.us:2086/live/irishboy/irishboy/411.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",CRIME AND INVESTIGATION
-http://gorilladick4.us:2086/live/irishboy/irishboy/516.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",ANIMAL PLANET
-http://gorilladick4.us:2086/live/irishboy/irishboy/383.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",OUTDOOR
-http://gorilladick4.us:2086/live/irishboy/irishboy/393.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",TRAVEL CHANNEL
-http://gorilladick4.us:2086/live/irishboy/irishboy/538.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",CNN FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/369.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",A&E FHD
-http://gorilladick4.us:2086/live/irishboy/irishboy/396.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS SCIENCE♥",WORLD HD
-http://gorilladick4.us:2086/live/irishboy/irishboy/1094.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",CARTOONITO
-http://gorilladick4.us:2086/live/irishboy/irishboy/1036.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",BBC 4 / CBEEBIES
-http://gorilladick4.us:2086/live/irishboy/irishboy/1039.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",PBS KIDS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1839.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",BABY FIRST
-http://gorilladick4.us:2086/live/irishboy/irishboy/1724.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICKTOONS
-http://gorilladick4.us:2086/live/irishboy/irishboy/353.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICKELODEON
-http://gorilladick4.us:2086/live/irishboy/irishboy/423.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICK JR.
-http://gorilladick4.us:2086/live/irishboy/irishboy/395.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",NICK JR UK
-http://gorilladick4.us:2086/live/irishboy/irishboy/1544.ts
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",DISNEY
-http://gorilladick4.us:2086/live/irishboy/irishboy/410.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",DISNEY XD
-http://gorilladick4.us:2086/live/irishboy/irishboy/520.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="GEARS KIDS♥",STARZ KIDS
-http://gorilladick4.us:2086/live/irishboy/irishboy/364.ts
-
-
+#EXTINF:-1,CA - A & E
+http://live.kodisolutions.tv:8080/fredf/fredf/26173
+#EXTINF:-1,CA - ABC EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26172
+#EXTINF:-1,CA - ABC SPARK CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26171
+#EXTINF:-1,CA - ABC WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26170
+#EXTINF:-1,CA - ACTION
+http://live.kodisolutions.tv:8080/fredf/fredf/26169
+#EXTINF:-1,CA - ADDIK TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26168
+#EXTINF:-1,CA - AHC
+http://live.kodisolutions.tv:8080/fredf/fredf/26167
+#EXTINF:-1,CA - AMC
+http://live.kodisolutions.tv:8080/fredf/fredf/26166
+#EXTINF:-1,CA - ANIMAL PLANET
+http://live.kodisolutions.tv:8080/fredf/fredf/26165
+#EXTINF:-1,CA - APTN
+http://live.kodisolutions.tv:8080/fredf/fredf/26164
+#EXTINF:-1,CA - ARTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26163
+#EXTINF:-1,CA - Assemblée Nationale Québec
+http://live.kodisolutions.tv:8080/fredf/fredf/26162
+#EXTINF:-1,CA - BBC CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26161
+#EXTINF:-1,CA - BBC KIDS
+http://live.kodisolutions.tv:8080/fredf/fredf/26160
+#EXTINF:-1,CA - BBC WORLD NEWS
+http://live.kodisolutions.tv:8080/fredf/fredf/26159
+#EXTINF:-1,CA - BET
+http://live.kodisolutions.tv:8080/fredf/fredf/26158
+#EXTINF:-1,CA - BNN
+http://live.kodisolutions.tv:8080/fredf/fredf/26157
+#EXTINF:-1,CA - BOOK TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26156
+#EXTINF:-1,CA - BRAVO
+http://live.kodisolutions.tv:8080/fredf/fredf/26155
+#EXTINF:-1,CA - CANAL D
+http://live.kodisolutions.tv:8080/fredf/fredf/26154
+#EXTINF:-1,CA - CANAL SAVOIR
+http://live.kodisolutions.tv:8080/fredf/fredf/26153
+#EXTINF:-1,CA - CARTOON NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/26152
+#EXTINF:-1,CA - CASA
+http://live.kodisolutions.tv:8080/fredf/fredf/26151
+#EXTINF:-1,CA - CBC MONTREAL
+http://live.kodisolutions.tv:8080/fredf/fredf/26150
+#EXTINF:-1,CA - CBC NEWS
+http://live.kodisolutions.tv:8080/fredf/fredf/26149
+#EXTINF:-1,CA - CBC NOVA SCOTIA
+http://live.kodisolutions.tv:8080/fredf/fredf/25961
+#EXTINF:-1,CA - CBC OTTAWA
+http://live.kodisolutions.tv:8080/fredf/fredf/26148
+#EXTINF:-1,CA - CBC TORONTO
+http://live.kodisolutions.tv:8080/fredf/fredf/26147
+#EXTINF:-1,CA - CBC VANCOUVER
+http://live.kodisolutions.tv:8080/fredf/fredf/26146
+#EXTINF:-1,CA - CBS EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26145
+#EXTINF:-1,CA - CBS WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26144
+#EXTINF:-1,CA - CHCH
+http://live.kodisolutions.tv:8080/fredf/fredf/26143
+#EXTINF:-1,CA - CINEPOP
+http://live.kodisolutions.tv:8080/fredf/fredf/26142
+#EXTINF:-1,CA - CITY MONTREAL
+http://live.kodisolutions.tv:8080/fredf/fredf/25971
+#EXTINF:-1,CA - CITY SASKATCHEWAN
+http://live.kodisolutions.tv:8080/fredf/fredf/25963
+#EXTINF:-1,CA - CITY TORONTO
+http://live.kodisolutions.tv:8080/fredf/fredf/26141
+#EXTINF:-1,CA - CITY VANCOUVER
+http://live.kodisolutions.tv:8080/fredf/fredf/26140
+#EXTINF:-1,CA - CITY WINNIPEG
+http://live.kodisolutions.tv:8080/fredf/fredf/25962
+#EXTINF:-1,CA - CMT CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26139
+#EXTINF:-1,CA - CNBC
+http://live.kodisolutions.tv:8080/fredf/fredf/26138
+#EXTINF:-1,CA - CNN
+http://live.kodisolutions.tv:8080/fredf/fredf/26137
+#EXTINF:-1,CA - CNN INTERNATIONAL
+http://live.kodisolutions.tv:8080/fredf/fredf/26136
+#EXTINF:-1,CA - COMEDY EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26135
+#EXTINF:-1,CA - COMEDY GOLD
+http://live.kodisolutions.tv:8080/fredf/fredf/26134
+#EXTINF:-1,CA - COMEDY WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26133
+#EXTINF:-1,CA - COOKING CHANNEL
+http://live.kodisolutions.tv:8080/fredf/fredf/26132
+#EXTINF:-1,CA - COSMO
+http://live.kodisolutions.tv:8080/fredf/fredf/26131
+#EXTINF:-1,CA - COTTAGE LIFE
+http://live.kodisolutions.tv:8080/fredf/fredf/26130
+#EXTINF:-1,CA - CP24
+http://live.kodisolutions.tv:8080/fredf/fredf/26129
+#EXTINF:-1,CA - CPAC
+http://live.kodisolutions.tv:8080/fredf/fredf/26128
+#EXTINF:-1,CA - CPAC FRENCH
+http://live.kodisolutions.tv:8080/fredf/fredf/26127
+#EXTINF:-1,CA - CRIME   INVEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26126
+#EXTINF:-1,CA - CTV 2 TORONTO
+http://live.kodisolutions.tv:8080/fredf/fredf/25957
+#EXTINF:-1,CA - CTV 2 VANCOUVER
+http://live.kodisolutions.tv:8080/fredf/fredf/26125
+#EXTINF:-1,CA - CTV HALIFAX
+http://live.kodisolutions.tv:8080/fredf/fredf/25968
+#EXTINF:-1,CA - CTV NEWS NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/26124
+#EXTINF:-1,CA - CTV OTTAWA
+http://live.kodisolutions.tv:8080/fredf/fredf/26123
+#EXTINF:-1,CA - CTV TORONTO
+http://live.kodisolutions.tv:8080/fredf/fredf/26122
+#EXTINF:-1,CA - CTV VANCOUVER
+http://live.kodisolutions.tv:8080/fredf/fredf/26121
+#EXTINF:-1,CA - CTV2 OTTAWA
+http://live.kodisolutions.tv:8080/fredf/fredf/26120
+#EXTINF:-1,CA - CW 11
+http://live.kodisolutions.tv:8080/fredf/fredf/26119
+#EXTINF:-1,CA - DAYSTAR TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26118
+#EXTINF:-1,CA - DEJAVIEW
+http://live.kodisolutions.tv:8080/fredf/fredf/26117
+#EXTINF:-1,CA - DISCOVERY CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26116
+#EXTINF:-1,CA - DISCOVERY SCIENCE CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26115
+#EXTINF:-1,CA - DISNEY CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26113
+#EXTINF:-1,CA - DISNEY FRENCH
+http://live.kodisolutions.tv:8080/fredf/fredf/26112
+#EXTINF:-1,CA - DISNEY JR
+http://live.kodisolutions.tv:8080/fredf/fredf/26111
+#EXTINF:-1,CA - DISNEY USA
+http://live.kodisolutions.tv:8080/fredf/fredf/26110
+#EXTINF:-1,CA - DIY
+http://live.kodisolutions.tv:8080/fredf/fredf/26109
+#EXTINF:-1,CA - DOCUMENTARY
+http://live.kodisolutions.tv:8080/fredf/fredf/26108
+#EXTINF:-1,CA - DTOUR
+http://live.kodisolutions.tv:8080/fredf/fredf/26107
+#EXTINF:-1,CA - E! CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26106
+#EXTINF:-1,CA - ENCORE 1 EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26105
+#EXTINF:-1,CA - ENCORE 2 EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26104
+#EXTINF:-1,CA - EVASION
+http://live.kodisolutions.tv:8080/fredf/fredf/26103
+#EXTINF:-1,CA - FAMILY CHRGD
+http://live.kodisolutions.tv:8080/fredf/fredf/26102
+#EXTINF:-1,CA - FAMILY EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26101
+#EXTINF:-1,CA - FAMILY JR
+http://live.kodisolutions.tv:8080/fredf/fredf/26100
+#EXTINF:-1,CA - FAMILY WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26099
+#EXTINF:-1,CA - FIGHT NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/26098
+#EXTINF:-1,CA - FOOD NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/26097
+#EXTINF:-1,CA - FOX EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26096
+#EXTINF:-1,CA - FOX NEWS
+http://live.kodisolutions.tv:8080/fredf/fredf/26095
+#EXTINF:-1,CA - FOX WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26094
+#EXTINF:-1,CA - FTV CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26093
+#EXTINF:-1,CA - FYI
+http://live.kodisolutions.tv:8080/fredf/fredf/26092
+#EXTINF:-1,CA - GINX ESPORTS TV CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26090
+#EXTINF:-1,CA - GLOBAL HALIFAX
+http://live.kodisolutions.tv:8080/fredf/fredf/25967
+#EXTINF:-1,CA - GLOBAL TORONTO
+http://live.kodisolutions.tv:8080/fredf/fredf/26089
+#EXTINF:-1,CA - GLOBAL VANCOUVER
+http://live.kodisolutions.tv:8080/fredf/fredf/26088
+#EXTINF:-1,CA - GOLF
+http://live.kodisolutions.tv:8080/fredf/fredf/26087
+#EXTINF:-1,CA - GOLF HD
+http://live.kodisolutions.tv:8080/fredf/fredf/26086
+#EXTINF:-1,CA - GSN
+http://live.kodisolutions.tv:8080/fredf/fredf/26085
+#EXTINF:-1,CA - GUSTO
+http://live.kodisolutions.tv:8080/fredf/fredf/26084
+#EXTINF:-1,CA - Game TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26091
+#EXTINF:-1,CA - H2 CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26083
+#EXTINF:-1,CA - HBO 1
+http://live.kodisolutions.tv:8080/fredf/fredf/26082
+#EXTINF:-1,CA - HBO 2
+http://live.kodisolutions.tv:8080/fredf/fredf/26081
+#EXTINF:-1,CA - HGTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26080
+#EXTINF:-1,CA - HISTORIO
+http://live.kodisolutions.tv:8080/fredf/fredf/26079
+#EXTINF:-1,CA - HISTORY
+http://live.kodisolutions.tv:8080/fredf/fredf/26078
+#EXTINF:-1,CA - HLN
+http://live.kodisolutions.tv:8080/fredf/fredf/26077
+#EXTINF:-1,CA - HOPE TV
+http://live.kodisolutions.tv:8080/fredf/fredf/25966
+#EXTINF:-1,CA - HPI TV (HORSE RACING)
+http://live.kodisolutions.tv:8080/fredf/fredf/26076
+#EXTINF:-1,CA - ICI MONTREAL
+http://live.kodisolutions.tv:8080/fredf/fredf/26075
+#EXTINF:-1,CA - ICI VANCOUVER
+http://live.kodisolutions.tv:8080/fredf/fredf/26074
+#EXTINF:-1,CA - ID CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26073
+#EXTINF:-1,CA - IFC
+http://live.kodisolutions.tv:8080/fredf/fredf/26072
+#EXTINF:-1,CA - JOY TV
+http://live.kodisolutions.tv:8080/fredf/fredf/25965
+#EXTINF:-1,CA - KNOWLEDGE KIDS
+http://live.kodisolutions.tv:8080/fredf/fredf/26071
+#EXTINF:-1,CA - KTLA
+http://live.kodisolutions.tv:8080/fredf/fredf/26070
+#EXTINF:-1,CA - LCN
+http://live.kodisolutions.tv:8080/fredf/fredf/26069
+#EXTINF:-1,CA - LEAFS TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26068
+#EXTINF:-1,CA - LIFETIME
+http://live.kodisolutions.tv:8080/fredf/fredf/26067
+#EXTINF:-1,CA - MAKEFUL
+http://live.kodisolutions.tv:8080/fredf/fredf/25970
+#EXTINF:-1,CA - MAVTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26066
+#EXTINF:-1,CA - MAX
+http://live.kodisolutions.tv:8080/fredf/fredf/26065
+#EXTINF:-1,CA - METEO
+http://live.kodisolutions.tv:8080/fredf/fredf/26064
+#EXTINF:-1,CA - MIRACLE
+http://live.kodisolutions.tv:8080/fredf/fredf/26063
+#EXTINF:-1,CA - MLB NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/25969
+#EXTINF:-1,CA - MOI CIE
+http://live.kodisolutions.tv:8080/fredf/fredf/26062
+#EXTINF:-1,CA - MTIME
+http://live.kodisolutions.tv:8080/fredf/fredf/26061
+#EXTINF:-1,CA - MTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26060
+#EXTINF:-1,CA - MTV 2
+http://live.kodisolutions.tv:8080/fredf/fredf/26059
+#EXTINF:-1,CA - MUCH MUSIC
+http://live.kodisolutions.tv:8080/fredf/fredf/26058
+#EXTINF:-1,CA - MUSIQUE PLUS
+http://live.kodisolutions.tv:8080/fredf/fredf/26057
+#EXTINF:-1,CA - NAT GEO
+http://live.kodisolutions.tv:8080/fredf/fredf/26056
+#EXTINF:-1,CA - NBA TV
+http://live.kodisolutions.tv:8080/fredf/fredf/25974
+#EXTINF:-1,CA - NBC EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/25973
+#EXTINF:-1,CA - NBC WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/25972
+#EXTINF:-1,CA - NICKTOON
+http://live.kodisolutions.tv:8080/fredf/fredf/26020
+#EXTINF:-1,CA - NTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26019
+#EXTINF:-1,CA - OLN
+http://live.kodisolutions.tv:8080/fredf/fredf/26018
+#EXTINF:-1,CA - OMNI 1
+http://live.kodisolutions.tv:8080/fredf/fredf/26017
+#EXTINF:-1,CA - OMNI 2
+http://live.kodisolutions.tv:8080/fredf/fredf/26016
+#EXTINF:-1,CA - OMNI BC
+http://live.kodisolutions.tv:8080/fredf/fredf/26015
+#EXTINF:-1,CA - OMNI EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26014
+#EXTINF:-1,CA - ONE
+http://live.kodisolutions.tv:8080/fredf/fredf/26013
+#EXTINF:-1,CA - OUTTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26012
+#EXTINF:-1,CA - OWN
+http://live.kodisolutions.tv:8080/fredf/fredf/26011
+#EXTINF:-1,CA - PBS EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26010
+#EXTINF:-1,CA - PBS WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/26009
+#EXTINF:-1,CA - PEACH TREE
+http://live.kodisolutions.tv:8080/fredf/fredf/26008
+#EXTINF:-1,CA - PRISE
+http://live.kodisolutions.tv:8080/fredf/fredf/26007
+#EXTINF:-1,CA - RDI
+http://live.kodisolutions.tv:8080/fredf/fredf/26006
+#EXTINF:-1,CA - RDS
+http://live.kodisolutions.tv:8080/fredf/fredf/26005
+#EXTINF:-1,CA - RDS 2
+http://live.kodisolutions.tv:8080/fredf/fredf/26004
+#EXTINF:-1,CA - RDS INFO
+http://live.kodisolutions.tv:8080/fredf/fredf/26003
+#EXTINF:-1,CA - SERIS
+http://live.kodisolutions.tv:8080/fredf/fredf/26002
+#EXTINF:-1,CA - SHOPPING
+http://live.kodisolutions.tv:8080/fredf/fredf/26001
+#EXTINF:-1,CA - SHOWCASE EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/26000
+#EXTINF:-1,CA - SILVER SCREEN CLASSICS
+http://live.kodisolutions.tv:8080/fredf/fredf/25999
+#EXTINF:-1,CA - SLICE
+http://live.kodisolutions.tv:8080/fredf/fredf/25998
+#EXTINF:-1,CA - SMITHSONIAN
+http://live.kodisolutions.tv:8080/fredf/fredf/25997
+#EXTINF:-1,CA - SPACE
+http://live.kodisolutions.tv:8080/fredf/fredf/25996
+#EXTINF:-1,CA - SPIKE TV / PARAMOUNT CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/25995
+#EXTINF:-1,CA - SPIKE TV USA
+http://live.kodisolutions.tv:8080/fredf/fredf/25994
+#EXTINF:-1,CA - SPORTSNET 360
+http://live.kodisolutions.tv:8080/fredf/fredf/25993
+#EXTINF:-1,CA - SPORTSNET EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/25992
+#EXTINF:-1,CA - SPORTSNET ONE
+http://live.kodisolutions.tv:8080/fredf/fredf/25991
+#EXTINF:-1,CA - SPORTSNET ONTARIO
+http://live.kodisolutions.tv:8080/fredf/fredf/25990
+#EXTINF:-1,CA - SPORTSNET PACIFIC
+http://live.kodisolutions.tv:8080/fredf/fredf/25989
+#EXTINF:-1,CA - SPORTSNET WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/25988
+#EXTINF:-1,CA - SPORTSNET WORLD
+http://live.kodisolutions.tv:8080/fredf/fredf/25987
+#EXTINF:-1,CA - SUPER CHANNEL FUSE
+http://live.kodisolutions.tv:8080/fredf/fredf/25959
+#EXTINF:-1,CA - SUPER CHANNEL HEART & HOME
+http://live.kodisolutions.tv:8080/fredf/fredf/25958
+#EXTINF:-1,CA - SUPER CHANNEL VAULT
+http://live.kodisolutions.tv:8080/fredf/fredf/25986
+#EXTINF:-1,CA - SUPER ECRAN 1
+http://live.kodisolutions.tv:8080/fredf/fredf/25985
+#EXTINF:-1,CA - SUPER ECRAN 2
+http://live.kodisolutions.tv:8080/fredf/fredf/25984
+#EXTINF:-1,CA - SUPER ECRAN 3
+http://live.kodisolutions.tv:8080/fredf/fredf/25983
+#EXTINF:-1,CA - SUPER ECRAN 4
+http://live.kodisolutions.tv:8080/fredf/fredf/25982
+#EXTINF:-1,CA - TCM
+http://live.kodisolutions.tv:8080/fredf/fredf/25981
+#EXTINF:-1,CA - TELE LATINO
+http://live.kodisolutions.tv:8080/fredf/fredf/25980
+#EXTINF:-1,CA - TELE QUEBEC
+http://live.kodisolutions.tv:8080/fredf/fredf/25979
+#EXTINF:-1,CA - TELE TOON EAST
+http://live.kodisolutions.tv:8080/fredf/fredf/25978
+#EXTINF:-1,CA - TELE TOON FRENCH
+http://live.kodisolutions.tv:8080/fredf/fredf/25977
+#EXTINF:-1,CA - TELE TOON WEST
+http://live.kodisolutions.tv:8080/fredf/fredf/25976
+#EXTINF:-1,CA - TELEMAGINO
+http://live.kodisolutions.tv:8080/fredf/fredf/25975
+#EXTINF:-1,CA - TFO
+http://live.kodisolutions.tv:8080/fredf/fredf/26040
+#EXTINF:-1,CA - THE WEATHER NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/26039
+#EXTINF:-1,CA - TLC CANADA
+http://live.kodisolutions.tv:8080/fredf/fredf/26038
+#EXTINF:-1,CA - TMN 1
+http://live.kodisolutions.tv:8080/fredf/fredf/26037
+#EXTINF:-1,CA - TMN 2
+http://live.kodisolutions.tv:8080/fredf/fredf/26036
+#EXTINF:-1,CA - TMN 3
+http://live.kodisolutions.tv:8080/fredf/fredf/26035
+#EXTINF:-1,CA - TMN 4
+http://live.kodisolutions.tv:8080/fredf/fredf/26034
+#EXTINF:-1,CA - TRAVEL ESCAPE
+http://live.kodisolutions.tv:8080/fredf/fredf/26033
+#EXTINF:-1,CA - TREEHOUSE
+http://live.kodisolutions.tv:8080/fredf/fredf/26032
+#EXTINF:-1,CA - TSN 1
+http://live.kodisolutions.tv:8080/fredf/fredf/26031
+#EXTINF:-1,CA - TSN 2
+http://live.kodisolutions.tv:8080/fredf/fredf/26030
+#EXTINF:-1,CA - TSN 3
+http://live.kodisolutions.tv:8080/fredf/fredf/26029
+#EXTINF:-1,CA - TSN 4
+http://live.kodisolutions.tv:8080/fredf/fredf/26028
+#EXTINF:-1,CA - TSN 5
+http://live.kodisolutions.tv:8080/fredf/fredf/26027
+#EXTINF:-1,CA - TV5 QUEBEC
+http://live.kodisolutions.tv:8080/fredf/fredf/26026
+#EXTINF:-1,CA - TVA GATINEAU
+http://live.kodisolutions.tv:8080/fredf/fredf/26025
+#EXTINF:-1,CA - TVA MONTREAL
+http://live.kodisolutions.tv:8080/fredf/fredf/26024
+#EXTINF:-1,CA - TVA QUEBEC
+http://live.kodisolutions.tv:8080/fredf/fredf/26023
+#EXTINF:-1,CA - TVA SPORTS
+http://live.kodisolutions.tv:8080/fredf/fredf/26022
+#EXTINF:-1,CA - TVO
+http://live.kodisolutions.tv:8080/fredf/fredf/26021
+#EXTINF:-1,CA - UNIS TV
+http://live.kodisolutions.tv:8080/fredf/fredf/25960
+#EXTINF:-1,CA - V QUEBEC
+http://live.kodisolutions.tv:8080/fredf/fredf/25964
+#EXTINF:-1,CA - VIE
+http://live.kodisolutions.tv:8080/fredf/fredf/26054
+#EXTINF:-1,CA - VISION
+http://live.kodisolutions.tv:8080/fredf/fredf/26053
+#EXTINF:-1,CA - VRAK TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26052
+#EXTINF:-1,CA - W NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/26051
+#EXTINF:-1,CA - WFN
+http://live.kodisolutions.tv:8080/fredf/fredf/26050
+#EXTINF:-1,CA - WGN
+http://live.kodisolutions.tv:8080/fredf/fredf/26049
+#EXTINF:-1,CA - WSBK
+http://live.kodisolutions.tv:8080/fredf/fredf/26047
+#EXTINF:-1,CA - Wild TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26048
+#EXTINF:-1,CA - YES TV
+http://live.kodisolutions.tv:8080/fredf/fredf/26046
+#EXTINF:-1,CA - YOOPA
+http://live.kodisolutions.tv:8080/fredf/fredf/26045
+#EXTINF:-1,CA - YTV
+http://live.kodisolutions.tv:8080/fredf/fredf/26044
+#EXTINF:-1,CA - YTV West
+http://live.kodisolutions.tv:8080/fredf/fredf/26043
