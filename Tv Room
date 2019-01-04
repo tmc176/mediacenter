@@ -288,5 +288,13 @@
 <item>
 <title>WGN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26049</link>
-
+<item>
+<title>SHOWCASE EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26000</link>
+<item>
+<title>HBO 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26082</link>
+<item>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26081</link>
 
