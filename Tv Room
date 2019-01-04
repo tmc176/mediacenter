@@ -136,6 +136,12 @@
 <title>TV LAND HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23241</link>
 <item>
+<title>WE TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23233</link>
+<item>
+<title>YES TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26046</link>
+<item>
 <title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26080</link>
 <item>
@@ -156,9 +162,6 @@
 <item>
 <title>OLN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26018</link>
-<item>
-<title>YES TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26046</link>
 <item>
 <title>A & E</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26173</link>
@@ -244,17 +247,29 @@
 <title>YTV West</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26043</link>
 <item>
-<title>TELE TOON EAST</title>
+<title>TELETOON EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25978</link>
 <item>
-<title>TELE TOON WEST</title>
+<title>TELETOON WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25976</link>
 <item>
 <title>BBC KIDS</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26160</link>
 <item>
-<title>NICKTOON</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26020</link>
+<title>NICK HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23277</link>
+<item>
+<title>NICK JR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23276</link>
+<item>
+<title>NICK JR.TOO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23275</link>
+<item>
+<title>NICKTOONS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23274</link>
+<item>
+<title>Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15963</link>
 <item>
 <title>CARTOON NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26156</link>
@@ -381,116 +396,27 @@
 <item>
 <title>National Geographic</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15953</link>
-
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>TBS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22468</link>
+<item>
+<title>TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15969</link>
+<item>
+<title>TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22462</link>
+<item>
+<title>USA Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15905</link>
+<item>
+<title>WPIX 11 NY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23219</link>
 
 
 
 
 
 
-
-
-#EXTINF:-1,US | NICK HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23277
-#EXTINF:-1,US | NICK JR
-http://live.kodisolutions.tv:8080/fredf/fredf/23276
-#EXTINF:-1,US | NICK JR.TOO
-http://live.kodisolutions.tv:8080/fredf/fredf/23275
-#EXTINF:-1,US | NICKTOONS
-http://live.kodisolutions.tv:8080/fredf/fredf/23274
-
-
-#EXTINF:-1,US | National Geographic
-http://live.kodisolutions.tv:8080/fredf/fredf/15953
-#EXTINF:-1,US | Nickelodeon
-http://live.kodisolutions.tv:8080/fredf/fredf/15963
-#EXTINF:-1,US | Nickelodeon USA
-http://live.kodisolutions.tv:8080/fredf/fredf/22486
-
-
-
-#EXTINF:-1,US | SHOWTIME EXTREME
-http://live.kodisolutions.tv:8080/fredf/fredf/23257
-#EXTINF:-1,US | SHOWTIME FAMILY ZONE
-http://live.kodisolutions.tv:8080/fredf/fredf/23256
-#EXTINF:-1,US | SHOWTIME HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23255
-#EXTINF:-1,US | STARZ COMEDY
-http://live.kodisolutions.tv:8080/fredf/fredf/23252
-#EXTINF:-1,US | STARZ KIDS & FAMILY
-http://live.kodisolutions.tv:8080/fredf/fredf/23251
-#EXTINF:-1,US | SUNDANCE
-http://live.kodisolutions.tv:8080/fredf/fredf/23250
-
-#EXTINF:-1,US | Starz Cinema HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15907
-#EXTINF:-1,US | Starz Encore Western
-http://live.kodisolutions.tv:8080/fredf/fredf/25068
-#EXTINF:-1,US | Starz HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15906
-#EXTINF:-1,US | SyFy USA
-http://live.kodisolutions.tv:8080/fredf/fredf/22469
-#EXTINF:-1,US | Syfy
-http://live.kodisolutions.tv:8080/fredf/fredf/15964
-#EXTINF:-1,US | TBN Trinity Broadcasting Network
-http://live.kodisolutions.tv:8080/fredf/fredf/23218
-#EXTINF:-1,US | TBS
-http://live.kodisolutions.tv:8080/fredf/fredf/22468
-#EXTINF:-1,US | TBS HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15954
-#EXTINF:-1,US | TCM
-http://live.kodisolutions.tv:8080/fredf/fredf/23249
-#EXTINF:-1,US | TLC HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15969
-#EXTINF:-1,US | TLC USA
-http://live.kodisolutions.tv:8080/fredf/fredf/22463
-#EXTINF:-1,US | TNT
-http://live.kodisolutions.tv:8080/fredf/fredf/22462
-#EXTINF:-1,US | TNT HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15955
-#EXTINF:-1,US | TSN 1 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15929
-#EXTINF:-1,US | TSN 2 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15928
-#EXTINF:-1,US | TSN 3 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15927
-#EXTINF:-1,US | TSN 4 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15926
-#EXTINF:-1,US | TSN 5 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15925
-#EXTINF:-1,US | TV LAND HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23241
-#EXTINF:-1,US | TVONE
-http://live.kodisolutions.tv:8080/fredf/fredf/23240
-#EXTINF:-1,US | The CW Network
-http://live.kodisolutions.tv:8080/fredf/fredf/22466
-#EXTINF:-1,US | Travel Channel
-http://live.kodisolutions.tv:8080/fredf/fredf/24856
-#EXTINF:-1,US | USA Network
-http://live.kodisolutions.tv:8080/fredf/fredf/15905
-#EXTINF:-1,US | Velocity HD
-http://live.kodisolutions.tv:8080/fredf/fredf/16059
-#EXTINF:-1,US | Viceland
-http://live.kodisolutions.tv:8080/fredf/fredf/15971
-#EXTINF:-1,US | Viceland USA
-http://live.kodisolutions.tv:8080/fredf/fredf/22456
-#EXTINF:-1,US | WE TV
-http://live.kodisolutions.tv:8080/fredf/fredf/23233
-#EXTINF:-1,US | WGN AMERICA
-http://live.kodisolutions.tv:8080/fredf/fredf/23232
-#EXTINF:-1,US | WORLD FISHING NETWORK
-http://live.kodisolutions.tv:8080/fredf/fredf/23203
-#EXTINF:-1,US | WPIX 11 NY
-http://live.kodisolutions.tv:8080/fredf/fredf/23219
-#EXTINF:-1,US | WWE Network
-http://live.kodisolutions.tv:8080/fredf/fredf/22455
-#EXTINF:-1,US | WWE Network HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15939
-#EXTINF:-1,US | YES NETWORK
-http://live.kodisolutions.tv:8080/fredf/fredf/23230
 EXTINF:-1,UK - 3E
 http://live.kodisolutions.tv:8080/fredf/fredf/1319
 #EXTINF:-1,UK - 4Music
