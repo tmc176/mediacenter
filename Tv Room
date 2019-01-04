@@ -46,12 +46,6 @@
 <title>CTV 2 VANCOUVER</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26125</link>
 <item>
-<title>CITY MONTREAL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25971</link>
-<item>
-<title>CITY SASKATCHEWAN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25963</link>
-<item>
 <title>CBC MONTREAL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26148</link>
 <item>
