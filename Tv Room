@@ -73,6 +73,12 @@
 <title>FOX WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26094</link>
 <item>
+<title>FOX 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23322</link>
+<item>
+<title>FOX 50</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23321</link>
+<item>
 <title>ABC EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26172</link>
 <item>
@@ -124,14 +130,29 @@
 <title>PEACH TREE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26008</link>
 <item>
-<title>HGTV</title>
+<title>SILVER SCREEN CLASSICS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25999</link>
+<item>
+<title>TV LAND HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23241</link>
+<item>
+<title>HGTV CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26080</link>
+<item>
+<title>HGTV US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15972</link>
 <item>
 <title>DIY</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26109</link>
 <item>
+<title>DIY Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22542</link>
+<item>
 <title>COTTAGE LIFE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26130</link>
+<item>
+<title>FYI NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15917</link>
 <item>
 <title>OLN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26018</link>
@@ -148,9 +169,6 @@
 <title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26166</link>
 <item>
-<title>ANIMAL PLANET</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26165</link>
-<item>
 <title>APTN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26164</link>
 <item>
@@ -159,6 +177,9 @@
 <item>
 <title>CMT CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26139</link>
+<item>
+<title>COUNTRY NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23338</link>
 <item>
 <title>COMEDY EAST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26135</link>
@@ -169,6 +190,9 @@
 <title>COMEDY GOLD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26134</link>
 <item>
+<title>Comedy Central</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15933</link>
+<item>
 <title>COOKING CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26132</link>
 <item>
@@ -178,8 +202,23 @@
 <title>CRIME   INVEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26126</link>
 <item>
+<title>DISCOVERY FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23334</link>
+<item>
+<title>DISCOVERY LIFE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23333</link>
+<item>
 <title>DISCOVERY CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26116</link>
+<item>
+<title>Discovery Channel USA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22549</link>
+<item>
+<title>Discovery Velocity</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22546</link>
+<item>
+<title>Discovery Science HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15961</link>
 <item>
 <title>DISCOVERY SCIENCE CANADA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26115</link>
@@ -187,7 +226,13 @@
 <title>DOCUMENTARY</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26108</link>
 <item>
-<title>HISTORY</title>
+<title>Investigation Discovery</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22513</link>
+<item>
+<title>History US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15912</link>
+<item>
+<title>HISTORY CA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26078</link>
 <item>
 <title>TREEHOUSE</title>
@@ -220,6 +265,12 @@
 <title>DISNEY USA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26110</link>
 <item>
+<title>DISNEY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23332</link>
+<item>
+<title>DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23330</link>
+<item>
 <title>DISNEY JR</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26111</link>
 <item>
@@ -246,9 +297,6 @@
 <item>
 <title>LIFETIME</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26067</link>
-<item>
-<title>NAT GEO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26056</link>
 <item>
 <title>NTV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26019</link>
@@ -297,4 +345,513 @@
 <item>
 <title>HBO 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26081</link>
+<item>
+<title>LIFETIME</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23293</link>
+<item>
+<title>Hallmark</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22519</link>
+<item>
+<title>FX East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22522</link>
+<item>
+<title>FXX East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15918</link>
+<item>
+<title>FXX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22521</link>
+<item>
+<title>ANIMAL PLANET CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26165</link>
+<item>
+<title>Animal Planet US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15957</link>
+<item>
+<title>NAT GEO CA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26056</link>
+<item>
+<title>NAT GEO USA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23285</link>
+<item>
+<title>Nat Geo Wild USA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22502</link>
+<item>
+<title>SyFy USA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22469</link>
+<item>
+<title>National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15953</link>
 
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
+
+
+
+
+
+
+
+#EXTINF:-1,US | NICK HD
+http://live.kodisolutions.tv:8080/fredf/fredf/23277
+#EXTINF:-1,US | NICK JR
+http://live.kodisolutions.tv:8080/fredf/fredf/23276
+#EXTINF:-1,US | NICK JR.TOO
+http://live.kodisolutions.tv:8080/fredf/fredf/23275
+#EXTINF:-1,US | NICKTOONS
+http://live.kodisolutions.tv:8080/fredf/fredf/23274
+
+
+#EXTINF:-1,US | National Geographic
+http://live.kodisolutions.tv:8080/fredf/fredf/15953
+#EXTINF:-1,US | Nickelodeon
+http://live.kodisolutions.tv:8080/fredf/fredf/15963
+#EXTINF:-1,US | Nickelodeon USA
+http://live.kodisolutions.tv:8080/fredf/fredf/22486
+
+
+
+#EXTINF:-1,US | SHOWTIME EXTREME
+http://live.kodisolutions.tv:8080/fredf/fredf/23257
+#EXTINF:-1,US | SHOWTIME FAMILY ZONE
+http://live.kodisolutions.tv:8080/fredf/fredf/23256
+#EXTINF:-1,US | SHOWTIME HD
+http://live.kodisolutions.tv:8080/fredf/fredf/23255
+#EXTINF:-1,US | STARZ COMEDY
+http://live.kodisolutions.tv:8080/fredf/fredf/23252
+#EXTINF:-1,US | STARZ KIDS & FAMILY
+http://live.kodisolutions.tv:8080/fredf/fredf/23251
+#EXTINF:-1,US | SUNDANCE
+http://live.kodisolutions.tv:8080/fredf/fredf/23250
+
+#EXTINF:-1,US | Starz Cinema HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15907
+#EXTINF:-1,US | Starz Encore Western
+http://live.kodisolutions.tv:8080/fredf/fredf/25068
+#EXTINF:-1,US | Starz HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15906
+#EXTINF:-1,US | SyFy USA
+http://live.kodisolutions.tv:8080/fredf/fredf/22469
+#EXTINF:-1,US | Syfy
+http://live.kodisolutions.tv:8080/fredf/fredf/15964
+#EXTINF:-1,US | TBN Trinity Broadcasting Network
+http://live.kodisolutions.tv:8080/fredf/fredf/23218
+#EXTINF:-1,US | TBS
+http://live.kodisolutions.tv:8080/fredf/fredf/22468
+#EXTINF:-1,US | TBS HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15954
+#EXTINF:-1,US | TCM
+http://live.kodisolutions.tv:8080/fredf/fredf/23249
+#EXTINF:-1,US | TLC HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15969
+#EXTINF:-1,US | TLC USA
+http://live.kodisolutions.tv:8080/fredf/fredf/22463
+#EXTINF:-1,US | TNT
+http://live.kodisolutions.tv:8080/fredf/fredf/22462
+#EXTINF:-1,US | TNT HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15955
+#EXTINF:-1,US | TSN 1 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15929
+#EXTINF:-1,US | TSN 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15928
+#EXTINF:-1,US | TSN 3 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15927
+#EXTINF:-1,US | TSN 4 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15926
+#EXTINF:-1,US | TSN 5 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15925
+#EXTINF:-1,US | TV LAND HD
+http://live.kodisolutions.tv:8080/fredf/fredf/23241
+#EXTINF:-1,US | TVONE
+http://live.kodisolutions.tv:8080/fredf/fredf/23240
+#EXTINF:-1,US | The CW Network
+http://live.kodisolutions.tv:8080/fredf/fredf/22466
+#EXTINF:-1,US | Travel Channel
+http://live.kodisolutions.tv:8080/fredf/fredf/24856
+#EXTINF:-1,US | USA Network
+http://live.kodisolutions.tv:8080/fredf/fredf/15905
+#EXTINF:-1,US | Velocity HD
+http://live.kodisolutions.tv:8080/fredf/fredf/16059
+#EXTINF:-1,US | Viceland
+http://live.kodisolutions.tv:8080/fredf/fredf/15971
+#EXTINF:-1,US | Viceland USA
+http://live.kodisolutions.tv:8080/fredf/fredf/22456
+#EXTINF:-1,US | WE TV
+http://live.kodisolutions.tv:8080/fredf/fredf/23233
+#EXTINF:-1,US | WGN AMERICA
+http://live.kodisolutions.tv:8080/fredf/fredf/23232
+#EXTINF:-1,US | WORLD FISHING NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/23203
+#EXTINF:-1,US | WPIX 11 NY
+http://live.kodisolutions.tv:8080/fredf/fredf/23219
+#EXTINF:-1,US | WWE Network
+http://live.kodisolutions.tv:8080/fredf/fredf/22455
+#EXTINF:-1,US | WWE Network HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15939
+#EXTINF:-1,US | YES NETWORK
+http://live.kodisolutions.tv:8080/fredf/fredf/23230
+EXTINF:-1,UK - 3E
+http://live.kodisolutions.tv:8080/fredf/fredf/1319
+#EXTINF:-1,UK - 4Music
+http://live.kodisolutions.tv:8080/fredf/fredf/1318
+#EXTINF:-1,UK - 4seven
+http://live.kodisolutions.tv:8080/fredf/fredf/1317
+#EXTINF:-1,UK - 5 Star
+http://live.kodisolutions.tv:8080/fredf/fredf/1346
+#EXTINF:-1,UK - Alibi
+http://live.kodisolutions.tv:8080/fredf/fredf/15646
+#EXTINF:-1,UK - Animal Planet HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1316
+#EXTINF:-1,UK - At The Races SD
+http://live.kodisolutions.tv:8080/fredf/fredf/1388
+#EXTINF:-1,UK - BBC 4 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1314
+#EXTINF:-1,UK - BBC News
+http://live.kodisolutions.tv:8080/fredf/fredf/5449
+#EXTINF:-1,UK - BBC One HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1313
+#EXTINF:-1,UK - BBC Two HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1312
+#EXTINF:-1,UK - BBC3
+http://live.kodisolutions.tv:8080/fredf/fredf/1171
+#EXTINF:-1,UK - BET
+http://live.kodisolutions.tv:8080/fredf/fredf/1311
+#EXTINF:-1,UK - BT Sport 1 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1408
+#EXTINF:-1,UK - BT Sport 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1306
+#EXTINF:-1,UK - BT Sport 3 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1305
+#EXTINF:-1,UK - BT Sport ESPN HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1407
+#EXTINF:-1,UK - BT Sport X1
+http://live.kodisolutions.tv:8080/fredf/fredf/1384
+#EXTINF:-1,UK - BT Sport X2
+http://live.kodisolutions.tv:8080/fredf/fredf/1383
+#EXTINF:-1,UK - BT Sport X3
+http://live.kodisolutions.tv:8080/fredf/fredf/1382
+#EXTINF:-1,UK - BT Sport X4
+http://live.kodisolutions.tv:8080/fredf/fredf/5444
+#EXTINF:-1,UK - BT Sport X5
+http://live.kodisolutions.tv:8080/fredf/fredf/5443
+#EXTINF:-1,UK - BT Sport X6
+http://live.kodisolutions.tv:8080/fredf/fredf/1379
+#EXTINF:-1,UK - Baby TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1315
+#EXTINF:-1,UK - Bloomberg
+http://live.kodisolutions.tv:8080/fredf/fredf/1170
+#EXTINF:-1,UK - Boomerang
+http://live.kodisolutions.tv:8080/fredf/fredf/1308
+#EXTINF:-1,UK - Box Nation HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1385
+#EXTINF:-1,UK - CBBC HD
+http://live.kodisolutions.tv:8080/fredf/fredf/5363
+#EXTINF:-1,UK - CBS Action
+http://live.kodisolutions.tv:8080/fredf/fredf/1298
+#EXTINF:-1,UK - CBS Drama
+http://live.kodisolutions.tv:8080/fredf/fredf/1297
+#EXTINF:-1,UK - CBS Reality
+http://live.kodisolutions.tv:8080/fredf/fredf/1296
+#EXTINF:-1,UK - CITV
+http://live.kodisolutions.tv:8080/fredf/fredf/1286
+#EXTINF:-1,UK - CNBC News
+http://live.kodisolutions.tv:8080/fredf/fredf/1285
+#EXTINF:-1,UK - CNN International
+http://live.kodisolutions.tv:8080/fredf/fredf/1284
+#EXTINF:-1,UK - Cartoon Network
+http://live.kodisolutions.tv:8080/fredf/fredf/5366
+#EXTINF:-1,UK - Cbeebies HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1406
+#EXTINF:-1,UK - Celtic TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1375
+#EXTINF:-1,UK - Challenge TV
+http://live.kodisolutions.tv:8080/fredf/fredf/12737
+#EXTINF:-1,UK - Channel 4 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1293
+#EXTINF:-1,UK - Channel 5 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1291
+#EXTINF:-1,UK - Chelsea TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1288
+#EXTINF:-1,UK - Cinemax
+http://live.kodisolutions.tv:8080/fredf/fredf/1373
+#EXTINF:-1,UK - Comedy Central
+http://live.kodisolutions.tv:8080/fredf/fredf/1283
+#EXTINF:-1,UK - Comedy Xtra
+http://live.kodisolutions.tv:8080/fredf/fredf/1282
+#EXTINF:-1,UK - Community
+http://live.kodisolutions.tv:8080/fredf/fredf/1281
+#EXTINF:-1,UK - Crime Investigation
+http://live.kodisolutions.tv:8080/fredf/fredf/1280
+#EXTINF:-1,UK - DMAX
+http://live.kodisolutions.tv:8080/fredf/fredf/1269
+#EXTINF:-1,UK - Dave
+http://live.kodisolutions.tv:8080/fredf/fredf/1279
+#EXTINF:-1,UK - Discovery
+http://live.kodisolutions.tv:8080/fredf/fredf/1274
+#EXTINF:-1,UK - Discovery History
+http://live.kodisolutions.tv:8080/fredf/fredf/1277
+#EXTINF:-1,UK - Discovery Science
+http://live.kodisolutions.tv:8080/fredf/fredf/1276
+#EXTINF:-1,UK - Discovery Science US
+http://live.kodisolutions.tv:8080/fredf/fredf/1368
+#EXTINF:-1,UK - Discovery Shed
+http://live.kodisolutions.tv:8080/fredf/fredf/1273
+#EXTINF:-1,UK - Discovery Turbo
+http://live.kodisolutions.tv:8080/fredf/fredf/1275
+#EXTINF:-1,UK - Disney Channel
+http://live.kodisolutions.tv:8080/fredf/fredf/1272
+#EXTINF:-1,UK - Disney Junior
+http://live.kodisolutions.tv:8080/fredf/fredf/1271
+#EXTINF:-1,UK - Disney XD
+http://live.kodisolutions.tv:8080/fredf/fredf/1270
+#EXTINF:-1,UK - Drama
+http://live.kodisolutions.tv:8080/fredf/fredf/1268
+#EXTINF:-1,UK - E!
+http://live.kodisolutions.tv:8080/fredf/fredf/1267
+#EXTINF:-1,UK - E4
+http://live.kodisolutions.tv:8080/fredf/fredf/1266
+#EXTINF:-1,UK - EUROSPORT 1 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/3157
+#EXTINF:-1,UK - EUROSPORT 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/3156
+#EXTINF:-1,UK - FOX HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1259
+#EXTINF:-1,UK - FOX News
+http://live.kodisolutions.tv:8080/fredf/fredf/1258
+#EXTINF:-1,UK - Film 4
+http://live.kodisolutions.tv:8080/fredf/fredf/1263
+#EXTINF:-1,UK - Food Network
+http://live.kodisolutions.tv:8080/fredf/fredf/1261
+#EXTINF:-1,UK - GOLD
+http://live.kodisolutions.tv:8080/fredf/fredf/1255
+#EXTINF:-1,UK - H2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1364
+#EXTINF:-1,UK - History
+http://live.kodisolutions.tv:8080/fredf/fredf/1253
+#EXTINF:-1,UK - Home & Health
+http://live.kodisolutions.tv:8080/fredf/fredf/1252
+#EXTINF:-1,UK - Horror Channel
+http://live.kodisolutions.tv:8080/fredf/fredf/1357
+#EXTINF:-1,UK - Horse & Country
+http://live.kodisolutions.tv:8080/fredf/fredf/1251
+#EXTINF:-1,UK - Hum Europe
+http://live.kodisolutions.tv:8080/fredf/fredf/1167
+#EXTINF:-1,UK - ID
+http://live.kodisolutions.tv:8080/fredf/fredf/1250
+#EXTINF:-1,UK - ID US
+http://live.kodisolutions.tv:8080/fredf/fredf/1361
+#EXTINF:-1,UK - ITV HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1246
+#EXTINF:-1,UK - ITV 2
+http://live.kodisolutions.tv:8080/fredf/fredf/1248
+#EXTINF:-1,UK - ITV 3 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1405
+#EXTINF:-1,UK - ITV4
+http://live.kodisolutions.tv:8080/fredf/fredf/1244
+#EXTINF:-1,UK - ITV Box Office
+http://live.kodisolutions.tv:8080/fredf/fredf/10434
+#EXTINF:-1,UK - ITV Encore
+http://live.kodisolutions.tv:8080/fredf/fredf/1247
+#EXTINF:-1,UK - ITVBe
+http://live.kodisolutions.tv:8080/fredf/fredf/1243
+#EXTINF:-1,UK - Irish Tv
+http://live.kodisolutions.tv:8080/fredf/fredf/1356
+#EXTINF:-1,UK - LFC TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1241
+#EXTINF:-1,UK - London Live
+http://live.kodisolutions.tv:8080/fredf/fredf/1240
+#EXTINF:-1,UK - MTV
+http://live.kodisolutions.tv:8080/fredf/fredf/1237
+#EXTINF:-1,UK - MTV BASE
+http://live.kodisolutions.tv:8080/fredf/fredf/1236
+#EXTINF:-1,UK - MTV CLASSIC
+http://live.kodisolutions.tv:8080/fredf/fredf/1235
+#EXTINF:-1,UK - MTV DANCE
+http://live.kodisolutions.tv:8080/fredf/fredf/1234
+#EXTINF:-1,UK - MTV HITS
+http://live.kodisolutions.tv:8080/fredf/fredf/1348
+#EXTINF:-1,UK - MTV MUSIC
+http://live.kodisolutions.tv:8080/fredf/fredf/1233
+#EXTINF:-1,UK - MTV ROCKS
+http://live.kodisolutions.tv:8080/fredf/fredf/1232
+#EXTINF:-1,UK - MUTV
+http://live.kodisolutions.tv:8080/fredf/fredf/1231
+#EXTINF:-1,UK - MUTV HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1230
+#EXTINF:-1,UK - More4 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1239
+#EXTINF:-1,UK - Motorsport TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1352
+#EXTINF:-1,UK - Movies 24
+http://live.kodisolutions.tv:8080/fredf/fredf/1287
+#EXTINF:-1,UK - Movies4men
+http://live.kodisolutions.tv:8080/fredf/fredf/1238
+#EXTINF:-1,UK - Nat Geo
+http://live.kodisolutions.tv:8080/fredf/fredf/1229
+#EXTINF:-1,UK - Nat Geo Wild
+http://live.kodisolutions.tv:8080/fredf/fredf/1228
+#EXTINF:-1,UK - Nick Jnr Too
+http://live.kodisolutions.tv:8080/fredf/fredf/1355
+#EXTINF:-1,UK - Nick Jr
+http://live.kodisolutions.tv:8080/fredf/fredf/1227
+#EXTINF:-1,UK - Nickelodeon
+http://live.kodisolutions.tv:8080/fredf/fredf/1226
+#EXTINF:-1,UK - Nicktoons
+http://live.kodisolutions.tv:8080/fredf/fredf/1225
+#EXTINF:-1,UK - PBS America
+http://live.kodisolutions.tv:8080/fredf/fredf/1224
+#EXTINF:-1,UK - Pick TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1344
+#EXTINF:-1,UK - Premier Sports
+http://live.kodisolutions.tv:8080/fredf/fredf/1221
+#EXTINF:-1,UK - QUEST
+http://live.kodisolutions.tv:8080/fredf/fredf/1220
+#EXTINF:-1,UK - RTE News Now
+http://live.kodisolutions.tv:8080/fredf/fredf/1215
+#EXTINF:-1,UK - RTE 1 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1339
+#EXTINF:-1,UK - RTE 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1389
+#EXTINF:-1,UK - RTE jr
+http://live.kodisolutions.tv:8080/fredf/fredf/1216
+#EXTINF:-1,UK - Racing UK HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1343
+#EXTINF:-1,UK - Rangers TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1342
+#EXTINF:-1,UK - Real Lives
+http://live.kodisolutions.tv:8080/fredf/fredf/1218
+#EXTINF:-1,UK - Really
+http://live.kodisolutions.tv:8080/fredf/fredf/1340
+#EXTINF:-1,UK - Rishtey
+http://live.kodisolutions.tv:8080/fredf/fredf/1165
+#EXTINF:-1,UK - S4C
+http://live.kodisolutions.tv:8080/fredf/fredf/1213
+#EXTINF:-1,UK - SS Box Office
+http://live.kodisolutions.tv:8080/fredf/fredf/1329
+#EXTINF:-1,UK - SS Mix
+http://live.kodisolutions.tv:8080/fredf/fredf/1328
+#EXTINF:-1,UK - SSHD Action
+http://live.kodisolutions.tv:8080/fredf/fredf/1331
+#EXTINF:-1,UK - SSHD Arena
+http://live.kodisolutions.tv:8080/fredf/fredf/12408
+#EXTINF:-1,UK - SSHD Cricket
+http://live.kodisolutions.tv:8080/fredf/fredf/1332
+#EXTINF:-1,UK - SSHD F1
+http://live.kodisolutions.tv:8080/fredf/fredf/1402
+#EXTINF:-1,UK - SSHD Football
+http://live.kodisolutions.tv:8080/fredf/fredf/12407
+#EXTINF:-1,UK - SSHD Golf
+http://live.kodisolutions.tv:8080/fredf/fredf/1330
+#EXTINF:-1,UK - SSHD Main Event
+http://live.kodisolutions.tv:8080/fredf/fredf/1400
+#EXTINF:-1,UK - SSHD News
+http://live.kodisolutions.tv:8080/fredf/fredf/1401
+#EXTINF:-1,UK - SSHD Premier League
+http://live.kodisolutions.tv:8080/fredf/fredf/1399
+#EXTINF:-1,UK - STAR LIFE OK
+http://live.kodisolutions.tv:8080/fredf/fredf/1394
+#EXTINF:-1,UK - STAR PLUS
+http://live.kodisolutions.tv:8080/fredf/fredf/1393
+#EXTINF:-1,UK - Sky 2
+http://live.kodisolutions.tv:8080/fredf/fredf/1210
+#EXTINF:-1,UK - Sky Arts
+http://live.kodisolutions.tv:8080/fredf/fredf/1208
+#EXTINF:-1,UK - Sky Atlantic
+http://live.kodisolutions.tv:8080/fredf/fredf/1207
+#EXTINF:-1,UK - Sky Box Office 1 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/12205
+#EXTINF:-1,UK - Sky Box Office 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/12204
+#EXTINF:-1,UK - Sky Box Office 3D
+http://live.kodisolutions.tv:8080/fredf/fredf/12203
+#EXTINF:-1,UK - Sky Box Office 4 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/12202
+#EXTINF:-1,UK - Sky Cinema Action
+http://live.kodisolutions.tv:8080/fredf/fredf/1397
+#EXTINF:-1,UK - Sky Cinema Comedy
+http://live.kodisolutions.tv:8080/fredf/fredf/1206
+#EXTINF:-1,UK - Sky Cinema Disney
+http://live.kodisolutions.tv:8080/fredf/fredf/12206
+#EXTINF:-1,UK - Sky Cinema Drama
+http://live.kodisolutions.tv:8080/fredf/fredf/1404
+#EXTINF:-1,UK - Sky Cinema Family
+http://live.kodisolutions.tv:8080/fredf/fredf/1203
+#EXTINF:-1,UK - Sky Cinema Greats
+http://live.kodisolutions.tv:8080/fredf/fredf/1403
+#EXTINF:-1,UK - Sky Cinema Hits
+http://live.kodisolutions.tv:8080/fredf/fredf/12555
+#EXTINF:-1,UK - Sky Cinema Premiere
+http://live.kodisolutions.tv:8080/fredf/fredf/1200
+#EXTINF:-1,UK - Sky Cinema SciFi & Horror
+http://live.kodisolutions.tv:8080/fredf/fredf/1334
+#EXTINF:-1,UK - Sky Cinema Select
+http://live.kodisolutions.tv:8080/fredf/fredf/1151
+#EXTINF:-1,UK - Sky Cinema Thriller
+http://live.kodisolutions.tv:8080/fredf/fredf/1150
+#EXTINF:-1,UK - Sky Living
+http://live.kodisolutions.tv:8080/fredf/fredf/1202
+#EXTINF:-1,UK - Sky News
+http://live.kodisolutions.tv:8080/fredf/fredf/1201
+#EXTINF:-1,UK - Sky ONE
+http://live.kodisolutions.tv:8080/fredf/fredf/1211
+#EXTINF:-1,UK - Sony Channel
+http://live.kodisolutions.tv:8080/fredf/fredf/1159
+#EXTINF:-1,UK - Sony Max
+http://live.kodisolutions.tv:8080/fredf/fredf/1160
+#EXTINF:-1,UK - Sony SAB
+http://live.kodisolutions.tv:8080/fredf/fredf/1191
+#EXTINF:-1,UK - Spike
+http://live.kodisolutions.tv:8080/fredf/fredf/1190
+#EXTINF:-1,UK - Star Gold
+http://live.kodisolutions.tv:8080/fredf/fredf/1158
+#EXTINF:-1,UK - Syfy HD
+http://live.kodisolutions.tv:8080/fredf/fredf/1188
+#EXTINF:-1,UK - TCM HD
+http://live.kodisolutions.tv:8080/fredf/fredf/12406
+#EXTINF:-1,UK - TG4
+http://live.kodisolutions.tv:8080/fredf/fredf/1187
+#EXTINF:-1,UK - TLC
+http://live.kodisolutions.tv:8080/fredf/fredf/1184
+#EXTINF:-1,UK - TV3
+http://live.kodisolutions.tv:8080/fredf/fredf/15468
+#EXTINF:-1,UK - The Vault
+http://live.kodisolutions.tv:8080/fredf/fredf/1186
+#EXTINF:-1,UK - Tiny Pop
+http://live.kodisolutions.tv:8080/fredf/fredf/1185
+#EXTINF:-1,UK - Travel Channel
+http://live.kodisolutions.tv:8080/fredf/fredf/1183
+#EXTINF:-1,UK - True Entertainment
+http://live.kodisolutions.tv:8080/fredf/fredf/1181
+#EXTINF:-1,UK - True Movies 1
+http://live.kodisolutions.tv:8080/fredf/fredf/1156
+#EXTINF:-1,UK - True TV
+http://live.kodisolutions.tv:8080/fredf/fredf/1180
+#EXTINF:-1,UK - UFC Main card
+http://live.kodisolutions.tv:8080/fredf/fredf/9974
+#EXTINF:-1,UK - UTV Ireland SD
+http://live.kodisolutions.tv:8080/fredf/fredf/1398
+#EXTINF:-1,UK - UTV Movies
+http://live.kodisolutions.tv:8080/fredf/fredf/1177
+#EXTINF:-1,UK - Universal
+http://live.kodisolutions.tv:8080/fredf/fredf/1178
+#EXTINF:-1,UK - VH1
+http://live.kodisolutions.tv:8080/fredf/fredf/1322
+#EXTINF:-1,UK - Viceland
+http://live.kodisolutions.tv:8080/fredf/fredf/1176
+#EXTINF:-1,UK - WWE 24
+http://live.kodisolutions.tv:8080/fredf/fredf/15647
+#EXTINF:-1,UK - WWE HD (PPV)
+http://live.kodisolutions.tv:8080/fredf/fredf/8179
+#EXTINF:-1,UK - WWE Raw Network HD
+http://live.kodisolutions.tv:8080/fredf/fredf/9976
+#EXTINF:-1,UK - Watch
+http://live.kodisolutions.tv:8080/fredf/fredf/1173
+#EXTINF:-1,UK - Yesterday
+http://live.kodisolutions.tv:8080/fredf/fredf/1320
+#EXTINF:-1,UK - Zee Punjabi
+http://live.kodisolutions.tv:8080/fredf/fredf/1149
+#EXTINF:-1,UK - eir Sport 1
+http://live.kodisolutions.tv:8080/fredf/fredf/1265
+#EXTINF:-1,UK - eirSport 2
+http://live.kodisolutions.tv:8080/fredf/fredf/1264
