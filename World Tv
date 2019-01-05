@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
+https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA",Global Calgary (Geo)
+https://glblvmstu-f.akamaihd.net/i/glblvMSTu_1@80127/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA",Global Edmonton (Geo)
+https://glblvedmonton-lh.akamaihd.net/i/glblvEdmonton_1@119844/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA",Global Halifax (Geo)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="CANADA",CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ebosscanada.com/wp-content/uploads/2016/10/The-Weather-Network_01.jpg" group-title="CANADA", The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
+http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (Opt-1)
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (Opt-2)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-1)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="USA",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel (Opt-1)
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel (Opt-2)
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTAwMzk4Mzg4NTYw/wgnchicago-logoresized-bcpng.png" group-title="USA",WGN-TV News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="USA",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="UK",TLC HD World (Opt-3)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="USA",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BUiwYlr.png" group-title="CANADA",Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="USA",Cartoon Network (CST)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="USA",Western 4U
+https://nimble.d234.81.22:25461/12341234/12341234/11874
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies (UAE)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
