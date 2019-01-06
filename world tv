@@ -99,3 +99,137 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
+#EXTINF:-1,Us- A&E  US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10441
+#EXTINF:-1,Us- ABC US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10440
+#EXTINF:-1,Us- Animal Planet HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10439
+#EXTINF:-1,Us- Bein Sports
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10646
+#EXTINF:-1,Us- BET HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10645
+#EXTINF:-1,Us- Bloomberg US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10436
+#EXTINF:-1,Us- Bravo HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10435
+#EXTINF:-1,Us- Cartoon Network US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10434
+#EXTINF:-1,Us- CBS Sport HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10433
+#EXTINF:-1,Us- CBS US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10432
+#EXTINF:-1,Us- CINEMAX HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10431
+#EXTINF:-1,Us- CNBC US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10429
+#EXTINF:-1,Us- CNN US HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10428
+#EXTINF:-1,Us- Discovery Channel US HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10424
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10422
+#EXTINF:-1,Us- Discovery Science US HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10421
+#EXTINF:-1,Us- Disney Channel US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10420
+#EXTINF:-1,Us- Disney Junior US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10419
+#EXTINF:-1,Us- Fox sport 1 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10415
+#EXTINF:-1,Us- FX HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10414
+#EXTINF:-1,Us- GSN HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10412
+#EXTINF:-1,Us- HBO Comedy HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10411
+#EXTINF:-1,Us- HBO Signature
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10410
+#EXTINF:-1,Us- HBO US HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10408
+#EXTINF:-1,Us- HGTV HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10407
+#EXTINF:-1,Us- History
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10406
+#EXTINF:-1,Us- History HD US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10405
+#EXTINF:-1,Us- Life Time HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10404
+#EXTINF:-1,Us- MTV HD US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10403
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10401
+#EXTINF:-1,Us- NBA HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10399
+#EXTINF:-1,Us- NBCSN HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10398
+#EXTINF:-1,Us- NEWS 12
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10643
+#EXTINF:-1,Us- Nick Junior US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10397
+#EXTINF:-1,Us- Nick Toons US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10396
+#EXTINF:-1,Us- OWN HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10395
+#EXTINF:-1,Us- PAC-12 Arizona HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10642
+#EXTINF:-1,Us- PAC-12 Bay Area HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10641
+#EXTINF:-1,Us- PAC-12 Los Angeles HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10640
+#EXTINF:-1,Us- PAC-12 Mountain HD-
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10639
+#EXTINF:-1,Us- PAC-12 Oregon HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10638
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10393
+#EXTINF:-1,Us- SLICE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10392
+#EXTINF:-1,Us- Starz HD US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10390
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10389
+#EXTINF:-1,Us- Syfy HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10388
+#EXTINF:-1,Us- SyFy HD USA
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10387
+#EXTINF:-1,Us- TBS USA
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10386
+#EXTINF:-1,Us- TLC HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10385
+#EXTINF:-1,Us- TNT US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10384
+#EXTINF:-1,Us- TRU TV HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10383
+#EXTINF:-1,Us- TSN 1 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10632
+#EXTINF:-1,Us- TV Land HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10382
+#EXTINF:-1,Us- VH1 HD US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10380
+#EXTINF:-1,Us- Viceland TV
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10379
+#EXTINF:-1,Us- WE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10378
+#EXTINF:-1,Us- Weather channel
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10377
+#EXTINF:-1,Us- WWE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10376
