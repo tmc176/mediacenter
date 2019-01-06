@@ -98,3 +98,146 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1,CA: A&E HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7406
+#EXTINF:-1,CA: ABC Spark HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7405
+#EXTINF:-1,CA: ABC West HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7404
+#EXTINF:-1,CA: Action HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7403
+#EXTINF:-1,CA: AMC HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7402
+#EXTINF:-1,CA: Animal Planet HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7400
+#EXTINF:-1,CA: APTN HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7401
+#EXTINF:-1,CA: BBC World News HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7398
+#EXTINF:-1,CA: BNN HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7428
+#EXTINF:-1,CA: Bravo HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7399
+#EXTINF:-1,CA: Canal Savoir HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7397
+#EXTINF:-1,CA: Cartoon Network HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7396
+#EXTINF:-1,CA: Casa (FR)
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7427
+#EXTINF:-1,CA: CBC News Toronto HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/4956
+#EXTINF:-1,CA: CBC Atlantic HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7426
+#EXTINF:-1,CA: CBC Edmonton HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7425
+#EXTINF:-1,CA: CBC Montreal HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7424
+#EXTINF:-1,CA: CBC Ottawa HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7420
+#EXTINF:-1,CA: CBC Toronto HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7423
+#EXTINF:-1,CA: CBC Vancouver HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7422
+#EXTINF:-1,CA: CBC Winnipeg HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7421
+#EXTINF:-1,CA: CBS West HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7419
+#EXTINF:-1,CA: CHCH HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7417
+#EXTINF:-1,CA: Chek HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7416
+#EXTINF:-1,CA: City Toronto HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7418
+#EXTINF:-1,CA: CMT HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7411
+#EXTINF:-1,CA: CNBC World HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7415
+#EXTINF:-1,CA: CNN International
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7413
+#EXTINF:-1,CA: CNN HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7414
+#EXTINF:-1,CA: Cooking Channel
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7412
+#EXTINF:-1,CA: CP24 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/6529
+#EXTINF:-1,CA: CPAC HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7410
+#EXTINF:-1,CA: CPAC French
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7409
+#EXTINF:-1,CA: CTV  HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7429
+#EXTINF:-1,CA: CTV News HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/4949
+#EXTINF:-1,CA: CTV Two Vancouver HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7408
+#EXTINF:-1,CA: CW HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7407
+#EXTINF:-1,CA: Disney Channel
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7441
+#EXTINF:-1,CA: Disney Jr
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7440
+#EXTINF:-1,CA: Discovery Channel HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7442
+#EXTINF:-1,CA: Discovery Science HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2861
+#EXTINF:-1,CA: DIY Network HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7438
+#EXTINF:-1,CA: Documentary
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7439
+#EXTINF:-1,CA: E! HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7437
+#EXTINF:-1,CA: Family West HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7436
+#EXTINF:-1,CA: Fight Network HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7435
+#EXTINF:-1,CA: Fox West HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7434
+#EXTINF:-1,CA: FYI HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7433
+#EXTINF:-1,CA: Game Show Network HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7431
+#EXTINF:-1,CA: Game TV HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7432
+#EXTINF:-1,CA: Global Toronto HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7430
+#EXTINF:-1,CA: HBO 1
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7464
+#EXTINF:-1,CA: HBO 2 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7463
+#EXTINF:-1,CA: HGTV
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7462
+#EXTINF:-1,CA: History Channel
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7461
+#EXTINF:-1,CA: HLN HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7460
+#EXTINF:-1,CA: Lifetime
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7459
+#EXTINF:-1,CA: Nat Geo
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7458
+#EXTINF:-1,CA: NBA TV HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7457
+#EXTINF:-1,CA: The Weather Channels HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7449
+#EXTINF:-1,CA: TreeHouse HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7448
+#EXTINF:-1,CA: TSN 1 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2838
+#EXTINF:-1,CA: TSN 2 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2837
+#EXTINF:-1,CA: TSN 3 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2836
+#EXTINF:-1,CA: TSN 4 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2835
+#EXTINF:-1,CA: TSN 5 HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2834
+#EXTINF:-1,CA: TVA Sports
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7443
+#EXTINF:-1,CA: TVO HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7447
+#EXTINF:-1,CA: Vrak TV (FR)
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7446
+#EXTINF:-1,CA: Yes TV Ontario
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7445
+#EXTINF:-1,CA: YTV East HD
+http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7444
