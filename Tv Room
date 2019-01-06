@@ -4,6 +4,9 @@
 <title>A&E HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7406</link>
 <item>
+<title>A&E  US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10441</link>
+<item>
 <title>ABC Spark HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7405</link>
 <item>
@@ -16,17 +19,29 @@
 <title>Animal Planet HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7400</link>
 <item>
+<title>Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10439</link>
+<item>
 <title>Bravo HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7399</link>
 <item>
+<title>Bravo HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10435</link>
+<item>
 <title>Cartoon Network HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7396</link>
+<item>
+<title>Cartoon Network US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10434</link>
 <item>
 <title>CBC Toronto HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7423</link>
 <item>
 <title>CBS West HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7419</link>
+<item>
+<title>CBS US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10432</link>
 <item>
 <title>CHCH HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7417</link>
@@ -36,6 +51,9 @@
 <item>
 <title>CNN HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7414</link>
+<item>
+<title>CNN US HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10428</link>
 <item>
 <title>Cooking Channel</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7412</link>
@@ -52,11 +70,20 @@
 <title>Disney Channel</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7441</link>
 <item>
+<title>Disney Junior US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10419</link>
+<item>
 <title>Disney Jr</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7440</link>
 <item>
 <title>Discovery Channel HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7442</link>
+<item>
+<title>Discovery Channel US HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10424</link>
+<item>
+<title>Discovery Investigation</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10422</link>
 <item>
 <title>Discovery Science HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2861</link>
@@ -93,7 +120,81 @@
 <item>
 <title>YTV East HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7444</link>
+<item>
+<title>ABC US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10440</link>
+<item>
+<title>FX HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10414</link>
+<item>
+<title>HGTV HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10407</link>
+<item>
+<title>History</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10406</link>
+<item>
+<title>Life Time HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10404</link>
+<item>
+<title>NBC EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10399</link>
+<item>
+<title>WE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10378</link>
+<item>
+<title>Viceland TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10379</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
 
 
+
+
+#EXTINF:-1,Us- Nick Junior US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10397
+#EXTINF:-1,Us- Nick Toons US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10396
+#EXTINF:-1,Us- OWN HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10395
+
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10393
+#EXTINF:-1,Us- SLICE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10392
+#EXTINF:-1,Us- Starz HD US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10390
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10389
+#EXTINF:-1,Us- Syfy HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10388
+#EXTINF:-1,Us- SyFy HD USA
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10387
+#EXTINF:-1,Us- TBS USA
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10386
+#EXTINF:-1,Us- TLC HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10385
+#EXTINF:-1,Us- TNT US
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10384
+#EXTINF:-1,Us- NBCSN HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10398
+#EXTINF:-1,Us- TSN 1 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10632
+#EXTINF:-1,Us- WWE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10376
 
