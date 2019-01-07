@@ -93,8 +93,13 @@
 
 <item>
 <title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/19496</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/29323</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/44604</link>
 
 #EXTINF:-1,US: CineMax 5 Star Max FHD
 http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/19496
