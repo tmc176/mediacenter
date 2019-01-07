@@ -93,8 +93,1096 @@
 <item>
 <title>YTV East HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7444</link>
-
-
+<item>
+<title>Tv Land</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4987</link>
+<item>
+<title>We Tv</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1028</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+#EXTINF:-1,US: A&E HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3876
+#EXTINF:-1,CA: A&E HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7406
+#EXTINF:-1,CA: ABC Spark HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7405
+#EXTINF:-1,CA: ABC West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7404
+#EXTINF:-1,CA: Action HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7403
+#EXTINF:-1,US: Action Max HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2857
+#EXTINF:-1,US: AMC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2873
+#EXTINF:-1,CA: AMC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7402
+#EXTINF:-1,US: American Heroes HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7564
+#EXTINF:-1,US: Animal Planet HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3307
+#EXTINF:-1,CA: Animal Planet HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7400
+#EXTINF:-1,CA: APTN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7401
+#EXTINF:-1,US: Bravo HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3878
+#EXTINF:-1,CA: Bravo HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7399
+#EXTINF:-1,CA: Canal Savoir HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7397
+#EXTINF:-1,US: Cartoon Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7292
+#EXTINF:-1,CA: Cartoon Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7396
+#EXTINF:-1,CA: Casa (FR)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7427
+#EXTINF:-1,CA: CBC News Toronto HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4956
+#EXTINF:-1,CA: CBC Atlantic HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7426
+#EXTINF:-1,CA: CBC Edmonton HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7425
+#EXTINF:-1,CA: CBC Montreal HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7424
+#EXTINF:-1,CA: CBC Ottawa HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7420
+#EXTINF:-1,CA: CBC Toronto HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7423
+#EXTINF:-1,CA: CBC Vancouver HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7422
+#EXTINF:-1,CA: CBC Winnipeg HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7421
+#EXTINF:-1,US: CBS Sports Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2818
+#EXTINF:-1,US: CBS HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2874
+#EXTINF:-1,US: CBS News HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2875
+#EXTINF:-1,CA: CBS West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7419
+#EXTINF:-1,CA: CHCH HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7417
+#EXTINF:-1,CA: Chek HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7416
+#EXTINF:-1,US: Cinemax East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3893
+#EXTINF:-1,US: Cinemax West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7572
+#EXTINF:-1,US: Cinemax Outermax HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7571
+#EXTINF:-1,US: Cinemax Thriller HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7570
+#EXTINF:-1,CA: City Toronto HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7418
+#EXTINF:-1,CA: CMT HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7411
+#EXTINF:-1,US: CNBC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6229
+#EXTINF:-1,US: CNBC World HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7340
+#EXTINF:-1,CA: CNBC World HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7415
+#EXTINF:-1,US: CNN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3907
+#EXTINF:-1,CA: CNN International
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7413
+#EXTINF:-1,CA: CNN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7414
+#EXTINF:-1,US: Comedy Central HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3892
+#EXTINF:-1,US: Cooking Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7294
+#EXTINF:-1,CA: Cooking Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7412
+#EXTINF:-1,CA: CP24 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6529
+#EXTINF:-1,CA: CPAC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7410
+#EXTINF:-1,CA: CPAC French
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7409
+#EXTINF:-1,US: C-Span
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3902
+#EXTINF:-1,US: C-Span 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3901
+#EXTINF:-1,US: C-Span 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3900
+#EXTINF:-1,CA: CTV  HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7429
+#EXTINF:-1,CA: CTV News HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4949
+#EXTINF:-1,CA: CTV Two Vancouver HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7408
+#EXTINF:-1,US: CW 11 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3887
+#EXTINF:-1,CA: CW HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7407
+#EXTINF:-1,US: Destination America HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3891
+#EXTINF:-1,US: Disney Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6368
+#EXTINF:-1,CA: Disney Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7441
+#EXTINF:-1,US: Disney XD HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4242
+#EXTINF:-1,US: Disney Jr HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6369
+#EXTINF:-1,CA: Disney Jr
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7440
+#EXTINF:-1,US: Discovery Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2862
+#EXTINF:-1,CA: Discovery Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7442
+#EXTINF:-1,CA: Discovery Science HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2861
+#EXTINF:-1,US: Discovery Showcase HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7339
+#EXTINF:-1,US: DIY Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9376
+#EXTINF:-1,CA: DIY Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7438
+#EXTINF:-1,CA: Documentary
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7439
+#EXTINF:-1,US: E! HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/5827
+#EXTINF:-1,CA: E! HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7437
+#EXTINF:-1,US: El Rey Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6190
+#EXTINF:-1,US: Eleven Sports HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7358
+#EXTINF:-1,US: EPIX Hits HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9381
+#EXTINF:-1,US: ESPN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2852
+#EXTINF:-1,US: ESPN 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2851
+#EXTINF:-1,US: ESPN 3 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2850
+#EXTINF:-1,US: ESPN College Extra 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9258
+#EXTINF:-1,US: ESPN College Extra 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9257
+#EXTINF:-1,US: ESPN College Extra 3 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9256
+#EXTINF:-1,US: ESPN College Extra 4 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9255
+#EXTINF:-1,US: ESPN College Extra 5 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9254
+#EXTINF:-1,US: ESPN College Extra 6 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9253
+#EXTINF:-1,US: ESPN News HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2849
+#EXTINF:-1,US: ESPN Deportes
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3305
+#EXTINF:-1,ESPN Plus 1 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7392
+#EXTINF:-1,ESPN Plus 1 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7853
+#EXTINF:-1,ESPN Plus 2 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7391
+#EXTINF:-1,ESPN Plus 2 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7852
+#EXTINF:-1,ESPN Plus 3 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7390
+#EXTINF:-1,ESPN Plus 3 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7871
+#EXTINF:-1,ESPN Plus 4 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7389
+#EXTINF:-1,ESPN Plus 4 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7870
+#EXTINF:-1,ESPN Plus 5 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7388
+#EXTINF:-1,ESPN Plus 5 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7869
+#EXTINF:-1,ESPN Plus 6 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7387
+#EXTINF:-1,ESPN Plus 6 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7868
+#EXTINF:-1,ESPN Plus 7 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7386
+#EXTINF:-1,ESPN Plus 7 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7867
+#EXTINF:-1,ESPN Plus 8 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7385
+#EXTINF:-1,ESPN Plus 8 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7866
+#EXTINF:-1,ESPN Plus 9 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7384
+#EXTINF:-1,ESPN Plus 9 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7865
+#EXTINF:-1,ESPN Plus 10 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7383
+#EXTINF:-1,ESPN Plus 10 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7864
+#EXTINF:-1,ESPN Plus 11 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7382
+#EXTINF:-1,ESPN Plus 11 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7863
+#EXTINF:-1,ESPN Plus 12 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7381
+#EXTINF:-1,ESPN Plus 12 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7862
+#EXTINF:-1,ESPN Plus 13 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7380
+#EXTINF:-1,ESPN Plus 13 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7861
+#EXTINF:-1,ESPN Plus 14 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7379
+#EXTINF:-1,ESPN Plus 14 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7860
+#EXTINF:-1,ESPN Plus 15 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7378
+#EXTINF:-1,ESPN Plus 15 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7859
+#EXTINF:-1,ESPN Plus 16 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7377
+#EXTINF:-1,ESPN Plus 16 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7858
+#EXTINF:-1,ESPN Plus 17 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7376
+#EXTINF:-1,ESPN Plus 17 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7857
+#EXTINF:-1,ESPN Plus 18 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7375
+#EXTINF:-1,ESPN Plus 18 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7856
+#EXTINF:-1,ESPN Plus 19 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7374
+#EXTINF:-1,ESPN Plus 19 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7855
+#EXTINF:-1,ESPN Plus 20 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7373
+#EXTINF:-1,ESPN Plus 20 HD BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7854
+#EXTINF:-1,CA: Family West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7436
+#EXTINF:-1,US: Fight Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2840
+#EXTINF:-1,CA: Fight Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7435
+#EXTINF:-1,US: FNTSY Sports Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7357
+#EXTINF:-1,US: Food Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3880
+#EXTINF:-1,US: Fox HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4237
+#EXTINF:-1,CA: Fox West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7434
+#EXTINF:-1,US: Fox Business Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9425
+#EXTINF:-1,US: Fox 5 Atlanta HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7896
+#EXTINF:-1,US: Fox 25 Boston HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7895
+#EXTINF:-1,US: Fox 32 Chicago HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7894
+#EXTINF:-1,US: Fox 5 D.C. HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7892
+#EXTINF:-1,US: Fox 4 Dallas HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7893
+#EXTINF:-1,US: Fox 2 Detroit HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7891
+#EXTINF:-1,US: Fox 26 Houston HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7890
+#EXTINF:-1,US: Fox 11 Los Angeles HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7889
+#EXTINF:-1,US: Fox Memphis
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7886
+#EXTINF:-1,US: Fox 7 Miami HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7885
+#EXTINF:-1,US: Fox 8 New Orleans HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7888
+#EXTINF:-1,US: Fox 5 New York HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7887
+#EXTINF:-1,US: Fox 29 Philadelphia HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7884
+#EXTINF:-1,US: Fox 5 San Diego
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7883
+#EXTINF:-1,US: Fox 13 Seattle HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7882
+#EXTINF:-1,US: Fox 43 VA Beach HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7881
+#EXTINF:-1,US: Fox College Atlantic HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7356
+#EXTINF:-1,US: Fox College Central HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7355
+#EXTINF:-1,US: Fox College Pacific HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7354
+#EXTINF:-1,US: Fox News HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3904
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7353
+#EXTINF:-1,US: Fox Sports 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2824
+#EXTINF:-1,US: Fox Sports 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2823
+#EXTINF:-1,US: Fox Sports Arizona HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6249
+#EXTINF:-1,US: Fox Sports Detroit HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6248
+#EXTINF:-1,US: Fox Sports Midwest HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6247
+#EXTINF:-1,US: Fox Sports North HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6246
+#EXTINF:-1,US: Fox Sports Ohio HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6245
+#EXTINF:-1,US: Fox Sports Prime Ticket HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6244
+#EXTINF:-1,US: Fox Sports San Diego HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6243
+#EXTINF:-1,US: Fox Sports South HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6242
+#EXTINF:-1,US: Fox Sports SouthEast HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6241
+#EXTINF:-1,US: Fox Sports SouthWest HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6240
+#EXTINF:-1,US: Freeform HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4240
+#EXTINF:-1,US: Freeform West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7945
+#EXTINF:-1,US: Fuse HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7370
+#EXTINF:-1,US: Fusion HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7369
+#EXTINF:-1,US: FX HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4117
+#EXTINF:-1,US: FXM HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7337
+#EXTINF:-1,US: FXM Retro
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7944
+#EXTINF:-1,US: FXX HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7338
+#EXTINF:-1,US: FXX West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7943
+#EXTINF:-1,US: FYI HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7368
+#EXTINF:-1,CA: FYI HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7433
+#EXTINF:-1,CA: Game Show Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7431
+#EXTINF:-1,CA: Game TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7432
+#EXTINF:-1,CA: Global Toronto HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7430
+#EXTINF:-1,US: Gol TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7352
+#EXTINF:-1,US: Golf Channel FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3875
+#EXTINF:-1,US: Golf Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9428
+#EXTINF:-1,US: Grit TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7336
+#EXTINF:-1,US: GSN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4986
+#EXTINF:-1,US: Hallmark HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7296
+#EXTINF:-1,US: Hallmark Movies & Mysteries HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3890
+#EXTINF:-1,US: HBO East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2867
+#EXTINF:-1,US: HBO West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7568
+#EXTINF:-1,CA: HBO 1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7464
+#EXTINF:-1,US: HBO 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2863
+#EXTINF:-1,CA: HBO 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7463
+#EXTINF:-1,US: HBO Comedy HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2864
+#EXTINF:-1,US: HBO Signature HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2866
+#EXTINF:-1,US: HBO Zone HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2865
+#EXTINF:-1,US: HBO Family HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3894
+#EXTINF:-1,US: HGTV East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7542
+#EXTINF:-1,US: HGTV West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4930
+#EXTINF:-1,CA: HGTV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7462
+#EXTINF:-1,US: History HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3308
+#EXTINF:-1,CA: History Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7461
+#EXTINF:-1,US: HLN
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4924
+#EXTINF:-1,CA: HLN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7460
+#EXTINF:-1,US: IFC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7335
+#EXTINF:-1,US: Investigation Discovery HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3303
+#EXTINF:-1,US: Ion Television HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4967
+#EXTINF:-1,US: Lifetime HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3889
+#EXTINF:-1,CA: Lifetime
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7459
+#EXTINF:-1,US: Lifetime Movies HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4239
+#EXTINF:-1,US: LongHorn Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2811
+#EXTINF:-1,US: Me TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7334
+#EXTINF:-1,US: MGM HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7333
+#EXTINF:-1,US: MLB Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2859
+#EXTINF:-1,MLB 01 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7317
+#EXTINF:-1,MLB 02 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7316
+#EXTINF:-1,MLB 03 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7315
+#EXTINF:-1,MLB 04 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7314
+#EXTINF:-1,MLB 05 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7313
+#EXTINF:-1,MLB 06 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7312
+#EXTINF:-1,MLB 07 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7311
+#EXTINF:-1,MLB 08 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7310
+#EXTINF:-1,MLB 09 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7309
+#EXTINF:-1,MLB 10 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7308
+#EXTINF:-1,MLB 11 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7307
+#EXTINF:-1,MLB 12 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7306
+#EXTINF:-1,MLB 13 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7305
+#EXTINF:-1,MLB 14 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7304
+#EXTINF:-1,MLB 15 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7303
+#EXTINF:-1,MLB 16 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7302
+#EXTINF:-1,MLB 17 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7301
+#EXTINF:-1,MLB 18 HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7851
+#EXTINF:-1,MLB 19 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7911
+#EXTINF:-1,MLB 20 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7910
+#EXTINF:-1,US: MoreMAX HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7332
+#EXTINF:-1,US: MSNBC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3903
+#EXTINF:-1,US: MTV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2858
+#EXTINF:-1,US: MY9 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9426
+#EXTINF:-1,US: Nat Geo HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2855
+#EXTINF:-1,CA: Nat Geo
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7458
+#EXTINF:-1,US: Nat Geo West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7941
+#EXTINF:-1,US: Nat Geo Wild HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6207
+#EXTINF:-1,US: NBA TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3304
+#EXTINF:-1,CA: NBA TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7457
+#EXTINF:-1,US: NBA 1: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9343
+#EXTINF:-1,US: NBA 1: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9342
+#EXTINF:-1,US: NBA 2: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9341
+#EXTINF:-1,US: NBA 2: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9340
+#EXTINF:-1,US: NBA 3: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9339
+#EXTINF:-1,US: NBA 3: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9338
+#EXTINF:-1,US: NBA 4: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9337
+#EXTINF:-1,US: NBA 4: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9336
+#EXTINF:-1,US: NBA 5: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9335
+#EXTINF:-1,US: NBA 5: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9334
+#EXTINF:-1,US: NBA 6: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9333
+#EXTINF:-1,US: NBA 6: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9332
+#EXTINF:-1,US: NBA 7: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9331
+#EXTINF:-1,US: NBA 7: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9330
+#EXTINF:-1,US: NBA 8: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9329
+#EXTINF:-1,US: NBA 8: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9328
+#EXTINF:-1,US: NBA 9: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9327
+#EXTINF:-1,US: NBA 9: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9326
+#EXTINF:-1,US: NBA 10: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9325
+#EXTINF:-1,US: NBA 10: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9324
+#EXTINF:-1,US: NBA 11: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9323
+#EXTINF:-1,US: NBA 11: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9322
+#EXTINF:-1,US: NBA 12: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9321
+#EXTINF:-1,US: NBA 12: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9320
+#EXTINF:-1,US: NBA 13: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9319
+#EXTINF:-1,US: NBA 13: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9318
+#EXTINF:-1,US: NBA 14: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9317
+#EXTINF:-1,US: NBA 14: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9316
+#EXTINF:-1,US: NBA 15: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9315
+#EXTINF:-1,US: NBA 15: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9314
+#EXTINF:-1,US: NBA 16: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9313
+#EXTINF:-1,US: NBA 16: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9312
+#EXTINF:-1,US: NBA 17: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9311
+#EXTINF:-1,US: NBA 17: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9310
+#EXTINF:-1,US: NBA 18: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9309
+#EXTINF:-1,US: NBA 18: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9308
+#EXTINF:-1,US: NBA 19: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9307
+#EXTINF:-1,US: NBA 19: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9306
+#EXTINF:-1,US: NBA 20: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9305
+#EXTINF:-1,US: NBA 20: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9304
+#EXTINF:-1,US: NBA 21: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9303
+#EXTINF:-1,US: NBA 21: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9302
+#EXTINF:-1,US: NBA 22: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9301
+#EXTINF:-1,US: NBA 22: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9300
+#EXTINF:-1,US: NBA 23: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9299
+#EXTINF:-1,US: NBA 23: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9298
+#EXTINF:-1,US: NBA 24: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9297
+#EXTINF:-1,US: NBA 24: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9296
+#EXTINF:-1,US: NBA 25: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9295
+#EXTINF:-1,US: NBA 25: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9294
+#EXTINF:-1,US: NBA 26: League Pass  (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9293
+#EXTINF:-1,US: NBA 26: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9292
+#EXTINF:-1,US: NBA 27: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9291
+#EXTINF:-1,US: NBA 27: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9290
+#EXTINF:-1,US: NBA 28: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9289
+#EXTINF:-1,US: NBA 28: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9288
+#EXTINF:-1,US: NBA 29: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9287
+#EXTINF:-1,US: NBA 29: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9286
+#EXTINF:-1,US: NBA 30: League Pass (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9285
+#EXTINF:-1,US: NBA 30: League Pass BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9284
+#EXTINF:-1,US: NBA 1 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7974
+#EXTINF:-1,US: NBA 2 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7973
+#EXTINF:-1,US: NBA 3 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7972
+#EXTINF:-1,US: NBA 4 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7971
+#EXTINF:-1,US: NBA 5 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7970
+#EXTINF:-1,US: NBA 6 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7969
+#EXTINF:-1,US: NBA 7 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7968
+#EXTINF:-1,US: NBA 8 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7967
+#EXTINF:-1,US: NBA 9 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7966
+#EXTINF:-1,US: NBA 10 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7965
+#EXTINF:-1,US: NBA 11 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7964
+#EXTINF:-1,US: NBA 12 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8892
+#EXTINF:-1,US: NBA 13 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8891
+#EXTINF:-1,US: NBA 14 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8890
+#EXTINF:-1,US: NBA 15 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8889
+#EXTINF:-1,US: NBA 16 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8888
+#EXTINF:-1,US: NBA 17 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8887
+#EXTINF:-1,US: NBA 18 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8886
+#EXTINF:-1,US: NBA 19 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8885
+#EXTINF:-1,US: NBA 20 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8884
+#EXTINF:-1,US: NBA 21 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8883
+#EXTINF:-1,US: NBA 22 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8882
+#EXTINF:-1,US: NBA 23 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8881
+#EXTINF:-1,US: NBA 24 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8880
+#EXTINF:-1,US: NBA 25 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8879
+#EXTINF:-1,US: NBA 26 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8878
+#EXTINF:-1,US: NBA 27 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8877
+#EXTINF:-1,US: NBA 28 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8876
+#EXTINF:-1,US: NBA 29 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8875
+#EXTINF:-1,US: NBC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3908
+#EXTINF:-1,US: NBC Atlanta HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7935
+#EXTINF:-1,US: NBC 10 Boston HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7934
+#EXTINF:-1,US: NBC 5 Chicago HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7933
+#EXTINF:-1,US: NBC 5 Dallas HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7932
+#EXTINF:-1,US: NBC 4 D.C. HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7931
+#EXTINF:-1,US: NBC 4 Detroit HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7930
+#EXTINF:-1,US: NBC 4 Los Angeles HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7929
+#EXTINF:-1,US: NBC Memphis HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7928
+#EXTINF:-1,US: NBC 6 Miami HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7927
+#EXTINF:-1,US: NBC 4 New York HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7926
+#EXTINF:-1,US: NBC 10 Philadephia HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7925
+#EXTINF:-1,US: NBC 7 San Diego HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7924
+#EXTINF:-1,US: NBC K5 Seattle HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9259
+#EXTINF:-1,US: NBC Sports Bay Area HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7351
+#EXTINF:-1,US: NBC Sports Boston HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7350
+#EXTINF:-1,US: NBC Sports California HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7349
+#EXTINF:-1,US: NBC Sports Chicago HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7348
+#EXTINF:-1,US: NBC Sports Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9209
+#EXTINF:-1,US: NBC Sports Northwest HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7347
+#EXTINF:-1,US: NBC Sports Philadelphia HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7346
+#EXTINF:-1,US: NFL Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2842
+#EXTINF:-1,US: NFL Now Live
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2843
+#EXTINF:-1,US: NFL RedZone HD (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2841
+#EXTINF:-1,US: NFL1: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9359
+#EXTINF:-1,US: NFL1: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9358
+#EXTINF:-1,US: NFL2: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9246
+#EXTINF:-1,US: NFL2: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9245
+#EXTINF:-1,US: NFL3: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9244
+#EXTINF:-1,US: NFL3: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9243
+#EXTINF:-1,US: NFL4: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9242
+#EXTINF:-1,US: NFL4: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9241
+#EXTINF:-1,US: NFL5: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9240
+#EXTINF:-1,US: NFL5: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9239
+#EXTINF:-1,US: NFL6: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9238
+#EXTINF:-1,US: NFL6: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9237
+#EXTINF:-1,US: NFL7: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9236
+#EXTINF:-1,US: NFL7: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9235
+#EXTINF:-1,US: NFL8: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9234
+#EXTINF:-1,US: NFL8: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9233
+#EXTINF:-1,US: NFL9: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9232
+#EXTINF:-1,US: NFL9: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9231
+#EXTINF:-1,US: NFL10: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9230
+#EXTINF:-1,US: NFL10: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9229
+#EXTINF:-1,US: NFL11: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9228
+#EXTINF:-1,US: NFL11: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9227
+#EXTINF:-1,US: NFL12: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9226
+#EXTINF:-1,US: NFL12: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9225
+#EXTINF:-1,US: NFL13: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9224
+#EXTINF:-1,US: NFL13: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9223
+#EXTINF:-1,US: NFL14: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9222
+#EXTINF:-1,US: NFL14: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9221
+#EXTINF:-1,US: NFL15: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9220
+#EXTINF:-1,US: NFL15: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9219
+#EXTINF:-1,US: NFL16: No Game Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9218
+#EXTINF:-1,US: NFL16: No Game Today BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9217
+#EXTINF:-1,NFL GamePass 1 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7559
+#EXTINF:-1,NFL GamePass 2 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7558
+#EXTINF:-1,NFL GamePass 3 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7557
+#EXTINF:-1,NFL GamePass 4 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7556
+#EXTINF:-1,NFL GamePass 5 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7555
+#EXTINF:-1,NFL GamePass 6 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7554
+#EXTINF:-1,NFL GamePass 7 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7553
+#EXTINF:-1,NFL GamePass 8 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7552
+#EXTINF:-1,NFL GamePass 9 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7551
+#EXTINF:-1,NFL GamePass 11 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7549
+#EXTINF:-1,NFL GamePass 12 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7548
+#EXTINF:-1,NFL GamePass 13 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7547
+#EXTINF:-1,NFL GamePass 10 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7550
+#EXTINF:-1,NFL GamePass 14 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7546
+#EXTINF:-1,NFL GamePass 15 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7545
+#EXTINF:-1,NFL GamePass 16 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7544
+#EXTINF:-1,US: NHL Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2814
+#EXTINF:-1,CA: NHL Center Ice 1 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4966
+#EXTINF:-1,CA: NHL Center Ice 1 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9375
+#EXTINF:-1,CA: NHL Center Ice 2 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4965
+#EXTINF:-1,CA: NHL Center Ice 2 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9374
+#EXTINF:-1,CA: NHL Center Ice 3 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4964
+#EXTINF:-1,CA: NHL Center Ice 3 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9373
+#EXTINF:-1,CA: NHL Center Ice 4 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4963
+#EXTINF:-1,CA: NHL Center Ice 4 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9372
+#EXTINF:-1,CA: NHL Center Ice 5 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4962
+#EXTINF:-1,CA: NHL Center Ice 5 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9371
+#EXTINF:-1,CA: NHL Center Ice 6 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4961
+#EXTINF:-1,CA: NHL Center Ice 6 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9370
+#EXTINF:-1,CA: NHL Center Ice 7 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4960
+#EXTINF:-1,CA: NHL Center Ice 7 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9369
+#EXTINF:-1,CA: NHL Center Ice 8 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4959
+#EXTINF:-1,CA: NHL Center Ice 8 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9368
+#EXTINF:-1,CA: NHL Center Ice 9 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4958
+#EXTINF:-1,CA: NHL Center Ice 9 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9367
+#EXTINF:-1,CA: NHL Center Ice 10 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4957
+#EXTINF:-1,CA: NHL Center Ice 10 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9366
+#EXTINF:-1,CA: NHL Center Ice 11 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4993
+#EXTINF:-1,CA: NHL Center Ice 11 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9365
+#EXTINF:-1,CA: NHL Center Ice 12 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4992
+#EXTINF:-1,CA: NHL Center Ice 12 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9364
+#EXTINF:-1,CA: NHL Center Ice 13 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4991
+#EXTINF:-1,CA: NHL Center Ice 13 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9363
+#EXTINF:-1,CA: NHL Center Ice 14 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4990
+#EXTINF:-1,CA: NHL Center Ice 14 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9362
+#EXTINF:-1,CA: NHL Center Ice 15 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7923
+#EXTINF:-1,CA: NHL Center Ice 15 BU (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9361
+#EXTINF:-1,US: Nick Jr HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9262
+#EXTINF:-1,US: Nickelodeon HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4994
+#EXTINF:-1,US: Nicktoons HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9263
+#EXTINF:-1,US: Olympic Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7345
+#EXTINF:-1,US: Oxygen HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6189
+#EXTINF:-1,US: OWN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4252
+#EXTINF:-1,CA: OWN
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7456
+#EXTINF:-1,US: PAC-12 Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6208
+#EXTINF:-1,US: PAC-12 Los Angeles HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2833
+#EXTINF:-1,US: PAC-12 Arizona HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2832
+#EXTINF:-1,US: PAC-12 Bay Area HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2831
+#EXTINF:-1,US: PAC-12 Mountain HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2829
+#EXTINF:-1,US: PAC-12 Oregon HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2828
+#EXTINF:-1,US: PAC-12 Washington HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2827
+#EXTINF:-1,US: Paramount Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2869
+#EXTINF:-1,CA: Paramount Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7455
+#EXTINF:-1,US: PBS HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2813
+#EXTINF:-1,CA: Peach Tree HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4925
+#EXTINF:-1,US: Revolt HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7331
+#EXTINF:-1,US: RT America HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3897
+#EXTINF:-1,Rugby Pass Live 1 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8842
+#EXTINF:-1,Rugby Pass Live 2 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8841
+#EXTINF:-1,Rugby Pass Live 3 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8840
+#EXTINF:-1,Rugby Pass Live 4 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8839
+#EXTINF:-1,Rugby Pass Live 5 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8838
+#EXTINF:-1,Rugby Pass Live 6 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8837
+#EXTINF:-1,Rugby Pass Live 7 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8836
+#EXTINF:-1,Rugby Pass Live 8 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8835
+#EXTINF:-1,Rugby Pass Live 9 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8834
+#EXTINF:-1,Rugby Pass Live 10 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8833
+#EXTINF:-1,US: Sec Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4931
+#EXTINF:-1,US: Showtime East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3883
+#EXTINF:-1,US: Showtime West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7569
+#EXTINF:-1,US: Showtime 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7318
+#EXTINF:-1,US: Showtime Showcase HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9380
+#EXTINF:-1,CA: Slice
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4955
+#EXTINF:-1,US: Sony Movie Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9379
+#EXTINF:-1,CA: Space
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4927
+#EXTINF:-1,CA: Sportsnet 360 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2820
+#EXTINF:-1,CA: Sportsnet One HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2821
+#EXTINF:-1,CA: Sportsnet Ontario HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4282
+#EXTINF:-1,CA: Sportsnet East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6530
+#EXTINF:-1,CA: SportsNet Pacific HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2819
+#EXTINF:-1,CA: Sportsnet West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4280
+#EXTINF:-1,CA: Sportsnet World HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8925
+#EXTINF:-1,US: Starz East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3886
+#EXTINF:-1,US: Starz Cinema HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9377
+#EXTINF:-1,US: Starz Comedy HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3885
+#EXTINF:-1,US: Starz Edge HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3884
+#EXTINF:-1,US: Starz Encore Westerns HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7327
+#EXTINF:-1,US: Starz Kids And Family HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9378
+#EXTINF:-1,CA: Super Channel Heart & Home
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7454
+#EXTINF:-1,CA: Super Channel Vault
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7453
+#EXTINF:-1,US: Syfy HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3882
+#EXTINF:-1,US: TBS HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2872
+#EXTINF:-1,US: TCM HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7563
+#EXTINF:-1,US: Tennis Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7230
+#EXTINF:-1,US: Telemundo HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7367
+#EXTINF:-1,US: Telemundo Chicago HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7567
+#EXTINF:-1,US: Telemundo Dallas HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7566
+#EXTINF:-1,US: Telemundo Los Angeles HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7565
+#EXTINF:-1,US: Telemundo Miami HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7366
+#EXTINF:-1,CA: Tele Qubec (FR)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7450
+#EXTINF:-1,CA: Teletoon
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7452
+#EXTINF:-1,CA: Teletoon French
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7451
+#EXTINF:-1,CA: The Weather Channels HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7449
+#EXTINF:-1,US: TLC HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2871
+#EXTINF:-1,US: TNT East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3881
+#EXTINF:-1,US: Travel Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2854
+#EXTINF:-1,CA: TreeHouse HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7448
+#EXTINF:-1,US: Tru TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4929
+#EXTINF:-1,US: Tru TV West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7937
+#EXTINF:-1,CA: TSN 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2838
+#EXTINF:-1,CA: TSN 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2837
+#EXTINF:-1,CA: TSN 3 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2836
+#EXTINF:-1,CA: TSN 4 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2835
+#EXTINF:-1,CA: TSN 5 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2834
+#EXTINF:-1,CA: TVA Sports
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7443
+#EXTINF:-1,US: TV Land HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4987
+#EXTINF:-1,CA: TVO HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7447
+#EXTINF:-1,US: TV One HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7365
+#EXTINF:-1,US: TYC Sports HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7344
+#EXTINF:-1,US: UFC Fight Pass HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6849
+#EXTINF:-1,US: Unimas HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7364
+#EXTINF:-1,US: Universo HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7363
+#EXTINF:-1,US: Univision HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7362
+#EXTINF:-1,US: Univision TDN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7361
+#EXTINF:-1,US: USA Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2870
+#EXTINF:-1,US: VH1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3877
+#EXTINF:-1,CA: Vrak TV (FR)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7446
+#EXTINF:-1,US: Velocity HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2810
+#EXTINF:-1,US: Viceland HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7330
+#EXTINF:-1,US: Wapa HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7329
+#EXTINF:-1,US: Wapa Deportes HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7328
+#EXTINF:-1,US: Weather Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4995
+#EXTINF:-1,US: WGN America HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7589
+#EXTINF:-1,US: Willow Cricket HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2809
+#EXTINF:-1,US: WPIX 11 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9427
+#EXTINF:-1,US: WWE HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2845
+#EXTINF:-1,US: Yes Network HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7343
+#EXTINF:-1,CA: Yes TV Ontario
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7445
+#EXTINF:-1,CA: YTV East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7444
 
 
 
