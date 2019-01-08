@@ -99,5 +99,759 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-#EXTINF:-1,CA|SPORTNET ONTARIO
-http://g-tv.us:25461/aniss/aniss04/26133
+#EXTINF:-1,US: CineMax 5 Star Max FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19496
+#EXTINF:-1,US: 5 USA
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43380
+#EXTINF:-1,US: A&E HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29323
+#EXTINF:-1,US: ABC (West) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43381
+#EXTINF:-1,US: ABC 6 WPVI (Philadelphia) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43382
+#EXTINF:-1,US: ABC 7 WWSB FL Sarasota HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43383
+#EXTINF:-1,US: ABC Los Angeles
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43387
+#EXTINF:-1,US: Channel No.12213
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29320
+#EXTINF:-1,US: ABC News HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29319
+#EXTINF:-1,US: AFN Spectrum HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29318
+#EXTINF:-1,US: AFN Sports 1
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29317
+#EXTINF:-1,US: AFN Sports 2
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29316
+#EXTINF:-1,US: AMC HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29314
+#EXTINF:-1,US: AMC
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29313
+#EXTINF:-1,US: Animal Planet HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19488
+#EXTINF:-1,US: Animal Planet
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29312
+#EXTINF:-1,US: ACTION MAX HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43389
+#EXTINF:-1,US: ADULT SWIM
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43388
+#EXTINF:-1,US: A&E TV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43390
+#EXTINF:-1,US: AFN PRIME PACIFIC HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43391
+#EXTINF:-1,US: AFN PULSE HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43392
+#EXTINF:-1,US: Atlanta Channel
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44637
+#EXTINF:-1,US: Bloomberg HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19485
+#EXTINF:-1,US: Boomerang HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19483
+#EXTINF:-1,US: Boomerang
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29307
+#EXTINF:-1,US: Bravo HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29306
+#EXTINF:-1,US: BLAZE
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44628
+#EXTINF:-1,US: BOX OFFICE MOVIES
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44627
+#EXTINF:-1,US: BYU TV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29304
+#EXTINF:-1,US: CBS Action
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29298
+#EXTINF:-1,US: CBS San Diego HD VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19480
+#EXTINF:-1,US: CBSN FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19479
+#EXTINF:-1,US: CNBC
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29288
+#EXTINF:-1,US: CNN HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29287
+#EXTINF:-1,US: CNN FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19477
+#EXTINF:-1,US: C-SPAN 1 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44621
+#EXTINF:-1,US: C-SPAN 2 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44620
+#EXTINF:-1,US: C-SPAN 3 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44619
+#EXTINF:-1,US: CALIFORNIA MUSIC CHANNEL
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44618
+#EXTINF:-1,US: CBS Sports Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44604
+#EXTINF:-1,US: CBSN News HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44602
+#EXTINF:-1,US: CINEMAX MOREMAX FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44590
+#EXTINF:-1,US: CNBC HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44582
+#EXTINF:-1,US: CNN INTERNATIONAL
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44579
+#EXTINF:-1,US: COOKING CHANNEL FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44575
+#EXTINF:-1,US: CW Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44564
+#EXTINF:-1,US: CW
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29283
+#EXTINF:-1,US: CW HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29284
+#EXTINF:-1,US: CW FHD VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19475
+#EXTINF:-1,US: CW 11
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29282
+#EXTINF:-1,US: Cartoon Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29299
+#EXTINF:-1,US: Cinemax Action 2 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19431
+#EXTINF:-1,US: Cinemax Action East FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19430
+#EXTINF:-1,US: Cinemax Action FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19429
+#EXTINF:-1,US: Cinemax Action
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29293
+#EXTINF:-1,US: CineMax ActionMax East
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29292
+#EXTINF:-1,US: Cinemax East FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19428
+#EXTINF:-1,US: CineMax East
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29291
+#EXTINF:-1,US: CineMax MoreMax
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29289
+#EXTINF:-1,US: Cinemax More HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29290
+#EXTINF:-1,US: Cinemax More FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19427
+#EXTINF:-1,US: Cinemax West FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19426
+#EXTINF:-1,US: Comedy Central HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29285
+#EXTINF:-1,US: Comedy Central FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19425
+#EXTINF:-1,US: DIY Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29273
+#EXTINF:-1,US: DIY Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29272
+#EXTINF:-1,US: DW
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29271
+#EXTINF:-1,US: Discovery Channel CA FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29281
+#EXTINF:-1,US: Discovery Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29280
+#EXTINF:-1,US: Discovery HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29278
+#EXTINF:-1,US: Discovery Science HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29277
+#EXTINF:-1,US: Discovery Velocity HD VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19421
+#EXTINF:-1,US: Discovery Velocity
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29276
+#EXTINF:-1,US: Disney Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29275
+#EXTINF:-1,US: DAYSTAR HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44563
+#EXTINF:-1,US: DEPORTES HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44560
+#EXTINF:-1,US: DISNEY JR. HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44550
+#EXTINF:-1,US: DISNEY XD FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44547
+#EXTINF:-1,US: District Knowledge Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44546
+#EXTINF:-1,US: District of Columbia Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44545
+#EXTINF:-1,US: E! Entertainment HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29270
+#EXTINF:-1,US: El Rey Network FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44542
+#EXTINF:-1,US: ESPN 3 FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44538
+#EXTINF:-1,US: ESPN 2 FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29266
+#EXTINF:-1,US: ESPN 2 FHD VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19413
+#EXTINF:-1,US: ESPN 2 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19412
+#EXTINF:-1,US: ESPN 2
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29265
+#EXTINF:-1,US: ESPN 2 VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19411
+#EXTINF:-1,US: ESPN HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29264
+#EXTINF:-1,US: ESPN U HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19410
+#EXTINF:-1,US: ESPN News HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44533
+#EXTINF:-1,US: FOX 43
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29257
+#EXTINF:-1,US: FX HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29241
+#EXTINF:-1,US: GRIT HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19388
+#EXTINF:-1,US: Fight Sport HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29261
+#EXTINF:-1,US: Fine Living HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29260
+#EXTINF:-1,US: Food Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29259
+#EXTINF:-1,US: FAMILY GUY
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44528
+#EXTINF:-1,US: Food Network FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44520
+#EXTINF:-1,US: Food Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29258
+#EXTINF:-1,US: Fox HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29256
+#EXTINF:-1,US: Fox News HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29255
+#EXTINF:-1,US: Fox Deportes HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19401
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29254
+#EXTINF:-1,US: Fox Sports 1 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29252
+#EXTINF:-1,US: Fox Sports 1 FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19398
+#EXTINF:-1,US: Fox Sports 1
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29251
+#EXTINF:-1,US: Fox Sports 2 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29249
+#EXTINF:-1,US: Fox Sports 506 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29248
+#EXTINF:-1,US: Fox Sports Carolina HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19396
+#EXTINF:-1,US: Fox Sports Cincinnati HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19395
+#EXTINF:-1,US: Fox Sports (Detroit) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19394
+#EXTINF:-1,US: Fox Sports (Florida) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19393
+#EXTINF:-1,US: Fox Sports HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29246
+#EXTINF:-1,US: Fox Sports (North) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29245
+#EXTINF:-1,US: Fox Sports (South) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19390
+#EXTINF:-1,US: FOX 43 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44516
+#EXTINF:-1,US: Fox SPORTS 25 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44506
+#EXTINF:-1,US: Fox Sports San Diego HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44501
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44497
+#EXTINF:-1,US: FreeForm HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29243
+#EXTINF:-1,US: Fuel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29242
+#EXTINF:-1,US: The Golf Channel
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44495
+#EXTINF:-1,US: True Movies HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44491
+#EXTINF:-1,US: GSN HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29239
+#EXTINF:-1,US: HBO 2 FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19386
+#EXTINF:-1,US: HBO 2 West FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19385
+#EXTINF:-1,US: HBO Comedy HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29235
+#EXTINF:-1,US: HBO East HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29234
+#EXTINF:-1,US: HBO Family HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29233
+#EXTINF:-1,US: HBO Signature FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19382
+#EXTINF:-1,US: HBO Signature HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29231
+#EXTINF:-1,US: HBO Signature
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29230
+#EXTINF:-1,US: HBO
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29229
+#EXTINF:-1,US: HBO Zone FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29228
+#EXTINF:-1,US: HBO 2 Comedy
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/40684
+#EXTINF:-1,US: HBO 2 East
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44486
+#EXTINF:-1,US: HBO Family FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44485
+#EXTINF:-1,US: HGTV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29227
+#EXTINF:-1,US: HGTV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29226
+#EXTINF:-1,US: HIFI
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29225
+#EXTINF:-1,US: Hallmark Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29237
+#EXTINF:-1,US: History HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29224
+#EXTINF:-1,US: IFC HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29222
+#EXTINF:-1,US: Investigation Discovery HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29221
+#EXTINF:-1,US: IndiePlex HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19377
+#EXTINF:-1,US: Lifetime HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29220
+#EXTINF:-1,US: MLB Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29218
+#EXTINF:-1,US: MSNBC HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29216
+#EXTINF:-1,US: MTV Base HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29215
+#EXTINF:-1,US: MTV Rocks
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29214
+#EXTINF:-1,US: MoreMax FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19373
+#EXTINF:-1,US: MoviePlex HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19371
+#EXTINF:-1,US: Max West
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44475
+#EXTINF:-1,US: MSG (match time)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44464
+#EXTINF:-1,US: MTV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44459
+#EXTINF:-1,US: Music Choice - Dance
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44455
+#EXTINF:-1,US: Music Choice - Metal
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44453
+#EXTINF:-1,US: Music Choice - Mexican
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44452
+#EXTINF:-1,US: Music Choice - Pop Hits
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44450
+#EXTINF:-1,US: Music Choice - R&B/Soul
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44449
+#EXTINF:-1,US: Music Choice - Rap
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44448
+#EXTINF:-1,US: Music Choice Rap 2K
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44447
+#EXTINF:-1,US: Sportsnet 360 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19350
+#EXTINF:-1,US: Sportsnet East HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19349
+#EXTINF:-1,US: Sportsnet Ontario HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19348
+#EXTINF:-1,US: Sportsnet West HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19347
+#EXTINF:-1,US: NBA TV FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/50177
+#EXTINF:-1,US: NBC Golf FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29201
+#EXTINF:-1,US: NBC Golf HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29200
+#EXTINF:-1,US: NBC News HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29198
+#EXTINF:-1,US: NBC
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29196
+#EXTINF:-1,US: NBCSN HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29195
+#EXTINF:-1,US: NBCSN HD VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19367
+#EXTINF:-1,US: NFL Network 1
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29194
+#EXTINF:-1,US: NFL Network FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29193
+#EXTINF:-1,US: NFL Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29192
+#EXTINF:-1,US: NFL Red Zone (Match time only)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/49285
+#EXTINF:-1,US: NFL Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29191
+#EXTINF:-1,US: NFL Now HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29190
+#EXTINF:-1,US: NFL Now HD VIP
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19365
+#EXTINF:-1,US: NHL Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19364
+#EXTINF:-1,US: Nat geo wild
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29211
+#EXTINF:-1,US: NBCSN (North West) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44437
+#EXTINF:-1,US: NBCSN FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44435
+#EXTINF:-1,US: NICK JR
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44422
+#EXTINF:-1,US: Outdoor Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29186
+#EXTINF:-1,US: CineMax OuterMax HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19360
+#EXTINF:-1,US: Oprah Winfrey Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44416
+#EXTINF:-1,US: CineMax OuterMax FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44415
+#EXTINF:-1,US: OWN FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44414
+#EXTINF:-1,US: PAC-12 Arizona
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29185
+#EXTINF:-1,US: PAC-12 Bay Area
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29184
+#EXTINF:-1,US: PAC-12 Los Angeles FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29183
+#EXTINF:-1,US: PAC-12 Oregon FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29182
+#EXTINF:-1,US: PAC-12 Washington FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29181
+#EXTINF:-1,US: PAG HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44411
+#EXTINF:-1,US: PARAMOUNT
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44410
+#EXTINF:-1,US: PRISON BREAK
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44402
+#EXTINF:-1,US: RED BULL TV FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44396
+#EXTINF:-1,US: Reelz Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44395
+#EXTINF:-1,US: RT America HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44392
+#EXTINF:-1,US: RT DOCUMENTARY
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44391
+#EXTINF:-1,US: Showtime Extreme FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44385
+#EXTINF:-1,US: SEC Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29178
+#EXTINF:-1,US: Science HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29179
+#EXTINF:-1,US: Showtime East HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29175
+#EXTINF:-1,US: Showtime FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29174
+#EXTINF:-1,US: Showtime Showcase FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29173
+#EXTINF:-1,US: Showtime West HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29172
+#EXTINF:-1,US: Starz Black FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19346
+#EXTINF:-1,US: Starz Encore Action HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19336
+#EXTINF:-1,US: Starz Encore Classic FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19334
+#EXTINF:-1,US: Starz Encore East FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19333
+#EXTINF:-1,US: Starz Encore FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19332
+#EXTINF:-1,US: Starz Encore HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29164
+#EXTINF:-1,US: Starz Encore Suspense FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19329
+#EXTINF:-1,US: Starz Encore
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29163
+#EXTINF:-1,US: Starz Encore Western FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19327
+#EXTINF:-1,US: Starz Family FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19325
+#EXTINF:-1,US: Starz FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19326
+#EXTINF:-1,US: Starz West FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19323
+#EXTINF:-1,US: Starz West
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19322
+#EXTINF:-1,US: Starz Black
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44370
+#EXTINF:-1,US: Starz Kids & Family 24/7 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44356
+#EXTINF:-1,US: Starz West HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44354
+#EXTINF:-1,US: Sundance TV FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19357
+#EXTINF:-1,US: Smile Of A Child
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29171
+#EXTINF:-1,US: Spike HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29170
+#EXTINF:-1,US: Spike TV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29169
+#EXTINF:-1,US: Starz Cinema East HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19345
+#EXTINF:-1,US: Starz Cinema FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19344
+#EXTINF:-1,US: Starz Cinema
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29168
+#EXTINF:-1,US: Starz Cinema West HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19343
+#EXTINF:-1,US: Starz Comedy FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19342
+#EXTINF:-1,US: Starz Comedy
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29167
+#EXTINF:-1,US: Starz East FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19341
+#EXTINF:-1,US: Starz Edge FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19340
+#EXTINF:-1,US: Starz Edge HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29166
+#EXTINF:-1,US: Starz Edge
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29165
+#EXTINF:-1,US: Starz Edge West FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19338
+#EXTINF:-1,US: SyFy
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29161
+#EXTINF:-1,US: SyFy HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29162
+#EXTINF:-1,US: The Cowboy Channel (RFD-TV)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44340
+#EXTINF:-1,US: THE JETSONS
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44339
+#EXTINF:-1,US: THE PUNISHER
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44338
+#EXTINF:-1,US: THE SPORTSMAN CHANNEL
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44336
+#EXTINF:-1,US: THE WEATHER CHANNEL HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44335
+#EXTINF:-1,US: Toonami Aftermath
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44327
+#EXTINF:-1,US: Travel Channel FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44326
+#EXTINF:-1,US: TV Land
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44321
+#EXTINF:-1,US: TV ONE FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44320
+#EXTINF:-1,US: TV ONE HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43372
+#EXTINF:-1,US: TBS HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29160
+#EXTINF:-1,US: TNT HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29159
+#EXTINF:-1,US: Travel Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29158
+#EXTINF:-1,US: UC TV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44319
+#EXTINF:-1,US: UFC TV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44314
+#EXTINF:-1,US: UNIVERSAL FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43375
+#EXTINF:-1,US: UNIVERSAL KIDS HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43376
+#EXTINF:-1,US: UFC Fight Pass
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29156
+#EXTINF:-1,US: Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29154
+#EXTINF:-1,US: USA Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29152
+#EXTINF:-1,US: Univision FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29155
+#EXTINF:-1,US: VEVO FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44305
+#EXTINF:-1,US: VH1 (West)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44303
+#EXTINF:-1,US: VH1 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44302
+#EXTINF:-1,US: VH1 Classic
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29151
+#EXTINF:-1,US: WWE HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29150
+#EXTINF:-1,US: WWE Network FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29149
+#EXTINF:-1,US: WWE
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29148
+#EXTINF:-1,US: truTV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/29157
+#EXTINF:-1,US: TLC HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/19319
+#EXTINF:-1,US: Sportsnet One
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/40660
+#EXTINF:-1,US: Sportsnet Ontario
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/40658
+#EXTINF:-1,US: Sportsnet World
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/40657
+#EXTINF:-1,US: Tennis Channel HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/40650
+#EXTINF:-1,US: ABC NY HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43038
+#EXTINF:-1,US: AFN Movie HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42535
+#EXTINF:-1,US: AFN Sports 1 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43039
+#EXTINF:-1,US: AFN Sports 2 HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43040
+#EXTINF:-1,US: Bounce TV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42524
+#EXTINF:-1,US: CBS New York FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43045
+#EXTINF:-1,US: CBS News
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42527
+#EXTINF:-1,US: Cinema 01 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43048
+#EXTINF:-1,US: Cinema 02 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43049
+#EXTINF:-1,US: Cinema 03 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43050
+#EXTINF:-1,US: Cinema 04 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43051
+#EXTINF:-1,US: Cinema 05 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43052
+#EXTINF:-1,US: Cinema 06 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43053
+#EXTINF:-1,US: Cinema 07 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43054
+#EXTINF:-1,US: Cinema 08 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43055
+#EXTINF:-1,US: Cinema 09 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43056
+#EXTINF:-1,US: Cinema 10 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43057
+#EXTINF:-1,US: Cinema 11 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43058
+#EXTINF:-1,US: Cinema 12 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43059
+#EXTINF:-1,US: Cinema 13 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43060
+#EXTINF:-1,US: Cinema 14 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43061
+#EXTINF:-1,US: Cinema 15 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43062
+#EXTINF:-1,US: Cinema 16 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43063
+#EXTINF:-1,US: Cinema 17 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43064
+#EXTINF:-1,US: Cinema 18 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43065
+#EXTINF:-1,US: Cinema 19 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43066
+#EXTINF:-1,US: Cinema 20 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43067
+#EXTINF:-1,US: Cinema 21 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43068
+#EXTINF:-1,US: Cinema 22 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43069
+#EXTINF:-1,US: Cinema 23 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43070
+#EXTINF:-1,US: Cinema 24 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43071
+#EXTINF:-1,US: Cinema 25 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43072
+#EXTINF:-1,US: Cinema 26 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43073
+#EXTINF:-1,US: Cinema 27 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43074
+#EXTINF:-1,US: Cinema 28 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43075
+#EXTINF:-1,US: Cinema 29 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43076
+#EXTINF:-1,US: Cinema 30 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43077
+#EXTINF:-1,US: Cinema 31 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43078
+#EXTINF:-1,US: Cinema 32 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43079
+#EXTINF:-1,US: Cinema 33 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43080
+#EXTINF:-1,US: Cinema 34 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43082
+#EXTINF:-1,US: Cinema 35 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43085
+#EXTINF:-1,US: Cinema 36 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43086
+#EXTINF:-1,US: Cinema 38 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43087
+#EXTINF:-1,US: Cinema 39 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43088
+#EXTINF:-1,US: Cinema 40 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43089
+#EXTINF:-1,US: Cinema 41 PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43090
+#EXTINF:-1,US: CNN INTERNATIONAL HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42529
+#EXTINF:-1,US: COUNTRY NETWORK
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43092
+#EXTINF:-1,US: Crime & Investigation FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43093
+#EXTINF:-1,US: EPIX FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43096
+#EXTINF:-1,US: Fight Network HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43099
+#EXTINF:-1,US: Fox Business HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43108
+#EXTINF:-1,US: Fox Sports College Pacific HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43111
+#EXTINF:-1,US: Fox Sports (Arizona) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43112
+#EXTINF:-1,US: Fox Sports (College Atlantic) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43113
+#EXTINF:-1,US: Fox Sports (College Central) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43114
+#EXTINF:-1,US: Fox Sports (Mid West) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43309
+#EXTINF:-1,US: Fox Sports (Ohio) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43310
+#EXTINF:-1,US: Fox Sports (South East) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43311
+#EXTINF:-1,US: Fox Sports (South West) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43312
+#EXTINF:-1,US: Fox Sports (Sun) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43314
+#EXTINF:-1,US: Fox Sports (West) HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43316
+#EXTINF:-1,US: FOX SPORTS ASIA HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43318
+#EXTINF:-1,US: Fox Sports Tennessee HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43320
+#EXTINF:-1,US: FOX West
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43321
+#EXTINF:-1,US: FUSE HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43322
+#EXTINF:-1,US: FUSION
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43323
+#EXTINF:-1,US: FX (West)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43324
+#EXTINF:-1,US: FXX HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43327
+#EXTINF:-1,US: FXX WEST
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43328
+#EXTINF:-1,US: GALAVISION
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43330
+#EXTINF:-1,US: HSN HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43336
+#EXTINF:-1,US: lifetime movies FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43353
+#EXTINF:-1,US: MLB Live HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43354
+#EXTINF:-1,US: NBC (EAST)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42525
+#EXTINF:-1,US: NBC 4 (NY)
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43356
+#EXTINF:-1,US: NBCSN Bay Area HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42517
+#EXTINF:-1,US: NBCSN Boston HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42518
+#EXTINF:-1,US: NBCSN California HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42519
+#EXTINF:-1,US: NBCSN Chicago HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42520
+#EXTINF:-1,US: NBCSN North West HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42521
+#EXTINF:-1,US: NBCSN Philly HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/42522
+#EXTINF:-1,US: NEW ORLEANS TV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43358
+#EXTINF:-1,US: OWN NETWORK FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43359
+#EXTINF:-1,US: PBS HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43361
+#EXTINF:-1,US: PBS KIDS EAST
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43362
+#EXTINF:-1,US: POP TV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43363
+#EXTINF:-1,US: REVOLT HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43364
+#EXTINF:-1,US: WAPA America HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44299
+#EXTINF:-1,US: WCBD-TV NEWS 2 CHARLESTON
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44297
+#EXTINF:-1,US: WCCB News Rising
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44295
+#EXTINF:-1,US: WCNC Breaking News
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44294
+#EXTINF:-1,US: WE TV HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43378
+#EXTINF:-1,US: WGN America HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44291
+#EXTINF:-1,US: WGN News Chicago
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44290
+#EXTINF:-1,US: Wild HD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44288
+#EXTINF:-1,US: WPIX 11 NY
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/43379
+#EXTINF:-1,US: WWE 24/7 FHD
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44281
+#EXTINF:-1,US: WWE PPV
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44279
+#EXTINF:-1,US: Yes Network
+http://clientportal.stream:8080/w5gUEB5ALD/zprDIEIiTx/44275
