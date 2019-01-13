@@ -212,7 +212,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
 
-#EXTM3U
+
 #EXTINF:0,A&E
 http://unlockyourtv.com:8000/billy/billy/866
 #EXTINF:0,ABC West
