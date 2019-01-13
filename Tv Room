@@ -5,13 +5,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1621</link>
 <item>
 <title>A&E HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1364</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/866</link>
 <item>
 <title>A&E</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/866</link>
 <item>
 <title>Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1365</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/834</link>
 <item>
 <title>TV LAND HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/564</link>
@@ -35,7 +35,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1411</link>
 <item>
 <title>CMT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1410</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1161</link>
 <item>
 <title>Global Vancouver</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1375</link>
@@ -53,28 +53,28 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1378</link>
 <item>
 <title>ABC West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/980</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/980</link>
 <item>
 <title>AMC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/981</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/981</link>
 <item>
 <title>American Heroes Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1760</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1760</link>
 <item>
 <title>Bravo West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/2139</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2139</link>
 <item>
 <title>Cartoon Network East HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/538</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/538</link>
 <item>
 <title>CBS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/993</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/993</link>
 <item>
 <title>FOOD NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/836</link>
 <item>
 <title>Cooking Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/2142</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2142</link>
 <item>
 <title>CNN HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/885</link>
@@ -199,8 +199,8 @@
 <title>YES NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1166</link>
 <item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>COMEDY CENTRAL HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/539</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
@@ -213,158 +213,8 @@
 
 
 
-#EXTINF:0,A&E
-http://unlockyourtv.com:8000/billy/billy/866
-#EXTINF:0,ABC West
-http://unlockyourtv.com:8000/billy/billy/980
-#EXTINF:0,ABC Atlanta
-http://unlockyourtv.com:8000/billy/billy/2264
-#EXTINF:0,ABC Boston
-http://unlockyourtv.com:8000/billy/billy/2266
-#EXTINF:0,ABC Chicago
-http://unlockyourtv.com:8000/billy/billy/2267
-#EXTINF:0,ABC Cleveland
-http://unlockyourtv.com:8000/billy/billy/2268
-#EXTINF:0,ABC 9 Charlotte
-http://unlockyourtv.com:8000/billy/billy/1597
-#EXTINF:0,ABC Connecticut
-http://unlockyourtv.com:8000/billy/billy/2269
-#EXTINF:0,ABC 8 Dallas
-http://unlockyourtv.com:8000/billy/billy/1596
-#EXTINF:0,ABC Denver
-http://unlockyourtv.com:8000/billy/billy/2270
-#EXTINF:0,ABC 7 Detroit
-http://unlockyourtv.com:8000/billy/billy/1823
-#EXTINF:0,ABC Fresno
-http://unlockyourtv.com:8000/billy/billy/2271
-#EXTINF:0,ABC Indianapolis
-http://unlockyourtv.com:8000/billy/billy/2272
-#EXTINF:0,ABC 9 Kansas City
-http://unlockyourtv.com:8000/billy/billy/1598
-#EXTINF:0,ABC Los Angeles
-http://unlockyourtv.com:8000/billy/billy/1618
-#EXTINF:0,ABC Miami
-http://unlockyourtv.com:8000/billy/billy/2274
-#EXTINF:0,ABC Milwaukee
-http://unlockyourtv.com:8000/billy/billy/2275
-#EXTINF:0,ABC Orlando
-http://unlockyourtv.com:8000/billy/billy/2277
-#EXTINF:0,ABC 15 Phoenix
-http://unlockyourtv.com:8000/billy/billy/1592
-#EXTINF:0,ABC Portland
-http://unlockyourtv.com:8000/billy/billy/2280
-#EXTINF:0,ABC Sacramento
-http://unlockyourtv.com:8000/billy/billy/2281
-#EXTINF:0,ABC Salt Lake City
-http://unlockyourtv.com:8000/billy/billy/2283
-#EXTINF:0,ABC San Antonio
-http://unlockyourtv.com:8000/billy/billy/2284
-#EXTINF:0,ABC Seattle
-http://unlockyourtv.com:8000/billy/billy/2287
-#EXTINF:0,ABC St. Louis
-http://unlockyourtv.com:8000/billy/billy/2288
-#EXTINF:0,ABC Washington
-http://unlockyourtv.com:8000/billy/billy/2289
-#EXTINF:0,ABC 7 News (Sarasota)
-http://unlockyourtv.com:8000/billy/billy/1345
-#EXTINF:0,American Heroes Channel
-http://unlockyourtv.com:8000/billy/billy/1760
-#EXTINF:0,AMC
-http://unlockyourtv.com:8000/billy/billy/981
-#EXTINF:0,Animal Planet
-http://unlockyourtv.com:8000/billy/billy/834
-#EXTINF:0,BET East HD
-http://unlockyourtv.com:8000/billy/billy/453
-#EXTINF:0,BET HER
-http://unlockyourtv.com:8000/billy/billy/957
-#EXTINF:0,Bloomberg TV HD
-http://unlockyourtv.com:8000/billy/billy/1356
-#EXTINF:0,Bravo West
-http://unlockyourtv.com:8000/billy/billy/2139
-#EXTINF:0,Cartoon Network East HD
-http://unlockyourtv.com:8000/billy/billy/538
-#EXTINF:0,CBS
-http://unlockyourtv.com:8000/billy/billy/993
-#EXTINF:0,CBS Atlanta
-http://unlockyourtv.com:8000/billy/billy/2290
-#EXTINF:0,CBS Baltimore
-http://unlockyourtv.com:8000/billy/billy/2291
-#EXTINF:0,CBS 4 BOSTON
-http://unlockyourtv.com:8000/billy/billy/1031
-#EXTINF:0,CBS Charlotte
-http://unlockyourtv.com:8000/billy/billy/2292
-#EXTINF:0,CBS Chicago
-http://unlockyourtv.com:8000/billy/billy/1035
-#EXTINF:0,CBS Cleveland
-http://unlockyourtv.com:8000/billy/billy/2293
-#EXTINF:0,CBS Columbus
-http://unlockyourtv.com:8000/billy/billy/2294
-#EXTINF:0,CBS Dallas
-http://unlockyourtv.com:8000/billy/billy/2295
-#EXTINF:0,CBS 4 DENVER
-http://unlockyourtv.com:8000/billy/billy/1034
-#EXTINF:0,CBS 62 DETROIT
-http://unlockyourtv.com:8000/billy/billy/1040
-#EXTINF:0,CBS Greensboro
-http://unlockyourtv.com:8000/billy/billy/2296
-#EXTINF:0,CBS Hartford
-http://unlockyourtv.com:8000/billy/billy/2297
-#EXTINF:0,CBS Houston
-http://unlockyourtv.com:8000/billy/billy/2298
-#EXTINF:0,CBS Jacksonville
-http://unlockyourtv.com:8000/billy/billy/2299
-#EXTINF:0,CBS Kansas City
-http://unlockyourtv.com:8000/billy/billy/2300
-#EXTINF:0,CBS 2 LOS ANGELES
-http://unlockyourtv.com:8000/billy/billy/1036
-#EXTINF:0,CBS Miami
-http://unlockyourtv.com:8000/billy/billy/2301
-#EXTINF:0,CBS Milwaukee
-http://unlockyourtv.com:8000/billy/billy/2302
-#EXTINF:0,CBS Minneapolis
-http://unlockyourtv.com:8000/billy/billy/2303
-#EXTINF:0,CBS Nashville
-http://unlockyourtv.com:8000/billy/billy/2304
-#EXTINF:0,CBS New Orleans
-http://unlockyourtv.com:8000/billy/billy/2305
-#EXTINF:0,CBS 2 NEW YORK
-http://unlockyourtv.com:8000/billy/billy/1037
-#EXTINF:0,CBS Orlando
-http://unlockyourtv.com:8000/billy/billy/2306
-#EXTINF:0,CBS Phoenix
-http://unlockyourtv.com:8000/billy/billy/2307
-#EXTINF:0,CBS Pittsburgh
-http://unlockyourtv.com:8000/billy/billy/2308
-#EXTINF:0,CBS Sacramento
-http://unlockyourtv.com:8000/billy/billy/2309
-#EXTINF:0,CBS San Antonio
-http://unlockyourtv.com:8000/billy/billy/2310
-#EXTINF:0,CBS San Diego
-http://unlockyourtv.com:8000/billy/billy/2311
-#EXTINF:0,CBS San Francisco
-http://unlockyourtv.com:8000/billy/billy/2312
-#EXTINF:0,CBS Seattle
-http://unlockyourtv.com:8000/billy/billy/2313
-#EXTINF:0,CBS Tampa
-http://unlockyourtv.com:8000/billy/billy/2315
-#EXTINF:0,CBSN HD
-http://unlockyourtv.com:8000/billy/billy/611
-#EXTINF:0,Cinemax Action Max HD
-http://unlockyourtv.com:8000/billy/billy/580
-#EXTINF:0,Cinemax East
-http://unlockyourtv.com:8000/billy/billy/2068
-#EXTINF:0,Cinemax West
-http://unlockyourtv.com:8000/billy/billy/2149
-#EXTINF:0,CINEMAX MORE MAX
-http://unlockyourtv.com:8000/billy/billy/1163
-#EXTINF:0,CINEMAX OUTER MAX
-http://unlockyourtv.com:8000/billy/billy/1158
-#EXTINF:0,Cooking Channel
-http://unlockyourtv.com:8000/billy/billy/2142
-#EXTINF:0,COMEDY CENTRAL HD
-http://unlockyourtv.com:8000/billy/billy/539
-#EXTINF:0,COZI
-http://unlockyourtv.com:8000/billy/billy/2143
+
+
 #EXTINF:0,CMT HD
 http://unlockyourtv.com:8000/billy/billy/1161
 #EXTINF:0,CNBC
