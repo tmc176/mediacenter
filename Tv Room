@@ -8,13 +8,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10439</link>
 <item>
 <title>TV LAND HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/564</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10382</link>
 <item>
 <title>We Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1028</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10382</link>
 <item>
 <title>CBS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/1408</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10432</link>
 <item>
 <title>COMEDY CENTRAL HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/539</link>
@@ -152,22 +152,22 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10395</link>
 <item>
 <title>SyFy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/904</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10388</link>
 <item>
 <title>TBS East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/560</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10386</link>
 <item>
 <title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/638</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10385</link>
 <item>
 <title>TNT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/561</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10384</link>
 <item>
 <title>Travel Channel</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/905</link>
 <item>
 <title>TRU TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/563</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10383</link>
 <item>
 <title>TV One</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/886</link>
@@ -199,11 +199,11 @@
 <title>SLICE HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10392</link>
 <item>
-<title>TBA</title>
+<title>Starz HD US</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10390</link>
 <item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>STARZ KIDS & Family HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10389</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
@@ -212,63 +212,11 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://youtu.be/LcxkgUTOe0g</link>
 
 
 
 
-#EXTINF:0,Us- CBS Sport HD
-http://m-iptv.net:6204/ahannan/ahannan/10433
-#EXTINF:0,Us- Fox sport 1 HD
-http://m-iptv.net:6204/ahannan/ahannan/10416
-#EXTINF:0,Us- Fox sport 2 HD
-http://m-iptv.net:6204/ahannan/ahannan/10415
-#EXTINF:0,Us- NBA HD
-http://m-iptv.net:6204/ahannan/ahannan/10400
-#EXTINF:0,Us- NBCSN HD
-http://m-iptv.net:6204/ahannan/ahannan/10398
-
-
-#EXTINF:0,Us- SHOWTIME FAMILY ZONE
-http://m-iptv.net:6204/ahannan/ahannan/10393
-#EXTINF:0,Us- SLICE HD
-http://m-iptv.net:6204/ahannan/ahannan/10392
-#EXTINF:0,Us- Starz HD US
-http://m-iptv.net:6204/ahannan/ahannan/10390
-#EXTINF:0,Us- STARZ KIDS & Family HD
-http://m-iptv.net:6204/ahannan/ahannan/10389
-#EXTINF:0,Us- Syfy HD
-http://m-iptv.net:6204/ahannan/ahannan/10388
-#EXTINF:0,Us- SyFy HD USA
-http://m-iptv.net:6204/ahannan/ahannan/10387
-#EXTINF:0,Us- TBS USA
-http://m-iptv.net:6204/ahannan/ahannan/10386
-#EXTINF:0,Us- TLC HD
-http://m-iptv.net:6204/ahannan/ahannan/10385
-#EXTINF:0,Us- TNT US
-http://m-iptv.net:6204/ahannan/ahannan/10384
-#EXTINF:0,Us- TRU TV HD
-http://m-iptv.net:6204/ahannan/ahannan/10383
-#EXTINF:0,Us- TSN 1 HD
-http://m-iptv.net:6204/ahannan/ahannan/10636
-#EXTINF:0,Us- TSN 2 HD
-http://m-iptv.net:6204/ahannan/ahannan/10635
-#EXTINF:0,Us- TSN 3 HD
-http://m-iptv.net:6204/ahannan/ahannan/10634
-#EXTINF:0,Us- TSN 4 HD
-http://m-iptv.net:6204/ahannan/ahannan/10633
-#EXTINF:0,Us- TSN 5 HD
-http://m-iptv.net:6204/ahannan/ahannan/10632
-#EXTINF:0,Us- TV Land HD
-http://m-iptv.net:6204/ahannan/ahannan/10382
-#EXTINF:0,Us- Viceland TV
-http://m-iptv.net:6204/ahannan/ahannan/10379
-#EXTINF:0,Us- WE HD
-http://m-iptv.net:6204/ahannan/ahannan/10378
-#EXTINF:0,Us- Weather channel
-http://m-iptv.net:6204/ahannan/ahannan/10377
-#EXTINF:0,Us- WWE HD
-http://m-iptv.net:6204/ahannan/ahannan/10376
 
 
 
