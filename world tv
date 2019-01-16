@@ -99,5 +99,89 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",ESPN
+http://gorilladick4.us:2086/live/irishboy/irishboy/468.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",ESPN 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/478.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SPORTS NET WORLD
+http://gorilladick4.us:2086/live/irishboy/irishboy/1087.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",ELEVEN SPORT
+http://gorilladick4.us:2086/live/irishboy/irishboy/2275.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 
+#EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:0 tvg-id="cartoon" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",CARTOON NETWORK
+http://persik.by/stream/2944/263250/32.m3u8
+#EXTINF:0 tvg-id="disney" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Da Vinci
+http://210.210.155.35/uq2663/h/h01/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",my KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",AniPlus 
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/402.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY SCIENCE HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/465.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",INVESTIGATION DISCOVERY HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/407.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NATIONAL GEOGRAPHIC HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/537.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NAT GEO WILD HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/358.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/383.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HISTORY HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/425.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",MILITERY HISTORY HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/480.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HGTV HD
+http://gorilladick4.us:2086/live/irishboy/irishboy/412.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NATIONAL GEOGRAPHIC
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NAT GEO WILD
+http://60.248.127.231:8038/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",SCI
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",Showtime
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",INVESTIGATION DISCOVERY
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",FOX MOVIES [AR]
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY CH. HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
 
