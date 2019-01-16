@@ -143,7 +143,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99517</link>
 <item>
 <title>SyFy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99508</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/193</link>
 <item>
 <title>TBS East</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99507</link>
@@ -243,229 +243,78 @@
 
 
 
-#EXTINF:-1,USA : HISTORY HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72585
-#EXTINF:-1,USA : Investigation Discovery
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72586
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/designfgb/designfgb1207/designfgb120700113/14404848-hecho-en-ee-uu-de-c%C3%B3digo-de-barras-ilustraci%C3%B3n-vectorial.jpg" group-title="PREMIUM USA",PREMIUM USA
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#######################################
 
-#EXTINF:-1,USA : MLB Network
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72647
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM USA",AMC HD
+http://shacktv.com:8080/skylar/skylar/121
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",CINEMAX HD
+http://shacktv.com:8080/skylar/skylar/229
 
-#EXTINF:-1,USA : Network (US)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72588
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",CINEMAX EAST HD
+http://shacktv.com:8080/skylar/skylar/228
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/293.png" group-title="PREMIUM USA",CINEMAX ACTIONMAX HD
+http://shacktv.com:8080/skylar/skylar/265
 
+#EXTINF:-1 tvg-logo="https://movies-skyline.dyndns.tv/logos-ch/more_max_east.png" group-title="PREMIUM USA",CINEMAX MOREMAX HD
+http://shacktv.com:8080/skylar/skylar/267
 
-#EXTINF:-1,USA : SPIKE HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72682
-#EXTINF:-1,USA : Sports-Net
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72686
-#EXTINF:-1,USA : Sportsnet 360 HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72653
-#EXTINF:-1,USA : Starz Cinema
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72572
-#EXTINF:-1,USA : Starz Comedy
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72573
-#EXTINF:-1,USA : Starz East
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72574
-#EXTINF:-1,USA : STARZ EDGE HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72683
-#EXTINF:-1,USA : Starz Encore
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72575
-#EXTINF:-1,USA : SYFY HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72589
-#EXTINF:-1,USA : TBS HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72652
-#EXTINF:-1,USA : Telemundo Boston
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87763
-#EXTINF:-1,USA : Telemundo Chicago
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87762
-#EXTINF:-1,USA : Telemundo Dallas
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87761
-#EXTINF:-1,USA : Telemundo Denver
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87760
-#EXTINF:-1,USA : Telemundo Fresno
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87759
-#EXTINF:-1,USA : Telemundo Harlingen
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87758
-#EXTINF:-1,USA : Telemundo Houston
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87757
-#EXTINF:-1,USA : Telemundo Las Vegas
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87756
-#EXTINF:-1,USA : Telemundo Los Angeles
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87755
-#EXTINF:-1,USA : Telemundo Miami
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87754
-#EXTINF:-1,USA : Telemundo New York
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87753
-#EXTINF:-1,USA : Telemundo Philadelphia
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87752
-#EXTINF:-1,USA : Telemundo Phoenix
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87751
-#EXTINF:-1,USA : Telemundo San Antonio
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87750
-#EXTINF:-1,USA : Telemundo San Francisco
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87749
-#EXTINF:-1,USA : Telemundo Tucson
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/87748
-#EXTINF:-1,USA : Tennis Channel HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72576
-#EXTINF:-1,USA : THE FLORIDA CHANNEL
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72616
-#EXTINF:-1,USA : TLC HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72602
-#EXTINF:-1,USA : TNT HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72590
-#EXTINF:-1,USA : TSN 1
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72654
-#EXTINF:-1,USA : TSN 3*
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72656
-#EXTINF:-1,USA : TSN 4 HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72657
-#EXTINF:-1,USA-Unimas Dallas (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98874
-#EXTINF:-1,USA-Unimas Georgia (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98873
-#EXTINF:-1,USA-Unimas Hawaii (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98872
-#EXTINF:-1,USA-Unimas Miami (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98871
-#EXTINF:-1,USA-Unimas New York (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98870
-#EXTINF:-1,USA-Unimas Washington (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98869
-#EXTINF:-1,USA-Univisi?n Georgia (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98866
-#EXTINF:-1,USA-Univision Miami (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98864
-#EXTINF:-1,USA-Univision New York (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98863
-#EXTINF:-1,USA-Univisi?n Washington (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98862
-#EXTINF:-1,USA-Univision Arizona (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98868
-#EXTINF:-1,USA-Univision Dallas (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98867
-#EXTINF:-1,USA-Univision Hawaii (I)
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/98865
-#EXTINF:-1,USA : USA Network HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72684
-#EXTINF:-1,USA : Versus HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72603
-#EXTINF:-1,USA : VH1 Classic
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72622
-#EXTINF:-1,USA : WEATHERNATION
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72615
-#EXTINF:-1,USA : WGN America HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72605
-#EXTINF:-1,USA : WGN News Chicago
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72614
-#EXTINF:-1,USA : WWE HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72604
-#EXTINF:-1,USA : Yes Network
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72613
-#EXTINF:-1,USA : YTV
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72612
-#EXTINF:-1,USA :ABC Los Angeles [HD]
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/34484
-#EXTINF:-1,USA:A&E
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11597
-#EXTINF:-1,USA:BABY TV SPANISH
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11559
-#EXTINF:-1,USA:BEIN ENGLISH HD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11610
-#EXTINF:-1,USA:BRAVO
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11596
-#EXTINF:-1,USA:BTN
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11608
-#EXTINF:-1,USA:CBS [1080]
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/23708
-#EXTINF:-1,USA:CBS 2 Los Angeles [1080]
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/23707
-#EXTINF:-1,USA:CBS New York [1080]
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/23706
-#EXTINF:-1,USA:CBS Sports Network [1080]
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/23705
-#EXTINF:-1,USA:CHILLER
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11595
-#EXTINF:-1,USA:CINE SONY
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11564
-#EXTINF:-1,USA:CNBC
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11572
-#EXTINF:-1,USA:CNBC WORLD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11571
-#EXTINF:-1,USA:COZI
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11560
-#EXTINF:-1,USA:CYCLING
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11624
-#EXTINF:-1,USA:EL REY NETWORK
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11593
-#EXTINF:-1,USA:ELEVEN SPORT
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11600
-#EXTINF:-1,USA:ENTERTAINMENT
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11594
-#EXTINF:-1,USA:FANTASY
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11621
-#EXTINF:-1,USA:FOOTBALL REPORTS TV
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11598
-#EXTINF:-1,USA:FOX BUINESS
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11569
-#EXTINF:-1,USA:FOX LIFE
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11592
-#EXTINF:-1,USA:FOX NEWS
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11570
-#EXTINF:-1,USA:FOX SOCCER PLUS
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11604
-#EXTINF:-1,USA:FOX SPORT 1
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11614
-#EXTINF:-1,USA:FOX SPORT 2
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11613
-#EXTINF:-1,USA:FOX SPORT FLORIDA
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11616
-#EXTINF:-1,USA:FOXSUN
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11615
-#EXTINF:-1,USA:FUBO NETWORK
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11618
-#EXTINF:-1,USA:FUSE
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11591
-#EXTINF:-1,USA:FX
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11590
-#EXTINF:-1,USA:FXM
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11589
-#EXTINF:-1,USA:FXX
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11588
-#EXTINF:-1,USA:FYI
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11587
-#EXTINF:-1,USA:HALLMARK
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11577
-#EXTINF:-1,USA:HALLMARK MOVIES MISTERIES
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11576
-#EXTINF:-1,USA:HISTORY
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11586
-#EXTINF:-1,USA:LIFETIME
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11575
-#EXTINF:-1,USA:LIFETIME MOVIE NETWROK
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11574
-#EXTINF:-1,USA:NAT GEO WILD
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11583
-#EXTINF:-1,USA:NATIONAL GEOGRAPHIC
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11585
-#EXTINF:-1,USA:NBC
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11626
-#EXTINF:-1,USA:NBCSN
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11612
-#EXTINF:-1,USA:SYFY
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11580
-#EXTINF:-1,USA:THE GOLF CHANEL
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11606
-#EXTINF:-1,USA:UNIVERSAL
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11579
-#EXTINF:-1,USA:USA
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11578
-#EXTINF:-1,USA:VICELAND
-http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/11565
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="PREMIUM USA",COMEDY CENTRAL HD
+http://shacktv.com:8080/skylar/skylar/226
 
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0024/9015/brand.gif?itok=Z188OCZG" group-title="PREMIUM USA",EPIX HD
+http://shacktv.com:8080/skylar/skylar/219
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/rucookiemunchers.com/wp-content/uploads/2018/03/fox-29-logo-square.jpg" group-title="PREMIUM USA",FOX 29 HD
+http://shacktv.com:8080/skylar/skylar/151
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/sml_gallery_1163_2_64.png"  group-title="PREMIUM USA",FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM USA",FX HD
+http://shacktv.com:8080/skylar/skylar/150
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e4c5bb9a89b61cac94ecdbf1efa07c5.png" group-title="PREMIUM USA",FXX HD
+http://shacktv.com:8080/skylar/skylar/149
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7536126_300x300" group-title="PREMIUM USA",HALLMARK HD
+http://shacktv.com:8080/skylar/skylar/259
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkw4LiQ03qo2whwu7N854sonl0f6wlGTKcovD9lx7rFVbyvOkf" group-title="PREMIUM USA",HBO HD
+http://shacktv.com:8080/skylar/skylar/248
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png"  group-title="PREMIUM USA",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dailydot.com/wp-content/uploads/3cf/89/hbocomedy.jpg" group-title="PREMIUM USA",HBO COMEDY HD
+http://shacktv.com:8080/skylar/skylar/258
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/1600/hbo.png" group-title="PREMIUM USA",HBO WEST HD
+http://shacktv.com:8080/skylar/skylar/262
+
+#EXTINF:-1 tvg-logo="https://cdn.directv.com/content/dam/dtv/prod/components_att/images/channel-lineup/lifetime-movies@2x.jpg" group-title="PREMIUM USA",LIFETIME MOVIES HD
+http://shacktv.com:8080/skylar/skylar/207
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/50/5007f7bbb8f6e3723c1e66f75d8929a0.png" group-title="PREMIUM USA",SPIKE HD
+http://shacktv.com:8080/skylar/skylar/255
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",STARZ HD
+http://shacktv.com:8080/skylar/skylar/61169
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/syfy-1.jpg" group-title="PREMIUM USA",SYFY HD
+http://shacktv.com:8080/skylar/skylar/193
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM USA",TBS HD
+http://shacktv.com:8080/skylar/skylar/192
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/xtcm-1.jpg.pagespeed.ic.Hca8DWbbaF.jpg" group-title="PREMIUM USA",TCM HD
+http://shacktv.com:8080/skylar/skylar/96
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZP0GqShGRgdA9s3yvQYyVYooUtYUssLIyB_lU2juSepYJWYQ" group-title="PREMIUM USA",UNIVERSAL HD
+http://shacktv.com:8080/skylar/skylar/186
 
 
 
