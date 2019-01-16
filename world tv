@@ -172,4 +172,25 @@ http://shacktv.com:8080/skylar/skylar/96
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZP0GqShGRgdA9s3yvQYyVYooUtYUssLIyB_lU2juSepYJWYQ" group-title="PREMIUM USA",UNIVERSAL HD
 http://shacktv.com:8080/skylar/skylar/186
 
-
+#EXTINF:-1, group-title="WORLD TV", TV LAND | HD
+http://kstreams.tk:25461/angie/angie/9578
+#EXTINF:-1, group-title="WORLD TV", TV LAND CLASSIC | HD
+http://kstreams.tk:25461/angie/angie/9579
+#EXTINF:-1, group-title="WORLD TV", TV ONE | HD
+http://kstreams.tk:25461/angie/angie/9577
+#EXTINF:-1, group-title="WORLD TV", TYC SPORTS | HD
+http://kstreams.tk:25461/angie/angie/9561
+#EXTINF:-1, group-title="WORLD TV", UNIVERSAL KIDS | HD
+http://kstreams.tk:25461/angie/angie/9576
+#EXTINF:-1, group-title="WORLD TV", USA NETWORK ( West ) | HD
+http://kstreams.tk:25461/angie/angie/9575
+#EXTINF:-1, group-title="WORLD TV", USA NETWORK | HD*
+http://kstreams.tk:25461/angie/angie/9574
+#EXTINF:-1, group-title="WORLD TV", VH1 (East) | HD
+http://kstreams.tk:25461/angie/angie/9573
+#EXTINF:-1, group-title="WORLD TV", VH1 (East) | HD*
+http://kstreams.tk:25461/angie/angie/9572
+#EXTINF:-1, group-title="WORLD TV", VICE LAND | HD
+http://kstreams.tk:25461/angie/angie/9571
+#EXTINF:-1, group-title="WORLD TV", WE TV | HD
+http://kstreams.tk:25461/angie/angie/7888
