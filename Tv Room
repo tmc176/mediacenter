@@ -238,25 +238,631 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/75137</link>
 <item>
 <title>TCM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/96</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76961</link>
 <item>
 <title>Fuse Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77126</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77324</link>
 <item>
 <title>Universal Kids</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/186</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77318</link>
 <item>
 <title>LMN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99523</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77303</link>
 <item>
 <title>SPIKE</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/160142</link>
 <item>
 <title>Yes Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76762</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/103576</link>
 
 
 
+#EXTINF:-1,CA: A&E FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77016
+#EXTINF:-1,CA: ABC (East) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77284
+#EXTINF:-1,CA: ABC (West) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77285
+#EXTINF:-1,CA: ABC SPARK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77227
+#EXTINF:-1,CA: ADDIK TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77287
+#EXTINF:-1,CA: AHC
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77015
+#EXTINF:-1,CA: AMC FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77014
+#EXTINF:-1,CA: ANIMAL PLANET HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77013
+#EXTINF:-1,CA: ARTV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77289
+#EXTINF:-1,CA: Assemblée Nationale Québec
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158493
+#EXTINF:-1,CA: BBC CANADA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158494
+#EXTINF:-1,CA: BET
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148243
+#EXTINF:-1,CA: BNN FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77293
+#EXTINF:-1,CA: BOOK TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77294
+#EXTINF:-1,CA: Bravo HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77011
+#EXTINF:-1,CA: C-PAC HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77312
+#EXTINF:-1,CA: CANAL D
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77295
+#EXTINF:-1,CA: CARTOON NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/151390
+#EXTINF:-1,CA: CASA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148459
+#EXTINF:-1,CA: CBC MONTREAL HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77229
+#EXTINF:-1,CA: CBC NEWS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77299
+#EXTINF:-1,CA: CBC VANCOUVER HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77230
+#EXTINF:-1,CA: CBS (West) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77231
+#EXTINF:-1,CA: CBS EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77301
+#EXTINF:-1,CA: CHCH FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77302
+#EXTINF:-1,CA: CINEPOP
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152294
+#EXTINF:-1,CA: CITY MONTREAL
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/134732
+#EXTINF:-1,CA: CITY SASKATCHEWAN
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/124054
+#EXTINF:-1,CA: CITY TORONTO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77303
+#EXTINF:-1,CA: CITY TV VANCOUVER
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145517
+#EXTINF:-1,CA: CITY WINNIPEG
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/124055
+#EXTINF:-1,CA: CMT HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77305
+#EXTINF:-1,CA: CNBC HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77306
+#EXTINF:-1,CA: CNN HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77192
+#EXTINF:-1,CA: CNN INTERNATIONAL HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77308
+#EXTINF:-1,CA: COMEDY FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/75116
+#EXTINF:-1,CA: COMEDY GOLD HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77006
+#EXTINF:-1,CA: COMEDY HD (West)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108476
+#EXTINF:-1,CA: COOKING CHANNEL FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77309
+#EXTINF:-1,CA: COSMO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150209
+#EXTINF:-1,CA: COTTAGE LIFE HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77311
+#EXTINF:-1,CA: CP24 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76961
+#EXTINF:-1,CA: CRIME & INVESTIGATION
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/124038
+#EXTINF:-1,CA: CTV 2 OTTAWA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77235
+#EXTINF:-1,CA: CTV 2 VANCOUVER HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77315
+#EXTINF:-1,CA: CTV HALIFAX
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158511
+#EXTINF:-1,CA: CTV NEWS NETWORK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150390
+#EXTINF:-1,CA: CTV OTTAWA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77317
+#EXTINF:-1,CA: CTV TORONTO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77318
+#EXTINF:-1,CA: CTV VANCOUVER HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77234
+#EXTINF:-1,CA: CW 11
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77319
+#EXTINF:-1,CA: DAYSTAR TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77320
+#EXTINF:-1,CA: DEJAVIEW
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77321
+#EXTINF:-1,CA: DISCOVERY CHANNEL HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77236
+#EXTINF:-1,CA: Discovery Science FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77001
+#EXTINF:-1,CA: Disney Channel HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77000
+#EXTINF:-1,CA: DISNEY FRENCH
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77323
+#EXTINF:-1,CA: DISNEY JR HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77239
+#EXTINF:-1,CA: DIY HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77324
+#EXTINF:-1,CA: DOCUMENTARY CHANNEL
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145524
+#EXTINF:-1,CA: DTOUR
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77325
+#EXTINF:-1,CA: E! Entertainment HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77197
+#EXTINF:-1,CA: ENCORE 1 EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77326
+#EXTINF:-1,CA: ENCORE 2 EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77241
+#EXTINF:-1,CA: EVASION
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136470
+#EXTINF:-1,CA: FAMILY CHANNEL (East) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77243
+#EXTINF:-1,CA: FAMILY CHRGD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77242
+#EXTINF:-1,CA: FAMILY JR HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136471
+#EXTINF:-1,CA: FAMILY WEST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148746
+#EXTINF:-1,CA: FIGHT NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150395
+#EXTINF:-1,CA: FOOD NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/129638
+#EXTINF:-1,CA: FOX (West) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76993
+#EXTINF:-1,CA: FOX EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77244
+#EXTINF:-1,CA: FOX NEWS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77215
+#EXTINF:-1,CA: FTV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150238
+#EXTINF:-1,CA: FYI HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77330
+#EXTINF:-1,CA: GAME TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77332
+#EXTINF:-1,CA: GINX ESPORTS TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150242
+#EXTINF:-1,CA: Global Halifax
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/105810
+#EXTINF:-1,CA: GLOBAL TORONTO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/109396
+#EXTINF:-1,CA: GLOBAL VANCOUVER HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77247
+#EXTINF:-1,CA: GOLF CHANNEL HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77331
+#EXTINF:-1,CA: GSN FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77200
+#EXTINF:-1,CA: GUSTO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77248
+#EXTINF:-1,CA: H2
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150248
+#EXTINF:-1,CA: HBO 1 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76990
+#EXTINF:-1,CA: HGTV HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76988
+#EXTINF:-1,CA: HISTORIA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76987
+#EXTINF:-1,CA: HISTORIO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/94829
+#EXTINF:-1,CA: HLN HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/123153
+#EXTINF:-1,CA: HOPE TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158526
+#EXTINF:-1,CA: ICI VANCOUVER
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77252
+#EXTINF:-1,CA: ID
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158527
+#EXTINF:-1,CA: IFC
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77336
+#EXTINF:-1,CA: JOY TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/124087
+#EXTINF:-1,CA: KNOWLEDGE KIDS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77337
+#EXTINF:-1,CA: KTLA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77253
+#EXTINF:-1,CA: LCN
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77338
+#EXTINF:-1,CA: Lifetime HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77203
+#EXTINF:-1,CA: MAKEFUL
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136485
+#EXTINF:-1,CA: MAX
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77255
+#EXTINF:-1,CA: METEO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77256
+#EXTINF:-1,CA: MIRACLE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77340
+#EXTINF:-1,CA: MLB NETWORK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136486
+#EXTINF:-1,CA: MOI CIE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77341
+#EXTINF:-1,CA: MTIME
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77343
+#EXTINF:-1,CA: MTV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/116313
+#EXTINF:-1,CA: MTV 2
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136487
+#EXTINF:-1,CA: Much Music
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/122941
+#EXTINF:-1,CA: MUSIQUE PLUS
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77345
+#EXTINF:-1,CA: NAT GEO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/94836
+#EXTINF:-1,CA: NBA TV FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77347
+#EXTINF:-1,CA: NBC EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77348
+#EXTINF:-1,CA: NBC WEST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77349
+#EXTINF:-1,CA: NTV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77351
+#EXTINF:-1,CA: OLN HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77352
+#EXTINF:-1,CA: OMNI 1 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77353
+#EXTINF:-1,CA: OMNI 2 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77258
+#EXTINF:-1,CA: OMNI BC
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136491
+#EXTINF:-1,CA: OMNI EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136492
+#EXTINF:-1,CA: ONE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77259
+#EXTINF:-1,CA: OUTTV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77354
+#EXTINF:-1,CA: OWN HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76984
+#EXTINF:-1,CA: PBS (East) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77355
+#EXTINF:-1,CA: PBS WEST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136495
+#EXTINF:-1,CA: PEACH TREE HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77210
+#EXTINF:-1,CA: PRISE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77261
+#EXTINF:-1,CA: RDI
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77356
+#EXTINF:-1,CA: RDS
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77262
+#EXTINF:-1,CA: RDS 2
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77357
+#EXTINF:-1,CA: RDS INFO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152296
+#EXTINF:-1,CA: SERIES+
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/116316
+#EXTINF:-1,CA: SHOPPING CHANNEL
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77358
+#EXTINF:-1,CA: SHOW CASE HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77359
+#EXTINF:-1,CA: SILVER SCREEN CLASSICS
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77360
+#EXTINF:-1,CA: SLICE HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76980
+#EXTINF:-1,CA: SMITHSONIAN
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77361
+#EXTINF:-1,CA: SPACE FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76977
+#EXTINF:-1,CA: SPIKE TV / PARAMOUNT CANADA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136501
+#EXTINF:-1,CA: SPORTSNET 360 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150271
+#EXTINF:-1,CA: SPORTSNET EAST FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77212
+#EXTINF:-1,CA: SportsNet One FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76940
+#EXTINF:-1,CA: SPORTSNET ONTARIO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76942
+#EXTINF:-1,CA: SportsNet Pacific FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76939
+#EXTINF:-1,CA: SportsNet WEST HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76938
+#EXTINF:-1,CA: SUPER CHANNEL VAULT
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150407
+#EXTINF:-1,CA: SUPER ECRAN 1
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77368
+#EXTINF:-1,CA: SUPER ECRAN 2
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77369
+#EXTINF:-1,CA: SUPER ECRAN 3
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77370
+#EXTINF:-1,CA: SUPER ECRAN 4
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77371
+#EXTINF:-1,CA: TCM
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77372
+#EXTINF:-1,CA: TELE LATINO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77266
+#EXTINF:-1,CA: TELE MAGINO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77375
+#EXTINF:-1,CA: TELE QUEBEC
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77373
+#EXTINF:-1,CA: TELE TOON EAST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/116317
+#EXTINF:-1,CA: TELE TOON WEST
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136509
+#EXTINF:-1,CA: TFO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152297
+#EXTINF:-1,CA: THE MOVIE NETWORK 1
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158534
+#EXTINF:-1,CA: THE MOVIE NETWORK 2
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158535
+#EXTINF:-1,CA: THE MOVIE NETWORK 3
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158536
+#EXTINF:-1,CA: THE MOVIE NETWORK 4
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/158537
+#EXTINF:-1,CA: THE WEATHER NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77268
+#EXTINF:-1,CA: TLC HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/60409
+#EXTINF:-1,CA: TREEHOUSE HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74833
+#EXTINF:-1,CA: TSN 1 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74882
+#EXTINF:-1,CA: TSN 2 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/65876
+#EXTINF:-1,CA: TSN 3 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76947
+#EXTINF:-1,CA: TSN 4 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74885
+#EXTINF:-1,CA: TSN 5 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74886
+#EXTINF:-1,CA: TVA GATINEAU
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77275
+#EXTINF:-1,CA: TVO FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/116267
+#EXTINF:-1,CA: UNIS TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152302
+#EXTINF:-1,CA: VIE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77386
+#EXTINF:-1,CA: VISION
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136523
+#EXTINF:-1,CA: VRAK TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77388
+#EXTINF:-1,CA: W NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150290
+#EXTINF:-1,CA: WFN
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77390
+#EXTINF:-1,CA: WGN
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/94857
+#EXTINF:-1,CA: Wild TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77392
+#EXTINF:-1,CA: WSBK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150410
+#EXTINF:-1,CA: YOOPA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77280
+#EXTINF:-1,CA: YTV HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77226
+#EXTINF:-1,CA: YTV West
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150411
+#EXTINF:-1,CA: Z ESTE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77282
+#EXTINF:-1,CA: Z TELE
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77394
+#EXTINF:-1,###### CANADA ######
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/161383
+#EXTINF:-1,###### CANADA VIP ######
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/161384
+#EXTINF:-1,CA: ABC HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77188
+#EXTINF:-1,CA: ACTION HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77286
+#EXTINF:-1,CA: APTN HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77288
+#EXTINF:-1,CA: BBC EARTH HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/134726
+#EXTINF:-1,CA: BBC WORLD NEWS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77291
+#EXTINF:-1,CA: CANAL SAVOIR
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77296
+#EXTINF:-1,CA: CBC HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77182
+#EXTINF:-1,CA: CBC NEWS TORONTO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/107884
+#EXTINF:-1,CA: CBC RADIO
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/129625
+#EXTINF:-1,CA: CBC REGINA HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/126026
+#EXTINF:-1,CA: CBC ST JOHNS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/126027
+#EXTINF:-1,CA: CBC Television
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/134731
+#EXTINF:-1,CA: CBS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/111663
+#EXTINF:-1,CA: CBS NEWS
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/149770
+#EXTINF:-1,CA: CHEK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/107891
+#EXTINF:-1,CA: CITY TV HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/103576
+#EXTINF:-1,CA: CNBC WOLRD HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/123251
+#EXTINF:-1,CA: CNBC World HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/151400
+#EXTINF:-1,CA: CNN INTERNIONAL
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/151401
+#EXTINF:-1,CA: Country Music Television
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/92510
+#EXTINF:-1,CA: CTV (Kitchener) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/124063
+#EXTINF:-1,CA: CTV HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77316
+#EXTINF:-1,CA: CTV TWO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152439
+#EXTINF:-1,CA: CW FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77195
+#EXTINF:-1,CA: Discovery ID
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77335
+#EXTINF:-1,CA: DIY NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/92785
+#EXTINF:-1,CA: FAMILY HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77222
+#EXTINF:-1,CA: Fight Box
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76995
+#EXTINF:-1,CA: Fox 25
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/159049
+#EXTINF:-1,CA: FOX HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150235
+#EXTINF:-1,CA: FOX Q13 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108491
+#EXTINF:-1,CA: FREE FORM HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145880
+#EXTINF:-1,CA: FX HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77183
+#EXTINF:-1,CA: FXX HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77184
+#EXTINF:-1,CA: GAMESHOW NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150398
+#EXTINF:-1,CA: GLOBAL BC
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/138575
+#EXTINF:-1,CA: Global Calgary
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108979
+#EXTINF:-1,CA: Global Edmonton
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/126054
+#EXTINF:-1,CA: GLOBAL FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77199
+#EXTINF:-1,CA: GLOBAL MONTREAL HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/103587
+#EXTINF:-1,CA: HBO 2 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76989
+#EXTINF:-1,CA: HBO HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/105812
+#EXTINF:-1,CA: HISTORY 2 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/101250
+#EXTINF:-1,CA: ICI MONTREAL
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77251
+#EXTINF:-1,CA: iConcerts
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/155446
+#EXTINF:-1,CA: INVESTIGATION DISCOVERY HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/138580
+#EXTINF:-1,CA: KTO HD (FR)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145511
+#EXTINF:-1,CA: LCN (FR)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/117939
+#EXTINF:-1,CA: Legislative Assembly Of Ontario HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/129644
+#EXTINF:-1,CA: Montrea HD (FR)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/159672
+#EXTINF:-1,CA: MOVIE TIME HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/92503
+#EXTINF:-1,CA: MSNBC HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77205
+#EXTINF:-1,CA: NAL SAVOIR
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/150191
+#EXTINF:-1,CA: NAT GEO Wild HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77206
+#EXTINF:-1,CA: NBC FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77207
+#EXTINF:-1,CA: NFL NETWORK FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145533
+#EXTINF:-1,CA: NICK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77350
+#EXTINF:-1,CA: NRL LIVE 1 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152017
+#EXTINF:-1,CA: NRL LIVE 2 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152018
+#EXTINF:-1,CA: NRL LIVE 3 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152019
+#EXTINF:-1,CA: NRL LIVE 4 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152020
+#EXTINF:-1,CA: NRL LIVE 5 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152021
+#EXTINF:-1,CA: NTV NEWFOUND LAND HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/126058
+#EXTINF:-1,CA: OOUTDOOR LIFE NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77187
+#EXTINF:-1,CA: PARAMOUNT NETWORK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/107903
+#EXTINF:-1,CA: PBS FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77209
+#EXTINF:-1,CA: PRISE (FR)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148444
+#EXTINF:-1,CA: RDI (FR)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152885
+#EXTINF:-1,CA: RDS2 HD TV
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/92500
+#EXTINF:-1,CA: RTOON NETWORK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77297
+#EXTINF:-1,CA: RUGBY PASS LIVE 7 (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152032
+#EXTINF:-1,CA: RUGBY PASS LIVE 8 (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152033
+#EXTINF:-1,CA: RUGBY PASS LIVE 9 (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152034
+#EXTINF:-1,CA: RUGBY PASS LIVE 10 (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152035
+#EXTINF:-1,CA: SA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77298
+#EXTINF:-1,CA: SERIS (FR)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148442
+#EXTINF:-1,CA: SERIS+
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/138623
+#EXTINF:-1,CA: SPFL ABERDEEN TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152036
+#EXTINF:-1,CA: SPFL CELTIC TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152037
+#EXTINF:-1,CA: SPFL CELTIC TV BU (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152038
+#EXTINF:-1,CA: SPFL CELTIC TV BU2 (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152039
+#EXTINF:-1,CA: SPFL DUNDEE TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152040
+#EXTINF:-1,CA: SPFL HEARTS TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152041
+#EXTINF:-1,CA: SPFL HIBS TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152042
+#EXTINF:-1,CA: SPFL PARTICK THISTLE TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152043
+#EXTINF:-1,CA: SPFL RAITH ROVERS TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152044
+#EXTINF:-1,CA: SPFL RANGERS TV (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152045
+#EXTINF:-1,CA: SPFL RANGERS TV BU (Match Time)
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152046
+#EXTINF:-1,CA: Spike HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76976
+#EXTINF:-1,CA: Sportnet Ontario HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/125679
+#EXTINF:-1,CA: Sports Net One HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148445
+#EXTINF:-1,CA: Sportsnet 1 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/125445
+#EXTINF:-1,CA: SportsNet WORLD HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76937
+#EXTINF:-1,CA: SUPER CHANNEL 2 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77367
+#EXTINF:-1,CA: TBS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/138601
+#EXTINF:-1,CA: Teletoon HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77228
+#EXTINF:-1,CA: THE FAMILY
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/163814
+#EXTINF:-1,CA: THE SHOPPING CHANNEL HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/129648
+#EXTINF:-1,CA: TMN 2
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77270
+#EXTINF:-1,CA: TMN 3
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77271
+#EXTINF:-1,CA: TMN 4
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77272
+#EXTINF:-1,CA: TV5
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77274
+#EXTINF:-1,CA: TV5 MONDE FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/129616
+#EXTINF:-1,CA: TVA
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/136520
+#EXTINF:-1,CA: TVA GINEAU
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/152299
+#EXTINF:-1,CA: TVA SPORTS 1 HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145545
+#EXTINF:-1,CA: TVA SPORTS HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/77384
+#EXTINF:-1,CA: V
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/117963
+#EXTINF:-1,CA: VELOCITY HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/145548
+#EXTINF:-1,CA: W
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/138582
+#EXTINF:-1,CA: WEATHER NETWORK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108511
+#EXTINF:-1,CA: WEHER NETWORK Toronto HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/151443
+#EXTINF:-1,CA: WOMENS NETWORK HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/76579
+#EXTINF:-1,CA: World Fishing HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/94216
+#EXTINF:-1,CA: YES TV HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74897
+#EXTINF:-1,CA: YTV (East) HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74717
 
 
 
