@@ -112,7 +112,8 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
-0
+#EXTINF:-1,Canada: TSN 1
+http://app.cableplay.net:25461/Seba/seba/8781
 #EXTINF:-1,USA: Epix Hits
 http://xxultraxx.com:80/tvlink531/205677/25498
 #EXTINF:-1,USA: NBC GOLD GOAL RUSH {LIVE ONLY}
