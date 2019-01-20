@@ -112,86 +112,13 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
-#EXTINF:-1,USA: A&E
-http://xxultraxx.com:80/tvlink531/205677/7659
-#EXTINF:-1,USA: A&E HD
-http://xxultraxx.com:80/tvlink531/205677/9362
-#EXTINF:-1,USA: ABC EAST
-http://xxultraxx.com:80/tvlink531/205677/7619
-#EXTINF:-1,USA: AMC
-http://xxultraxx.com:80/tvlink531/205677/7655
-#EXTINF:-1,USA: AMC HD
-http://xxultraxx.com:80/tvlink531/205677/9360
-#EXTINF:-1,USA: Animal Planet
-http://xxultraxx.com:80/tvlink531/205677/7626
-#EXTINF:-1,USA: CNN HD
-http://xxultraxx.com:80/tvlink531/205677/9357
-#EXTINF:-1,USA: Comedy Central
-http://xxultraxx.com:80/tvlink531/205677/9355
-#EXTINF:-1,USA: ComedyCentral
-http://xxultraxx.com:80/tvlink531/205677/7627
-#EXTINF:-1,USA: Cooking Ch
-http://xxultraxx.com:80/tvlink531/205677/9356
-#EXTINF:-1,USA: DISCOVERY
-http://xxultraxx.com:80/tvlink531/205677/7630
-#EXTINF:-1,USA: DISCOVERY Science
-http://xxultraxx.com:80/tvlink531/205677/7620
-#EXTINF:-1,USA: ESPN
-http://xxultraxx.com:80/tvlink531/205677/7648
-#EXTINF:-1,USA: FOOD NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/9352
-#EXTINF:-1,USA: Fox Sports 2
-http://xxultraxx.com:80/tvlink531/205677/7641
-#EXTINF:-1,USA: FX
-http://xxultraxx.com:80/tvlink531/205677/7661
-#EXTINF:-1,USA: HBO COMEDY HD
-http://xxultraxx.com:80/tvlink531/205677/9349
-#EXTINF:-1,USA: HBO FAMILY HD
-http://xxultraxx.com:80/tvlink531/205677/9351
-#EXTINF:-1,USA: HBO SIGNATURE HD
-http://xxultraxx.com:80/tvlink531/205677/9350
-#EXTINF:-1,USA: HGTV
-http://xxultraxx.com:80/tvlink531/205677/7649
-#EXTINF:-1,USA: ID
-http://xxultraxx.com:80/tvlink531/205677/7662
-#EXTINF:-1,USA: LIFETIME HD
-http://xxultraxx.com:80/tvlink531/205677/9363
-#EXTINF:-1,USA: National Geographie
-http://xxultraxx.com:80/tvlink531/205677/7623
-#EXTINF:-1,USA: NBC Golf
-http://xxultraxx.com:80/tvlink531/205677/7629
-#EXTINF:-1,USA: NFL Network
-http://xxultraxx.com:80/tvlink531/205677/7643
-#EXTINF:-1,USA: TBS
-http://xxultraxx.com:80/tvlink531/205677/7658
-#EXTINF:-1,USA: TNT
-http://xxultraxx.com:80/tvlink531/205677/7660
-#EXTINF:-1,USA: FX HD
-http://xxultraxx.com:80/tvlink531/205677/9991
-#EXTINF:-1,USA: FXM HD
-http://xxultraxx.com:80/tvlink531/205677/9989
-#EXTINF:-1,USA: FXX HD
-http://xxultraxx.com:80/tvlink531/205677/9990
-#EXTINF:-1,USA: NHL NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/20756
-#EXTINF:-1,USA: Showtime West 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20771
-#EXTINF:-1,USA: Starz Comedy 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20768
-#EXTINF:-1,USA: Starz Edge 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20767
-#EXTINF:-1,USA: Starz Encore 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20766
-#EXTINF:-1,USA: STARZ ENCORE WESTERN
-http://xxultraxx.com:80/tvlink531/205677/20752
-#EXTINF:-1,USA: Starz Kids & Family 24/7 HD
-http://xxultraxx.com:80/tvlink531/205677/20764
-#EXTINF:-1,USA: CARTOON NETWORK
-http://xxultraxx.com:80/tvlink531/205677/20781
-#EXTINF:-1,USA: DISNEY CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/20780
-#EXTINF:-1,USA: DISNEY JR
-http://xxultraxx.com:80/tvlink531/205677/20779
-#EXTINF:-1,USA: MLB NETWORK HD
-http://xxultraxx.com:80/tvlink531/205677/20783
-
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="Sport",TSN 1
+http://cms.bossna-caffe.com:80/live?channelId=1214&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="Sport",TSN 2
+http://cms.bossna-caffe.com:80/live?channelId=1215&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="Sport",TSN 3
+http://cms.bossna-caffe.com:80/live?channelId=1216&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="Sport",TSN 4
+http://cms.bossna-caffe.com:80/live?channelId=1217&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="Sport",TSN 5
+http://cms.bossna-caffe.com:80/live?channelId=1218&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
