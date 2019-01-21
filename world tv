@@ -112,6 +112,13 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTVLCOPT:http-user-agent=Exo45Play 19.0
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",SPORTSNET 360 HD
+http://142.44.213.159:25461/live/expiresevery/1.3hours/167.ts
+#EXTVLCOPT:http-user-agent=Exo45Play 19.0
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",SPORTSNET WORLD HD
+http://142.44.213.159:25461/live/expiresevery/1.3hours/166.ts
+
+#EXTVLCOPT:http-user-agent=Exo45Play 19.0
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",TSN 1 HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/168.ts
 #EXTVLCOPT:http-user-agent=Exo45Play 19.0
@@ -126,3 +133,14 @@ http://142.44.213.159:25461/live/expiresevery/1.3hours/171.ts
 #EXTVLCOPT:http-user-agent=Exo45Play 19.0
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",TSN 5 HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/172.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",FOX SPORTS 1 HD US
+http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=237.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",FOX SPORTS 2 HD US
+http://163.172.15.141:9732/live?channelId=238&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=238.ts
+#EXTVLCOPT:http-user-agent=Exo45Play 19.0
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",NBCSN HD
+http://142.44.213.159:25461/live/expiresevery/1.3hours/90.ts
+#EXTVLCOPT:http-user-agent=Exo45Play 19.0
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/mkQnrxDf/M3.png" group-title="EURO♥SPORT",TENNIS CHANNEL HD
+http://142.44.213.159:25461/live/expiresevery/1.3hours/164.ts
