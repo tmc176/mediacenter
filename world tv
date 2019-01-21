@@ -111,255 +111,336 @@ https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1,USA:A&E
-http://xxultraxx.com:80/tvlink531/205677/23950
-#EXTINF:-1,USA: ABC
-http://xxultraxx.com:80/tvlink531/205677/23968
-#EXTINF:-1,USA:ABC News
-http://xxultraxx.com:80/tvlink531/205677/23967
-#EXTINF:-1,USA: ABC NEWS UHD
-http://xxultraxx.com:80/tvlink531/205677/23969
+#EXTM3U
+#EXTINF:-1,USA: A&E HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24792
+#EXTINF:-1,USA: ABC Action News
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24791
+#EXTINF:-1,USA: ABC FAMILY/SPARK
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24790
+#EXTINF:-1,USA: ABC HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24789
+#EXTINF:-1,USA: ABC News
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24788
 #EXTINF:-1,USA: ABC Spark
-http://xxultraxx.com:80/tvlink531/205677/23966
-#EXTINF:-1,USA: ABC WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23970
-#EXTINF:-1,USA: ACTIONMAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23965
-#EXTINF:-1,USA: AMC UHD
-http://xxultraxx.com:80/tvlink531/205677/23952
-#EXTINF:-1,USA: American Heroes Channel
-http://xxultraxx.com:80/tvlink531/205677/23954
-#EXTINF:-1,USA: AMERICAN HEROES NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23955
-#EXTINF:-1,USA: ANIMAL PLANET UHD
-http://xxultraxx.com:80/tvlink531/205677/23951
-#EXTINF:-1,USA: Bravo
-http://xxultraxx.com:80/tvlink531/205677/23938
-#EXTINF:-1,USA: BRAVO UHD
-http://xxultraxx.com:80/tvlink531/205677/23939
-#EXTINF:-1,USA: CARTOON NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23933
-#EXTINF:-1,USA: CBS
-http://xxultraxx.com:80/tvlink531/205677/23927
-#EXTINF:-1,USA: CBS EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23930
-#EXTINF:-1,USA: CBS EAST UHD.
-http://xxultraxx.com:80/tvlink531/205677/23931
-#EXTINF:-1,USA: CBS Sports
-http://xxultraxx.com:80/tvlink531/205677/23926
-#EXTINF:-1,USA: CBS Sports ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23924
-#EXTINF:-1,USA: CBS WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23929
-#EXTINF:-1,USA: CBSN
-http://xxultraxx.com:80/tvlink531/205677/23925
-#EXTINF:-1,USA: Cinemax
-http://xxultraxx.com:80/tvlink531/205677/23922
-#EXTINF:-1,USA: Cinemax 5 Starmax
-http://xxultraxx.com:80/tvlink531/205677/23921
-#EXTINF:-1,USA: CINEMAX ACTIONMAX
-http://xxultraxx.com:80/tvlink531/205677/23920
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24787
+#EXTINF:-1,USA: AFN News
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24784
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24783
+#EXTINF:-1,USA: AFN Prime Pacific
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24782
+#EXTINF:-1,USA: AFN Sports
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24781
+#EXTINF:-1,USA: AFN Sports 2
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24780
+#EXTINF:-1,USA: AFN Sports HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24779
+#EXTINF:-1,USA: AL JAZEERA U.S HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24778
+#EXTINF:-1,USA: AMC
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24777
+#EXTINF:-1,USA: ANIMAL PLANET
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24776
+#EXTINF:-1,USA: BBC WORLD NEWS
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24775
+#EXTINF:-1,USA: SPORTS HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24774
+#EXTINF:-1,USA: BET ( B.E.T – Black Entertainment Television )
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24773
+#EXTINF:-1,USA: BET HER
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24772
+#EXTINF:-1,USA: Big Ten Network HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24771
+#EXTINF:-1,USA: BLOOMBERG TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24770
+#EXTINF:-1,USA: Bounce TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24769
+#EXTINF:-1,USA: BOX OFFICE MOVIES
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24768
+#EXTINF:-1,USA: Bravo HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24767
+#EXTINF:-1,USA: C Toon Kids
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24766
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24765
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24764
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24763
+#EXTINF:-1,USA: CALIFORNIA MUSIC CHANNEL
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24762
+#EXTINF:-1,USA: Cartoon Network HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24761
+#EXTINF:-1,USA: CBS HD-US
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24760
+#EXTINF:-1,USA: CBS News
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24759
+#EXTINF:-1,USA: CBSN News
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24758
+#EXTINF:-1,USA: Cinemax 5 Max
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24757
+#EXTINF:-1,USA: Cinemax 5 Star Max
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24756
+#EXTINF:-1,USA: Cinemax ActionMax
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24755
 #EXTINF:-1,USA: Cinemax East
-http://xxultraxx.com:80/tvlink531/205677/23919
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24754
 #EXTINF:-1,USA: Cinemax Moremax
-http://xxultraxx.com:80/tvlink531/205677/23918
-#EXTINF:-1,USA: CINEMAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23917
-#EXTINF:-1,USA: CMT – Country Music Television (WEST)
-http://xxultraxx.com:80/tvlink531/205677/23916
-#EXTINF:-1,USA:CNN
-http://xxultraxx.com:80/tvlink531/205677/23912
-#EXTINF:-1,USA: CNN UHD
-http://xxultraxx.com:80/tvlink531/205677/23915
-#EXTINF:-1,USA: Comedy Central (East)
-http://xxultraxx.com:80/tvlink531/205677/23910
-#EXTINF:-1,USA: Comedy Central (West)
-http://xxultraxx.com:80/tvlink531/205677/23909
-#EXTINF:-1,USA: COMEDY CENTRAL EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23908
-#EXTINF:-1,USA: COOKING CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/23911
-#EXTINF:-1,USA: COOKING CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23907
-#EXTINF:-1,USA: COOKING CHANNEL.
-http://xxultraxx.com:80/tvlink531/205677/23905
-#EXTINF:-1,USA: COUNTRY MUSIC TELEVISION (CMT) UHD
-http://xxultraxx.com:80/tvlink531/205677/23906
-#EXTINF:-1,USA: CRIME & INVESTIGATION NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23897
-#EXTINF:-1,USA: CW
-http://xxultraxx.com:80/tvlink531/205677/23894
-#EXTINF:-1,USA: CW 11
-http://xxultraxx.com:80/tvlink531/205677/23893
-#EXTINF:-1,USA: CW Network
-http://xxultraxx.com:80/tvlink531/205677/23892
-#EXTINF:-1,USA: CW NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23895
-#EXTINF:-1,USA: Destination America
-http://xxultraxx.com:80/tvlink531/205677/23889
-#EXTINF:-1,USA: DESTINATION AMERICA UHD
-http://xxultraxx.com:80/tvlink531/205677/23890
-#EXTINF:-1,USA: DISCOVERY LIFE UHD
-http://xxultraxx.com:80/tvlink531/205677/23888
-#EXTINF:-1,USA: DISCOVERY SCIENCE CHANNEL
-http://xxultraxx.com:80/tvlink531/205677/23884
-#EXTINF:-1,USA: Discovery Showcase
-http://xxultraxx.com:80/tvlink531/205677/23883
-#EXTINF:-1,USA: DISNEY CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23887
-#EXTINF:-1,USA: DISNEY JR UHD
-http://xxultraxx.com:80/tvlink531/205677/23886
-#EXTINF:-1,USA: DISNEY XD UHD
-http://xxultraxx.com:80/tvlink531/205677/23885
-#EXTINF:-1,USA: DIY NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23882
-#EXTINF:-1,USA: ESPN us
-http://xxultraxx.com:80/tvlink531/205677/23875
-#EXTINF:-1,USA: ESPN 2
-http://xxultraxx.com:80/tvlink531/205677/23874
-#EXTINF:-1,USA: ESPN 3
-http://xxultraxx.com:80/tvlink531/205677/23873
-#EXTINF:-1,USA: ESPN HD
-http://xxultraxx.com:80/tvlink531/205677/23876
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24753
+#EXTINF:-1,USA: CMT HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24752
+#EXTINF:-1,USA: CNBC HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24751
+#EXTINF:-1,USA: CNN
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24750
+#EXTINF:-1,USA: CNN HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24749
+#EXTINF:-1,USA: CNN HD INTERNATIONAL
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24748
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24747
+#EXTINF:-1,USA: Crime & Investigation
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24746
+#EXTINF:-1,USA: CW 11 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24745
+#EXTINF:-1,USA: CW Channel 11
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24744
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24743
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24742
+#EXTINF:-1,USA: DISCOVERY SHOWCASE
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24741
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24740
+#EXTINF:-1,USA: Disney Channel HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24739
+#EXTINF:-1,USA: DISNEY JR HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24738
+#EXTINF:-1,USA: Disney XD HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24737
+#EXTINF:-1,USA: E! Network HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24736
+#EXTINF:-1,USA: ESPN
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24735
+#EXTINF:-1,USA: ESPN 1
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24734
+#EXTINF:-1,USA: ESPN 2 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24733
+#EXTINF:-1,USA: ESPN 3 TRE
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24732
+#EXTINF:-1,USA: ESPN NEWS
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24731
+#EXTINF:-1,USA: EURO NEWS
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24730
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24729
 #EXTINF:-1,USA: Fight Sport 1
-http://xxultraxx.com:80/tvlink531/205677/23869
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24728
 #EXTINF:-1,USA: Fight Sport 2
-http://xxultraxx.com:80/tvlink531/205677/23868
-#EXTINF:-1,USA: Food Network
-http://xxultraxx.com:80/tvlink531/205677/23831
-#EXTINF:-1,USA: Food Network 1
-http://xxultraxx.com:80/tvlink531/205677/23832
-#EXTINF:-1,USA: FOOD NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23833
-#EXTINF:-1,USA: FOX 43 HD
-http://xxultraxx.com:80/tvlink531/205677/23836
-#EXTINF:-1,USA: FOX EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23865
-#EXTINF:-1,USA: FOX News
-http://xxultraxx.com:80/tvlink531/205677/23861
-#EXTINF:-1,USA: FOX News HD
-http://xxultraxx.com:80/tvlink531/205677/23835
-#EXTINF:-1,USA: FOX NEWS SD
-http://xxultraxx.com:80/tvlink531/205677/23864
-#EXTINF:-1,USA: FOX NEWS UHD
-http://xxultraxx.com:80/tvlink531/205677/23834
-#EXTINF:-1,USA: FOX NY HD
-http://xxultraxx.com:80/tvlink531/205677/23860
-#EXTINF:-1,USA: Fox Sports 1
-http://xxultraxx.com:80/tvlink531/205677/23857
-#EXTINF:-1,USA: Fox Sports 2 us
-http://xxultraxx.com:80/tvlink531/205677/23856
-#EXTINF:-1,USA: Fox Sports 2HD
-http://xxultraxx.com:80/tvlink531/205677/23855
-#EXTINF:-1,USA: Fox Sports College Atlantic HD
-http://xxultraxx.com:80/tvlink531/205677/23853
-#EXTINF:-1,USA: Fox Sports College Central HD
-http://xxultraxx.com:80/tvlink531/205677/23852
-#EXTINF:-1,USA: Fox Sports College Pacific HD
-http://xxultraxx.com:80/tvlink531/205677/23851
-#EXTINF:-1,USA: FOX WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23863
-#EXTINF:-1,USA: Freeform
-http://xxultraxx.com:80/tvlink531/205677/23829
-#EXTINF:-1,USA: Freeform (East)
-http://xxultraxx.com:80/tvlink531/205677/23828
-#EXTINF:-1,USA: FREEFORM UHD
-http://xxultraxx.com:80/tvlink531/205677/23830
-#EXTINF:-1,USA: FX us
-http://xxultraxx.com:80/tvlink531/205677/23821
-#EXTINF:-1,USA: FX (East)
-http://xxultraxx.com:80/tvlink531/205677/23824
-#EXTINF:-1,USA: FX (West)
-http://xxultraxx.com:80/tvlink531/205677/23823
-#EXTINF:-1,USA: FX East UHD
-http://xxultraxx.com:80/tvlink531/205677/23827
-#EXTINF:-1,USA: FXM
-http://xxultraxx.com:80/tvlink531/205677/23822
-#EXTINF:-1,USA: FXM UHD
-http://xxultraxx.com:80/tvlink531/205677/23826
-#EXTINF:-1,USA: FXX UHD
-http://xxultraxx.com:80/tvlink531/205677/23825
-#EXTINF:-1,USA: FXX (West)
-http://xxultraxx.com:80/tvlink531/205677/23820
-#EXTINF:-1,USA: FYI UHD
-http://xxultraxx.com:80/tvlink531/205677/23819
-#EXTINF:-1,USA: Hallmark
-http://xxultraxx.com:80/tvlink531/205677/23812
-#EXTINF:-1,USA: HALLMARK CHANNEL FHD
-http://xxultraxx.com:80/tvlink531/205677/23815
-#EXTINF:-1,USA: HALLMARK CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23814
-#EXTINF:-1,USA: HALLMARK MOVIE CHANNEL UHD
-http://xxultraxx.com:80/tvlink531/205677/23813
-#EXTINF:-1,USA: HBO 2 EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23811
-#EXTINF:-1,USA: HBO Comedy
-http://xxultraxx.com:80/tvlink531/205677/23806
-#EXTINF:-1,USA: HBO COMEDY UHD
-http://xxultraxx.com:80/tvlink531/205677/23810
-#EXTINF:-1,USA: HBO East
-http://xxultraxx.com:80/tvlink531/205677/23802
-#EXTINF:-1,USA: HBO East UHD
-http://xxultraxx.com:80/tvlink531/205677/23809
-#EXTINF:-1,USA: HBO Family
-http://xxultraxx.com:80/tvlink531/205677/23805
-#EXTINF:-1,USA: HBO FAMILY UHD
-http://xxultraxx.com:80/tvlink531/205677/23808
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24727
+#EXTINF:-1,USA: FOOD NETWORK
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24726
+#EXTINF:-1,USA: FOX DEPORTES HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24725
+#EXTINF:-1,USA: FOX MOTOSPORT
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24724
+#EXTINF:-1,USA: Fox News
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24723
+#EXTINF:-1,USA: FOX NY
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24722
+#EXTINF:-1,USA: FOX SOCCER PLUS HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24721
+#EXTINF:-1,USA: FOX Sport 1
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24720
+#EXTINF:-1,USA: FOX SPORTS ONE
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24719
+#EXTINF:-1,USA: FOX SPORTS TWO HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24718
+#EXTINF:-1,USA: FUSE HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24717
+#EXTINF:-1,USA: FX HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24716
+#EXTINF:-1,USA: GRIT TV MOVIES
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24715
+#EXTINF:-1,USA: GSN TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24714
+#EXTINF:-1,USA: HALLMARK HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24713
+#EXTINF:-1,USA: HBO 2 COMEDY
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24712
+#EXTINF:-1,USA: HBO Family HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24711
+#EXTINF:-1,USA: HBO HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24710
 #EXTINF:-1,USA: HBO SIGNATURE
-http://xxultraxx.com:80/tvlink531/205677/23804
-#EXTINF:-1,USA: HBO SIGNATURE UHD
-http://xxultraxx.com:80/tvlink531/205677/23801
-#EXTINF:-1,USA: HBO Zone
-http://xxultraxx.com:80/tvlink531/205677/23803
-#EXTINF:-1,USA: HBO ZONE UHD
-http://xxultraxx.com:80/tvlink531/205677/23807
-#EXTINF:-1,USA: HGTV us
-http://xxultraxx.com:80/tvlink531/205677/23800
-#EXTINF:-1,USA: History Channel
-http://xxultraxx.com:80/tvlink531/205677/23798
-#EXTINF:-1,USA: IFC
-http://xxultraxx.com:80/tvlink531/205677/23795
-#EXTINF:-1,USA: IFC UHD
-http://xxultraxx.com:80/tvlink531/205677/23794
-#EXTINF:-1,USA: Investigation Discovery
-http://xxultraxx.com:80/tvlink531/205677/23793
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY UHD
-http://xxultraxx.com:80/tvlink531/205677/23796
-#EXTINF:-1,USA: Lifetime
-http://xxultraxx.com:80/tvlink531/205677/23787
-#EXTINF:-1,USA: LIFETIME MOVIE NETWORK UHD
-http://xxultraxx.com:80/tvlink531/205677/23789
-#EXTINF:-1,USA: LIFETIME UHD
-http://xxultraxx.com:80/tvlink531/205677/23788
-#EXTINF:-1,USA: LMN
-http://xxultraxx.com:80/tvlink531/205677/23786
-#EXTINF:-1,USA: Longhorn
-http://xxultraxx.com:80/tvlink531/205677/23785
-#EXTINF:-1,USA: ME TV UHD
-http://xxultraxx.com:80/tvlink531/205677/23782
-#EXTINF:-1,USA: MLB Network
-http://xxultraxx.com:80/tvlink531/205677/23567
-#EXTINF:-1,USA: More Max
-http://xxultraxx.com:80/tvlink531/205677/23780
-#EXTINF:-1,USA: MORE MAX UHD
-http://xxultraxx.com:80/tvlink531/205677/23781
-#EXTINF:-1,USA: Nat Geo
-http://xxultraxx.com:80/tvlink531/205677/23767
-#EXTINF:-1,USA: Nat Geo Wild 2
-http://xxultraxx.com:80/tvlink531/205677/23766
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24709
+#EXTINF:-1,USA: HBO ZONE
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24708
+#EXTINF:-1,USA: HGTV HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24707
+#EXTINF:-1,USA: HISTORY HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24706
+#EXTINF:-1,USA: HSN YT LIVE 1080p HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24705
+#EXTINF:-1,USA: KIDS READING TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24704
+#EXTINF:-1,USA: LIFE TIME
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24703
+#EXTINF:-1,USA: LIFETIME HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24702
+#EXTINF:-1,USA: LMN HDTV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24701
+#EXTINF:-1,USA: MLB HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24700
+#EXTINF:-1,USA: MOVIETIME
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24699
+#EXTINF:-1,USA: MSNBC HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24698
+#EXTINF:-1,USA: MTV 2 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24697
+#EXTINF:-1,USA: MTV HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24696
+#EXTINF:-1,USA: MTV LIVE
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24695
+#EXTINF:-1,USA: Music Choice 90’s
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24694
+#EXTINF:-1,USA: Music Choice HIP-HOP
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24693
+#EXTINF:-1,USA: Music Choice RAP
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24692
+#EXTINF:-1,USA: MY9 TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24691
+#EXTINF:-1,USA: NASA TV HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24690
+#EXTINF:-1,USA: NASA TV MEDIA HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24689
+#EXTINF:-1,USA: NAT GEO HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24688
 #EXTINF:-1,USA: NBA TV
-http://xxultraxx.com:80/tvlink531/205677/23738
-#EXTINF:-1,USA: NBA Tv US ʜᴅ
-http://xxultraxx.com:80/tvlink531/205677/23736
-#EXTINF:-1,USA: NBC (East)
-http://xxultraxx.com:80/tvlink531/205677/23735
-#EXTINF:-1,USA: NBC EAST UHD
-http://xxultraxx.com:80/tvlink531/205677/23762
-#EXTINF:-1,USA: NBC Golf us
-http://xxultraxx.com:80/tvlink531/205677/23737
-#EXTINF:-1,USA: NBC Sports
-http://xxultraxx.com:80/tvlink531/205677/23728
-#EXTINF:-1,USA: NBC Upstate NY UHD
-http://xxultraxx.com:80/tvlink531/205677/23764
-#EXTINF:-1,USA: NBC WEST UHD
-http://xxultraxx.com:80/tvlink531/205677/23763
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24687
+#EXTINF:-1,USA: NBC GOLF
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24686
+#EXTINF:-1,USA: NBC GOLF HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24685
+#EXTINF:-1,USA: NBC HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24684
+#EXTINF:-1,USA: NBC Sports HD (Premier League)
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24683
+#EXTINF:-1,USA: NBCSN Bay Area HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24682
+#EXTINF:-1,USA: NBCSN Boston HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24681
+#EXTINF:-1,USA: NBCSN California HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24680
+#EXTINF:-1,USA: NBCSN Chicago HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24679
+#EXTINF:-1,USA: NBCSN North West HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24678
+#EXTINF:-1,USA: NBCSN Philly HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24677
+#EXTINF:-1,USA: NFL Network HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24676
+#EXTINF:-1,USA: NFL Network HDTV 1080i
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24675
+#EXTINF:-1,USA: NFL Now
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24674
+#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24673
+#EXTINF:-1,USA: NHL NETWORK
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24672
+#EXTINF:-1,USA: NHLTV NETWORK HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24671
+#EXTINF:-1,USA: NICK HD (kids)
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24670
+#EXTINF:-1,USA: Nickelodeon
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24669
+#EXTINF:-1,USA: NICKTOONS
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24668
+#EXTINF:-1,USA: NRA TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24667
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24666
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24665
+#EXTINF:-1,USA: P.B.S Kids
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24664
+#EXTINF:-1,USA: QVC Beauty IQ
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24663
+#EXTINF:-1,USA: QVC Live
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24662
+#EXTINF:-1,USA: QVC Plus
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24661
+#EXTINF:-1,USA: RT DOCUMENTARY
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24660
+#EXTINF:-1,USA: Showtime 2 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24659
+#EXTINF:-1,USA: Showtime Extreme HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24658
+#EXTINF:-1,USA: Showtime HDTV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24657
+#EXTINF:-1,USA: Showtime Showcase
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24656
+#EXTINF:-1,USA: SPIKE TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24655
+#EXTINF:-1,USA: SportsNet One HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24654
+#EXTINF:-1,USA: SportsNet Ontario HD (Premier League)
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24653
+#EXTINF:-1,USA: Starz Comedy
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24651
+#EXTINF:-1,USA: Starz East
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24650
+#EXTINF:-1,USA: Starz Edge HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24649
+#EXTINF:-1,USA: Starz Encore East
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24648
+#EXTINF:-1,USA: Starz Encore HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24647
+#EXTINF:-1,USA: Starz West
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24646
+#EXTINF:-1,USA: SYFY HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24645
+#EXTINF:-1,USA: T.N.T
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24644
+#EXTINF:-1,USA: TBS
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24643
+#EXTINF:-1,USA: TBS HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24642
+#EXTINF:-1,USA: TENNIS HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24641
+#EXTINF:-1,USA: THE WALKING DEAD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24640
+#EXTINF:-1,USA: The Weather Channel
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24639
+#EXTINF:-1,USA: TLC
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24638
+#EXTINF:-1,USA: TRAVEL CHANNEL
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24637
+#EXTINF:-1,USA: TRU TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24636
+#EXTINF:-1,USA: TRUE MOVIES
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24635
+#EXTINF:-1,USA: Tsn-Sport 1 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24634
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24633
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24632
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24631
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24630
+#EXTINF:-1,USA: TV SERIES
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24629
+#EXTINF:-1,USA: University of California TV
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24628
+#EXTINF:-1,USA: USA Network
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24627
+#EXTINF:-1,USA: VH1 HD
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24625
+#EXTINF:-1,USA: WEATHERNATION
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24624
+#EXTINF:-1,USA: WWE Network
+http://nowlocal.webhop.net:25461/Garba/5exkdoxKfe/24623
