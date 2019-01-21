@@ -111,6 +111,189 @@ https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" tvg-id=" group-title="UK",CHANNEL 4 HD
+http://81.171.27.106:9002/play/a00j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5UK.png" tvg-id=" group-title="UK",CHANNEL 5 HD
+http://109.255.22.98:9981/stream/channelid/835567644
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR HD
+http://109.255.22.98:9981/stream/channelid/1127764033
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2
+http://109.255.22.98:9981/stream/channelid/1721603930
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3
+http://109.255.22.98:9981/stream/channelid/946705196
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" tvg-id=" group-title="UK",ITV 4
+http://109.255.22.98:9981/stream/channelid/1188146453
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" tvg-id=" group-title="UK",DAVE
+http://109.255.22.98:9981/stream/channelid/1945296882
+#EXTINF:-1 tvg-logo="http://i.imgur.com/te6XRf8.png" tvg-id=" group-title="UK",DRAMA
+http://109.255.22.98:9981/stream/channelid/1106806866
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" tvg-id=" group-title="UK",REALLY
+http://109.255.22.98:9981/stream/channelid/685531847
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" tvg-id=" group-title="UK",4Seven
+http://81.171.27.106:9002/play/a00k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MORE4.png" tvg-id=" group-title="UK",More4
+http://109.255.22.98:9981/stream/channelid/1795571613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" tvg-id=" group-title="UK",CBS Reality
+http://109.255.22.98:9981/stream/channelid/382113230
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest?cb=20150615111708" tvg-id=" group-title="UK",Real Lives
+http://92.14.111.173:8007/play/a00v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" tvg-id=" group-title="UK",Quest
+http://109.255.22.98:9981/stream/channelid/733893174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" tvg-id=" group-title="UK",TRUE ENTERTAINMENT
+http://109.255.22.98:9981/stream/channelid/1669068327
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSDRAMA.png" tvg-id=" group-title="UK",CBS Drama
+http://109.255.22.98:9981/stream/channelid/1171356871
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" tvg-id=" group-title="UK",NAT GEO WILD
+http://92.14.111.173:8007/play/a00w
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="UK",NATIONAL GEOGRAPHIC
+http://92.14.111.173:8007/play/a00x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" tvg-id=" group-title="UK",HISTORY
+http://92.14.111.173:8007/play/a00z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" tvg-id=" group-title="UK",H2
+http://92.14.111.173:8007/play/a00y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png" tvg-id=" group-title="UK",CRIME + INVESTIGATION
+http://92.14.111.173:8007/play/a00u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="UK",TRAVEL CHANNEL
+http://109.255.22.98:9981/stream/channelid/1980228671
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="UK",MTV HITS
+http://209.91.213.10:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" tvg-id=" group-title="UK",VH1 EUROPE
+http://91.231.219.145:80/tv_vh1_european/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" tvg-id=" group-title="UK",VH1 CLASSIC
+http://91.231.219.145/tv_vh1_classic/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FILM4UK.png" tvg-id=" group-title="UK",FILM4
+http://109.255.22.98:9981/stream/channelid/890847725
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSPL.png" tvg-id=" group-title="UK",SKY SPORTS PREMIER LEAGUE
+http://95.95.121.100:8082/play/a006
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" tvg-id=" group-title="UK",SKY SPORTS MAIN EVENT
+http://95.95.121.100:8082/play/a004
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" tvg-id=" group-title="UK",SKY SPORTS GOLF
+http://95.95.121.100:8082/play/a007
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" tvg-id=" group-title="UK",SKY SPORTS F1
+http://92.14.111.173:8007/play/a011
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSACTION.png" tvg-id=" group-title="UK",SKY SPORTS ACTION
+http://95.95.121.100:8082/play/a005
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSARENA.png" tvg-id=" group-title="UK",SKY SPORTS ARENA
+http://95.95.121.100:8082/play/a002
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id=" group-title="UK",SKY SPORTS NEWS
+http://95.95.121.100:8082/play/a003
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" tvg-id=" group-title="UK",MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="UK",BT SPORT 1
+http://95.95.121.100:8082/play/a009
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" tvg-id=" group-title="UK",BT SPORT 2
+http://95.95.121.100:8082/play/a00a
+#EXTINF:-1 tvg-logo="https://www.mulliganssportsbar.co.uk/wp-content/uploads/2017/05/RacingUK-01.png" tvg-id=" group-title="UK",RACING UK
+http://81.171.27.106:9002/play/a00g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" tvg-id=" group-title="UK",CHELSEA TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" tvg-id=" group-title="UK",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="UK",CNN
+https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="UK",BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="UK",CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" tvg-id=" group-title="UK",EURONEWS
+http://61.216.177.73/sta/ch91865009.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" tvg-id=" group-title="UK",RTE ONE
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" tvg-id=" group-title="UK",RTE TWO
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="UK",FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/USA.png",USA
+http://0.0.0.1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" tvg-id=" group-title="USA",ABC TV
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WGNAMERICA.png" tvg-id=" group-title="USA",WGN AMERICA
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" tvg-id=" group-title="USA",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABCNEWS.png" tvg-id=" group-title="USA",ABC NEWS
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id=" group-title="USA",FOX NEWS
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX5.png" tvg-id=" group-title="USA",FOX 5
+http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX29.png" tvg-id=" group-title="USA",FOX 29
+http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX31.png" tvg-id=" group-title="USA",FOX 31
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX32.png" tvg-id=" group-title="USA",FOX 32
+http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXBUSINESS.png" tvg-id=" group-title="USA",FOX BUSINESS
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="USA",CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" tvg-id=" group-title="USA",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MSNBC.png" tvg-id=" group-title="USA",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="USA",BLOOMBERG
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" tvg-id=" group-title="USA",RT AMERICA
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEWEATHERCHANNEL.png" tvg-id=" group-title="USA",THE WEATHER CHANNEL
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN.png" tvg-id=" group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN2.png" tvg-id=" group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN3.png" tvg-id=" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" tvg-id=" group-title="USA",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="USA",TRAVEL CHANNEL
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" tvg-id=" group-title="USA",INVESTIGATION DISCOVERY
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" tvg-id=" group-title="USA",BYU TV
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",ESPN USA HD
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="USA",ESPN 2 USA
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest?cb=20150803005255" tvg-id=" group-title="USA",NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="USA",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBCSPORTS.png" tvg-id=" group-title="USA",NBC SPORTS
+http://62.210.97.68:8081/planetusc/nbcsportsnetwork/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" tvg-id=" group-title="USA",FOX SPORTS 1 USA
+http://62.210.97.68:8081/planetusc/foxsports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Network (National)
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Moutain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png" tvg-id=" group-title="USA",TSN1
+http://62.210.97.68:8081/planetusc/tsn1hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" tvg-id=" group-title="USA",TSN2
+http://62.210.97.68:8081/planetusc/tsn2hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" tvg-id=" group-title="USA",TSN3
+http://62.210.97.68:8081/planetusc/tsn3hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" tvg-id=" group-title="USA",TSN4
+http://62.210.97.68:8081/planetusc/tsn4hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" tvg-id=" group-title="USA",TSN5
+http://62.210.97.68:8081/planetusc/tsn5hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO2.png" tvg-id=" group-title="USA",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SHOWTIME.png" tvg-id=" group-title="USA",SHOWTIME
+http://51.15.144.38:8080/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXACTION.png" tvg-id=" group-title="USA",FOX ACTION
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTN.png" tvg-id=" group-title="USA",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
 
 
