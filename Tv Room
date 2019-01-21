@@ -8,6 +8,70 @@
 <item>
 <title>CHANNELS STATIS: DOWN WORKING ON IT SORRY</title>
 <link>http</link>
+<item>
+<title>AMC HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/121</link>
+<item>
+<title>CINEMAX HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/229</link>
+<item>
+<title>CINEMAX EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/228</link>
+<item>
+<title>CINEMAX ACTIONMAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/265</link>
+<item>
+<title>CINEMAX MOREMAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/267</link>
+<item>
+<title>COMEDY CENTRAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/226</link>
+<item>
+<title>EPIX HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/219</link>
+<item>
+<title>FOX CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8</link>
+<item>
+<title>FX HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/150</link>
+<item>
+<title>FXX HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/149</link>
+<item>
+<title>HALLMARK HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/259</link>
+<item>
+<title>HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/248</link>
+<item>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8</link>
+<item>
+<title>HBO COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/258</link>
+<item>
+<title>HBO WEST HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/262</link>
+<item>
+<title>LIFETIME MOVIES HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/207</link>
+<item>
+<title>SPIKE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/255</link>
+<item>
+<title>STARZ HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/61169</link>
+<item>
+<title>SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/193</link>
+<item>
+<title>TBS HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/192</link>
+<item>
+<title>UNIVERSAL HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/186</link>
+
 
 
 
