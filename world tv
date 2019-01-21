@@ -121,14 +121,6 @@ http://81.171.27.106:9002/play/a00k
 https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" tvg-id=" group-title="USA",ABC TV
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX5.png" tvg-id=" group-title="USA",FOX 5
-http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX29.png" tvg-id=" group-title="USA",FOX 29
-http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX31.png" tvg-id=" group-title="USA",FOX 31
-http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX32.png" tvg-id=" group-title="USA",FOX 32
-http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",ESPN USA HD
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="USA",ESPN 2 USA
