@@ -112,3 +112,23 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET 360  FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET 360  FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11768.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet EAST" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet EAST
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11767.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONE  FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET ONE  FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11766.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Sportsnet One FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: Sportsnet One FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11765.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO  SD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET ONTARIO  SD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11763.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO FHD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET ONTARIO FHD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11764.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET PACIFIC  HD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SPORTSNET PACIFIC  HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11762.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet WEST  HD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet WEST  HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet WORLD HD" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet WORLD HD
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11760.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet WORLD HD*" tvg-logo="" group-title="3PM / PPV / VIP",CA: SportsNet WORLD HD*
+http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11759.ts
