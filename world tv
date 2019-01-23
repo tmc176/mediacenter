@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/images/sQPQH6" group-title=Scan_Quinte_EMS_Scanner_Feed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/images/sQPQH6" group-title=Scan_Quinte_EMS
 http://108.170.163.119:88/broadwave.m3u?src=1&rate=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
