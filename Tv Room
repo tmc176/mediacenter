@@ -9,9 +9,6 @@
 <title>CHANNELS STATIS:UP AND WORKING ENJOY</title>
 <link>http</link>
 <item>
-<title>Scan Quinte EMS Scanner Feed</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://108.170.163.119:88/broadwave.m3u?src=1&rate=1</link>
-<item>
 <title>AMC HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/121</link>
 <item>
