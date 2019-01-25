@@ -30,9 +30,6 @@
 <title>EPIX HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/219</link>
 <item>
-<title>FOX CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8</link>
-<item>
 <title>FX HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/150</link>
 <item>
@@ -45,9 +42,6 @@
 <title>HBO HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/248</link>
 <item>
-<title>HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8</link>
-<item>
 <title>HBO COMEDY HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/258</link>
 <item>
@@ -57,7 +51,7 @@
 <title>LIFETIME MOVIES HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/207</link>
 <item>
-<title>SPIKE HD</title>
+<title>Paramount Network</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/255</link>
 <item>
 <title>STARZ HD</title>
