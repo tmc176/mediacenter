@@ -130,11 +130,4 @@ http://80.80.160.168/live/6/2500000/live.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="USA",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="USA",CBS Sports HQ (Geo)
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/b/b0/CW_Logo.png" group-title="USA",CW
-http://atlas.its.virginia.edu:8088/hls/m3u8/CW.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
