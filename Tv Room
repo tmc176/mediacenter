@@ -77,7 +77,7 @@
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-#EXTM3U
+
 #EXTINF:-1,Us- ABC US
 http://smart-hdip.com:6204/said/123/10440
 #EXTINF:-1,Us- CNBC US
