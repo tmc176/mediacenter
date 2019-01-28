@@ -65,9 +65,125 @@
 <item>
 <title>UNIVERSAL HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shacktv.com:8080/skylar/skylar/186</link>
-
-
-
+<item>
+<title>ABC US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10440</link>
+<item>
+<title>CBS US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10432</link>
+<item>
+<title>CNN US</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10428</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+#EXTM3U
+#EXTINF:-1,Us- ABC US
+http://smart-hdip.com:6204/said/123/10440
+#EXTINF:-1,Us- CNBC US
+http://smart-hdip.com:6204/said/123/10429
+#EXTINF:-1,Us- CNN US HD
+http://smart-hdip.com:6204/said/123/10428
+#EXTINF:-1,Us- MTV HD US
+http://smart-hdip.com:6204/said/123/10403
+#EXTINF:-1,Us- Starz HD US
+http://smart-hdip.com:6204/said/123/10390
+#EXTINF:-1,Us- SyFy HD USA
+http://smart-hdip.com:6204/said/123/10387
+#EXTINF:-1,Us- TBS USA
+http://smart-hdip.com:6204/said/123/10386
+#EXTINF:-1,Us- TNT US
+http://smart-hdip.com:6204/said/123/10384
+#EXTINF:-1,Us- VH1 HD US
+http://smart-hdip.com:6204/said/123/10380
+#EXTINF:-1,Us- History HD US
+http://smart-hdip.com:6204/said/123/10405
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://smart-hdip.com:6204/said/123/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://smart-hdip.com:6204/said/123/10401
+#EXTINF:-1,Us- Discovery Channel US HD
+http://smart-hdip.com:6204/said/123/10424
+#EXTINF:-1,Us- Discovery Science US HD
+http://smart-hdip.com:6204/said/123/10421
+#EXTINF:-1,Us- Bloomberg US
+http://smart-hdip.com:6204/said/123/10436
+#EXTINF:-1,Us- Cartoon Network US
+http://smart-hdip.com:6204/said/123/10434
+#EXTINF:-1,Us- Disney Channel US
+http://smart-hdip.com:6204/said/123/10420
+#EXTINF:-1,Us- Disney Junior US
+http://smart-hdip.com:6204/said/123/10419
+#EXTINF:-1,Us- Nick Junior US
+http://smart-hdip.com:6204/said/123/10397
+#EXTINF:-1,Us- Nick Toons US
+http://smart-hdip.com:6204/said/123/10396
+#EXTINF:-1,Us- CBS Sport HD
+http://smart-hdip.com:6204/said/123/10433
+#EXTINF:-1,Us- CBS US
+http://smart-hdip.com:6204/said/123/10432
+#EXTINF:-1,Us- HBO Comedy HD
+http://smart-hdip.com:6204/said/123/10411
+#EXTINF:-1,Us- HBO Signature
+http://smart-hdip.com:6204/said/123/10410
+#EXTINF:-1,Us- HBO US HD
+http://smart-hdip.com:6204/said/123/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://smart-hdip.com:6204/said/123/10408
+#EXTINF:-1,Us- Animal Planet HD
+http://smart-hdip.com:6204/said/123/10439
+#EXTINF:-1,Us- BET HD
+http://smart-hdip.com:6204/said/123/10645
+#EXTINF:-1,Us- Bravo HD
+http://smart-hdip.com:6204/said/123/10435
+#EXTINF:-1,Us- CINEMAX HD
+http://smart-hdip.com:6204/said/123/10431
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://smart-hdip.com:6204/said/123/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://smart-hdip.com:6204/said/123/10422
+#EXTINF:-1,Us- Fox sport 1 HD
+http://smart-hdip.com:6204/said/123/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://smart-hdip.com:6204/said/123/10415
+#EXTINF:-1,Us- FX HD
+http://smart-hdip.com:6204/said/123/10414
+#EXTINF:-1,Us- GSN HD
+http://smart-hdip.com:6204/said/123/10412
+#EXTINF:-1,Us- HGTV HD
+http://smart-hdip.com:6204/said/123/10407
+#EXTINF:-1,Us- History
+http://smart-hdip.com:6204/said/123/10406
+#EXTINF:-1,Us- Life Time HD
+http://smart-hdip.com:6204/said/123/10404
+#EXTINF:-1,Us- NBA HD
+http://smart-hdip.com:6204/said/123/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://smart-hdip.com:6204/said/123/10399
+#EXTINF:-1,Us- NBCSN HD
+http://smart-hdip.com:6204/said/123/10398
+#EXTINF:-1,Us- NEWS 12
+http://smart-hdip.com:6204/said/123/10643
+#EXTINF:-1,Us- OWN HD
+http://smart-hdip.com:6204/said/123/10395
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://smart-hdip.com:6204/said/123/10393
+#EXTINF:-1,Us- SLICE HD
+http://smart-hdip.com:6204/said/123/10392
+#EXTINF:-1,Us- Syfy HD
+http://smart-hdip.com:6204/said/123/10388
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://smart-hdip.com:6204/said/123/10389
+#EXTINF:-1,Us- TLC HD
+http://smart-hdip.com:6204/said/123/10385
+#EXTINF:-1,Us- TRU TV HD
+http://smart-hdip.com:6204/said/123/10383
+#EXTINF:-1,Us- TV Land HD
+http://smart-hdip.com:6204/said/123/10382
+#EXTINF:-1,Us- Viceland TV
+http://smart-hdip.com:6204/said/123/10379
+#EXTINF:-1,Us- WE HD
+http://smart-hdip.com:6204/said/123/10378
 
 
 
