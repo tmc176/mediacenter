@@ -163,109 +163,391 @@ http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 #EXTM3U
-#EXTINF:-1,Us- ABC US
-http://smart-hdip.com:6204/said/123/10440
-#EXTINF:-1,Us- CNBC US
-http://smart-hdip.com:6204/said/123/10429
-#EXTINF:-1,Us- CNN US HD
-http://smart-hdip.com:6204/said/123/10428
-#EXTINF:-1,Us- MTV HD US
-http://smart-hdip.com:6204/said/123/10403
-#EXTINF:-1,Us- Starz HD US
-http://smart-hdip.com:6204/said/123/10390
-#EXTINF:-1,Us- SyFy HD USA
-http://smart-hdip.com:6204/said/123/10387
-#EXTINF:-1,Us- TBS USA
-http://smart-hdip.com:6204/said/123/10386
-#EXTINF:-1,Us- TNT US
-http://smart-hdip.com:6204/said/123/10384
-#EXTINF:-1,Us- VH1 HD US
-http://smart-hdip.com:6204/said/123/10380
-#EXTINF:-1,Us- History HD US
-http://smart-hdip.com:6204/said/123/10405
-#EXTINF:-1,Us- Nat Geo Wild HD US
-http://smart-hdip.com:6204/said/123/10402
-#EXTINF:-1,Us- NatGeo HD USA
-http://smart-hdip.com:6204/said/123/10401
-#EXTINF:-1,Us- Discovery Channel US HD
-http://smart-hdip.com:6204/said/123/10424
-#EXTINF:-1,Us- Discovery Science US HD
-http://smart-hdip.com:6204/said/123/10421
-#EXTINF:-1,Us- Bloomberg US
-http://smart-hdip.com:6204/said/123/10436
-#EXTINF:-1,Us- Cartoon Network US
-http://smart-hdip.com:6204/said/123/10434
-#EXTINF:-1,Us- Disney Channel US
-http://smart-hdip.com:6204/said/123/10420
-#EXTINF:-1,Us- Disney Junior US
-http://smart-hdip.com:6204/said/123/10419
-#EXTINF:-1,Us- Nick Junior US
-http://smart-hdip.com:6204/said/123/10397
-#EXTINF:-1,Us- Nick Toons US
-http://smart-hdip.com:6204/said/123/10396
-#EXTINF:-1,Us- CBS Sport HD
-http://smart-hdip.com:6204/said/123/10433
-#EXTINF:-1,Us- CBS US
-http://smart-hdip.com:6204/said/123/10432
-#EXTINF:-1,Us- HBO Comedy HD
-http://smart-hdip.com:6204/said/123/10411
-#EXTINF:-1,Us- HBO Signature
-http://smart-hdip.com:6204/said/123/10410
-#EXTINF:-1,Us- HBO US HD
-http://smart-hdip.com:6204/said/123/10409
-#EXTINF:-1,Us- HBO ZONE HD
-http://smart-hdip.com:6204/said/123/10408
-#EXTINF:-1,Us- Animal Planet HD
-http://smart-hdip.com:6204/said/123/10439
-#EXTINF:-1,Us- BET HD
-http://smart-hdip.com:6204/said/123/10645
-#EXTINF:-1,Us- Bravo HD
-http://smart-hdip.com:6204/said/123/10435
-#EXTINF:-1,Us- CINEMAX HD
-http://smart-hdip.com:6204/said/123/10431
-#EXTINF:-1,Us- DISCOVERY FAMILY
-http://smart-hdip.com:6204/said/123/10423
-#EXTINF:-1,Us- Discovery Investigation
-http://smart-hdip.com:6204/said/123/10422
-#EXTINF:-1,Us- Fox sport 1 HD
-http://smart-hdip.com:6204/said/123/10416
-#EXTINF:-1,Us- Fox sport 2 HD
-http://smart-hdip.com:6204/said/123/10415
-#EXTINF:-1,Us- FX HD
-http://smart-hdip.com:6204/said/123/10414
-#EXTINF:-1,Us- GSN HD
-http://smart-hdip.com:6204/said/123/10412
-#EXTINF:-1,Us- HGTV HD
-http://smart-hdip.com:6204/said/123/10407
-#EXTINF:-1,Us- History
-http://smart-hdip.com:6204/said/123/10406
-#EXTINF:-1,Us- Life Time HD
-http://smart-hdip.com:6204/said/123/10404
-#EXTINF:-1,Us- NBA HD
-http://smart-hdip.com:6204/said/123/10400
-#EXTINF:-1,Us- NBC EAST HD
-http://smart-hdip.com:6204/said/123/10399
-#EXTINF:-1,Us- NBCSN HD
-http://smart-hdip.com:6204/said/123/10398
-#EXTINF:-1,Us- NEWS 12
-http://smart-hdip.com:6204/said/123/10643
-#EXTINF:-1,Us- OWN HD
-http://smart-hdip.com:6204/said/123/10395
-#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
-http://smart-hdip.com:6204/said/123/10393
-#EXTINF:-1,Us- SLICE HD
-http://smart-hdip.com:6204/said/123/10392
-#EXTINF:-1,Us- Syfy HD
-http://smart-hdip.com:6204/said/123/10388
-#EXTINF:-1,Us- STARZ KIDS & Family HD
-http://smart-hdip.com:6204/said/123/10389
-#EXTINF:-1,Us- TLC HD
-http://smart-hdip.com:6204/said/123/10385
-#EXTINF:-1,Us- TRU TV HD
-http://smart-hdip.com:6204/said/123/10383
-#EXTINF:-1,Us- TV Land HD
-http://smart-hdip.com:6204/said/123/10382
-#EXTINF:-1,Us- Viceland TV
-http://smart-hdip.com:6204/said/123/10379
-#EXTINF:-1,Us- WE HD
-http://smart-hdip.com:6204/said/123/10378
+EXTINF:-1,CA: A & E
+http://109.236.86.108:28109/live/active/active/11419.ts
+EXTINF:-1,CA: ABC
+http://109.236.86.108:28109/live/active/active/11418.ts
+EXTINF:-1,CA: ABC SPARK
+http://109.236.86.108:28109/live/active/active/11417.ts
+EXTINF:-1,CA: ACTION
+http://109.236.86.108:28109/live/active/active/11416.ts
+EXTINF:-1,CA: ADDIK TV
+http://109.236.86.108:28109/live/active/active/11415.ts
+EXTINF:-1,CA: AMC
+http://109.236.86.108:28109/live/active/active/11414.ts
+EXTINF:-1,CA: ANIMAL PLANET
+http://109.236.86.108:28109/live/active/active/11413.ts
+EXTINF:-1,CA: ARTV
+http://109.236.86.108:28109/live/active/active/11412.ts
+EXTINF:-1,CA: ASSEMBLEE NATIONALE
+http://109.236.86.108:28109/live/active/active/11411.ts
+EXTINF:-1,CA: BBC CANADA
+http://109.236.86.108:28109/live/active/active/11410.ts
+EXTINF:-1,CA: BBC KIDS
+http://109.236.86.108:28109/live/active/active/11409.ts
+EXTINF:-1,CA: BNN
+http://109.236.86.108:28109/live/active/active/11408.ts
+EXTINF:-1,CA: BRAVO
+http://109.236.86.108:28109/live/active/active/11407.ts
+EXTINF:-1,CA: CANADIAN ARAB TV
+http://109.236.86.108:28109/live/active/active/11286.ts
+EXTINF:-1,CA: CANAL D HD
+http://109.236.86.108:28109/live/active/active/11406.ts
+EXTINF:-1,CA: CANAL VIE
+http://109.236.86.108:28109/live/active/active/11404.ts
+EXTINF:-1,CA: CANALSAVOIR
+http://109.236.86.108:28109/live/active/active/11403.ts
+EXTINF:-1,CA: CASA
+http://109.236.86.108:28109/live/active/active/11401.ts
+EXTINF:-1,CA: CBC MONTREAL
+http://109.236.86.108:28109/live/active/active/11400.ts
+EXTINF:-1,CA: CBC NEWS
+http://109.236.86.108:28109/live/active/active/11399.ts
+EXTINF:-1,CA: CBC OTTAWA
+http://109.236.86.108:28109/live/active/active/11398.ts
+EXTINF:-1,CA: CBC TORONTO
+http://109.236.86.108:28109/live/active/active/11397.ts
+EXTINF:-1,CA: CBC VANCOUVER
+http://109.236.86.108:28109/live/active/active/11396.ts
+EXTINF:-1,CA: CBS EAST
+http://109.236.86.108:28109/live/active/active/11395.ts
+EXTINF:-1,CA: CHCH
+http://109.236.86.108:28109/live/active/active/11394.ts
+EXTINF:-1,CA: CINEPOP
+http://109.236.86.108:28109/live/active/active/11393.ts
+EXTINF:-1,CA: CITY TORONTO
+http://109.236.86.108:28109/live/active/active/11392.ts
+EXTINF:-1,CA: CITY VANCOUVER
+http://109.236.86.108:28109/live/active/active/11391.ts
+EXTINF:-1,CA: CMT CANADA
+http://109.236.86.108:28109/live/active/active/11390.ts
+EXTINF:-1,CA: CNBC WORLD HD
+http://109.236.86.108:28109/live/active/active/11389.ts
+EXTINF:-1,CA: CNN
+http://109.236.86.108:28109/live/active/active/11388.ts
+EXTINF:-1,CA: COMEDY
+http://109.236.86.108:28109/live/active/active/11387.ts
+EXTINF:-1,CA: COOKING CHANNEL
+http://109.236.86.108:28109/live/active/active/11386.ts
+EXTINF:-1,CA: COTTAGE LIFE
+http://109.236.86.108:28109/live/active/active/11385.ts
+EXTINF:-1,CA: CP24 HD
+http://109.236.86.108:28109/live/active/active/11384.ts
+EXTINF:-1,CA: CPAC
+http://109.236.86.108:28109/live/active/active/11383.ts
+EXTINF:-1,CA: CPAC FRENCH
+http://109.236.86.108:28109/live/active/active/11382.ts
+EXTINF:-1,CA: CRIME  INVEST
+http://109.236.86.108:28109/live/active/active/11381.ts
+EXTINF:-1,CA: CTV
+http://109.236.86.108:28109/live/active/active/11380.ts
+EXTINF:-1,CA: CTV 2
+http://109.236.86.108:28109/live/active/active/11379.ts
+EXTINF:-1,CA: CTV NEWS NETWORK
+http://109.236.86.108:28109/live/active/active/11378.ts
+EXTINF:-1,CA: CTV TORONTO
+http://109.236.86.108:28109/live/active/active/11377.ts
+EXTINF:-1,CA: CTV VANCOUVER
+http://109.236.86.108:28109/live/active/active/11376.ts
+EXTINF:-1,CA: DISCOVERY  VELOCITY
+http://109.236.86.108:28109/live/active/active/11375.ts
+EXTINF:-1,CA: DISCOVERY SCIENCE CANADA
+http://109.236.86.108:28109/live/active/active/11374.ts
+EXTINF:-1,CA: DISNEY CANADA
+http://109.236.86.108:28109/live/active/active/11373.ts
+EXTINF:-1,CA: DISNEY FRENCH
+http://109.236.86.108:28109/live/active/active/11372.ts
+EXTINF:-1,CA: DISNEY JR
+http://109.236.86.108:28109/live/active/active/11371.ts
+EXTINF:-1,CA: DIY NETWORK
+http://109.236.86.108:28109/live/active/active/11370.ts
+EXTINF:-1,CA: E! CANADA
+http://109.236.86.108:28109/live/active/active/11369.ts
+EXTINF:-1,CA: ENCORE 2 EAST
+http://109.236.86.108:28109/live/active/active/11368.ts
+EXTINF:-1,CA: EVASION
+http://109.236.86.108:28109/live/active/active/11367.ts
+EXTINF:-1,CA: FOX NEWS
+http://109.236.86.108:28109/live/active/active/11366.ts
+EXTINF:-1,CA: FYI
+http://109.236.86.108:28109/live/active/active/11365.ts
+EXTINF:-1,CA: Game TV
+http://109.236.86.108:28109/live/active/active/11364.ts
+EXTINF:-1,CA: GLOBAL
+http://109.236.86.108:28109/live/active/active/11363.ts
+EXTINF:-1,CA: GSN
+http://109.236.86.108:28109/live/active/active/11362.ts
+EXTINF:-1,CA: HBO
+http://109.236.86.108:28109/live/active/active/11360.ts
+EXTINF:-1,CA: HGTV
+http://109.236.86.108:28109/live/active/active/11359.ts
+EXTINF:-1,CA: HISTORIA
+http://109.236.86.108:28109/live/active/active/11358.ts
+EXTINF:-1,CA: ICI MONTREAL
+http://109.236.86.108:28109/live/active/active/11357.ts
+EXTINF:-1,CA: ICI TELE
+http://109.236.86.108:28109/live/active/active/11355.ts
+EXTINF:-1,CA: ICI VANCOUVER
+http://109.236.86.108:28109/live/active/active/11356.ts
+EXTINF:-1,CA: KNOWLEDGE KIDS
+http://109.236.86.108:28109/live/active/active/11354.ts
+EXTINF:-1,CA: LCN
+http://109.236.86.108:28109/live/active/active/11353.ts
+EXTINF:-1,CA: LIFETIME
+http://109.236.86.108:28109/live/active/active/11352.ts
+EXTINF:-1,CA: MAX
+http://109.236.86.108:28109/live/active/active/11351.ts
+EXTINF:-1,CA: METEO
+http://109.236.86.108:28109/live/active/active/11350.ts
+EXTINF:-1,CA: MOI & CIE
+http://109.236.86.108:28109/live/active/active/11349.ts
+EXTINF:-1,CA: MSNBC
+http://109.236.86.108:28109/live/active/active/11348.ts
+EXTINF:-1,CA: MTV2
+http://109.236.86.108:28109/live/active/active/11347.ts
+EXTINF:-1,CA: MUCH
+http://109.236.86.108:28109/live/active/active/11346.ts
+EXTINF:-1,CA: MUSIQUE PLUS
+http://109.236.86.108:28109/live/active/active/11345.ts
+EXTINF:-1,CA: NAT GEO WILD
+http://109.236.86.108:28109/live/active/active/11344.ts
+EXTINF:-1,CA: NBA TV
+http://109.236.86.108:28109/live/active/active/11343.ts
+EXTINF:-1,CA: NBC FHD
+http://109.236.86.108:28109/live/active/active/11342.ts
+EXTINF:-1,CA: NBC WEST
+http://109.236.86.108:28109/live/active/active/11341.ts
+EXTINF:-1,CA: NICK
+http://109.236.86.108:28109/live/active/active/11340.ts
+EXTINF:-1,CA: OWN
+http://109.236.86.108:28109/live/active/active/11339.ts
+EXTINF:-1,CA: PEACH TREE
+http://109.236.86.108:28109/live/active/active/11338.ts
+EXTINF:-1,CA: PRISE 2
+http://109.236.86.108:28109/live/active/active/11337.ts
+EXTINF:-1,CA: RDI
+http://109.236.86.108:28109/live/active/active/11336.ts
+EXTINF:-1,CA: RDS
+http://109.236.86.108:28109/live/active/active/11335.ts
+EXTINF:-1,CA: RDS 2
+http://109.236.86.108:28109/live/active/active/11334.ts
+EXTINF:-1,CA: RDS INFO
+http://109.236.86.108:28109/live/active/active/11333.ts
+EXTINF:-1,CA: SERIES
+http://109.236.86.108:28109/live/active/active/11332.ts
+EXTINF:-1,CA: SHOWCASE
+http://109.236.86.108:28109/live/active/active/11331.ts
+EXTINF:-1,CA: SLICE
+http://109.236.86.108:28109/live/active/active/11330.ts
+EXTINF:-1,CA: SPACE
+http://109.236.86.108:28109/live/active/active/11329.ts
+EXTINF:-1,CA: SPIKE TV
+http://109.236.86.108:28109/live/active/active/11328.ts
+EXTINF:-1,CA: TFO
+http://109.236.86.108:28109/live/active/active/11310.ts
+EXTINF:-1,CA: THE WEATHER NETWORK
+http://109.236.86.108:28109/live/active/active/11309.ts
+EXTINF:-1,CA: TLC
+http://109.236.86.108:28109/live/active/active/11361.ts
+EXTINF:-1,CA: TMN 1
+http://109.236.86.108:28109/live/active/active/11308.ts
+EXTINF:-1,CA: TMN 2
+http://109.236.86.108:28109/live/active/active/11307.ts
+EXTINF:-1,CA: TMN 3
+http://109.236.86.108:28109/live/active/active/11306.ts
+EXTINF:-1,CA: TMN 4
+http://109.236.86.108:28109/live/active/active/11305.ts
+EXTINF:-1,CA: TRAVEL
+http://109.236.86.108:28109/live/active/active/11304.ts
+EXTINF:-1,CA: TREEHOUSE
+http://109.236.86.108:28109/live/active/active/11303.ts
+EXTINF:-1,CA: TSN  3HD
+http://109.236.86.108:28109/live/active/active/11302.ts
+EXTINF:-1,CA: TSN 1HD
+http://109.236.86.108:28109/live/active/active/11301.ts
+EXTINF:-1,CA: TSN 4HD
+http://109.236.86.108:28109/live/active/active/11300.ts
+EXTINF:-1,CA: TSN 5HD
+http://109.236.86.108:28109/live/active/active/11299.ts
+EXTINF:-1,CA: TV5 QUEBEC
+http://109.236.86.108:28109/live/active/active/11298.ts
+EXTINF:-1,CA: TVA
+http://109.236.86.108:28109/live/active/active/11296.ts
+EXTINF:-1,CA: TVA HD
+http://109.236.86.108:28109/live/active/active/11295.ts
+EXTINF:-1,CA: TVA SPORTS 1 HD
+http://109.236.86.108:28109/live/active/active/11294.ts
+EXTINF:-1,CA: TVA SPORTS 2 HD
+http://109.236.86.108:28109/live/active/active/11297.ts
+EXTINF:-1,CA: UNIS TV
+http://109.236.86.108:28109/live/active/active/11293.ts
+EXTINF:-1,CA: VRAK TV
+http://109.236.86.108:28109/live/active/active/11292.ts
+EXTINF:-1,CA: VTELE HD
+http://109.236.86.108:28109/live/active/active/11291.ts
+EXTINF:-1,CA: Wild TV
+http://109.236.86.108:28109/live/active/active/11290.ts
+EXTINF:-1,CA: WORLD FISHING NET
+http://109.236.86.108:28109/live/active/active/11289.ts
+EXTINF:-1,CA: YES TV
+http://109.236.86.108:28109/live/active/active/11288.ts
+EXTINF:-1,CA: YOOPA
+http://109.236.86.108:28109/live/active/active/11287.ts
+EXTINF:-1,CA: ZESTE
+http://109.236.86.108:28109/live/active/active/11285.ts
+EXTINF:-1,CA: ZTELE
+http://109.236.86.108:28109/live/active/active/11284.ts
+EXTINF:-1,CA: OLN HD
+http://109.236.86.108:28109/live/active/active/3979.ts
+EXTINF:-1,CA: AE HD
+http://109.236.86.108:28109/live/active/active/3978.ts
+EXTINF:-1,CA: ABC HD
+http://109.236.86.108:28109/live/active/active/3977.ts
+EXTINF:-1,CA: ABC SPARK HD
+http://109.236.86.108:28109/live/active/active/3976.ts
+EXTINF:-1,CA: AMC HD
+http://109.236.86.108:28109/live/active/active/3975.ts
+EXTINF:-1,CA: Animal Planet HD
+http://109.236.86.108:28109/live/active/active/3974.ts
+EXTINF:-1,CA: BNN HD
+http://109.236.86.108:28109/live/active/active/3973.ts
+EXTINF:-1,CA:  BRAVO HD
+http://109.236.86.108:28109/live/active/active/3972.ts
+EXTINF:-1,CA: CBC CALGARY HD
+http://109.236.86.108:28109/live/active/active/3971.ts
+EXTINF:-1,CA: CBC ED HD
+http://109.236.86.108:28109/live/active/active/3970.ts
+EXTINF:-1,CA: CBC HD
+http://109.236.86.108:28109/live/active/active/3969.ts
+EXTINF:-1,CA: CBC Montreal HD
+http://109.236.86.108:28109/live/active/active/3968.ts
+EXTINF:-1,CA: CBC NEWS HD
+http://109.236.86.108:28109/live/active/active/3967.ts
+EXTINF:-1,CA: CBC Toronto HD
+http://109.236.86.108:28109/live/active/active/3966.ts
+EXTINF:-1,CA: CBS HD
+http://109.236.86.108:28109/live/active/active/3965.ts
+EXTINF:-1,CA: Charged Hd
+http://109.236.86.108:28109/live/active/active/3964.ts
+EXTINF:-1,CA: CHCH HD
+http://109.236.86.108:28109/live/active/active/3963.ts
+EXTINF:-1,CA: CITY Calgary HD
+http://109.236.86.108:28109/live/active/active/3962.ts
+EXTINF:-1,CA: City Toronto HD
+http://109.236.86.108:28109/live/active/active/3961.ts
+EXTINF:-1,CA: City Vancouver HD
+http://109.236.86.108:28109/live/active/active/3960.ts
+EXTINF:-1,CA: CNN HD
+http://109.236.86.108:28109/live/active/active/3959.ts
+EXTINF:-1,CA: COMEDY HD
+http://109.236.86.108:28109/live/active/active/3958.ts
+EXTINF:-1,CA: Cottage Life HD
+http://109.236.86.108:28109/live/active/active/3957.ts
+EXTINF:-1,CA: CP 24 HD
+http://109.236.86.108:28109/live/active/active/3956.ts
+EXTINF:-1,CA: CP24. HD
+http://109.236.86.108:28109/live/active/active/3955.ts
+EXTINF:-1,CA: CREATE
+http://109.236.86.108:28109/live/active/active/3954.ts
+EXTINF:-1,CA: CTV ATLANTIC
+http://109.236.86.108:28109/live/active/active/3953.ts
+EXTINF:-1,CA: CTV EAST
+http://109.236.86.108:28109/live/active/active/3952.ts
+EXTINF:-1,CA: CTV HD
+http://109.236.86.108:28109/live/active/active/3951.ts
+EXTINF:-1,CA: CTV Montreal HD
+http://109.236.86.108:28109/live/active/active/3950.ts
+EXTINF:-1,CA: CTV NEWS HD
+http://109.236.86.108:28109/live/active/active/3949.ts
+EXTINF:-1,CA: CW HD
+http://109.236.86.108:28109/live/active/active/3948.ts
+EXTINF:-1,CA:  Discovery HD
+http://109.236.86.108:28109/live/active/active/3947.ts
+EXTINF:-1,CA: Discovery Science HD
+http://109.236.86.108:28109/live/active/active/3946.ts
+EXTINF:-1,CA: Discovery Velocity HD
+http://109.236.86.108:28109/live/active/active/3945.ts
+EXTINF:-1,CA: DISNEY HD
+http://109.236.86.108:28109/live/active/active/3944.ts
+EXTINF:-1,CA: DISNEY JR HD
+http://109.236.86.108:28109/live/active/active/3943.ts
+EXTINF:-1,CA: DIY NETWORK HD
+http://109.236.86.108:28109/live/active/active/3942.ts
+EXTINF:-1,CA: DTOUR HD
+http://109.236.86.108:28109/live/active/active/3941.ts
+EXTINF:-1,CA: E! HD
+http://109.236.86.108:28109/live/active/active/3940.ts
+EXTINF:-1,CA:  FAMILY HD
+http://109.236.86.108:28109/live/active/active/3939.ts
+EXTINF:-1,CA: Food Network HD
+http://109.236.86.108:28109/live/active/active/3938.ts
+EXTINF:-1,CA: FOX HD
+http://109.236.86.108:28109/live/active/active/3937.ts
+EXTINF:-1,CA:  FX HD
+http://109.236.86.108:28109/live/active/active/3936.ts
+EXTINF:-1,CA: FXX HD
+http://109.236.86.108:28109/live/active/active/3935.ts
+EXTINF:-1,CA: GLOBAL EAST
+http://109.236.86.108:28109/live/active/active/3934.ts
+EXTINF:-1,CA: GLOBAL HD
+http://109.236.86.108:28109/live/active/active/3933.ts
+EXTINF:-1,CA: GSN HD
+http://109.236.86.108:28109/live/active/active/3932.ts
+EXTINF:-1,CA: Gusto HD
+http://109.236.86.108:28109/live/active/active/3931.ts
+EXTINF:-1,CA: HBO EAST
+http://109.236.86.108:28109/live/active/active/3930.ts
+EXTINF:-1,CA: HBO EAST HD
+http://109.236.86.108:28109/live/active/active/3929.ts
+EXTINF:-1,CA: HBO WEST
+http://109.236.86.108:28109/live/active/active/3928.ts
+EXTINF:-1,CA: HGTV HD
+http://109.236.86.108:28109/live/active/active/3927.ts
+EXTINF:-1,CA: HISTORY HD
+http://109.236.86.108:28109/live/active/active/3926.ts
+EXTINF:-1,CA: HLN HD
+http://109.236.86.108:28109/live/active/active/3925.ts
+EXTINF:-1,CA: ID HD
+http://109.236.86.108:28109/live/active/active/3924.ts
+EXTINF:-1,CA: LCN HD
+http://109.236.86.108:28109/live/active/active/3923.ts
+EXTINF:-1,CA: Lifetime HD
+http://109.236.86.108:28109/live/active/active/3922.ts
+EXTINF:-1,CA: Love Nature HD
+http://109.236.86.108:28109/live/active/active/3921.ts
+EXTINF:-1,CA: ME TV
+http://109.236.86.108:28109/live/active/active/3920.ts
+EXTINF:-1,CA: MSNBC HD
+http://109.236.86.108:28109/live/active/active/3919.ts
+EXTINF:-1,CA: Much HD
+http://109.236.86.108:28109/live/active/active/3918.ts
+EXTINF:-1,CA: NAT GEO HD
+http://109.236.86.108:28109/live/active/active/3917.ts
+EXTINF:-1,CA: NAT GEO WILD HD
+http://109.236.86.108:28109/live/active/active/3916.ts
+EXTINF:-1,CA: NBC HD
+http://109.236.86.108:28109/live/active/active/3915.ts
+EXTINF:-1,CA: Omni 1 HD
+http://109.236.86.108:28109/live/active/active/3914.ts
+EXTINF:-1,CA: OWN HD
+http://109.236.86.108:28109/live/active/active/3913.ts
+EXTINF:-1,CA: OWN HD (OPRAH WINFRY NETWORK)
+http://109.236.86.108:28109/live/active/active/3871.ts
+EXTINF:-1,CA: PBS HD
+http://109.236.86.108:28109/live/active/active/3912.ts
+EXTINF:-1,CA: PEACH TREE HD
+http://109.236.86.108:28109/live/active/active/3911.ts
+EXTINF:-1,CA: RDS 2 HD
+http://109.236.86.108:28109/live/active/active/3910.ts
+EXTINF:-1,CA: RDS HD
+http://109.236.86.108:28109/live/active/active/3909.ts
+EXTINF:-1,CA: SHOWCASE HD
+http://109.236.86.108:28109/live/active/active/3908.ts
+EXTINF:-1,CA: SLICE HD
+http://109.236.86.108:28109/live/active/active/3907.ts
+EXTINF:-1,CA: SMITHSONIAN HD
+http://109.236.86.108:28109/live/active/active/3906.ts
+EXTINF:-1,CA: SN ONE
+http://109.236.86.108:28109/live/active/active/3905.ts
+EXTINF:-1,CA: SPACE HD
+http://109.236.86.108:28109/live/active/active/3904.ts
