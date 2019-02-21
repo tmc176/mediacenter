@@ -162,3 +162,71 @@ http://80.80.160.168/live/2/live.m3u8
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
+
+#EXTM3U
+#EXTINF:-1,SP | TSN 1
+http://p5.giffy.be:8080/cecilia/cecilia/31526
+#EXTINF:-1,SP | TSN 1 HD
+http://p5.giffy.be:8080/cecilia/cecilia/94238
+#EXTINF:-1,SP | TSN 2
+http://p5.giffy.be:8080/cecilia/cecilia/22576
+#EXTINF:-1,SP | TSN 2 HD
+http://p5.giffy.be:8080/cecilia/cecilia/94237
+#EXTINF:-1,SP | TSN 3
+http://p5.giffy.be:8080/cecilia/cecilia/35127
+#EXTINF:-1,SP | TSN 3 HD
+http://p5.giffy.be:8080/cecilia/cecilia/94236
+#EXTINF:-1,SP | TSN 4 HD
+http://p5.giffy.be:8080/cecilia/cecilia/13888
+#EXTINF:-1,SP | TSN 4 HD*
+http://p5.giffy.be:8080/cecilia/cecilia/94235
+#EXTINF:-1,SP | TSN 5 HD
+http://p5.giffy.be:8080/cecilia/cecilia/13889
+#EXTINF:-1,SP | TSN 5 HD*
+http://p5.giffy.be:8080/cecilia/cecilia/94234
+#EXTINF:-1,SP | SPORTSNET 360.
+http://p5.giffy.be:8080/cecilia/cecilia/14215
+#EXTINF:-1,SP | SPORTSNET EAST
+http://p5.giffy.be:8080/cecilia/cecilia/22575
+#EXTINF:-1,SP | SPORTSNET EAST HD
+http://p5.giffy.be:8080/cecilia/cecilia/94242
+#EXTINF:-1,SP | SPORTSNET ONE
+http://p5.giffy.be:8080/cecilia/cecilia/20721
+#EXTINF:-1,SP | SPORTSNET ONE HD
+http://p5.giffy.be:8080/cecilia/cecilia/94241
+#EXTINF:-1,SP | SPORTSNET ONTARIO
+http://p5.giffy.be:8080/cecilia/cecilia/53660
+#EXTINF:-1,SP | SPORTSNET ONTARIO HD
+http://p5.giffy.be:8080/cecilia/cecilia/94240
+#EXTINF:-1,SP | SPORTSNET PACIFIC
+http://p5.giffy.be:8080/cecilia/cecilia/21526
+#EXTINF:-1,SP | SPORTSNET WEST
+http://p5.giffy.be:8080/cecilia/cecilia/21527
+#EXTINF:-1,SP | SPORTSNET WORLD
+http://p5.giffy.be:8080/cecilia/cecilia/13884
+#EXTINF:-1,SP | FOX SPORTS 1 HD
+http://p5.giffy.be:8080/cecilia/cecilia/13878
+#EXTINF:-1,SP | FOX SPORTS 2 HD
+http://p5.giffy.be:8080/cecilia/cecilia/13879
+#EXTINF:-1,SP | LEAFS TV
+http://p5.giffy.be:8080/cecilia/cecilia/20717
+#EXTINF:-1,SP | NBA TV HD
+http://p5.giffy.be:8080/cecilia/cecilia/36568
+#EXTINF:-1,SP | NFL NETWORK
+http://p5.giffy.be:8080/cecilia/cecilia/76281
+#EXTINF:-1,SP | NFL NETWORK (3)
+http://p5.giffy.be:8080/cecilia/cecilia/78907
+#EXTINF:-1,SP | TENNIS HD
+http://p5.giffy.be:8080/cecilia/cecilia/27825
+#EXTINF:-1,BR |  FOX SPORTS
+http://p5.giffy.be:8080/cecilia/cecilia/80451
+#EXTINF:-1,BR |  FOX SPORTS (2)
+http://p5.giffy.be:8080/cecilia/cecilia/80448
+#EXTINF:-1,BR |  FOX SPORTS 2
+http://p5.giffy.be:8080/cecilia/cecilia/80450
+#EXTINF:-1,BR |  FOX SPORTS 2 (2)
+http://p5.giffy.be:8080/cecilia/cecilia/80449
+#EXTINF:-1,UFC 24/7
+http://p5.giffy.be:8080/cecilia/cecilia/93080
+
+
