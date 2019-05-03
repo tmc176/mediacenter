@@ -1,17 +1,17 @@
-#EXTM3U
+<streamingInfos>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dk3oPCs.png" group-title="CANADA",World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+<item>
+<title>World Fishing Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/30261</link>
+<item>
+<title>SPORTSMAN CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/36070</link>
+<item>
+<title>OUTDOOR CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/26029</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c393cad2de254456f7ef8c2/featuredImage.jpg" group-title="24/7 PLUTO TV",Man Up: Outdoors
-https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
-
-
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://primestreams.tv:826/peterd/peterd/36070
-#EXTINF:-1,OUTDOOR CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/26029
-#EXTINF:-1,World Fishing Network
-http://primestreams.tv:826/peterd/peterd/30261
 
 
