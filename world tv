@@ -3,6 +3,137 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/images/sQPQH6.png" group-title="Canada",Scan_Quinte_EMS
 http://108.170.163.119:88/broadwave.m3u?src=1&rate=1
 
+#EXTINF:-1 tvg-id="3 News" tvg-name="3 News" tvg-logo="http://www.three.co.uk/" group-title="UK",3 News
+http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-id="Austria 24" tvg-name="Austria 24" tvg-logo="/home/logo/png" group-title="Austria",Austria 24
+https://5a32c05065c79.streamlock.net/live/mp4:stream_720p/f1tv.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg UK" tvg-logo="" group-title="UK",Bloomberg UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
+https://bthlsamd-i.akamaihd.net/hls/live/621268/BTCAL_HLSAMD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Montreal" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Montreal
+https://pubads.g.doubleclick.net/ssai/event/c7QlxTj6TAyr-qlycDZyLQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Toronto" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Toronto
+https://pubads.g.doubleclick.net/ssai/event/c7QlxTj6TAyr-qlycDZyLQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Vancouver" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Vancouver
+http://bthls-i.akamaihd.net/hls/live/264154/BTVANHLS/Wifi_Layer_1000.m3u8
+#EXTINF:-1 tvg-id="CBCNN" tvg-name="CBC News Network" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+#EXTINF:-1 tvg-id="CBRT" tvg-name="CBC Calgary" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1 tvg-id="CBCT" tvg-name="CBC Charlottetown" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Charlottetown
+https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+#EXTINF:-1 tvg-id="CBXT" tvg-name="CBC Edmonton" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Edmonton
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+#EXTINF:-1 tvg-id="CBAT" tvg-name="CBC Fredericton" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Fredericton
+https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+#EXTINF:-1 tvg-id="CBHT" tvg-name="CBC Halifax" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Halifax
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:-1 tvg-id="CBMT" tvg-name="CBC Montreal" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Montreal
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 tvg-id="CBOT" tvg-name="CBC Ottawa" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="CBKT" tvg-name="CBC Regina" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Regina
+https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+#EXTINF:-1 tvg-id="CBNT" tvg-name="CBC St Johns" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC St Johns
+https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+#EXTINF:-1 tvg-id="CBLT" tvg-name="CBC Toronto" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-id="CBUT" tvg-name="CBC Vancouver" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1 tvg-id="CBET" tvg-name="CBC Windsor" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Windsor
+https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+#EXTINF:-1 tvg-id="CBWT" tvg-name="CBC Winnipeg" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Winnipeg
+https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+#EXTINF:-1 tvg-id="CFYK" tvg-name="CBC Yellowknife" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Yellowknife
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+#EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",City TV
+https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="UK",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports",ESPN
+http://espn.tmedia.me/cache/espn1_540.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports",ESPN 2
+http://espn.tmedia.me/cache/espn2_540.m3u8
+#EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports",ESPN News
+http://espn.tmedia.me/cache/espnews.m3u8
+#EXTINF:-1 tvg-id="ESPN U" tvg-name="ESPN U" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports",ESPN U
+http://espn.tmedia.me/cache/espnu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family TV" tvg-logo="/home/logo/png" group-title="Austria",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 tvg-id="FRANCE 24 English" tvg-name="France 24" tvg-logo="/home/logo/png" group-title="UK",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="Global BC" tvg-name="Global BC" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/images/thumbnail-generic.jpg" group-title="Canada",Global BC
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Global Vancouver" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/images/thumbnail-generic.jpg" group-title="Canada",Global Vancouver
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Global Calgary" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/images/thumbnail-generic.jpg" group-title="Canada",Global Calgary
+https://glblvmstu-f.akamaihd.net/i/glblvMSTu_1@80127/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Global Edmonton" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/images/thumbnail-generic.jpg" group-title="Canada",Global Edmonton
+https://glblvedmonton-lh.akamaihd.net/i/glblvEdmonton_1@119844/master.m3u8?
+#EXTINF:-1 tvg-id="Global (CIHF) Dartmouth" tvg-name="Global Halifax" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/images/thumbnail-generic.jpg" group-title="Canada",Global Halifax
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?
+#EXTINF:-1 tvg-id="Global (CIII-DT-41) Toronto" tvg-name="Global Toronto" tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/images/thumbnail-generic.jpg" group-title="Canada",Global Toronto
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Go TV" tvg-logo="/home/logo/png" group-title="Canada",Go TV
+http://nstream17.gotv.at:1938/live/gotvlive_576p/f1tv.m3u8
+#EXTINF:-1 tvg-id="SRC (CBFT) Montreal, QC" tvg-name="SRC" tvg-logo="http://ici.radio-canada.ca/Content/tele/images/ici-tele-default.jpg" group-title="Canada",Radio Canada
+https://rcavlive.akamaized.net/hls/live/664044/cancbft/master_2500.m3u8
+#EXTINF:-1 tvg-id="K" tvg-name="Knowledge" tvg-logo="https://www.knowledge.ca/sites/default/files/favicons/favicon-32x32.png" group-title="Canada",Knowledge
+https://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miracle Channel" tvg-logo="/home/logo/png" group-title="Canada",Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="MLB Network 2" tvg-name="MLB Network 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network 2
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_2/master_wired.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Munchen TV" tvg-logo="/home/logo/png" group-title="Austria",Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OE 24" tvg-logo="/home/logo/png" group-title="Austria",OE 24
+http://185.85.29.130/oe24-live1/_definst_/oe24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTO" tvg-name="Okto TV" tvg-logo="/home/logo/png" group-title="Austria",Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:-1 tvg-id="OMNI Vancouver" tvg-name="Omni" tvg-logo="/home/logo/png" group-title="Canada",Omni
+https://omnitv-i.akamaihd.net/hls/live/801581/OmniTV_English/master.m3u8
+#EXTINF:-1 tvg-id="ORF1" tvg-name="ORF 1" tvg-logo="/home/logo/png" group-title="Austria",ORF 1
+http://orf1.orf.cdn.ors.at/orf1/q6a.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORF2" tvg-name="ORF 2" tvg-logo="/home/logo/png" group-title="Austria",ORF 2
+http://orf2.orf.cdn.ors.at/orf2/q6a.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORF3" tvg-name="ORF 3" tvg-logo="/home/logo/png" group-title="Austria",ORF 3
+http://orf3.orf.cdn.ors.at/orf3/q6a.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="orfsportplus" tvg-name="ORF Sports" tvg-logo="/home/logo/png" group-title="Austria",ORF Sports
+http://orfs.orfstg.cdn.ors.at/out/u/orfs/q6a/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Arizona" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Arizona
+https://p12a.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Bay Area" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Bay Area
+https://p12b.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Los Angeles" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Los Angeles
+https://p12l.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Mountain" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Mountain
+https://p12m.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Oregon" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Oregon
+https://p12o.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Washington" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Washington
+https://p12w.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Network" tvg-logo="https://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports",Pac 12 Network
+https://p12n.pac-12.com/index.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-id="Tele-Quebec (CIVM) Montreal HD" tvg-name="Tele Quebec" tvg-logo="/home/logo/png" group-title="Canada",Tele Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-id="Shopping Network (PACTV" tvg-name="The Shopping Network" tvg-logo="/home/logo/png" group-title="USA",The Shopping Network
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="The Country Network" tvg-logo="/home/logo/png" group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tirol TV" tvg-logo="/home/logo/png" group-title="Austria",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-id="V (CFJP) Montreal" tvg-name="V" tvg-logo="/home/logo/png" group-title="Canada",V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="WGN 9" tvg-logo="/home/logo/png" group-title="USA",WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE Network" tvg-logo="http://www.wwe.com/f/styles/wwe_large/public/all/2017/01/new_WWENetwork--12226c4d9b2f0aa5bfa7374022b27dab.jpg" group-title="USA",WWE Network
+http://hlslive-l3c.med2.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8|Cookie=mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce67dce281f9b8ded5207818462aca3682821fea39906c153512fcfd5a35c3c0bc3be56c2111426d61067a4867666c79fd8164a52020fd3ccbb94464194ad05bae122637ad5a3dada7120183c39682f5f6c12d6fdafff6a4289ee70a4616fcc0a5178aaf5c52ad0a18544d46619a5b79c1736424daf9b1cc3bfa72686edd9bd4db2d5a9d9e8d40fba2a4e661f31a3d2ff51fa884c41bcab18e0a5f17414e1436e36dccc0bad26962521229593e94c8bee5dd06c19e18eaf8301536d6ca134e821e60881ead375e371772c7d8ccefd1fadf55a61678cdc51d3cc0bfda88add81c47d7e0ee81895acca20d74d5f70d97889954e9be5db51671d680046b746a06ae6b11de27f79e347fbfba5048b02f01d67ea11bc3dea46a4dbb28decb4de181d51d0f867883fec5ef33c0319e96f8769a7e251fdb3cc02453c8fa6cb8bb4a8c735f501183506c96200eea3c7796a02878e164e272bf1f3396f97dc5ccddda8c42b3829858d2385635454d47cb9da9ab5d5900a9bc9c3dacd2448e54fa199af9b233ab3ba8fa051729a717feefd16a206fe09aa58dd0338bd2d6e6495cf0a5c8c543ec6d8362f5ce6218c0c7ea8eecd54a10bffc18956910f851d62056d6f8557faece0eb287b73db23c3f702e7836764738f84fc77c98bc9cecc343568111c29ae831d402e83f3c7eab78;
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="CANADA GEO",Global Edmonton (Geo)
 https://glblvedmonton-lh.akamaihd.net/i/glblvEdmonton_1@119844/master.m3u8
 
