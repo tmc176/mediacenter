@@ -5,7 +5,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title>World Fishing Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40809</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40811</link>
 <item>
 <title>SPORTSMAN CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40754</link>
@@ -17,16 +17,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40810</link>
 <item>
 <title>Fish Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.152.66.188:25461/l11/12345/214</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.152.66.188:25461/l11/12345/213</link>
 
 
-#EXTINF:-1,|CA| WORLD FISHING NET
-http://siptv-online.com:8789/Julien90/Julien90/40811
 #EXTINF:-1,US5: Outdoor Channel HD
 http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74095
 #EXTINF:-1,USA|OUTDOOR CHANNEL HD
 http://service.biptv.uk:80/george/george/48945
 #EXTINF:-1,USA|SPORTSMAN CHANNEL HD
 http://service.biptv.uk:80/george/george/48928
-#EXTINF:-1,Fish Tv HD
-http://185.152.66.188:25461/l11/12345/213
