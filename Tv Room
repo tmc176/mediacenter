@@ -14,4 +14,23 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/26029</link>
 
 
-
+#EXTINF:-1,US - OUTDOOR CHANNEL HD
+http://voxtv.dynns.com:8000/USA/USA/2325
+#EXTINF:-1,|CA| SPORTSMAN CHANNEL CANADA
+http://siptv-online.com:8789/Julien90/Julien90/40754
+#EXTINF:-1,|CA| WFN
+http://siptv-online.com:8789/Julien90/Julien90/40809
+#EXTINF:-1,|CA| Wild TV
+http://siptv-online.com:8789/Julien90/Julien90/40810
+#EXTINF:-1,|CA| WORLD FISHING NET
+http://siptv-online.com:8789/Julien90/Julien90/40811
+#EXTINF:-1,US5: Outdoor Channel HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74095
+#EXTINF:-1,USA|OUTDOOR CHANNEL HD
+http://service.biptv.uk:80/george/george/48945
+#EXTINF:-1,USA|SPORTSMAN CHANNEL HD
+http://service.biptv.uk:80/george/george/48928
+#EXTINF:-1,Fish Tv
+http://185.152.66.188:25461/l11/12345/214
+#EXTINF:-1,Fish Tv HD
+http://185.152.66.188:25461/l11/12345/213
