@@ -1,28 +1,19 @@
-<streamingInfos>
+#EXTM3U
 
-<item>
-<title>When Clicked Once Wait It Does Takes a little Time For The Box to Come Up</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>World Fishing Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40811</link>
-<item>
-<title>SPORTSMAN CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40754</link>
-<item>
-<title>OUTDOOR CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2325</link>
-<item>
-<title>Wild TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40810</link>
-<item>
-<title>Fish Tv</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.152.66.188:25461/l11/12345/213</link>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USA",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="USA",Gone Fishing
+https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting 
+https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,US5: Outdoor Channel HD
-http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74095
-#EXTINF:-1,USA|OUTDOOR CHANNEL HD
-http://service.biptv.uk:80/george/george/48945
-#EXTINF:-1,USA|SPORTSMAN CHANNEL HD
-http://service.biptv.uk:80/george/george/48928
+#EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="UK",The Boat Show (New!)
+https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors 
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
