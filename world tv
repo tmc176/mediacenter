@@ -79,7 +79,9 @@ https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?
 http://nstream17.gotv.at:1938/live/gotvlive_576p/f1tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:963
+#EXT-X-TARGETDURATION:6
 #EXTINF:6.000,
 https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-970.ts
 
