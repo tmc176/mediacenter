@@ -18,5 +18,17 @@ https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,|CA| SPORTSMAN CHANNEL CANADA
-http://185.23.213.162:8789/ania/ania/40754
+#EXTINF:-1,MAVTV Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1267.m3u8
+#EXTINF:-1,PURSUIT CHANNEL | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97636.m3u8
+#EXTINF:-1,SPORTSMAN CHANNEL Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36070.m3u8
+#EXTINF:-1,HUNT CHANNEL TV Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95939.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/26029.m3u8
+#EXTINF:-1,World Fishing Network
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/30261.m3u8
+#EXTINF:-1,OUTSIDE TV Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38436.m3u8
