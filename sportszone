@@ -1,1 +1,15 @@
-#EXTM3U
+<streamingInfos>
+
+<item>
+<title>Titleoflinke</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3701</link>
+#EXTINF:-1,CAN-TSN 1 (720)(M)
+http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3701
+#EXTINF:-1,CAN-TSN 2 (1080)(M)
+http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3702
+#EXTINF:-1,CAN-TSN 2 (720)(M)
+http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3703
+#EXTINF:-1,CAN-TSN 3 (1080)(M)
+http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3704
+#EXTINF:-1,CAN-TSN 4 (1080)(M)
+http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3705
