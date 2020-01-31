@@ -12,6 +12,8 @@ http://iptv-luxe.com:8789/live/1212/1212/15240.m3u8
 http://iptv-luxe.com:8789/live/1212/1212/1958.m3u8
 #EXTINF:-1,|USA| NFL NETWORK HD
 http://iptv-luxe.com:8789/live/1212/1212/1949.m3u8
+#EXTINF:-1,|USA| WWE FHD
+http://iptv-luxe.com:8789/live/1212/1212/1968.m3u8
 
 <streamingInfos>
 
