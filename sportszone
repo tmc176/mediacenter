@@ -1,68 +1,17 @@
 #EXTM3U
-#EXTINF:-1,|USA| beINSPORT US
-http://iptv-luxe.com:8789/live/1212/1212/1969.m3u8
-#EXTINF:-1,|USA| Fox Sports 1 HD
-http://iptv-luxe.com:8789/live/1212/1212/30216.m3u8
-#EXTINF:-1,|USA| Fox Sports 2 HD
-http://iptv-luxe.com:8789/live/1212/1212/30217.m3u8
-#EXTINF:-1,|USA| FOX SPORT 1HD
-http://iptv-luxe.com:8789/live/1212/1212/1960.m3u8
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://iptv-luxe.com:8789/live/1212/1212/1961.m3u8
-#EXTINF:-1,|USA| Fox Sports 2 US
-http://iptv-luxe.com:8789/live/1212/1212/29863.m3u8
-#EXTINF:-1,|USA| Fox Sports 1 US
-http://iptv-luxe.com:8789/live/1212/1212/29864.m3u8
-#EXTINF:-1,|USA| FOX DEPORTES
-http://iptv-luxe.com:8789/live/1212/1212/12347.m3u8
-#EXTINF:-1,|USA| ESPNEWS
-http://iptv-luxe.com:8789/live/1212/1212/12388.m3u8
+
 #EXTINF:-1,|USA| ESPN 1HD
 http://iptv-luxe.com:8789/live/1212/1212/1959.m3u8
 #EXTINF:-1,|USA| ESPN 2 HD
 http://iptv-luxe.com:8789/live/1212/1212/1970.m3u8
 #EXTINF:-1,|USA| ESPN 3HD
 http://iptv-luxe.com:8789/live/1212/1212/12394.m3u8
-#EXTINF:-1,|USA| ESPN DEPORTES HD
-http://iptv-luxe.com:8789/live/1212/1212/12346.m3u8
-#EXTINF:-1,|USA| ESPN U HD
-http://iptv-luxe.com:8789/live/1212/1212/12348.m3u8
-#EXTINF:-1,|USA|  ESPN+
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1778
-#EXTINF:-1,|USA| UFC
-http://iptv-luxe.com:8789/live/1212/1212/33014.m3u8
 #EXTINF:-1,|USA| UFC FIGHT PASS
 http://iptv-luxe.com:8789/live/1212/1212/15240.m3u8
-#EXTINF:-1,|USA| Fight Network
-http://iptv-luxe.com:8789/live/1212/1212/30220.m3u8
-#EXTINF:-1,|USA| MLB HD
-http://iptv-luxe.com:8789/live/1212/1212/12341.m3u8
 #EXTINF:-1,|USA| NBA
 http://iptv-luxe.com:8789/live/1212/1212/1958.m3u8
-#EXTINF:-1,|USA| NHL HD
-http://iptv-luxe.com:8789/live/1212/1212/12344.m3u8
-#EXTINF:-1,|USA| NHL Network HD
-http://iptv-luxe.com:8789/live/1212/1212/30219.m3u8
 #EXTINF:-1,|USA| NFL NETWORK HD
 http://iptv-luxe.com:8789/live/1212/1212/1949.m3u8
-#EXTINF:-1,|USA| BTN
-http://iptv-luxe.com:8789/live/1212/1212/12819.m3u8
-#EXTINF:-1,|USA| CBS SPORTS NET
-http://iptv-luxe.com:8789/live/1212/1212/1953.m3u8
-#EXTINF:-1,|USA| BIG TEN NETWORK
-http://iptv-luxe.com:8789/live/1212/1212/30221.m3u8
-#EXTINF:-1,|USA| NEW ENGLAND SPORTS NETWORK HD
-http://iptv-luxe.com:8789/live/1212/1212/30222.m3u8
-#EXTINF:-1,|USA| CBS Sports Network
-http://iptv-luxe.com:8789/live/1212/1212/30214.m3u8
-#EXTINF:-1,|USA| Tennis Channel HD
-http://iptv-luxe.com:8789/live/1212/1212/12345.m3u8
-#EXTINF:-1,|USA| TSN Sport 3 HD
-http://iptv-luxe.com:8789/live/1212/1212/29900.m3u8
-#EXTINF:-1,|USA| TSN Sport 5 HD
-http://iptv-luxe.com:8789/live/1212/1212/29901.m3u8
-#EXTINF:-1,|USA| NBC Sports Network HD
-http://iptv-luxe.com:8789/live/1212/1212/30218.m3u8
 
 <streamingInfos>
 
