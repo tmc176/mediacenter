@@ -9,26 +9,32 @@ https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting 
 https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="UK",The Boat Show (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="UK",The Boat Show 
 https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors 
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFUSEZ4.png" group-title="USA",Outdoor Channel 
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,MAVTV Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1267.m3u8
-#EXTINF:-1,PURSUIT CHANNEL | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97636.m3u8
-#EXTINF:-1,SPORTSMAN CHANNEL Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36070.m3u8
-#EXTINF:-1,HUNT CHANNEL TV Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95939.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/26029.m3u8
-#EXTINF:-1,World Fishing Network
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/30261.m3u8
-#EXTINF:-1,OUTSIDE TV Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38436.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsyc1o.png" group-title="USA",Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors 
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="UK",Animal Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA GEO",Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
