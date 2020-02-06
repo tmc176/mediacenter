@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,CA| SPORTNET 360
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40746
-#EXTINF:-1,CA| SPORTNET ONE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40747
 #EXTINF:-1,CA| SPORTNET ONTARIO
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40748
 #EXTINF:-1,CA| SPORTS NET EAST HD
@@ -16,8 +12,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40751
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40752
 #EXTINF:-1,CA| SPORTS NET WORLD HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40753
-#EXTINF:-1,CA| SPORTSMAN CHANNEL CANADA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40754
 #EXTINF:-1,CA| SPORTSNET 360
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40755
 #EXTINF:-1,CA| SPORTSNET 360 HD
@@ -26,8 +20,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40756
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40757
 #EXTINF:-1,CA| SPORTSNET EAST HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40758
-#EXTINF:-1,CA| SPORTSNET ONE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40759
 #EXTINF:-1,CA| SPORTSNET ONE HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40760
 #EXTINF:-1,CA| SPORTSNET ONTARIO
@@ -50,14 +42,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40795
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40797
 #EXTINF:-1,CA| TSN 5HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40798
-#EXTINF:-1,USA| CBS SPORTS NET
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24098
-#EXTINF:-1,USA| NBC SPORTS Net HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24097
-#EXTINF:-1,USA| FOX SPORT 1HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24107
-#EXTINF:-1,USA| FOX SPORT 2HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24106
 #EXTINF:-1,USA| ESPN
 http://51.159.21.231:2052/usapro2@source/799965@26641/1784
 #EXTINF:-1,USA| ESPN 2HD
@@ -65,15 +49,12 @@ http://51.159.21.231:2052/usapro2@source/799965@26641/1783
 #EXTINF:-1,USA| ESPN U HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1780
 #EXTINF:-1,USA| WWE HD
-http://51.159.21.231:2052/usapro2@source/799965@26641/1720
-#EXTINF:-1,USA| MLB HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24092
+http://51.159.21.231:2052/usapro2@source/799965@26641/172O
+#EXTINF:-1,CA| WWE HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/40813
 #EXTINF:-1,USA| NBA
 http://51.159.21.231:2052/usapro2@source/799965@26641/1747
-#EXTINF:-1,USA| NHL HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24079
-#EXTINF:-1,USA| NFL NETWORK HD
-http://51.159.21.231:2052/usapro2@source/799965@26641/1726
+
 
 
 
