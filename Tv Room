@@ -6,6 +6,10 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40809
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40810
 #EXTINF:-1,CA| WORLD FISHING NET
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40811
+
+#EXTINF:-1,CA| SPORTSMAN
+http://iptvpro.premium-itv.com:8789/31031986/31031986/40747
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USA",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
