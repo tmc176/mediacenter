@@ -1,17 +1,78 @@
 #EXTM3U
 
-#EXTINF:-1,CA| WFN
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40809
-#EXTINF:-1,CA| Wild TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40810
-#EXTINF:-1,CA| WORLD FISHING NET
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40811
-
-#EXTINF:-1,CA| SPORTSMAN
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40747
-
-#EXTINF:-1,CA| SPORTSMAN CHANNEL CANADA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40754
+#EXTM3U
+#EXTINF:-1,USA | MSNBC
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22581.m3u8
+#EXTINF:-1,USA | CBSN
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22582.m3u8
+#EXTINF:-1,USA | CNN
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9493.m3u8
+#EXTINF:-1,USA | FOX NEWS
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9477.m3u8
+#EXTINF:-1,USA | BLOOMBERG
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22589.m3u8
+#EXTINF:-1,USA | MLB NETWORK
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/20401.m3u8
+#EXTINF:-1,USA | ABC
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9511.m3u8
+#EXTINF:-1,USA | ABC NEWS
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9441.m3u8
+#EXTINF:-1,USA | AMC
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9502.m3u8
+#EXTINF:-1,USA | BRAVO
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9500.m3u8
+#EXTINF:-1,USA | COMEDY CENTRAL
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9492.m3u8
+#EXTINF:-1,USA | DISCOVERY
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9488.m3u8
+#EXTINF:-1,USA | E!
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9485.m3u8
+#EXTINF:-1,USA | ESPN 1
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9484.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9483.m3u8
+#EXTINF:-1,USA | FOOD NETWORK
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9481.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9476.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9475.m3u8
+#EXTINF:-1,USA | FX HD
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9473.m3u8
+#EXTINF:-1,US | HBO SIGNATURE
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9463.m3u8
+#EXTINF:-1,USA | HGTV
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9461.m3u8
+#EXTINF:-1,USA | HISTORY
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9460.m3u8
+#EXTINF:-1,US | FXX
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22946.m3u8
+#EXTINF:-1,USA | NBC GOLF
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9453.m3u8
+#EXTINF:-1,USA | NHL NETWORK
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9451.m3u8
+#EXTINF:-1,USA | SHOWTIME
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9447.m3u8
+#EXTINF:-1,CA | SPORTSNET WORLD
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9442.m3u8
+#EXTINF:-1,USA | SYFY
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9438.m3u8
+#EXTINF:-1,USA | TNT
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9434.m3u8
+#EXTINF:-1,CA | TSN 1
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/9444.m3u8
+#EXTINF:-1,US | QVC Beauty IQ
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22797.m3u8
+#EXTINF:-1,USA | FREEFORM
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22788.m3u8
+#EXTINF:-1,USA | IFC
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22786.m3u8
+#EXTINF:-1,CA | TSN 2
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22782.m3u8
+#EXTINF:-1,CA | TSN 3
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22783.m3u8
+#EXTINF:-1,USA | DISNEY XD
+http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22951.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USA",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -21,9 +82,6 @@ https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting 
 https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="UK",The Boat Show 
-https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tFUSEZ4.png" group-title="USA",Outdoor Channel 
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
@@ -39,9 +97,6 @@ https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="UK",Animal Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA GEO",Kids Click (Geo)
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
