@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CA| CP 24 HD
-https://ustvgo.tv/ae-networks-live-streaming-free/?jwsource=cl
+#EXTINF:0 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=
+http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582</link>
