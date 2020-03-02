@@ -31,7 +31,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:0 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=
 http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582
+
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582</link>
