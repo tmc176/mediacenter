@@ -1,4 +1,4 @@
 
 #EXTM3U
 #EXTINF:-1,VIP HD ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308970.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308970.m3u8
