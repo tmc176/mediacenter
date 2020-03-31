@@ -1,48 +1,32 @@
 #EXTM3U
-#EXTINF:-1,*TSN 1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/138
-#EXTINF:-1,*TSN 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/139
-#EXTINF:-1,*TSN 3 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/140
-#EXTINF:-1,*TSN 4 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/141
-#EXTINF:-1,*TSN 5 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/142
-#EXTINF:-1,*SPORTSNET ONT HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/148
-#EXTINF:-1,*SPORTSNET PACIFIC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2434
-#EXTINF:-1,*SPORTSNET 360 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/147
-#EXTINF:-1,*NBC SPORTS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/170
-#EXTINF:-1,*CBS SPORTS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/169
-#EXTINF:-1,*FOX SPORTS 1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/145
-#EXTINF:-1,*FOX SPORTS 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/146
-#EXTINF:-1,*ESPN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/143
-#EXTINF:-1,ESPN 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/144
-#EXTINF:-1,ESPN U HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4064
-#EXTINF:-1,*NFL NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/157
-#EXTINF:-1,*NHL NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/156
-#EXTINF:-1,LEAFS TV
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59039
-#EXTINF:-1,*NBA HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/165
-#EXTINF:-1,MLB NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2193
-#EXTINF:-1,WWE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/168
-#EXTINF:-1,FIGHT - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71284
 
-
-
+#EXTINF:-1,VIP HD Motor Trend
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308922.m3u8
+#EXTINF:-1,|CA| SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40755.m3u8
+#EXTINF:-1,|CA| SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40756.m3u8
+#EXTINF:-1,|CA| SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40757.m3u8
+#EXTINF:-1,|CA| SPORTSNET EAST HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40758.m3u8
+#EXTINF:-1,|CA| SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40759.m3u8
+#EXTINF:-1,|CA| SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40760.m3u8
+#EXTINF:-1,|CA| SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40761.m3u8
+#EXTINF:-1,|CA| TSN  3HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40795.m3u8
+#EXTINF:-1,|CA| TSN 1HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40796.m3u8
+#EXTINF:-1,|CA| TSN 4HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40797.m3u8
+#EXTINF:-1,|CA| TSN 5HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40798.m3u8
+#EXTINF:-1,VIP HD CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308946.m3u8
+#EXTINF:-1,|CA| WWE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40813.m3u8
+#EXTINF:-1,VIP HD NBA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308844.m3u8
