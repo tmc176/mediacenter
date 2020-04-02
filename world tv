@@ -3,9 +3,9 @@
 #EXTINF:-1,|CA| CHCH HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40584.m3u8
 #EXTINF:-1,|CA| CBC TORONTO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/332435
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/332435.m3u8
 #EXTINF:-1,|CA| CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40589.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/332733.m3u8
 #EXTINF:-1,|CA| CTV TORONTO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40624.m3u8
 #EXTINF:-1,|CA| GLOBAL TORONTO
