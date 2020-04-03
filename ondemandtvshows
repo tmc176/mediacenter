@@ -1,17 +1,13 @@
 
 #EXTM3U
 #EXTINF:-1,USA | A&E USA HD
-http://disfruta.net:80/oscar2/oscar2/729
-#EXTINF:-1,USA | ABC NEW YORK HD
-http://disfruta.net:80/oscar2/oscar2/703
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/729
 #EXTINF:-1,USA | ABC NEW YORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/703
-#EXTINF:-1,USA | ABC NEW YORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/oscar2/oscar2/703
 #EXTINF:-1,USA | ABC New-York
 http://disfruta.net:80/oscar2/oscar2/651
 #EXTINF:-1,USA | ActionMax East HD
-http://disfruta.net:80/oscar2/oscar2/647
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/647
 #EXTINF:-1,USA | Al Jazeera
 http://disfruta.net:80/oscar2/oscar2/665
 #EXTINF:-1,USA | AMC HD
