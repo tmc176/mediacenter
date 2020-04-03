@@ -65,9 +65,9 @@ http://dechams.xyz:80/sara/sara/70214
 #EXTINF:-1,CA-N | CBS WEST
 http://dechams.xyz:80/sara/sara/70213
 #EXTINF:-1,CA-N | City Tv Montreal
-http://dechams.xyz:80/sara/sara/70370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70370
 #EXTINF:-1,CA-N | City Tv Toronto
-http://dechams.xyz:80/sara/sara/70369
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dechams.xyz:80/sara/sara/70369
 #EXTINF:-1,CA-N | CNBC
 http://dechams.xyz:80/sara/sara/70212
 #EXTINF:-1,CA-N | CNN
