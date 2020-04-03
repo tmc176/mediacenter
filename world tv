@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,|CA| CHCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40584.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://5.254.66.23:8080/craig/craig/38649
 #EXTINF:-1,CA-N | CBC NOVA SCOTIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70220
 #EXTINF:-1,|CA| CBC TORONTO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70218
 #EXTINF:-1,|CA| CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.254.66.23:8080/craig/craig/38649
 #EXTINF:-1,CA-N | CTV HALIFAX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70203
 #EXTINF:-1,|CA| CTV TORONTO
