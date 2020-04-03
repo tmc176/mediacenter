@@ -1,220 +1,310 @@
 
 #EXTM3U
-#EXTINF:-1,USA | A&E USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/729
-#EXTINF:-1,USA | ABC NEW YORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/703
-#EXTINF:-1,USA | ABC New-York
-http://disfruta.net:80/oscar2/oscar2/651
-#EXTINF:-1,USA | ActionMax East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/647
-#EXTINF:-1,USA | Al Jazeera
-http://disfruta.net:80/oscar2/oscar2/665
-#EXTINF:-1,USA | AMC HD
-http://disfruta.net:80/oscar2/oscar2/702
-#EXTINF:-1,USA | ANIMAL PLANET HD.
-http://disfruta.net:80/oscar2/oscar2/694
-#EXTINF:-1,USA | BET HD
-http://disfruta.net:80/oscar2/oscar2/662
-#EXTINF:-1,USA | Bloomberg TV UK
-http://disfruta.net:80/oscar2/oscar2/664
-#EXTINF:-1,USA | Boomerang USA
-http://disfruta.net:80/oscar2/oscar2/680
-#EXTINF:-1,USA | BRAVO HD
-http://disfruta.net:80/oscar2/oscar2/701
-#EXTINF:-1,USA | Cartoon Network USA
-http://disfruta.net:80/oscar2/oscar2/679
-#EXTINF:-1,USA | CBC 
-http://disfruta.net:80/oscar2/oscar2/699
-#EXTINF:-1,USA | CBC HD
-http://disfruta.net:80/oscar2/oscar2/700
-#EXTINF:-1,USA | CBS 4 USA (Indianapolis)
-http://disfruta.net:80/oscar2/oscar2/723
-#EXTINF:-1,USA | CBS New-York
-http://disfruta.net:80/oscar2/oscar2/650
-#EXTINF:-1,USA | CBS USA
-http://disfruta.net:80/oscar2/oscar2/663
-#EXTINF:-1,USA | CBSN HD
-http://disfruta.net:80/oscar2/oscar2/698
-#EXTINF:-1,USA | CHching!
-http://disfruta.net:80/oscar2/oscar2/661
-#EXTINF:-1,USA | CINEMAX
-http://disfruta.net:80/oscar2/oscar2/730
-#EXTINF:-1,USA | Cinemax  HD
-http://disfruta.net:80/oscar2/oscar2/721
-#EXTINF:-1,USA | CINEMAX ACTIONMAX
-http://disfruta.net:80/oscar2/oscar2/731
-#EXTINF:-1,USA | Cinemax More HD
-http://disfruta.net:80/oscar2/oscar2/722
-#EXTINF:-1,USA | CINEMAX MOREMAX
-http://disfruta.net:80/oscar2/oscar2/732
-#EXTINF:-1,USA | CINEMAX THRILLERMAX HD
-http://disfruta.net:80/oscar2/oscar2/733
-#EXTINF:-1,USA | CNBC
-http://disfruta.net:80/oscar2/oscar2/697
-#EXTINF:-1,USA | CNBC US
-http://disfruta.net:80/oscar2/oscar2/649
-#EXTINF:-1,USA | CNN US
-http://disfruta.net:80/oscar2/oscar2/644
-#EXTINF:-1,USA | Comedy Central HD
-http://disfruta.net:80/oscar2/oscar2/696
-#EXTINF:-1,USA | CTV Toronto
-http://disfruta.net:80/oscar2/oscar2/695
-#EXTINF:-1,USA | Destination America
-http://disfruta.net:80/oscar2/oscar2/659
-#EXTINF:-1,USA | DISCOVERY HD
-http://disfruta.net:80/oscar2/oscar2/693
-#EXTINF:-1,USA | Discovery Velocity HD
-http://disfruta.net:80/oscar2/oscar2/692
-#EXTINF:-1,USA | Disney Channel USA
-http://disfruta.net:80/oscar2/oscar2/678
-#EXTINF:-1,USA | Disney HD USA
-http://disfruta.net:80/oscar2/oscar2/687
-#EXTINF:-1,USA | Disney Jr
-http://disfruta.net:80/oscar2/oscar2/677
-#EXTINF:-1,USA | Disney XD USA
-http://disfruta.net:80/oscar2/oscar2/686
-#EXTINF:-1,USA | DIY NETWORK HD
-http://disfruta.net:80/oscar2/oscar2/685
-#EXTINF:-1,USA | E! HD.
-http://disfruta.net:80/oscar2/oscar2/684
-#EXTINF:-1,USA | EuroUSA
-http://disfruta.net:80/oscar2/oscar2/660
-#EXTINF:-1,USA | Food Network HD
-http://disfruta.net:80/oscar2/oscar2/683
-#EXTINF:-1,USA | FOX 5 HD
-http://disfruta.net:80/oscar2/oscar2/652
-#EXTINF:-1,USA | Fox 5 USA (Washington DC)
-http://disfruta.net:80/oscar2/oscar2/724
-#EXTINF:-1,USA | FOX USA HD
-http://disfruta.net:80/oscar2/oscar2/682
-#EXTINF:-1,USA | FX HD.
-http://disfruta.net:80/oscar2/oscar2/676
-#EXTINF:-1,USA | H2 HD
-http://disfruta.net:80/oscar2/oscar2/674
-#EXTINF:-1,USA | Hallmark HD
-http://disfruta.net:80/oscar2/oscar2/675
-#EXTINF:-1,USA | HBO  HD
-http://disfruta.net:80/oscar2/oscar2/711
-#EXTINF:-1,USA | HBO 2
-http://disfruta.net:80/oscar2/oscar2/673
-#EXTINF:-1,USA | HBO 2
-http://disfruta.net:80/oscar2/oscar2/734
-#EXTINF:-1,USA | HBO 2  HD
-http://disfruta.net:80/oscar2/oscar2/712
-#EXTINF:-1,USA | HBO COMEDY HD
-http://disfruta.net:80/oscar2/oscar2/735
-#EXTINF:-1,USA | HBO Direct local east
-http://disfruta.net:80/oscar2/oscar2/736
-#EXTINF:-1,USA | HBO Family HD
-http://disfruta.net:80/oscar2/oscar2/710
-#EXTINF:-1,USA | HBO FAMILY HD
-http://disfruta.net:80/oscar2/oscar2/737
-#EXTINF:-1,USA | HBO HD
-http://disfruta.net:80/oscar2/oscar2/738
-#EXTINF:-1,USA | HBO SIGNATURE
-http://disfruta.net:80/oscar2/oscar2/739
-#EXTINF:-1,USA | HBO Signature HD
-http://disfruta.net:80/oscar2/oscar2/709
-#EXTINF:-1,USA | HBO Zone
-http://disfruta.net:80/oscar2/oscar2/708
-#EXTINF:-1,USA | HBO ZONE
-http://disfruta.net:80/oscar2/oscar2/740
-#EXTINF:-1,USA | HGTV HD
-http://disfruta.net:80/oscar2/oscar2/704
-#EXTINF:-1,USA | History Channel
-http://disfruta.net:80/oscar2/oscar2/690
-#EXTINF:-1,USA | Investigation Discovery HD
-http://disfruta.net:80/oscar2/oscar2/691
-#EXTINF:-1,USA | Lifetime HD
-http://disfruta.net:80/oscar2/oscar2/672
-#EXTINF:-1,USA | Lifetime HD US
-http://disfruta.net:80/oscar2/oscar2/642
-#EXTINF:-1,USA | Lifetime Movie Network  HD
-http://disfruta.net:80/oscar2/oscar2/720
-#EXTINF:-1,USA | MOREMAX
-http://disfruta.net:80/oscar2/oscar2/707
-#EXTINF:-1,USA | MSNBC HD
-http://disfruta.net:80/oscar2/oscar2/641
-#EXTINF:-1,USA | NAT GEO WILD
-http://disfruta.net:80/oscar2/oscar2/688
-#EXTINF:-1,USA | NATIONAL GEOGRAPHIC HD US
-http://disfruta.net:80/oscar2/oscar2/689
-#EXTINF:-1,USA | NBC 5 USA (Chicago)
-http://disfruta.net:80/oscar2/oscar2/725
-#EXTINF:-1,USA | NBC New-York
-http://disfruta.net:80/oscar2/oscar2/640
-#EXTINF:-1,USA | Nickelodeon USA
-http://disfruta.net:80/oscar2/oscar2/681
-#EXTINF:-1,USA | OWN HD
-http://disfruta.net:80/oscar2/oscar2/645
-#EXTINF:-1,USA | PBS HD
-http://disfruta.net:80/oscar2/oscar2/671
-#EXTINF:-1,USA | RT UK
-http://disfruta.net:80/oscar2/oscar2/658
-#EXTINF:-1,USA | RT US
-http://disfruta.net:80/oscar2/oscar2/657
-#EXTINF:-1,USA | Showtime 1
-http://disfruta.net:80/oscar2/oscar2/716
-#EXTINF:-1,USA | Showtime 2
-http://disfruta.net:80/oscar2/oscar2/719
-#EXTINF:-1,USA | SHOWTIME 2
-http://disfruta.net:80/oscar2/oscar2/741
-#EXTINF:-1,USA | SHOWTIME EAST Direct
-http://disfruta.net:80/oscar2/oscar2/743
-#EXTINF:-1,USA | SHOWTIME EXTREME
-http://disfruta.net:80/oscar2/oscar2/742
-#EXTINF:-1,USA | SHOWTIME HD
-http://disfruta.net:80/oscar2/oscar2/706
-#EXTINF:-1,USA | SHOWTIME HD
-http://disfruta.net:80/oscar2/oscar2/744
-#EXTINF:-1,USA | Showtime Showcase
-http://disfruta.net:80/oscar2/oscar2/717
-#EXTINF:-1,USA | Showtime West
-http://disfruta.net:80/oscar2/oscar2/718
-#EXTINF:-1,USA | SPIKE
-http://disfruta.net:80/oscar2/oscar2/670
-#EXTINF:-1,USA | Starz Comedy
-http://disfruta.net:80/oscar2/oscar2/715
-#EXTINF:-1,USA | STARZ COMEDY
-http://disfruta.net:80/oscar2/oscar2/747
-#EXTINF:-1,USA | Starz East HD
-http://disfruta.net:80/oscar2/oscar2/714
-#EXTINF:-1,USA | STARZ EDGE
-http://disfruta.net:80/oscar2/oscar2/748
-#EXTINF:-1,USA | Starz Edge 
-http://disfruta.net:80/oscar2/oscar2/713
-#EXTINF:-1,USA | STARZ ENCORE SUSPENSE
-http://disfruta.net:80/oscar2/oscar2/745
-#EXTINF:-1,USA | STARZ ENCORE USA & FAMILY
-http://disfruta.net:80/oscar2/oscar2/746
-#EXTINF:-1,USA | STARZ WEST
-http://disfruta.net:80/oscar2/oscar2/749
-#EXTINF:-1,USA | SYFY USA
-http://disfruta.net:80/oscar2/oscar2/669
-#EXTINF:-1,USA | TBS HD
-http://disfruta.net:80/oscar2/oscar2/668
-#EXTINF:-1,USA | TLC HD.
-http://disfruta.net:80/oscar2/oscar2/667
-#EXTINF:-1,USA | TNT
-http://disfruta.net:80/oscar2/oscar2/666
-#EXTINF:-1,USA | TRT World
-http://disfruta.net:80/oscar2/oscar2/656
-#EXTINF:-1,USA | Tru TV HD
-http://disfruta.net:80/oscar2/oscar2/643
-#EXTINF:-1,USA | TV Land HD
-http://disfruta.net:80/oscar2/oscar2/648
-#EXTINF:-1,USA | Universal Channel HD USA
-http://disfruta.net:80/oscar2/oscar2/654
-#EXTINF:-1,USA | USA Network HD
-http://disfruta.net:80/oscar2/oscar2/653
-#EXTINF:-1,USA | USA Westchester
-http://disfruta.net:80/oscar2/oscar2/705
-#EXTINF:-1,USA | WCCB USA (Charlotte)
-http://disfruta.net:80/oscar2/oscar2/726
-#EXTINF:-1,USA | WE TV HD
-http://disfruta.net:80/oscar2/oscar2/646
-#EXTINF:-1,USA | WGN 9 USA (Chicago)
-http://disfruta.net:80/oscar2/oscar2/727
-#EXTINF:-1,USA | WGN America
-http://disfruta.net:80/oscar2/oscar2/655
+#EXTINF:-1,CA-N | A & E
+http://dechams.xyz:80/sara/sara/70393
+#EXTINF:-1,CA-N | A&E
+http://dechams.xyz:80/sara/sara/70392
+#EXTINF:-1,CA-N | ABC EAST
+http://dechams.xyz:80/sara/sara/70391
+#EXTINF:-1,CA-N | ABC SPARK CANADA
+http://dechams.xyz:80/sara/sara/70390
+#EXTINF:-1,CA-N | ABC WEST
+http://dechams.xyz:80/sara/sara/70389
+#EXTINF:-1,CA-N | ACTION
+http://dechams.xyz:80/sara/sara/70388
+#EXTINF:-1,CA-N | ADDIK TV
+http://dechams.xyz:80/sara/sara/70387
+#EXTINF:-1,CA-N | AHC
+http://dechams.xyz:80/sara/sara/70386
+#EXTINF:-1,CA-N | AMC
+http://dechams.xyz:80/sara/sara/70385
+#EXTINF:-1,CA-N | APTN
+http://dechams.xyz:80/sara/sara/70384
+#EXTINF:-1,CA-N | ARTV
+http://dechams.xyz:80/sara/sara/70383
+#EXTINF:-1,CA-N | BBC CANADA
+http://dechams.xyz:80/sara/sara/70382
+#EXTINF:-1,CA-N | BBC WORLD NEWS
+http://dechams.xyz:80/sara/sara/70228
+#EXTINF:-1,CA-N | BET
+http://dechams.xyz:80/sara/sara/70381
+#EXTINF:-1,CA-N | BNN
+http://dechams.xyz:80/sara/sara/70227
+#EXTINF:-1,CA-N | BOOK TV
+http://dechams.xyz:80/sara/sara/70380
+#EXTINF:-1,CA-N | BRAVO
+http://dechams.xyz:80/sara/sara/70379
+#EXTINF:-1,CA-N | CANAL D
+http://dechams.xyz:80/sara/sara/70378
+#EXTINF:-1,CA-N | CASA
+http://dechams.xyz:80/sara/sara/70376
+#EXTINF:-1,CA-N | CBC CALGARY
+http://dechams.xyz:80/sara/sara/70226
+#EXTINF:-1,CA-N | CBC EDMONTON
+http://dechams.xyz:80/sara/sara/70225
+#EXTINF:-1,CA-N | CBC FRENCH
+http://dechams.xyz:80/sara/sara/70224
+#EXTINF:-1,CA-N | CBC MONTREAL
+http://dechams.xyz:80/sara/sara/70223
+#EXTINF:-1,CA-N | CBC NEWS
+http://dechams.xyz:80/sara/sara/70222
+#EXTINF:-1,CA-N | CBC NEWS TORONTO
+http://dechams.xyz:80/sara/sara/70221
+#EXTINF:-1,CA-N | CBC NOVA SCOTIA
+http://dechams.xyz:80/sara/sara/70220
+#EXTINF:-1,CA-N | CBC OTTAWA
+http://dechams.xyz:80/sara/sara/70219
+#EXTINF:-1,CA-N | CBC TORONTO
+http://dechams.xyz:80/sara/sara/70218
+#EXTINF:-1,CA-N | CBC VANCOUVER
+http://dechams.xyz:80/sara/sara/70217
+#EXTINF:-1,CA-N | CBC WINNIPEG
+http://dechams.xyz:80/sara/sara/70216
+#EXTINF:-1,CA-N | CBS EAST
+http://dechams.xyz:80/sara/sara/70214
+#EXTINF:-1,CA-N | CBS WEST
+http://dechams.xyz:80/sara/sara/70213
+#EXTINF:-1,CA-N | City Tv Montreal
+http://dechams.xyz:80/sara/sara/70370
+#EXTINF:-1,CA-N | City Tv Toronto
+http://dechams.xyz:80/sara/sara/70369
+#EXTINF:-1,CA-N | CNBC
+http://dechams.xyz:80/sara/sara/70212
+#EXTINF:-1,CA-N | CNN
+http://dechams.xyz:80/sara/sara/70211
+#EXTINF:-1,CA-N | CNN INTERNATIONAL
+http://dechams.xyz:80/sara/sara/70210
+#EXTINF:-1,CA-N | COMEDY EAST
+http://dechams.xyz:80/sara/sara/70375
+#EXTINF:-1,CA-N | COMEDY GOLD
+http://dechams.xyz:80/sara/sara/70374
+#EXTINF:-1,CA-N | COMEDY WEST
+http://dechams.xyz:80/sara/sara/70373
+#EXTINF:-1,CA-N | CP24
+http://dechams.xyz:80/sara/sara/70209
+#EXTINF:-1,CA-N | CPAC FRENCH
+http://dechams.xyz:80/sara/sara/70206
+#EXTINF:-1,CA-N | CPAC
+http://dechams.xyz:80/sara/sara/70207
+#EXTINF:-1,CA-N | CTV 2 TORONTO
+http://dechams.xyz:80/sara/sara/70205
+#EXTINF:-1,CA-N | CTV HALIFAX
+http://dechams.xyz:80/sara/sara/70203
+#EXTINF:-1,CA-N | CTV MONTREAL
+http://dechams.xyz:80/sara/sara/70202
+#EXTINF:-1,CA-N | CTV NEWS NETWORK
+http://dechams.xyz:80/sara/sara/70201
+#EXTINF:-1,CA-N | CTV OTTAWA
+http://dechams.xyz:80/sara/sara/70200
+#EXTINF:-1,CA-N | CTV TORONTO
+http://dechams.xyz:80/sara/sara/70199
+#EXTINF:-1,CA-N | CTV VANCOUVER
+http://dechams.xyz:80/sara/sara/70198
+#EXTINF:-1,CA-N | CTV2 OTTAWA
+http://dechams.xyz:80/sara/sara/70197
+#EXTINF:-1,CA-N | CW
+http://dechams.xyz:80/sara/sara/70372
+#EXTINF:-1,CA-N | CW 11
+http://dechams.xyz:80/sara/sara/70371
+#EXTINF:-1,CA-N | DAYSTAR TV
+http://dechams.xyz:80/sara/sara/70368
+#EXTINF:-1,CA-N | DEJAVIEW
+http://dechams.xyz:80/sara/sara/70367
+#EXTINF:-1,CA-N | DTOUR
+http://dechams.xyz:80/sara/sara/70366
+#EXTINF:-1,CA-N | E! CANADA
+http://dechams.xyz:80/sara/sara/70365
+#EXTINF:-1,CA-N | ENCORE 1 EAST
+http://dechams.xyz:80/sara/sara/70364
+#EXTINF:-1,CA-N | ENCORE 2 EAST
+http://dechams.xyz:80/sara/sara/70363
+#EXTINF:-1,CA-N | EVASION
+http://dechams.xyz:80/sara/sara/70362
+#EXTINF:-1,CA-N | FAMILY CHRGD
+http://dechams.xyz:80/sara/sara/70361
+#EXTINF:-1,CA-N | FAMILY EAST
+http://dechams.xyz:80/sara/sara/70360
+#EXTINF:-1,CA-N | FAMILY JR
+http://dechams.xyz:80/sara/sara/70359
+#EXTINF:-1,CA-N | FAMILY WEST
+http://dechams.xyz:80/sara/sara/70358
+#EXTINF:-1,CA-N | FOX EAST
+http://dechams.xyz:80/sara/sara/70357
+#EXTINF:-1,CA-N | FOX NEWS
+http://dechams.xyz:80/sara/sara/70196
+#EXTINF:-1,CA-N | FOX WEST
+http://dechams.xyz:80/sara/sara/70356
+#EXTINF:-1,CA-N | FRISSON
+http://dechams.xyz:80/sara/sara/70355
+#EXTINF:-1,CA-N | GLOBAL HALIFAX
+http://dechams.xyz:80/sara/sara/70195
+#EXTINF:-1,CA-N | GLOBAL TORONTO
+http://dechams.xyz:80/sara/sara/70194
+#EXTINF:-1,CA-N | GLOBAL VANCOUVER
+http://dechams.xyz:80/sara/sara/70193
+#EXTINF:-1,CA-N | KTLA
+http://dechams.xyz:80/sara/sara/70354
+#EXTINF:-1,CA-N | LCN
+http://dechams.xyz:80/sara/sara/70353
+#EXTINF:-1,CA-N | LIFETIME
+http://dechams.xyz:80/sara/sara/70352
+#EXTINF:-1,CA-N | MAKEFUL
+http://dechams.xyz:80/sara/sara/70351
+#EXTINF:-1,CA-N | MAVTV CANADA
+http://dechams.xyz:80/sara/sara/70350
+#EXTINF:-1,CA-N | MAX
+http://dechams.xyz:80/sara/sara/70349
+#EXTINF:-1,CA-N | METEO
+http://dechams.xyz:80/sara/sara/70348
+#EXTINF:-1,CA-N | MIRACLE
+http://dechams.xyz:80/sara/sara/70347
+#EXTINF:-1,CA-N | MLB NETWORK
+http://dechams.xyz:80/sara/sara/70346
+#EXTINF:-1,CA-N | MOI CIE
+http://dechams.xyz:80/sara/sara/70345
+#EXTINF:-1,CA-N | MSNBC
+http://dechams.xyz:80/sara/sara/70192
+#EXTINF:-1,CA-N | OLN
+http://dechams.xyz:80/sara/sara/70344
+#EXTINF:-1,CA-N | OMNI 1
+http://dechams.xyz:80/sara/sara/70343
+#EXTINF:-1,CA-N | OMNI 2
+http://dechams.xyz:80/sara/sara/70342
+#EXTINF:-1,CA-N | OMNI BC
+http://dechams.xyz:80/sara/sara/70341
+#EXTINF:-1,CA-N | OMNI EAST
+http://dechams.xyz:80/sara/sara/70340
+#EXTINF:-1,CA-N | ONE
+http://dechams.xyz:80/sara/sara/70339
+#EXTINF:-1,CA-N | OWN
+http://dechams.xyz:80/sara/sara/70338
+#EXTINF:-1,CA-N | PARAMOUNT NETWORK
+http://dechams.xyz:80/sara/sara/70337
+#EXTINF:-1,CA-N | PBS EAST
+http://dechams.xyz:80/sara/sara/70336
+#EXTINF:-1,CA-N | PBS WEST
+http://dechams.xyz:80/sara/sara/70335
+#EXTINF:-1,CA-N | PEACH TREE
+http://dechams.xyz:80/sara/sara/70334
+#EXTINF:-1,CA-N | PRISE
+http://dechams.xyz:80/sara/sara/70333
+#EXTINF:-1,CA-N | RDI
+http://dechams.xyz:80/sara/sara/70332
+#EXTINF:-1,CA-N | RDS
+http://dechams.xyz:80/sara/sara/70331
+#EXTINF:-1,CA-N | RDS 2
+http://dechams.xyz:80/sara/sara/70330
+#EXTINF:-1,CA-N | RDS INFO
+http://dechams.xyz:80/sara/sara/70329
+#EXTINF:-1,CA-N | RT AMERICA
+http://dechams.xyz:80/sara/sara/70328
+#EXTINF:-1,CA-N | SERIS
+http://dechams.xyz:80/sara/sara/70327
+#EXTINF:-1,CA-N | SLICE
+http://dechams.xyz:80/sara/sara/70326
+#EXTINF:-1,CA-N | SMITHSONIAN
+http://dechams.xyz:80/sara/sara/70325
+#EXTINF:-1,CA-N | SPACE
+http://dechams.xyz:80/sara/sara/70324
+#EXTINF:-1,CA-N | SPIKE TV / PARAMOUNT CANADA
+http://dechams.xyz:80/sara/sara/70323
+#EXTINF:-1,CA-N | SUPER CHANNEL FUSE
+http://dechams.xyz:80/sara/sara/70322
+#EXTINF:-1,CA-N | SUPER CHANNEL HEART & HOME
+http://dechams.xyz:80/sara/sara/70321
+#EXTINF:-1,CA-N | SUPER CHANNEL VAULT
+http://dechams.xyz:80/sara/sara/70320
+#EXTINF:-1,CA-N | THE WEATHER NETWORK
+http://dechams.xyz:80/sara/sara/70191
+#EXTINF:-1,CA-N | TLC
+http://dechams.xyz:80/sara/sara/70319
+#EXTINF:-1,CA-N | TLC CANADA
+http://dechams.xyz:80/sara/sara/70318
+#EXTINF:-1,CA-N | TMN 1
+http://dechams.xyz:80/sara/sara/70317
+#EXTINF:-1,CA-N | TMN 2
+http://dechams.xyz:80/sara/sara/70316
+#EXTINF:-1,CA-N | TMN 3
+http://dechams.xyz:80/sara/sara/70315
+#EXTINF:-1,CA-N | TMN 4
+http://dechams.xyz:80/sara/sara/70314
+#EXTINF:-1,CA-N | TVO
+http://dechams.xyz:80/sara/sara/70313
+#EXTINF:-1,CA-N | UNIS TV
+http://dechams.xyz:80/sara/sara/70312
+#EXTINF:-1,CA-N | VIE
+http://dechams.xyz:80/sara/sara/70311
+#EXTINF:-1,CA-N | VISION
+http://dechams.xyz:80/sara/sara/70310
+#EXTINF:-1,CA-N | VRAK TV
+http://dechams.xyz:80/sara/sara/70309
+#EXTINF:-1,CA-N | W NETWORK
+http://dechams.xyz:80/sara/sara/70308
+#EXTINF:-1,CA-N | WFN
+http://dechams.xyz:80/sara/sara/70307
+#EXTINF:-1,CA-N | WGN
+http://dechams.xyz:80/sara/sara/70306
+#EXTINF:-1,CA-N | Wild TV
+http://dechams.xyz:80/sara/sara/70303
+#EXTINF:-1,CA-N | WOMENS NETWORK
+http://dechams.xyz:80/sara/sara/70305
+#EXTINF:-1,CA-N | WSBK
+http://dechams.xyz:80/sara/sara/70304
+#EXTINF:-1,CA-N | YES TV
+http://dechams.xyz:80/sara/sara/70302
+#EXTINF:-1,CA-N | YES TV (Alberta)
+http://dechams.xyz:80/sara/sara/70301
+#EXTINF:-1,CA-N | YES TV (Ontario)
+http://dechams.xyz:80/sara/sara/70300
+#EXTINF:-1,CA-N | YOOPA
+http://dechams.xyz:80/sara/sara/70299
+#EXTINF:-1,CA-M | HBO 1
+http://dechams.xyz:80/sara/sara/70280
+#EXTINF:-1,CA-M | HBO 2
+http://dechams.xyz:80/sara/sara/70279
+#EXTINF:-1,CA-M | SHOWCASE
+http://dechams.xyz:80/sara/sara/70278
+#EXTINF:-1,CA-M | SHOWCASE EAST
+http://dechams.xyz:80/sara/sara/70277
+#EXTINF:-1,CA-M | SUPER ECRAN 1
+http://dechams.xyz:80/sara/sara/70276
+#EXTINF:-1,CA-M | SUPER ECRAN 2
+http://dechams.xyz:80/sara/sara/70275
+#EXTINF:-1,CA-M | SUPER ECRAN 3
+http://dechams.xyz:80/sara/sara/70274
+#EXTINF:-1,CA-M | SUPER ECRAN 4
+http://dechams.xyz:80/sara/sara/70273
+#EXTINF:-1,CA-D | ANIMAL PLANET
+http://dechams.xyz:80/sara/sara/70298
+#EXTINF:-1,CA-D | COOKING CHANNEL
+http://dechams.xyz:80/sara/sara/70297
+#EXTINF:-1,CA-D | CRIME & INVESTIGATION
+http://dechams.xyz:80/sara/sara/70296
+#EXTINF:-1,CA-D | DISCOVERY CANADA
+http://dechams.xyz:80/sara/sara/70295
+#EXTINF:-1,CA-D | DISCOVERY SCIENCE
+http://dechams.xyz:80/sara/sara/70294
+#EXTINF:-1,CA-D | DISCOVERY SCIENCE CANADA
+http://dechams.xyz:80/sara/sara/70293
+#EXTINF:-1,CA-D | DIY
+http://dechams.xyz:80/sara/sara/70292
+#EXTINF:-1,CA-D | DIY NETWORK
+http://dechams.xyz:80/sara/sara/70291
+#EXTINF:-1,CA-D | DOCUMENTARY
+http://dechams.xyz:80/sara/sara/70290
+#EXTINF:-1,CA-D | FOOD NETWORK
+http://dechams.xyz:80/sara/sara/70289
+#EXTINF:-1,CA-D | HISTORIO
+http://dechams.xyz:80/sara/sara/70288
+#EXTINF:-1,CA-D | HISTORY
+http://dechams.xyz:80/sara/sara/70287
+#EXTINF:-1,CA-D | HLN
+http://dechams.xyz:80/sara/sara/70286
+#EXTINF:-1,CA-D | NAT GEO
+http://dechams.xyz:80/sara/sara/70285
+#EXTINF:-1,CA-D | NAT GEO WILD
+http://dechams.xyz:80/sara/sara/70284
+#EXTINF:-1,CA-D | NTV
+http://dechams.xyz:80/sara/sara/70283
+#EXTINF:-1,CA-D | OUTDOOR LIFE NETWORK
+http://dechams.xyz:80/sara/sara/70282
