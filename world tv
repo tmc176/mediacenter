@@ -2,6 +2,8 @@
 
 #EXTINF:-1,|CA| CHCH HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40584.m3u8
+#EXTINF:-1,CA-N | CBC NOVA SCOTIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70220
 #EXTINF:-1,|CA| CBC TORONTO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70218
 #EXTINF:-1,|CA| CITY TORONTO
@@ -12,6 +14,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70199
 #EXTINF:-1,CA-N | CTV 2 TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70205
+#EXTINF:-1,CA-N | GLOBAL HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70195
 #EXTINF:-1,|CA| GLOBAL TORONTO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40665.m3u8
 #EXTINF:-1,|CA| CP24 HD
