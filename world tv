@@ -29,9 +29,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.prem
 #EXTINF:-1,VIP HD ABC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308970.m3u8
 #EXTINF:-1,CA-N | CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amphttp://dechams.xyz:80/sara/sara/70214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=httphttp://dechams.xyz:80/sara/sara/70214
 #EXTINF:-1,CA-N | CBS WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amphttp://dechams.xyz:80/sara/sara/70213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=httphttp://dechams.xyz:80/sara/sara/70213
 #EXTINF:-1,FOX East
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142659.m3u8
 #EXTINF:-1,VIP HD NBC 10 EAST
