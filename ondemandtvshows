@@ -41,3 +41,7 @@ http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4152
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4148
 #EXTINF:-1,UK| USA:WWE NETWORK
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4176
+#EXTINF:-1,UK| USA:WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4176
+#EXTINF:-1,UK| USA:WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/abo2209/fGUnk6Xt8w/4176
