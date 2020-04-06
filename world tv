@@ -24,25 +24,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70201
 #EXTINF:-1,CA-N | CBC NEWS TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dechams.xyz:80/sara/sara/70221
-#EXTINF:-1,|CA| HGTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40673.m3u8
-#EXTINF:-1,VIP HD ABC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308970.m3u8
-#EXTINF:-1,CA-N | CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=httphttp://dechams.xyz:80/sara/sara/70214
-#EXTINF:-1,CA-N | CBS WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=httphttp://dechams.xyz:80/sara/sara/70213
-#EXTINF:-1,FOX East
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142659.m3u8
-#EXTINF:-1,VIP HD NBC 10 EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308843.m3u8
-#EXTINF:-1,ABC West
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/143434.m3u8
-#EXTINF:-1,CBS East
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142627.m3u8
-#EXTINF:-1,CNN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/353543.m3u8
-#EXTINF:-1,Fox News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142661.m3u8
-#EXTINF:-1,NBC East
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/300088.m3u8
+#EXTINF:-1,US: HGTV (East)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/5881.m3u8
+#EXTINF:-1,US: HGTV (backup)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/11573.m3u8
+#EXTINF:-1,US: HGTV (West)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42099.m3u8
+#EXTINF:-1,US: ABC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42067.m3u8
+#EXTINF:-1,US: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22869.m3u8
+#EXTINF:-1,US: NBC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/37821.m3u8
+#EXTINF:-1,US: CBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38374.m3u8
