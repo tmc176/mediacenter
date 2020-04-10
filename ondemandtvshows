@@ -7,7 +7,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.58.140.22
 #EXTINF:-1,USA: BEIN 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17830
 #EXTINF:-1,USA: ACC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16145
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16145
 #EXTINF:-1,USA: CBS Sports Network HD
 http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16148
 #EXTINF:-1,USA: ELEVEN SPORTS HD
