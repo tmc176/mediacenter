@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,|CA| CHCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/41559
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22212
 #EXTINF:-1,CA: CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/1992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22215
 #EXTINF:-1,|CA| CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/1993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22209
 #EXTINF:-1,CA: CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/9283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/41541
 #EXTINF:-1,|CA| GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22180
 #EXTINF:-1,|CA| CP24 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/41559
 #EXTINF:-1,CA: CTV NEWS
@@ -18,15 +18,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.lt
 #EXTINF:-1,CA: ABC Spark HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22305
 #EXTINF:-1,US: ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22144
 #EXTINF:-1,US: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/31663
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22125
 #EXTINF:-1,US: NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/2005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22288
 #EXTINF:-1,US: CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/1992
-#EXTINF:-1,CA: HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/17446
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22213
+#EXTINF:-1,CA: DIY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/17436
 #EXTINF:-1,US: HGTV (CA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/2003
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/17446
+#EXTINF:-1,CA: DEJAVIEW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22193
