@@ -17,6 +17,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.lt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22200
 #EXTINF:-1,CA: CBC NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22216
+#EXTINF:-1,CA: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/17430
+#EXTINF:-1,CA: FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22184
 #EXTINF:-1,CA: ABC Spark HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22305
 #EXTINF:-1,US: ABC
