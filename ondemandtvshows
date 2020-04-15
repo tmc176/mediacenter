@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tntc92g.png" group-title="USA",Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qq70J9t.png" group-title="USA",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6Hcqoy.png" group-title="USA",Movee 4U 
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="USA",Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="USA",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
 http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
  
@@ -17,8 +35,20 @@ http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wR2Zv8d.png" group-title="24/7 ENGLISH",The Lucy Show
 http://dai.google.com/linear/hls/pa/event/-s-FtbzrQCaLMDSyM0ejyw/stream/6dc92ea2-dba1-4493-b8d2-269e89f9ba9c:CHS/variant/1b0beacafb6a1cad0279ea30f33d25f9/bandwidth/1291125.m3u8
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="24/7 ENGLISH",Tom & Jerry
 http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U (Opt-1)
+https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U (Opt-2)
+https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA",Hot Rock TV
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24/7 ADULT SWIM",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
