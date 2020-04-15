@@ -2,14 +2,11 @@
 #EXTINF:-1,CA : Wild TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22095.m3u8
 
-#EXTINF:-1,CA : WFN
+#EXTINF:-1,CA: SPORTSMAN CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22097.m3u8
 
 #EXTINF:-1,CA: WORLD FISHING NETWORK
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22079.m3u8
-
-#EXTINF:-1,CA: SPORTSMAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38532.m3u8
 
 #EXTINF:-1,CA: OUTDOOR LIFE NETWORK
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22354.m3u8
@@ -23,11 +20,11 @@ https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting 
 https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,VIP HD OUTDOOR CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308818.m3u8
+#EXTINF:-1"USA",Outdoor Channel 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tFUSEZ4.png" group-title="USA",Outdoor Channel 
-http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+#EXTINF:-1,CA: OLN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22287.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
