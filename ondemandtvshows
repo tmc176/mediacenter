@@ -51,9 +51,9 @@ https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 
 #EXTINF:-1,24/7: Fresh Prince of Bel Air
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42559
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42559
 #EXTINF:-1,24/7: Superbowl LIV
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42553
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42553
 #EXTINF:-1,24/7: Best Knockouts in UFC History
 http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31108
 #EXTINF:-1,24/7: UFC 248
