@@ -980,7 +980,7 @@ http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/28503
 #EXTINF:-1,US: FOX HD Oakland CA
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37870
 #EXTINF:-1,US: CBS HD Oklahoma City OK
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12591
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12591
 #EXTINF:-1,US: FOX HD Oklahoma City OK
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22863
 #EXTINF:-1,US: CBS HD Omaha NE
