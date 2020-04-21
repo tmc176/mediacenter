@@ -318,13 +318,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25
 #EXTINF:-1,CA: SPORTS NET 360 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3652.m3u8
 #EXTINF:-1,US: FOX10 (WALA) Alabama
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42035
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42035
 #EXTINF:-1,US: MY25 Alabama
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42036
 #EXTINF:-1,US: NBC15 (WPMI) Alabama
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42037
 #EXTINF:-1,US: ABC13 (KYUR) Anchorage
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42071
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42071
 #EXTINF:-1,US: CBS22 (KTVA) Anchorage
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42072
 #EXTINF:-1,US: FOX4 (KTBY) Anchorage
