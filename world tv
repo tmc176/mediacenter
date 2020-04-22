@@ -317,1804 +317,503 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3650.m3u8
 #EXTINF:-1,CA: SPORTS NET 360 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3652.m3u8
-#EXTINF:-1,US: FOX10 (WALA) Alabama
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42035
-#EXTINF:-1,US: MY25 Alabama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42036
-#EXTINF:-1,US: NBC15 (WPMI) Alabama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42037
-#EXTINF:-1,US: ABC13 (KYUR) Anchorage
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42071
-#EXTINF:-1,US: CBS22 (KTVA) Anchorage
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42072
-#EXTINF:-1,US: FOX4 (KTBY) Anchorage
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42073
-#EXTINF:-1,US: NBC2 (KTUU) Anchorage
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42074
-#EXTINF:-1,US: NBC HD Albany GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41495
-#EXTINF:-1,US: CBS HD Albany NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37852
-#EXTINF:-1,US: NBC HD Albany NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37834
-#EXTINF:-1,US: FOX HD Albany NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22836
-#EXTINF:-1,US: FOX HD Albuquerque NM
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37869
-#EXTINF:-1,US: CBS HD Albuquerque NM
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37853
-#EXTINF:-1,US: NBC HD Albuquerque NM
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37813
-#EXTINF:-1,US: ABC HD Atlanta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19838
-#EXTINF:-1,US: CBS HD Atlanta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19882
-#EXTINF:-1,US: CW HD Atlanta
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22884
-#EXTINF:-1,US: FOX HD Atlanta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11762
-#EXTINF:-1,US: NBC HD Atlanta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19883
-#EXTINF:-1,US: CBS HD Altoona PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37836
-#EXTINF:-1,US: ABC13 (WLOS) Asheville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42012
-#EXTINF:-1,US: FOX21 (WHNS) Asheville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42013
-#EXTINF:-1,US: KTVK 3TV Arizona's Family Phoenix
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42041
-#EXTINF:-1,US: ABC6 (WJBF) Augusta
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42027
-#EXTINF:-1,US: NBC HD Augusta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38437
-#EXTINF:-1,US: CBS HD Augusta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38368
-#EXTINF:-1,US: FOX HD Augusta GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37875
-#EXTINF:-1,US: CBS HD Austin TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37854
-#EXTINF:-1,US: FOX HD Austin TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11710
-#EXTINF:-1,US: NBC HD Austin TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38434
-#EXTINF:-1,US: CBS HD Bakersfield CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37837
-#EXTINF:-1,US: NBC HD Bakersfield CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37811
-#EXTINF:-1,US: ABC HD Baltimore MD (WMAR)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19819
-#EXTINF:-1,US: FOX HD Baltimore MD (WBFF)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19864
-#EXTINF:-1,US: NBC HD Baltimore MD (WBAL)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11708
-#EXTINF:-1,US: CBS HD Baltimore MD (WJZ)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11735
-#EXTINF:-1,US: FOX HD Baton Rouge LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37866
-#EXTINF:-1,US: NBC 32 (WVLA) Baton Rouge
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42215
-#EXTINF:-1,US: CBS HD Bay City MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12531
-#EXTINF:-1,US: ABC4 (WOTV) Battle Creek
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42021
-#EXTINF:-1,US: FOX HD Belmont
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11767
-#EXTINF:-1,US: NBC HD Birmingham AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38464
-#EXTINF:-1,US: CBS HD Birmingham AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37855
-#EXTINF:-1,US: FOX HD Birmingham AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37876
-#EXTINF:-1,US: NBC HD Bluefield WV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38465
-#EXTINF:-1,US: NBC HD Boise ID
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38430
-#EXTINF:-1,US: CBS HD Boise ID
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37856
-#EXTINF:-1,US: FOX HD Boise ID
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37877
-#EXTINF:-1,US: KTVB CHANNEL 7 BOISE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/28548
-#EXTINF:-1,US: ABC HD Boston MA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19833
-#EXTINF:-1,US: CBS HD Boston MA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11702
-#EXTINF:-1,US: MY 38 HD Boston MA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37842
-#EXTINF:-1,US: FOX HD Boston MA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19872
-#EXTINF:-1,US: NBC HD Boston MA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5947
-#EXTINF:-1,US: NBC 40 40 (WNKY) Bowling Green
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42348
-#EXTINF:-1,US: News 12 Bronx
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18520
-#EXTINF:-1,US: News 12 Brooklyn
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18521
-#EXTINF:-1,US: ABC25 (KXXV) Bryan
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42018
-#EXTINF:-1,US: CBS3 (KBTX) Bryan
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42019
-#EXTINF:-1,US: NBC23 (KAGS) Bryan
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42020
-#EXTINF:-1,US: CBS HD Buffalo NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37857
-#EXTINF:-1,US: FOX HD Buffalo NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11791
-#EXTINF:-1,US: NBC HD Buffalo NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38452
-#EXTINF:-1,US: ABC7 (WKBW) Buffalo
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42023
-#EXTINF:-1,US: MY49 (WNYO) Buffalo
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42024
-#EXTINF:-1,US: CBS HD Burlington VT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12561
-#EXTINF:-1,US: FOX Burlington VT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22839
-#EXTINF:-1,US: CBS HD Cadillac MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12586
-#EXTINF:-1,US: MY40 (WMYA) Carolina
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42032
-#EXTINF:-1,US: CBS HD Cape Girardeau MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37850
-#EXTINF:-1,US: FOX HD Cape Girardeau MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22865
-#EXTINF:-1,US: CBS HD Cedar Rapids IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38317
-#EXTINF:-1,US: CBS HD Champaign IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38350
-#EXTINF:-1,US: FOX HD Charlotte NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19884
-#EXTINF:-1,US: NBC HD Charlotte NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19881
-#EXTINF:-1,US: ABC HD Charlotte NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19825
-#EXTINF:-1,US: CBS HD Charlotte NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19880
-#EXTINF:-1,US: CBS HD Charleston SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12544
-#EXTINF:-1,US: FOX HD Charleston SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22840
-#EXTINF:-1,US: FOX HD Charleston WV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22841
-#EXTINF:-1,US: ABC4 (WCIV) Charleston
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42060
-#EXTINF:-1,US: MyNet (WCIV) Charleston
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42061
-#EXTINF:-1,US: CBS HD Chattanooga TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37843
-#EXTINF:-1,US: FOX HD Chicago IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11749
-#EXTINF:-1,US: ABC HD Chicago IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19839
-#EXTINF:-1,US: CW HD Chicago IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38405
-#EXTINF:-1,US: NBC HD Chicago IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11752
-#EXTINF:-1,US: WGN HD Chicago
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/7958
-#EXTINF:-1,US: CBS HD Chicago IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11743
-#EXTINF:-1,US: NBC HD Cincinnati OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37798
-#EXTINF:-1,US: CBS HD Cincinnati OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37797
-#EXTINF:-1,US: FOX HD Cincinnati OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22843
-#EXTINF:-1,US: ABC HD Cleveland OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19823
-#EXTINF:-1,US: NBC HD Cleveland
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19886
-#EXTINF:-1,US: FOX HD Cleveland OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11775
-#EXTINF:-1,US: CBS HD Cleveland OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19885
-#EXTINF:-1,US: CBS Colorado Springs
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12569
-#EXTINF:-1,US: NBC HD Colorado Springs CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37799
-#EXTINF:-1,US: CBS HD Colorado Springs CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38321
-#EXTINF:-1,US: FOX HD Colorado Springs CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37800
-#EXTINF:-1,US: Fox HD Columbia SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22844
-#EXTINF:-1,US: CBS HD Columbia SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37841
-#EXTINF:-1,US: NBC HD Columbia SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37823
-#EXTINF:-1,US: NBC 8 (KOMU) Columbia MS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42140
-#EXTINF:-1,US: NBC HD Columbus GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38456
-#EXTINF:-1,US: CBS HD Columbus MS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38349
-#EXTINF:-1,US: ABC HD Columbus
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21759
-#EXTINF:-1,US: FOX HD Columbus OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11722
-#EXTINF:-1,US: CBS HD Columbus OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11796
-#EXTINF:-1,US: NBC HD Columbus OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38442
-#EXTINF:-1,US: News 12 Connecticut
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18522
-#EXTINF:-1,US: CBS HD Corpus Christi TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37859
-#EXTINF:-1,US: FOX HD Corpus Christi TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37878
-#EXTINF:-1,US: NBC HD Corpus Christi TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38426
-#EXTINF:-1,US: ABC HD Dallas TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19831
-#EXTINF:-1,US: CBS HD Dallas TX KTVT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11789
-#EXTINF:-1,US: NBC HD Dallas TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11776
-#EXTINF:-1,US: FOX HD Dallas TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11729
-#EXTINF:-1,US: CBS HD Dallas TX KTXA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38342
-#EXTINF:-1,US: TXA21 (KTXA) Dallas
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42038
-#EXTINF:-1,US: FOX HD Davenport IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22845
-#EXTINF:-1,US: NBC HD Davenport IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38433
-#EXTINF:-1,US: NBC HD Dayton OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38444
-#EXTINF:-1,US: CBS HD Dayton OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12534
-#EXTINF:-1,US: FOX HD Dayton OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22846
-#EXTINF:-1,US: ABC22 (WKEF) Dayton
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42076
-#EXTINF:-1,US: ABC HD Denver CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19830
-#EXTINF:-1,US: FOX HD Denver CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11711
-#EXTINF:-1,US: NBC HD Denver CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19887
-#EXTINF:-1,US: CBS HD Denver CO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11760
-#EXTINF:-1,US: FOX HD Des Moines IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22847
-#EXTINF:-1,US: CBS HD Des Moines IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37918
-#EXTINF:-1,US: ABC HD Detroit MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19813
-#EXTINF:-1,US: CBS HD Detroit MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11777
-#EXTINF:-1,US: FOX HD Detroit MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11683
-#EXTINF:-1,US: NBC HD Detroit MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11730
-#EXTINF:-1,US: CW HD Detroit
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22885
-#EXTINF:-1,US: ABC HD Durham
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19837
-#EXTINF:-1,US: NBC HD Eau Claire WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38445
-#EXTINF:-1,US: CBS HD El Paso TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37919
-#EXTINF:-1,US: FOX HD El Paso TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37879
-#EXTINF:-1,US: ABC7 (KVIA) El Paso
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42063
-#EXTINF:-1,US: NBC 9 (KTSM) El paso
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42460
-#EXTINF:-1,US: CBS HD Eugene OR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38344
-#EXTINF:-1,US: FOX HD Evansville IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37880
-#EXTINF:-1,US: NBC HD Evansville IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38448
-#EXTINF:-1,US: NBC HD Fargo ND
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37801
-#EXTINF:-1,US: FOX HD Fargo ND
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22848
-#EXTINF:-1,US: CBS 30 (KXJB) Fargo
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42343
-#EXTINF:-1,US: ABC 12 Flint
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42441
-#EXTINF:-1,US: FOX HD Flint MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22849
-#EXTINF:-1,US: CBS HD Florence SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38348
-#EXTINF:-1,US: CBS HD Fort Myers
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12560
-#EXTINF:-1,US: FOX HD Fort Myers FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22851
-#EXTINF:-1,US: NBC HD Fort Myers FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38439
-#EXTINF:-1,US: CBS HD Fort Wayne IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38346
-#EXTINF:-1,US: FOX HD Fort Wayne IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22852
-#EXTINF:-1,US: NBC HD Fort Wayne IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38459
-#EXTINF:-1,US: ABC HD Fresno CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19836
-#EXTINF:-1,US: CBS HD Fresno CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38319
-#EXTINF:-1,US: FOX HD Fresno CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22850
-#EXTINF:-1,US: NBC HD Fresno CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38427
-#EXTINF:-1,US: FOX HD Gainsville FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11797
-#EXTINF:-1,US: ABC20 (WCJB) Gainesville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42069
-#EXTINF:-1,US: CBS4 (WGFL) Gainesville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42070
-#EXTINF:-1,US: CBS 13 (WMAZ) Macon
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42344
-#EXTINF:-1,US: CBS HD Goldsboro NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38363
-#EXTINF:-1,US: FOX HD Grand Rapids MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37795
-#EXTINF:-1,US: NBC HD Grand Rapids MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37793
-#EXTINF:-1,US: CBS HD Green Bay WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38351
-#EXTINF:-1,US: FOX HD Green Bay WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22853
-#EXTINF:-1,US: NBC HD Green Bay WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37814
-#EXTINF:-1,US: ABC13 (WZZM) Grand Rapids
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42022
-#EXTINF:-1,US: CBS HD Greensboro NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37777
-#EXTINF:-1,US: FOX HD Greensboro NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37781
-#EXTINF:-1,US: NBC HD Greensboro NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37782
-#EXTINF:-1,US: MY48 Greensboro
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42034
-#EXTINF:-1,US: CBS HD Greenville NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38364
-#EXTINF:-1,US: NBC HD Greenville NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37818
-#EXTINF:-1,US: CBS 7 (WSPA) Greenville SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38370
-#EXTINF:-1,US: NBC 4 (WYFF) Greenville SC 
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42450
-#EXTINF:-1,US: ABC2 (WBAY) Green Bay
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42025
-#EXTINF:-1,US: CW14 (WCWF) Green Bay
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42026
-#EXTINF:-1,US: NBC 25 (WXXV) Gulfport
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42214
-#EXTINF:-1,US: FOX HD Hampton Roads VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38408
-#EXTINF:-1,US: FOX HD Hardeeville SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22872
-#EXTINF:-1,US: ABC13 (WVEC) Hampton Roads
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42077
-#EXTINF:-1,US: MY33 (WTVZ) Hampton Roads
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42078
-#EXTINF:-1,US: CBS HD Harrisburg PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25034
-#EXTINF:-1,US: CW HD Harrisburg
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22891
-#EXTINF:-1,US: MyNet Harrisburg
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42044
-#EXTINF:-1,US: FOX HD Harrisburg PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37872
-#EXTINF:-1,US: ABC27 Harrisburg
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42283
-#EXTINF:-1,US: ABC HD Hartford CT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19835
-#EXTINF:-1,US: CBS HD Hartford CT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/31031
-#EXTINF:-1,US: FOX HD Hartford CT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11680
-#EXTINF:-1,US: NBC HD Hartford CT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11712
-#EXTINF:-1,US: NBC HD Hastings NE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38428
-#EXTINF:-1,US: FOX HD Hazleton PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22883
-#EXTINF:-1,US: Cbs Hazard
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42439
-#EXTINF:-1,US: FOX HD High Point NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37865
-#EXTINF:-1,US: CBS HD Honolulu HI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12541
-#EXTINF:-1,US: FOX HD Honolulu HI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22854
-#EXTINF:-1,US: NBC HD Honolulu HI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37830
-#EXTINF:-1,US: ABC4 (KITV) Honolulu
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42066
-#EXTINF:-1,US: ABC HD Houston TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19844
-#EXTINF:-1,US: CBS HD Houston TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19879
-#EXTINF:-1,US: FOX HD Houston TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/10163
-#EXTINF:-1,US: NBC HD Houston TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/10160
-#EXTINF:-1,US: News 12 Hudson Valley
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18523
-#EXTINF:-1,US: CBS HD Huntington WV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37858
-#EXTINF:-1,US: NBC HD Huntington WV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37833
-#EXTINF:-1,US: FOX HD Huntsville AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37861
-#EXTINF:-1,US: NBC HD Huntsville AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38436
-#EXTINF:-1,US: FOX HD Indianapolis IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11772
-#EXTINF:-1,US: NBC HD Indianapolis IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19888
-#EXTINF:-1,US: ABC HD Indianapolis IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19822
-#EXTINF:-1,US: ABC3 (WSIL) Illinois
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42028
-#EXTINF:-1,US: CBS HD Jackson MS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38355
-#EXTINF:-1,US: FOX HD Jackson MS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38402
-#EXTINF:-1,US: NBC HD Jackson MS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38454
-#EXTINF:-1,US: CBS HD Jacksonville FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11779
-#EXTINF:-1,US: FOX HD Jacksonville FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11757
-#EXTINF:-1,US: NBC HD Jacksonville FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19859
-#EXTINF:-1,US: ABC17 (KMIZ) Jefferson City
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42014
-#EXTINF:-1,US: CBS13 (KRCG) Jefferson City
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42015
-#EXTINF:-1,US: FOX22 (KQFX) Jefferson City
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42016
-#EXTINF:-1,US: NBC8 (KOMU) Jefferson City
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42017
-#EXTINF:-1,US: CW HD Jeannette
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22887
-#EXTINF:-1,US: CBS HD Johnson City TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38354
-#EXTINF:-1,US: CBS HD Kalamazoo MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37794
-#EXTINF:-1,US: ABC HD Kansas City MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19815
-#EXTINF:-1,US: FOX HD Kansas City MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11768
-#EXTINF:-1,US: NBC HD Kansas City MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19865
-#EXTINF:-1,US: MY62 (KSMO) Kansas City
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42031
-#EXTINF:-1,US: CBS HD Kansas City MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19860
-#EXTINF:-1,US: NBC HD Kennewick WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37808
-#EXTINF:-1,US: CBS HD Knoxville TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12567
-#EXTINF:-1,US: FOX HD Knoxville TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22855
-#EXTINF:-1,US: NBC HD Knoxville TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38440
-#EXTINF:-1,US: CBS HD La Crosse WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38358
-#EXTINF:-1,US: FOX HD La Crosse WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38404
-#EXTINF:-1,US: FOX HD Lafayette LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38377
-#EXTINF:-1,US: CBS HD Lafayette LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38322
-#EXTINF:-1,US: NBC HD Lancaster PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37812
-#EXTINF:-1,US: NBC HD Lansing MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38453
-#EXTINF:-1,US: FOX HD Lansing MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37796
-#EXTINF:-1,US: CBS HD Lansing MI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38361
-#EXTINF:-1,US: FOX HD Las Vegas
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/31028
-#EXTINF:-1,US: CBS HD Las Vegas NV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37783
-#EXTINF:-1,US: NBC 3 (KSNV) Las Vegas
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42185
-#EXTINF:-1,US: MyNet Las Vagas
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42043
-#EXTINF:-1,US: FOX HD Lexington KY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22856
-#EXTINF:-1,US: CBS HD Lexington KY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12532
-#EXTINF:-1,US: NBC HD Lexington KY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38455
-#EXTINF:-1,US: ABC36 (WTVQ) Lexington
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42039
-#EXTINF:-1,US: NBC 8 (WLIO) Lima
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42349
-#EXTINF:-1,US: FOX HD Lincoln NE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22857
-#EXTINF:-1,US: CBS HD Lincoln NE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12570
-#EXTINF:-1,US: NBC HD Lincoln NB
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37776
-#EXTINF:-1,US: CBS HD Little Rock AR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37844
-#EXTINF:-1,US: NBC HD Little Rock AR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38416
-#EXTINF:-1,US: FOX HD Little Rock AR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37862
-#EXTINF:-1,US: News 12 Long Island
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18524
-#EXTINF:-1,US: CBS HD Los Angeles CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5963
-#EXTINF:-1,US: NBC HD Los Angeles CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5950
-#EXTINF:-1,US: ABC HD Los Angeles CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19843
-#EXTINF:-1,US: KCAL 9 Los Angeles CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19874
-#EXTINF:-1,US: FOX HD Los Angeles CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38380
-#EXTINF:-1,US: My 13 KCOP Los Angeles
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42100
-#EXTINF:-1,US: CH 56 KDOC Los Angeles
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42453
-#EXTINF:-1,US: ABC HD Louisville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41556
-#EXTINF:-1,US: CBS HD Louisville KY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38360
-#EXTINF:-1,US: FOX HD Louisville KY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/31051
-#EXTINF:-1,US: NBC HD Louisville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/31052
-#EXTINF:-1,US: KET
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42520
-#EXTINF:-1,US: KET (PBS Kids)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42521
-#EXTINF:-1,US: ABC28 (KAMC) Lubbock
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42057
-#EXTINF:-1,US: CBS13 (KLBK) Lubbock
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42058
-#EXTINF:-1,US: NBC11 (KCBD) Lubbock
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42059
-#EXTINF:-1,US: FOX HD McAllen TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37881
-#EXTINF:-1,US: FOX HD Macon GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22858
-#EXTINF:-1,US: NBC HD Madison WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37829
-#EXTINF:-1,US: CBS HD Madison WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37846
-#EXTINF:-1,US: FOX HD Madison WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22859
-#EXTINF:-1,US: ABC27 (WKOW) Madison
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42075
-#EXTINF:-1,US: ABC9 Manchester
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42042
-#EXTINF:-1,US: NBC HD Memphis TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37827
-#EXTINF:-1,US: FOX HD Memphis TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22860
-#EXTINF:-1,US: Fox 30 (WGBC) Meridian
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42351
-#EXTINF:-1,US: CBS HD Miami FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11756
-#EXTINF:-1,US: MY 33 HD Miami FL WBFS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37849
-#EXTINF:-1,US: FOX HD Miami FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5953
-#EXTINF:-1,US: NBC HD Miami FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11774
-#EXTINF:-1,US: ABC HD Miami FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19826
-#EXTINF:-1,US: MY33 (WBFS) Miami
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42081
-#EXTINF:-1,US: CBS HD Milwaukee WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37847
-#EXTINF:-1,US: ABC HD Milwaukee WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19814
-#EXTINF:-1,US: NBC HD Milwaukee WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38463
-#EXTINF:-1,US: FOX HD Milwaukee WI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11685
-#EXTINF:-1,US: CW18 (WVTV) Milwaukee
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42082
-#EXTINF:-1,US: NBC HD Minneapolis MN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37802
-#EXTINF:-1,US: ABC HD Minneapolis MN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19818
-#EXTINF:-1,US: CBS HD Minneapolis MN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11739
-#EXTINF:-1,US: FOX HD Minneapolis MN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11707
-#EXTINF:-1,US: ABC33 (KSPR) Missouri
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42080
-#EXTINF:-1,US: CBS HD Mobile AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38359
-#EXTINF:-1,US: CBS HD Monterey Bay CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37840
-#EXTINF:-1,US: NBC HD Montgomery AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38461
-#EXTINF:-1,US: FOX HD Moorefield
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11783
-#EXTINF:-1,US: FOX Myrtle Beach SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22862
-#EXTINF:-1,US: NBC HD Myrtle Beach SC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38457
-#EXTINF:-1,US: ABC HD Nashville TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19828
-#EXTINF:-1,US: CBS HD Nashville TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11678
-#EXTINF:-1,US: FOX HD Nashville TN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19889
-#EXTINF:-1,US: NBC HD Nashville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19890
-#EXTINF:-1,US: MY30 Nashville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42040
-#EXTINF:-1,US: My9 New Jersey
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25033
-#EXTINF:-1,US: News 12 New Jersey
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18525
-#EXTINF:-1,US: CBS HD New Orleans LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19870
 #EXTINF:-1,US: ABC HD New York NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11740
 #EXTINF:-1,US: CBS HD New York NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18519
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18519
 #EXTINF:-1,US: PIX11 (WPIX) NewYork
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42087
-#EXTINF:-1,US: ABC7 (KOAT) New Mexico
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42056
-#EXTINF:-1,US: FOX HD New Orleans LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11800
-#EXTINF:-1,US: NBC HD New Orleans LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19871
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42087
 #EXTINF:-1,US: FOX HD New York NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5951
 #EXTINF:-1,US: NBC HD New York NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6095
 #EXTINF:-1,US: WLNY HD New York
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5964
-#EXTINF:-1,US: Fox HD Norfolk VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/28503
-#EXTINF:-1,US: FOX HD Oakland CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37870
-#EXTINF:-1,US: CBS HD Oklahoma City OK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12591
-#EXTINF:-1,US: FOX HD Oklahoma City OK
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22863
-#EXTINF:-1,US: CBS HD Omaha NE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37839
-#EXTINF:-1,US: NBC HD Omaha NE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37825
-#EXTINF:-1,US: ABC HD Orlando FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19827
-#EXTINF:-1,US: CBS HD Orlando FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11709
-#EXTINF:-1,US: FOX HD Orlando FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11778
-#EXTINF:-1,US: NBC HD Orlando FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38447
-#EXTINF:-1,US: NBC HD Paducah KY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38458
-#EXTINF:-1,US: MY49 (WDKA) Paducah
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42029
-#EXTINF:-1,US: NBC HD Panama City FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37815
-#EXTINF:-1,US: NBC HD Peoria IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38446
-#EXTINF:-1,US: FOX HD Peoria IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38410
-#EXTINF:-1,US: CBS HD Peoria IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38362
-#EXTINF:-1,US: ABC (WEAR) Pensacola
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42458
-#EXTINF:-1,US: ABC HD Philadelphia
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3684
-#EXTINF:-1,US: ABC HD Phiadelphia
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41552
-#EXTINF:-1,US: NBC HD Philadelphia
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41553
-#EXTINF:-1,US: FOX HD Philadelphia
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41555
-#EXTINF:-1,US: ABC HD Philadelphia PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18518
-#EXTINF:-1,US: CBS HD Philadelphia PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3682
-#EXTINF:-1,US: CW HD Philadelphia 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22886
-#EXTINF:-1,US: ABC HD Phoenix AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19821
-#EXTINF:-1,US: CBS HD Phoenix AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19891
-#EXTINF:-1,US: NBC HD Phoenix AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19892
-#EXTINF:-1,US: FOX HD Phoenix AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11720
-#EXTINF:-1,US: ABC HD Pittsburgh PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19832
-#EXTINF:-1,US: CBS HD Pittsburgh PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11744
-#EXTINF:-1,US: FOX HD Pittsburgh PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11704
-#EXTINF:-1,US: NBC HD Pittsburgh PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11695
-#EXTINF:-1,US: CW 19 (WPCW) Pittsburgh
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42464
-#EXTINF:-1,US: NBC HD Plattsburgh NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37817
-#EXTINF:-1,US: CBS HD Portland ME
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38352
-#EXTINF:-1,US: NBC HD Portland ME
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38443
-#EXTINF:-1,US: ABC HD Portand OR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25027
-#EXTINF:-1,US: CBS HD Portland OR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38323
-#EXTINF:-1,US: Fox HD Portland OR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19867
-#EXTINF:-1,US: NBC HD Portland OR
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25028
-#EXTINF:-1,US: NBC HD Portsmouth VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38438
-#EXTINF:-1,US: CBS HD Providence RI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38367
-#EXTINF:-1,US: FOX HD Providence RI
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37868
-#EXTINF:-1,US: ABC HD Raleigh NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21757
-#EXTINF:-1,US: FOX HD Raleigh NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22867
-#EXTINF:-1,US: CBS HD Reno NV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38341
-#EXTINF:-1,US: FOX HD Reno NV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38379
-#EXTINF:-1,US: CBS 6 Richmond
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42443
-#EXTINF:-1,US: FOX HD Richmond VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22868
-#EXTINF:-1,US: NBC HD Richmond VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37822
-#EXTINF:-1,US:ABC Richmond
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42380
-#EXTINF:-1,US: CBS HD Rio Grande Vly TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38318
-#EXTINF:-1,US: NBC HD Rio Grande Vly TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38431
-#EXTINF:-1,US: CBS HD Riverhead NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37838
-#EXTINF:-1,US: CBS HD Roanoke VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12585
-#EXTINF:-1,US: FOX HD Roanoke VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37871
-#EXTINF:-1,US: NBC HD Roanoke VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38462
-#EXTINF:-1,US: FOX HD Rochester NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22869
-#EXTINF:-1,US: NBC HD Rochester NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37821
-#EXTINF:-1,US: CBS HD Rock Island IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38353
-#EXTINF:-1,US: ABC 17 (WTVO) Rockford
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42461
-#EXTINF:-1,US: CBS 23 (WIFR-LD) Rockford
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42462
-#EXTINF:-1,US: FOX 39 (WQRF) Rockford
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42463
-#EXTINF:-1,US: ABC5 (KSTP) Saint Paul
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42064
-#EXTINF:-1,US: CW23 (WUCW) Saint Paul
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42065
-#EXTINF:-1,US: ABC HD Sacramento CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19824
-#EXTINF:-1,US: CBS HD Sacramento CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11703
-#EXTINF:-1,US: FOX HD Sacramento CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11723
-#EXTINF:-1,US: CW HD Sacramento
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22888
-#EXTINF:-1,US: NBC HD Sacramento CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38418
-#EXTINF:-1,US: NBC HD Salinas CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37803
-#EXTINF:-1,US: FOX HD Salinas CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22861
-#EXTINF:-1,US: CBS HD Salinas CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37804
-#EXTINF:-1,US: FOX HD Salt Lake City UT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11716
-#EXTINF:-1,US: ABC HD Salt Lake City UT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19817
-#EXTINF:-1,US: CBS HD Salt Lake City UT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38343
-#EXTINF:-1,US: ABC HD San Antonio TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19816
-#EXTINF:-1,US: FOX HD San Antonio TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22870
-#EXTINF:-1,US: CBS HD San Antonio TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/31054
-#EXTINF:-1,US: ABC HD San Diego CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19829
-#EXTINF:-1,US: CBS HD San Diego CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11745
-#EXTINF:-1,US: FOX HD San Diego
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11726
-#EXTINF:-1,US: NBC HD San Diego CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11782
-#EXTINF:-1,US: KUSI San Diego
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42500
-#EXTINF:-1,US: FOX HD San Francisco
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6097
-#EXTINF:-1,US: ABC HD San Francisco CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19842
-#EXTINF:-1,US: CBS HD San Francisco CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5962
-#EXTINF:-1,US: NBC HD San Francisco
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5949
-#EXTINF:-1,US: CW HD San Francisco
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22892
-#EXTINF:-1,US: NBC HD San Jose CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37820
-#EXTINF:-1,US: FOX HD San Jose CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37874
-#EXTINF:-1,US: FOX HD San Luis Obispo CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22871
-#EXTINF:-1,US: NBC HD San Luis Obispo CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37826
-#EXTINF:-1,US: NBC HD Salt Lake City UT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37824
-#EXTINF:-1,US: CBS HD Santa Maria CA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12566
-#EXTINF:-1,US: CBS Savannah
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12549
-#EXTINF:-1,US: CBS HD Savannah GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38371
-#EXTINF:-1,US: FOX HD Savannah GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37867
-#EXTINF:-1,US: NBC HD Savannah GA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38460
-#EXTINF:-1,US: FOX HD Scranton PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37873
-#EXTINF:-1,US: NBC HD Scranton PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38441
-#EXTINF:-1,US: ABC HD Seattle WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37788
-#EXTINF:-1,US: CW HD Seattle
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22889
-#EXTINF:-1,US: CBS HD Seattle WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11736
-#EXTINF:-1,US: FOX HD Seattle WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37790
-#EXTINF:-1,US: NBC HD Seattle WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37789
-#EXTINF:-1,US: CBS HD Selma AL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38345
-#EXTINF:-1,US: ABC3 (KTBS) Shreveport
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42079
-#EXTINF:-1,US: NBC HD Shreveport LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38429
-#EXTINF:-1,US: CBS HD Shreveport LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38340
-#EXTINF:-1,US: FOX HD Shreveport LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22873
-#EXTINF:-1,US: NBC HD Sioux City IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37809
-#EXTINF:-1,US: FOX HD Sioux Falls SD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22874
-#EXTINF:-1,US: NBC HD Sioux Falls SD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37785
-#EXTINF:-1,US: CBS HD Sioux Falls SD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37784
-#EXTINF:-1,US: NBC HD South Bend IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37792
-#EXTINF:-1,US: CBS 22 South Bend
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42442
-#EXTINF:-1,US: ABC 57 (WBND) South Bend
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42459
-#EXTINF:-1,US: FOX HD South Bend IN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22875
-#EXTINF:-1,US: CBS HD Spokane WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37845
-#EXTINF:-1,US: FOX HD Spokane WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38378
-#EXTINF:-1,US: NBC HD Spokane WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38422
-#EXTINF:-1,US: FOX HD Springfield IL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22876
-#EXTINF:-1,US: NBC HD Springfield MA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38467
-#EXTINF:-1,US: CBS 3 (WSHM) Springfield
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42345
-#EXTINF:-1,US: NBC HD Springfield MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38435
-#EXTINF:-1,US: FOX HD Springfield MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22877
-#EXTINF:-1,US: CBS HD Springfield MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/13118
-#EXTINF:-1,US: ABC HD St Louis MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37787
-#EXTINF:-1,US: NBC HD St. Louis MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37831
-#EXTINF:-1,US: CBS HD St Louis MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37786
-#EXTINF:-1,US: FOX HD St Louis MO
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38381
-#EXTINF:-1,US: CBS HD ST Petersburg FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38373
-#EXTINF:-1,US: CW HD St. Petersburg
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22890
-#EXTINF:-1,US: ABC9 (WSYR) Syracuse
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42067
-#EXTINF:-1,US: NBC3 (WSTM) Syracuse
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42068
-#EXTINF:-1,US: FOX HD Syracuse NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38406
-#EXTINF:-1,US: CBS HD Syracuse NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38374
-#EXTINF:-1,US: FOX HD Tacoma
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11700
-#EXTINF:-1,US: CBS HD Tallahasee FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41493
-#EXTINF:-1,US: FOX HD Tallahassee FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22878
-#EXTINF:-1,US: NBC HD Tampa Bay FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38450
-#EXTINF:-1,US: ABC HD Tampa Bay FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19820
-#EXTINF:-1,US: CBS HD Tampa Bay FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19861
-#EXTINF:-1,US: FOX HD Tampa Bay FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11682
-#EXTINF:-1,US: NBC HD Temple TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37832
-#EXTINF:-1,US: CBS HD Toledo OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12548
-#EXTINF:-1,US: FOX HD Toledo OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38407
-#EXTINF:-1,US: CBS HD Tucson AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12545
-#EXTINF:-1,US: FOX HD Tucson AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22879
-#EXTINF:-1,US: NBC HD Tucson AZ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38432
-#EXTINF:-1,US: CBS HD Tulsa OK
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38324
-#EXTINF:-1,US: FOX HD Tulsa OK
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22880
-#EXTINF:-1,US: NBC HD Tulsa OK
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37828
-#EXTINF:-1,US: ABC8 (KTUL) Tulsa
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42030
-#EXTINF:-1,US: FOX HD Tyler TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22881
-#EXTINF:-1,US: NBC HD Tyler TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38421
-#EXTINF:-1,US: CBS 19 (KYTX) Tyler
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42346
-#EXTINF:-1,US: FOX HD Virginia Beach VA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37863
-#EXTINF:-1,US: CBS HD Waco TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12533
-#EXTINF:-1,US: FOX HD Waco TX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37864
-#EXTINF:-1,US: ABC HD Washington DC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37917
-#EXTINF:-1,US: CBS HD Washington DC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19862
-#EXTINF:-1,US: Fox  HD  Washington DC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25038
-#EXTINF:-1,US: NBC HD Washington DC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11701
-#EXTINF:-1,US: NBC HD Waterloo IA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37810
-#EXTINF:-1,US: FOX HD Waterville
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22866
-#EXTINF:-1,US: News 12 Westchester
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18526
-#EXTINF:-1,US: CBS HD West Palm Beach FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38365
-#EXTINF:-1,US: FOX HD West Palm Beach FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38403
-#EXTINF:-1,US: NBC HD West Palm Beach FL
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37816
-#EXTINF:-1,US: NBC 45 (WVNC) Watertown
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42350
-#EXTINF:-1,US: MY53 Williamsport
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42033
-#EXTINF:-1,US: CBS 22 (WYOU) Williamsport PA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42509
-#EXTINF:-1,US: WGN AMERICA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21780
-#EXTINF:-1,US: WGN- TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40861
-#EXTINF:-1,US: CBS HD Wichita KS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12542
-#EXTINF:-1,US: FOX HD Wichita KS
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22882
-#EXTINF:-1,US: CBS HD Wilmington NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37779
-#EXTINF:-1,US: NBC HD Wilmington NC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37780
-#EXTINF:-1,US: WPIX11 HD NY
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22964
-#EXTINF:-1,US: CBS HD Yakima WA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38320
-#EXTINF:-1,US: ABC 33 Youngstown
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42440
-#EXTINF:-1,US: CBS HD Youngstown OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38357
-#EXTINF:-1,US: NBC HD Youngstown OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37778
-#EXTINF:-1,US: FOX HD Youngstown OH
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38409
-#EXTINF:-1,US: KTLA Channel 5 Los Angeles
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42573
-#EXTINF:-1,US: ATG Live
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38598
-#EXTINF:-1,US: Bein Sports 1
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15178
-#EXTINF:-1,US: Bein Sports 2
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15177
-#EXTINF:-1,US: Bein Sports 3
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15176
-#EXTINF:-1,US: Bein Sports 4
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15175
-#EXTINF:-1,US: Bein Sports 5
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15174
-#EXTINF:-1,US: Bein Sports 6
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15173
-#EXTINF:-1,US: Bein Sports 7
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15172
-#EXTINF:-1,US: Bein Sports 8
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15171
-#EXTINF:-1,US: Coral TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38599
-#EXTINF:-1,US: Kanal 75 INT
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/38597
-#EXTINF:-1,US: SIS One
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40956
-#EXTINF:-1,US: SIS Racing
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40955
-#EXTINF:-1,US: SIS Two
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40954
-#EXTINF:-1,US: TVG
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/35238
-#EXTINF:-1,US: TVG 2
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/35239
-#EXTINF:-1,US: HBO  (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21761
-#EXTINF:-1,US: HBO  (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42548
-#EXTINF:-1,US: HBO  (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19658
-#EXTINF:-1,US: HBO 2 (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42045
-#EXTINF:-1,US: HBO 2 (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42549
-#EXTINF:-1,US: HBO Comedy (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5879
-#EXTINF:-1,US: HBO Comedy (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42550
-#EXTINF:-1,US: HBO Family (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41405
-#EXTINF:-1,US: HBO Family (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42391
-#EXTINF:-1,US: HBO Family (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42390
-#EXTINF:-1,US: HBO Signature (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5880
-#EXTINF:-1,US: HBO Signature (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42392
-#EXTINF:-1,US: HBO Signature (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42393
-#EXTINF:-1,US: HBO Zone (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42394
-#EXTINF:-1,US: HBO Zone (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42395
-#EXTINF:-1,US: Starz HD (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41398
-#EXTINF:-1,US: Starz (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22502
-#EXTINF:-1,US: Starz (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42414
-#EXTINF:-1,US: Starz (West backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41397
-#EXTINF:-1,US: Starz Cinema (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42416
-#EXTINF:-1,US: Starz Cinema (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42417
-#EXTINF:-1,US: Starz Comedy (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42418
-#EXTINF:-1,US: Starz Comedy (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42419
-#EXTINF:-1,US: Starz Kids & Family (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41388
-#EXTINF:-1,US: Starz Kids & Family (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6852
-#EXTINF:-1,US: Starz Edge (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42420
-#EXTINF:-1,US: Starz Edge (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42421
-#EXTINF:-1,US: Starz Encore (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42422
-#EXTINF:-1,US: Starz Encore (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42423
-#EXTINF:-1,US: Starz Encore Action
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41393
-#EXTINF:-1,US: Starz Encore Action (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42424
-#EXTINF:-1,US: Starz Encore Action (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42425
-#EXTINF:-1,US: Starz Encore Black (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42426
-#EXTINF:-1,US: Starz Encore Black (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42427
-#EXTINF:-1,US: Starz Encore Classic
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41392
-#EXTINF:-1,US: Starz Encore Classic (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42428
-#EXTINF:-1,US: Starz Encore Classic (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42429
-#EXTINF:-1,US: Starz Encore Family
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41391
-#EXTINF:-1,US: Starz Encore Family (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42430
-#EXTINF:-1,US: Starz Encore Family (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42431
-#EXTINF:-1,US: Starz Encore Suspense
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41390
-#EXTINF:-1,US: Starz Encore Suspense (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42432
-#EXTINF:-1,US: Starz Encore Suspense (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42433
-#EXTINF:-1,US: Starz Encore Westerns
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25047
-#EXTINF:-1,US: Starz Encore Westerns (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42434
-#EXTINF:-1,US: Starz Encore Westerns (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42435
-#EXTINF:-1,US: Starz in Black
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41389
-#EXTINF:-1,US: Starz in Black (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42436
-#EXTINF:-1,US: Starz in Black (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42437
-#EXTINF:-1,US: Showtime (east)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/8186
-#EXTINF:-1,US: Showtime (East backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19846
-#EXTINF:-1,US: Showtime (East backup 2)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3670
-#EXTINF:-1,US: Showtime (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41400
-#EXTINF:-1,US: Showtime (West backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41399
-#EXTINF:-1,US: Showtime 2 HD (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5883
-#EXTINF:-1,US: Showtime 2 (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42398
-#EXTINF:-1,US: Showtime 2 (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42399
-#EXTINF:-1,US: Showtime Beyond (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42400
-#EXTINF:-1,US: Showtime Beyond (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42401
-#EXTINF:-1,US: Showtime Extreme HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19666
-#EXTINF:-1,US: Showtime Family Zone (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42402
-#EXTINF:-1,US: Showtime Familyzone (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42403
-#EXTINF:-1,US: Showtime Next (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42404
-#EXTINF:-1,US: Showtime Next (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42405
-#EXTINF:-1,US: Showtime Showcase HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19664
-#EXTINF:-1,US: Showtime Women (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42406
-#EXTINF:-1,US: Showtime Women (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42407
-#EXTINF:-1,US: Cinemax East HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19847
-#EXTINF:-1,US: CineMAX (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42383
-#EXTINF:-1,US: Cinemax Moremax HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19655
-#EXTINF:-1,US: ActionMAX (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42381
-#EXTINF:-1,US: ActionMAX (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42382
-#EXTINF:-1,US: OuterMAX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42388
-#EXTINF:-1,US: ThrillerMAX (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42385
-#EXTINF:-1,US: ThrillerMAX (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42386
-#EXTINF:-1,US: 5 StarMAX
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42389
-#EXTINF:-1,US: Sony Movies HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19725
-#EXTINF:-1,US: EPIX HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5874
-#EXTINF:-1,US: EPIX2
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40915
-#EXTINF:-1,US: Epix Hits
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40890
-#EXTINF:-1,US: IndiePlex (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42408
-#EXTINF:-1,US: IndiePlex (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42409
-#EXTINF:-1,US: MoviePlex (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42410
-#EXTINF:-1,US: MoviePlex (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42411
-#EXTINF:-1,US: RetroPlex (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42412
-#EXTINF:-1,US: RetroPlex (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42413
-#EXTINF:-1,US: Redbox Comedy
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42454
-#EXTINF:-1,US: Redbox Rush
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42456
-#EXTINF:-1,US: Redbox Spotlight
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42457
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5964
 #EXTINF:-1,US: Baby First
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42095
 #EXTINF:-1,US: Boomerang HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41560
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41560
 #EXTINF:-1,US: Cartoon Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19654
 #EXTINF:-1,US: Disney Channel (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19683
 #EXTINF:-1,US: Disney Channel (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42511
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42511
 #EXTINF:-1,US: Disney Jr (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41566
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41566
 #EXTINF:-1,US: Disney Jr (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42512
 #EXTINF:-1,US: Disney XD 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5724
 #EXTINF:-1,US: Disney XD HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19657
 #EXTINF:-1,US: Nickelodeon East
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41567
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41567
 #EXTINF:-1,US: Nickelodeon West
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42091
 #EXTINF:-1,US: Nick Jr East
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41568
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41568
 #EXTINF:-1,US: Nick Jr West
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42090
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42090
 #EXTINF:-1,US: Nick Toons
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41569
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41569
 #EXTINF:-1,US: PBS Kids   East
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/37916
 #EXTINF:-1,US: PBS Kids   West
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42107
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42107
 #EXTINF:-1,US: Teen Nick
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42089
 #EXTINF:-1,US: Universal Kids
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3658
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3658
 #EXTINF:-1,US: Universal Kids (sprout)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/17210
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/17210
 #EXTINF:-1,US: A&E HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12213
 #EXTINF:-1,US: A&E (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41607
 #EXTINF:-1,US: Adult Swim (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40887
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40887
 #EXTINF:-1,US: Adult Swim (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42571
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42571
 #EXTINF:-1,US: AHC HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19747
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19747
 #EXTINF:-1,US: AHC (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22427
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22427
 #EXTINF:-1,US: AMC HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11541
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11541
 #EXTINF:-1,US: AMC HD (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41608
 #EXTINF:-1,US: Animal Planet (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41576
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41576
 #EXTINF:-1,US: Animal Planet (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42505
-#EXTINF:-1,US: Aspire
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41409
-#EXTINF:-1,US: Audience
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41408
-#EXTINF:-1,US: AXS TV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22936
-#EXTINF:-1,US: BBC America HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3683
-#EXTINF:-1,US: BET (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19733
-#EXTINF:-1,US: BET (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42551
-#EXTINF:-1,US: BET (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6201
-#EXTINF:-1,US: BET Her
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19688
-#EXTINF:-1,US: Bet Jams
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40888
-#EXTINF:-1,US: Bet Soul
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40889
-#EXTINF:-1,US: Bounce TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18516
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42505
 #EXTINF:-1,US: Bravo (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42011
 #EXTINF:-1,US: Bravo (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11532
-#EXTINF:-1,US: Buzzer TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19685
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11532
 #EXTINF:-1,US: CMT HD 
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19735
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19735
 #EXTINF:-1,US: CMT HD (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41610
 #EXTINF:-1,US: Comedy Central (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11665
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11665
 #EXTINF:-1,US: Comedy Central (East backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41613
 #EXTINF:-1,US: Comedy Central (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42096
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42096
 #EXTINF:-1,US: Comedy TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41407
-#EXTINF:-1,US: COMET
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41407
 #EXTINF:-1,US: Cooking Channel HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3678
-#EXTINF:-1,US: Court TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42103
-#EXTINF:-1,US: Cozi HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/7372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3678
 #EXTINF:-1,US: CRIME & INVESTIGATION HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22428
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22428
 #EXTINF:-1,US: Crime & Investigation (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41745
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41745
 #EXTINF:-1,US: Destination America HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19684
 #EXTINF:-1,US: Discovery Ch (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41543
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41543
 #EXTINF:-1,US: Discovery Ch (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42501
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42501
 #EXTINF:-1,US: Discovery Family HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3676
 #EXTINF:-1,US: Discovery Life HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41564
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41564
 #EXTINF:-1,US: Discovery Science
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41563
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41563
 #EXTINF:-1,US: DIY HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3673
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3673
 #EXTINF:-1,US: DIY (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11567
-#EXTINF:-1,US: Dog TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22944
-#EXTINF:-1,US: E! (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3680
-#EXTINF:-1,US: E! (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42098
-#EXTINF:-1,US: E! (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11531
-#EXTINF:-1,US: El Rey Network HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5873
-#EXTINF:-1,US: FM
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11567
 #EXTINF:-1,US: Food Network (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11552
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11552
 #EXTINF:-1,US: Food Network (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42506
 #EXTINF:-1,US: Freeform HD (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41558
 #EXTINF:-1,US: Freeform (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42504
-#EXTINF:-1,US: Fuse HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15161
-#EXTINF:-1,US: Fusion HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3666
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42504
 #EXTINF:-1,US: FX HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3668
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3668
 #EXTINF:-1,US: FX HD (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5888
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5888
 #EXTINF:-1,US: FX Movie Channel HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19682
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19682
 #EXTINF:-1,US: FXX HD East
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3667
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3667
 #EXTINF:-1,US: FYI HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5876
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5876
 #EXTINF:-1,US: Game Show Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5877
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5877
 #EXTINF:-1,US: Game Show Network (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19731
-#EXTINF:-1,US: GINXE Sports (Gaming Channel)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22940
-#EXTINF:-1,US: Grit TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42085
-#EXTINF:-1,US: Hallmark HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41547
-#EXTINF:-1,US: Hallmark Ch (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41605
-#EXTINF:-1,US: Hallmark Drama HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19730
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5878
-#EXTINF:-1,US: Heroes and Icons
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42084
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19731
 #EXTINF:-1,US: HGTV (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5881
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5881
 #EXTINF:-1,US: HGTV (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11573
 #EXTINF:-1,US: HGTV (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42099
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42099
 #EXTINF:-1,US: History Channel
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11671
-#EXTINF:-1,US: History (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41612
-#EXTINF:-1,US: H2
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19659
-#EXTINF:-1,US: HSN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42507
-#EXTINF:-1,US: HSN 2
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42508
-#EXTINF:-1,US: ID (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41627
-#EXTINF:-1,US: ID (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42570
-#EXTINF:-1,US: ID (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11560
-#EXTINF:-1,US: IFC HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3663
-#EXTINF:-1,US: INSP Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/23008
-#EXTINF:-1,US: Justice Central
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41404
-#EXTINF:-1,US: Law & Crime
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40919
-#EXTINF:-1,US: Lifetime 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11667
-#EXTINF:-1,US: Lifetime Movies HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5882
-#EXTINF:-1,US: Lifetime Movies (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15179
-#EXTINF:-1,US: Logo
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40921
-#EXTINF:-1,US: MAV TV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18553
-#EXTINF:-1,US: MGM HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11671
 #EXTINF:-1,US: Motor Trend HD (Velocity)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/28547
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/28547
 #EXTINF:-1,US: Motor Trend (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42379
-#EXTINF:-1,US: MTV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3662
-#EXTINF:-1,US: MTV 2 (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19738
-#EXTINF:-1,US: MTV 2 (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42561
-#EXTINF:-1,US: MTV Classic
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40922
-#EXTINF:-1,US: MTVU
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40923
-#EXTINF:-1,US: MTV Live
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41746
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42379
 #EXTINF:-1,US: Nat Geo HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11566
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11566
 #EXTINF:-1,US: Nat Geo People
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42105
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42105
 #EXTINF:-1,US: Nat Geo Wild
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42046
-#EXTINF:-1,US: Nick Music
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42046
 #EXTINF:-1,US: Outdoor Channel HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18449
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18449
 #EXTINF:-1,US: Outside TV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18551
-#EXTINF:-1,US: Ovation
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18551
 #EXTINF:-1,US: OWN HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19661
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19661
 #EXTINF:-1,US: OWN (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3660
 #EXTINF:-1,US: Oxygen HD (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3672
 #EXTINF:-1,US: Oxygen Ch (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42503
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42503
 #EXTINF:-1,US: Paramount Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19662
-#EXTINF:-1,US: People TV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19727
-#EXTINF:-1,US: POP (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5896
-#EXTINF:-1,US: POP (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42569
-#EXTINF:-1,US: QVC
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18527
-#EXTINF:-1,US: QVC 2
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41614
-#EXTINF:-1,US: QVC Beauty iQ
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/36587
-#EXTINF:-1,US: Reelz
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41830
-#EXTINF:-1,US: Revolt HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15163
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19662
 #EXTINF:-1,US: Smithsonian Ch (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22939
 #EXTINF:-1,US: Smithsonian Ch (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42562
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42562
 #EXTINF:-1,US: Sundance HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19676
 #EXTINF:-1,US: SYFY (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11536
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11536
 #EXTINF:-1,US: SYFY (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42563
-#EXTINF:-1,US: SHORTS TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41747
-#EXTINF:-1,US: Tastemade
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41625
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42563
 #EXTINF:-1,US: TBS (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11537
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11537
 #EXTINF:-1,US: TBS (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42513
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42513
 #EXTINF:-1,US: TCM (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19670
 #EXTINF:-1,US: TCM (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42568
-#EXTINF:-1,US: Titanic Channel
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42104
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42568
 #EXTINF:-1,US: TLC HD East
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5892
 #EXTINF:-1,US: TLC (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42502
-#EXTINF:-1,US: TMZ Live
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42499
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42502
 #EXTINF:-1,US: TNT (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21762
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21762
 #EXTINF:-1,US: TNT (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42564
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42564
 #EXTINF:-1,US: TNT (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11534
-#EXTINF:-1,US: Travel Ch (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3655
-#EXTINF:-1,US: Travel Ch (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42093
-#EXTINF:-1,US: Travel Ch (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11565
-#EXTINF:-1,US: Tru TV (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11540
-#EXTINF:-1,US: Tru TV (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42565
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11534
 #EXTINF:-1,US: TV LAND (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41554
 #EXTINF:-1,US: TV Land (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42566
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42566
 #EXTINF:-1,US: TV ONE
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18451
-#EXTINF:-1,US: UP TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41387
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18451
 #EXTINF:-1,US: USA Network (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40925
 #EXTINF:-1,US: USA Network (East Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40914
 #EXTINF:-1,US: USA Network (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/16719
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/16719
 #EXTINF:-1,US: USA Network (West Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18456
-#EXTINF:-1,US: VH 1 (East)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19668
-#EXTINF:-1,US: VH 1 (West)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42567
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18456
 #EXTINF:-1,US: Viceland HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3734
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3734
 #EXTINF:-1,US: WE TV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3654
 #EXTINF:-1,US:  WE TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40926
 #EXTINF:-1,US: World Fishing Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18549
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18549
 #EXTINF:-1,US: CNN HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11664
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11664
 #EXTINF:-1,US: CNN HD (alt)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21779
-#EXTINF:-1,US: MSNBC HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21784
-#EXTINF:-1,US: MSNBC 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11674
-#EXTINF:-1,US: HLN 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19680
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21779
 #EXTINF:-1,US: Fox News HD 
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21783
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21783
 #EXTINF:-1,US: Fox News HD (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42514
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42514
 #EXTINF:-1,US: Fox News 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11672
-#EXTINF:-1,US: Fox Business Network
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11666
-#EXTINF:-1,US: Fox Business Net (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41604
-#EXTINF:-1,US: CNN International
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41753
-#EXTINF:-1,US: Bloomberg
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42496
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11672
 #EXTINF:-1,US: UFC TV
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/23702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/23702
 #EXTINF:-1,US: UFC TV (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41759
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41759
 #EXTINF:-1,US: ESPN HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/7508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/7508
 #EXTINF:-1,US: ESPN 2 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11556
-#EXTINF:-1,US: ESPN Goal Line HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19850
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11556
 #EXTINF:-1,US: ESPN U HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3735
-#EXTINF:-1,US: ESPN News HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41561
-#EXTINF:-1,US: ESPN News (back up)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41562
-#EXTINF:-1,US: Spectrum Sportsnet
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42572
-#EXTINF:-1,US: Sportsnet LA
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41829
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3735
 #EXTINF:-1,US: Fox Sports 1 HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5505
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5505
 #EXTINF:-1,US: Fox Sports 1 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11557
 #EXTINF:-1,US: Fox Sports 2 HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5506
 #EXTINF:-1,US: Fox Sports 2 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11559
-#EXTINF:-1,US: Golf Channel HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41551
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11559
 #EXTINF:-1,US: NBCSN
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41550
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41550
 #EXTINF:-1,US: NBC SN 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12597
-#EXTINF:-1,US: Marquee Sports Network (FHD)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42445
-#EXTINF:-1,US: Marquee Sports Network (HD)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42446
-#EXTINF:-1,US: Marquee Sports Network (SD)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42447
-#EXTINF:-1,US: ACC Network
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40837
-#EXTINF:-1,US: ACC Network (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41606
-#EXTINF:-1,US: ATT Sportsnet SW-
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/36944
-#EXTINF:-1,US: ATT Sportsnet SW Altr
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/36945
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12597
 #EXTINF:-1,US: NBA TV FHD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41386
-#EXTINF:-1,US: Fox Sports Southwest HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5940
-#EXTINF:-1,US: Fox Sports South HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5941
-#EXTINF:-1,US: Fox Sports North HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5942
-#EXTINF:-1,US: Fox Sports Florida HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5943
-#EXTINF:-1,US: Fox Sports Arizona HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5944
-#EXTINF:-1,US: Fox Sports Sun HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5945
-#EXTINF:-1,US: Fox Sports West
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6015
-#EXTINF:-1,US: Fox Sports Ohio HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6016
-#EXTINF:-1,US: Fox Sportstime Ohio HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6017
-#EXTINF:-1,US: Fox Sports Oklahoma
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42451
-#EXTINF:-1,US: Fox Sports Southwest+ HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6018
-#EXTINF:-1,US: Fox Sports Prime Ticket 1 HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6030
-#EXTINF:-1,US: Fox Sports Midwest HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6031
-#EXTINF:-1,US: Fox Sports Tennessee HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6032
-#EXTINF:-1,US: Fox Sports San Diego HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6034
-#EXTINF:-1,US: Fox Sports Detroit HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6037
-#EXTINF:-1,US: Fox Sports Southeast HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6038
-#EXTINF:-1,US: Fox Sports Wisconsin HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6040
-#EXTINF:-1,US: Fox Sports Indiana Plus HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19645
-#EXTINF:-1,US: Fox Soccer Plus HD.
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19851
-#EXTINF:-1,US: FoxNet East HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19866
-#EXTINF:-1,US: Fox Sports Carolinas HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19868
-#EXTINF:-1,US: Fox Sports West+ HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19869
-#EXTINF:-1,US: Fox Sports Yes Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6043
-#EXTINF:-1,US: Eleven Sports Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5886
-#EXTINF:-1,US: NBCSN HD Boston
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19651
-#EXTINF:-1,US: NBCSN Boston
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12192
-#EXTINF:-1,US: NBC Sports Philadelphia Plus HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19675
-#EXTINF:-1,US: NBC Sports Bay Area+
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42334
-#EXTINF:-1,US: NBC Sports California+
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42335
-#EXTINF:-1,US: NBC Sports Chicago Plus
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42336
-#EXTINF:-1,US: NBC Sports Philly Plus
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42337
-#EXTINF:-1,US: NBC Sports Washington Plus
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42338
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41386
 #EXTINF:-1,US: Longhorn Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5310
 #EXTINF:-1,US: CBS Sports Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3681
-#EXTINF:-1,US: Discovery Sports
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42049
-#EXTINF:-1,US: Fox College Sports Pacific
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12593
-#EXTINF:-1,US: Fox College Sports Central
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12595
-#EXTINF:-1,US: Fox College Sports Atlantic
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3681
 #EXTINF:-1,US: Fight Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15167
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15167
 #EXTINF:-1,US: Sportsman Channel HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18452
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18452
 #EXTINF:-1,US: WWE HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3653
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3653
 #EXTINF:-1,US: WWE HD (Backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42497
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42497
 #EXTINF:-1,US: SportsNet Southwest
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42332
 #EXTINF:-1,US: ESPN HD (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42444
 #EXTINF:-1,US: NBA TV HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41540
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41540
 #EXTINF:-1,US: NFL Network HD 1080
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11545
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11545
 #EXTINF:-1,US: NFL Network 720
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/12184
 #EXTINF:-1,US: NFL NOW HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5311
 #EXTINF:-1,US: FNTSY Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15166
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15166
 #EXTINF:-1,US: NFL Redzone HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3669
 #EXTINF:-1,US: NFL Redzone HD (backup)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/17135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/17135
 #EXTINF:-1,US: NHL Network HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41548
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41548
+#EXTINF:-1,US: HBO  (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/21761
+#EXTINF:-1,US: HBO  (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42548
+#EXTINF:-1,US: HBO  (backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19658
+#EXTINF:-1,US: HBO 2 (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42045
+#EXTINF:-1,US: HBO 2 (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42549
+#EXTINF:-1,US: HBO Comedy (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5879
+#EXTINF:-1,US: HBO Comedy (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42550
+#EXTINF:-1,US: HBO Family (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41405
+#EXTINF:-1,US: HBO Family (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42391
+#EXTINF:-1,US: HBO Family (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42390
+#EXTINF:-1,US: HBO Signature (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5880
+#EXTINF:-1,US: HBO Signature (backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42392
+#EXTINF:-1,US: HBO Signature (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42393
+#EXTINF:-1,US: HBO Zone (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42394
+#EXTINF:-1,US: HBO Zone (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42395
+#EXTINF:-1,US: Starz HD (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41398
+#EXTINF:-1,US: Starz (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22502
+#EXTINF:-1,US: Starz (backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42414
+#EXTINF:-1,US: Starz (West backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41397
+#EXTINF:-1,US: Starz Cinema (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42416
+#EXTINF:-1,US: Starz Cinema (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42417
+#EXTINF:-1,US: Starz Comedy (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42418
+#EXTINF:-1,US: Starz Comedy (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42419
+#EXTINF:-1,US: Starz Kids & Family (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41388
+#EXTINF:-1,US: Starz Kids & Family (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/6852
+#EXTINF:-1,US: Starz Edge (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42420
+#EXTINF:-1,US: Starz Edge (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42421
+#EXTINF:-1,US: Starz Encore (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42422
+#EXTINF:-1,US: Starz Encore (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42423
+#EXTINF:-1,US: Starz Encore Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41393
+#EXTINF:-1,US: Starz Encore Action (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42424
+#EXTINF:-1,US: Starz Encore Action (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42425
+#EXTINF:-1,US: Starz Encore Black (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42426
+#EXTINF:-1,US: Starz Encore Black (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42427
+#EXTINF:-1,US: Starz Encore Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41392
+#EXTINF:-1,US: Starz Encore Classic (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42428
+#EXTINF:-1,US: Starz Encore Classic (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42429
+#EXTINF:-1,US: Starz Encore Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41391
+#EXTINF:-1,US: Starz Encore Family (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42430
+#EXTINF:-1,US: Starz Encore Family (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42431
+#EXTINF:-1,US: Starz Encore Suspense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41390
+#EXTINF:-1,US: Starz Encore Suspense (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42432
+#EXTINF:-1,US: Starz Encore Suspense (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42433
+#EXTINF:-1,US: Starz Encore Westerns
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/25047
+#EXTINF:-1,US: Starz Encore Westerns (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42434
+#EXTINF:-1,US: Starz Encore Westerns (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42435
+#EXTINF:-1,US: Starz in Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41389
+#EXTINF:-1,US: Starz in Black (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42436
+#EXTINF:-1,US: Starz in Black (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42437
+#EXTINF:-1,US: Showtime (east)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/8186
+#EXTINF:-1,US: Showtime (East backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19846
+#EXTINF:-1,US: Showtime (East backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3670
+#EXTINF:-1,US: Showtime (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41400
+#EXTINF:-1,US: Showtime (West backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41399
+#EXTINF:-1,US: Showtime 2 HD (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5883
+#EXTINF:-1,US: Showtime 2 (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42398
+#EXTINF:-1,US: Showtime 2 (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42399
+#EXTINF:-1,US: Showtime Beyond (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42400
+#EXTINF:-1,US: Showtime Beyond (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42401
+#EXTINF:-1,US: Showtime Extreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19666
+#EXTINF:-1,US: Showtime Family Zone (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42402
+#EXTINF:-1,US: Showtime Familyzone (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42403
+#EXTINF:-1,US: Showtime Next (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42404
+#EXTINF:-1,US: Showtime Next (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42405
+#EXTINF:-1,US: Showtime Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19664
+#EXTINF:-1,US: Showtime Women (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42406
+#EXTINF:-1,US: Showtime Women (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42407
+#EXTINF:-1,US: Cinemax East HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19847
+#EXTINF:-1,US: CineMAX (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42383
+#EXTINF:-1,US: Cinemax Moremax HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19655
+#EXTINF:-1,US: ActionMAX (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42381
+#EXTINF:-1,US: ActionMAX (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42382
+#EXTINF:-1,US: OuterMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42388
+#EXTINF:-1,US: ThrillerMAX (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42385
+#EXTINF:-1,US: ThrillerMAX (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42386
+#EXTINF:-1,US: 5 StarMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42389
+#EXTINF:-1,US: Sony Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19725
+#EXTINF:-1,US: EPIX HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5874
+#EXTINF:-1,US: EPIX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40915
+#EXTINF:-1,US: Epix Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40890
+#EXTINF:-1,US: IndiePlex (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42408
+#EXTINF:-1,US: IndiePlex (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42409
+#EXTINF:-1,US: MoviePlex (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42410
+#EXTINF:-1,US: MoviePlex (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42411
+#EXTINF:-1,US: RetroPlex (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42412
+#EXTINF:-1,US: RetroPlex (West)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42413
+#EXTINF:-1,US: Redbox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42454
+#EXTINF:-1,US: Redbox Rush
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42456
+#EXTINF:-1,US: Redbox Spotlight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42457
+#EXTINF:-1,US: Lifetime 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11667
+#EXTINF:-1,US: Lifetime Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5882
+#EXTINF:-1,US: Lifetime Movies (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/15179
+#EXTINF:-1,US: MGM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41744
+#EXTINF:-1,US: Hallmark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41547
+#EXTINF:-1,US: Hallmark Ch (Backup)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/41605
+#EXTINF:-1,US: Hallmark Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/19730
+#EXTINF:-1,US: Hallmark Movies & Mysteries HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5878
 #EXTINF:-1,US: Showtime West HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22813
 #EXTINF:-1,US: MoreMax HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22818
 #EXTINF:-1,US: Starz HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22793
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22793
 #EXTINF:-1,US: Starz Black HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22812
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22812
 #EXTINF:-1,US: Starz West HD 1080 Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22790
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22790
 #EXTINF:-1,US: Starz East HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22807
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22807
 #EXTINF:-1,US: Starz Encore Action HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22803
 #EXTINF:-1,US: Starz Encore Black HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22802
 #EXTINF:-1,US: Starz Encore Classic HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22801
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22801
 #EXTINF:-1,US: Starz Encore East HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22800
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22800
 #EXTINF:-1,US: Starz Encore Family HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22799
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22799
 #EXTINF:-1,US: Starz Encore Suspense HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22797
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22797
 #EXTINF:-1,US: Starz Encore West HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22796
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22796
 #EXTINF:-1,US: Starz Encore Western HD Movies
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22795
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22795
