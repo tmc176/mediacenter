@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,CA: A & E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22227.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19657
 #EXTINF:-1,CA: ABC Spark HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22305.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19657
 #EXTINF:-1,CA : ABC WEST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22144.m3u8
 #EXTINF:-1,CA : AHC
