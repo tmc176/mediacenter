@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,CA: A & E
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22227
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22227
 #EXTINF:-1,CA: ABC Spark HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22305
 #EXTINF:-1,CA: ABC WEST
 http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22144
 #EXTINF:-1,CA: ADDIK HD
