@@ -29,7 +29,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swede
 #EXTINF:-1,CBC News Network HD CA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29034
 #EXTINF:-1,Citytv Toronto HD CA
-http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29035http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19656
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19656
 #EXTINF:-1,CBC Toronto HD CA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19657
 #EXTINF:-1,Global TV HD CA
