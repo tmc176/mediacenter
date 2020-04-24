@@ -1,63 +1,429 @@
 #EXTM3U
 
-#EXTINF:-1,CP 24 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19656
-#EXTINF:-1,CBC Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19657
-#EXTINF:-1,Global TV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/26150
-#EXTINF:-1,SportsNet Ontario HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29024
-#EXTINF:-1,Family East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29025
-#EXTINF:-1,CTV Comedy Channel East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29026
-#EXTINF:-1,CTV Drama Channel HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29027
-#EXTINF:-1,CTV News Channel HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29028
-#EXTINF:-1,CTV Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29029
-#EXTINF:-1,CTV 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29030
-#EXTINF:-1,CTV Sci-Fi Channel HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29031
-#EXTINF:-1,Adult Swim HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29032
-#EXTINF:-1,APTN E HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29033
-#EXTINF:-1,CBC News Network HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29034
-#EXTINF:-1,Citytv Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29035
-#EXTINF:-1,CBC Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/19657
-#EXTINF:-1,Global TV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/26150
-#EXTINF:-1,SportsNet Ontario HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29024
-#EXTINF:-1,Family East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29025
-#EXTINF:-1,CTV Comedy Channel East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29026
-#EXTINF:-1,CTV Drama Channel HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29027
-#EXTINF:-1,CTV News Channel HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29028
-#EXTINF:-1,CTV Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29029
-#EXTINF:-1,CTV 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29030
-#EXTINF:-1,CTV Sci-Fi Channel HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29031
-#EXTINF:-1,Adult Swim HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29032
-#EXTINF:-1,APTN E HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29033
-#EXTINF:-1,CBC News Network HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29034
-#EXTINF:-1,Citytv Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29035
+#EXTINF:-1,CA: A & E
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22227
+#EXTINF:-1,CA: ABC Spark HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22305
+#EXTINF:-1,CA: ABC WEST
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22144
+#EXTINF:-1,CA: ADDIK HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22225
+#EXTINF:-1,CA: AHC
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22143
+#EXTINF:-1,CA: AMC
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22142
+#EXTINF:-1,CA: AMC HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17429
+#EXTINF:-1,CA: AMC FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22089
+#EXTINF:-1,CA: Animal Planet
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22141
+#EXTINF:-1,CA: APTN
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22140
+#EXTINF:-1,CA: ARTV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22139
+#EXTINF:-1,CA: ARTV (FR) HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22087
+#EXTINF:-1,CA: BBC CANADA
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22138
+#EXTINF:-1,CA: BBC Toronto
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22073
+#EXTINF:-1,CA: BBC World News HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22307
+#EXTINF:-1,CA: BNN  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17423
+#EXTINF:-1,CA: BOOK TV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22137
+#EXTINF:-1,CA: CANAL D (Fench) HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22274
+#EXTINF:-1,CA: CANAL SAVOIR SD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22221
+#EXTINF:-1,CA: Cartoon NetWork HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22327
+#EXTINF:-1,CA: CASA (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22273
+#EXTINF:-1,CA: CBC ATLANTIC FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22084
+#EXTINF:-1,CA: CBC FRENCH HD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22219
+#EXTINF:-1,CA: CBC MONTREAL (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22272
+#EXTINF:-1,CA: CBC NEWS TORONTO FHD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22216
+#EXTINF:-1,CA: CBC OTTAWA HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22215
+#EXTINF:-1,CA: CBC VANCOUVER HD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22214
+#EXTINF:-1,CA: CBS EAST HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22213
+#EXTINF:-1,CA: CHCH HD**
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22212
+#EXTINF:-1,CA: Cine POP ( French ) SD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22208
+#EXTINF:-1,CA: CITY TV MONTREAL
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22209
+#EXTINF:-1,CA: CNN HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17430
+#EXTINF:-1,CA: COMEDY EAST HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22207
+#EXTINF:-1,CA: COMEDY GOLD HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22083
+#EXTINF:-1,CA : COTTAGE LIFE HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22135
+#EXTINF:-1,CA: COOKING CHANNEL
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22205
+#EXTINF:-1,CA: CPAC HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17432
+#EXTINF:-1,CA: CP24 
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41559
+#EXTINF:-1,CA: CRIME  INVESTIGATION
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22202
+#EXTINF:-1,CA: CTV ATLANTIC
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17445
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22201
+#EXTINF:-1,CA: CTV KITCHENER HD**
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22303
+#EXTINF:-1,CA: CTV NEWS TORONTO HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22200
+#EXTINF:-1,CA: CTV OTTAWA SD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22191
+#EXTINF:-1,CA: CTV VANCOUVER FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22199
+#EXTINF:-1,CA: CTV2 OTTAWA
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22300
+#EXTINF:-1,CA : CTV TWO FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22282
+#EXTINF:-1,CA: CTV TORONTO  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22308
+#EXTINF:-1,CA: CTV Toronto HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41541
+#EXTINF:-1,CA: CW 11 HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22198
+#EXTINF:-1,CA: DAYSTAR TV FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22197
+#EXTINF:-1,CA: DEJAVIEW HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22193
+#EXTINF:-1,CA: DISCOVERY CANADA HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22196
+#EXTINF:-1,CA: DISCOVERY SCIENCE HD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22195
+#EXTINF:-1,CA: DISNEY CHANNEL HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17433
+#EXTINF:-1,CA: DISNEY JR HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17434
+#EXTINF:-1,CA: DISNEY (French) SD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22270
+#EXTINF:-1,CA: DIY NETWORK HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17436
+#EXTINF:-1,CA: DOCUMENTARY HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22190
+#EXTINF:-1,CA: EVASION (French) HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22269
+#EXTINF:-1,CA : FAMILY CHRGD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22130
+#EXTINF:-1,CA : FAMILY EAST
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22129
+#EXTINF:-1,CA: FAMILY JUNIOR HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22187
+#EXTINF:-1,CA : FAMILY WEST
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22127
+#EXTINF:-1,CA : FIGHT NETWORK
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22126
+#EXTINF:-1,CA: FOOD NETWORK HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17438
+#EXTINF:-1,CA : FOX EAST
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22125
+#EXTINF:-1,CA: FOX NEWS HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22184
+#EXTINF:-1,CA: FOX Q13 HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22314
+#EXTINF:-1,CA : FOX WEST
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22124
+#EXTINF:-1,CA: FTV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22183
+#EXTINF:-1,CA:FXX HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22297
+#EXTINF:-1,CA: FYI HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22082
+#EXTINF:-1,CA : Game TV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22123
+#EXTINF:-1,CA : GINX ESPORTS TV CANADA
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22122
+#EXTINF:-1,CA: GLOBAL HALIFAX
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22182
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22180
+#EXTINF:-1,CA : GOLF
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22121
+#EXTINF:-1,CA : GSN
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22120
+#EXTINF:-1,CA: GSN FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22296
+#EXTINF:-1,CA : GUSTO
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22119
+#EXTINF:-1,CA: H2
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22175
+#EXTINF:-1,CA: HGTV HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17446
+#EXTINF:-1,CA: HISTORY HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22293
+#EXTINF:-1,CA: Historia (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22268
+#EXTINF:-1,CA: ICI MONTREAL (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22267
+#EXTINF:-1,CA: ICI VANCOUVER (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22266
+#EXTINF:-1,CA: LCN (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22265
+#EXTINF:-1,CA: LIFETIME HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17440
+#EXTINF:-1,CA: MAKEFUL SD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22172
+#EXTINF:-1,CA: MAX (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22264
+#EXTINF:-1,CA: METEO (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22263
+#EXTINF:-1,CA: MIRACLE SD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22232
+#EXTINF:-1,CA : MOI CIE
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22112
+#EXTINF:-1,CA:  MSNBC HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17442
+#EXTINF:-1,CA: MSNBC HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22290
+#EXTINF:-1,CA : MTIME
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22111
+#EXTINF:-1,CA : MTV 2
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22110
+#EXTINF:-1,CA: MTV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22171
+#EXTINF:-1,CA: MUCH MUSIC
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22349
+#EXTINF:-1,CA: MUSIQUE PLUS (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22262
+#EXTINF:-1,CA: NAT GEO HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17443
+#EXTINF:-1,CA: NAT GEO WILD  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17444
+#EXTINF:-1,CA: NBC-E FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22288
+#EXTINF:-1,CA: NBA TV  FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22356
+#EXTINF:-1,CA: NBC WEST HD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22169
+#EXTINF:-1,CA : NICKTOON
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22108
+#EXTINF:-1,CA: NTV SD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22170
+#EXTINF:-1,CA: OLN HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22287
+#EXTINF:-1,CA: OMNI HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22228
+#EXTINF:-1,CA: OMNI 2 HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22230
+#EXTINF:-1,CA: ONE
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22163
+#EXTINF:-1,CA: OUTDOOR LIFE NETWORK
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22354
+#EXTINF:-1,CA: OUTTV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22167
+#EXTINF:-1,CA: OWN
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22353
+#EXTINF:-1,CA: PARAMOUNT NETWORK HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22352
+#EXTINF:-1,CA: PBS EAST HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22166
+#EXTINF:-1,CA: PBS HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22285
+#EXTINF:-1,CA:PEACH TREE HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22284
+#EXTINF:-1,CA: PRISE 2 (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22261
+#EXTINF:-1,CA: RDI (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22260
+#EXTINF:-1,CA: RDS (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22259
+#EXTINF:-1,CA: RDS 2 (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22258
+#EXTINF:-1,CA: RDS INFO (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22257
+#EXTINF:-1,CA: SERIES PLUS (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22256
+#EXTINF:-1,CA: SHOWCASE EAST
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22283
+#EXTINF:-1,CA: SMITHSONIAN
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22162
+#EXTINF:-1,CA: SPACE HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/17422
+#EXTINF:-1,CA: SPACE HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22161
+#EXTINF:-1,CA: Paramount TV (spike)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22160
+#EXTINF:-1,CA: SportsNet (EAST)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22345
+#EXTINF:-1,CA: SPORTSNET 360
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22346
+#EXTINF:-1,CA: SPORTSNET ONTARIO FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22342
+#EXTINF:-1,CA: SportsNet Ontario HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22341
+#EXTINF:-1,CA: SPORTSNET PACIFIC  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22340
+#EXTINF:-1,CA: SportsNet WEST  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22339
+#EXTINF:-1,CA: SportsNet WORLD HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22338
+#EXTINF:-1,CA: SUPER ECRAN 1  (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22255
+#EXTINF:-1,CA: SUPER ECRAN 2  (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22336
+#EXTINF:-1,CA: SUPER ECRAN 3  (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22254
+#EXTINF:-1,CA: SUPER ECRAN 4  (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22253
+#EXTINF:-1,CA: TELE MAGINO (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22250
+#EXTINF:-1,CA: Teletoon  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22334
+#EXTINF:-1,CA: TELE QUEBEC (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22252
+#EXTINF:-1,CA: TFO (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22249
+#EXTINF:-1,CA: THE SHOPPING CHANNEL  FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22332
+#EXTINF:-1,CA: THE WEATHER NETWORK
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22330
+#EXTINF:-1,CA: TCM
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22159
+#EXTINF:-1,CA: TMN 1
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22157
+#EXTINF:-1,CA: TMN 2
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22156
+#EXTINF:-1,CA: TMN 3
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22155
+#EXTINF:-1,CA: TRAVEL ESCAPE
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22098
+#EXTINF:-1,CA: TREEHOUSE
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22326
+#EXTINF:-1,CA: TVA GATINEAU (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22247
+#EXTINF:-1,CA: TVA MONTREAL (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22246
+#EXTINF:-1,CA: TVA QUEBEC (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22245
+#EXTINF:-1,CA: TVA SPORTS HD(French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22244
+#EXTINF:-1,CA: TVO
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22151
+#EXTINF:-1,CA: TV5 QUEBEC (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22248
+#EXTINF:-1,CA: UNIS TV (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22243
+#EXTINF:-1,CA: VIE (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22240
+#EXTINF:-1,CA: VISION TV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22150
+#EXTINF:-1,CA: VRAK TV (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22239
+#EXTINF:-1,CA: W NETWORK
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22149
+#EXTINF:-1,CA: WEATHER NETWORK (Toronto)  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22315
+#EXTINF:-1,CA : Wild TV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22095
+#EXTINF:-1,CA : WFN
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22097
+#EXTINF:-1,CA: WORLD FISHING NETWORK
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22079
+#EXTINF:-1,CA : WSBK
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22094
+#EXTINF:-1,CA: YES TV ALBERTA HD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22147
+#EXTINF:-1,CA: YES TV (Alberta)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22312
+#EXTINF:-1,CA: YES TV ONTARIO HD*
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22146
+#EXTINF:-1,CA: YES TV (Ontario)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22311
+#EXTINF:-1,CA: YOOPA (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22238
+#EXTINF:-1,CA: YTV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22310
+#EXTINF:-1,CA: Z TELE (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22237
+#EXTINF:-1,CA: ZESTE (French)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22236
+#EXTINF:-1,CA: CBC CALGARY
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38554
+#EXTINF:-1,CA: CITY TV TORONTO
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38552
+#EXTINF:-1,CA: CITY TV VANCOUVER
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38551
+#EXTINF:-1,CA: CITY CALGARY
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38550
+#EXTINF:-1,CA: CMT
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38549
+#EXTINF:-1,CA: CNBC
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38548
+#EXTINF:-1,CA: CNN INTERNATIONAL
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38547
+#EXTINF:-1,CA: CTV HALIFAX
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38546
+#EXTINF:-1,CA: CTV MONTREAL
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38545
+#EXTINF:-1,CA: CTV CALGARY
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38544
+#EXTINF:-1,CA: DTOUR
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38543
+#EXTINF:-1,CA: Frissons TV HD (FR)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38542
+#EXTINF:-1,CA: GLOBAL TORONTO
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38541
+#EXTINF:-1,CA: GLOBAL CALGARY
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38540
+#EXTINF:-1,CA: ICI ARTV (FR)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38539
+#EXTINF:-1,CA: ICI RDI (FR)
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38538
+#EXTINF:-1,CA: Investigation Discovery
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38537
+#EXTINF:-1,CA: KNOWLEDGE KIDS
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38536
+#EXTINF:-1,CA: MAVTV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38534
+#EXTINF:-1,CA: SILVER SCREEN CLASSICS
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38533
+#EXTINF:-1,CA: SPORTSMAN CHANNEL
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38532
+#EXTINF:-1,CA: SUPER CHANNEL HEART HOME
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38530
+#EXTINF:-1,CA: SUPER CHANNEL VAULT
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38529
+#EXTINF:-1,CA:  WGN
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38528
+#EXTINF:-1,CA: TSN 1  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22324
+#EXTINF:-1,CA: TSN 2  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22322
+#EXTINF:-1,CA: TSN 3  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22320
+#EXTINF:-1,CA: TSN 4  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22318
+#EXTINF:-1,CA: TSN 5  HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/22316
+#EXTINF:-1,CA: Slice 
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41743
+#EXTINF:-1,CA: SPORTS NET PPV
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3646
+#EXTINF:-1,CA: SPORTS NET WEST HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3647
+#EXTINF:-1,CA: SPORTS NET PACIFIC HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3648
+#EXTINF:-1,CA: SPORTS NET ONTARIO HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3649
+#EXTINF:-1,CA: SPORTS NET ONE HD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3650
 #EXTINF:-1,US: ABC HD New York NY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11740
 #EXTINF:-1,US: CBS HD New York NY
