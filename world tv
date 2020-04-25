@@ -1,5 +1,336 @@
 #EXTM3U
-
+#EXTINF:-1,CA|  BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40537
+#EXTINF:-1,CA|  Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40538
+#EXTINF:-1,CA|  FAMILY HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40539
+#EXTINF:-1,CA| A&E FHD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40540
+#EXTINF:-1,CA| ABC EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40541
+#EXTINF:-1,CA| ABC HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40542
+#EXTINF:-1,CA| ABC SPARK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40543
+#EXTINF:-1,CA| ABC SPARK HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40544
+#EXTINF:-1,CA| ABC WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40545
+#EXTINF:-1,CA| ACTION
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40546
+#EXTINF:-1,CA| AE HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40548
+#EXTINF:-1,CA| AHC
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40549
+#EXTINF:-1,CA| AMC FHD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40550
+#EXTINF:-1,CA| AMC HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40551
+#EXTINF:-1,CA| ANIMAL PLANET HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40552
+#EXTINF:-1,CA| Animal Planet HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40553
+#EXTINF:-1,CA| APTN HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40554
+#EXTINF:-1,CA| BBC CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40557
+#EXTINF:-1,CA| BBC KIDS
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40558
+#EXTINF:-1,CA| BRAVO
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40564
+#EXTINF:-1,CA| CBC CALGARY HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40571
+#EXTINF:-1,CA| CBC MONTREAL HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40572
+#EXTINF:-1,CA| CBC NEWS
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40574
+#EXTINF:-1,CA| CBC NEWS HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40575
+#EXTINF:-1,CA| CBC NOVA SCOTIA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40576
+#EXTINF:-1,CA| CBC OTTAWA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40577
+#EXTINF:-1,CA| CBC TORONTO FHD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40578
+#EXTINF:-1,CA| CBC TORONTO HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40579
+#EXTINF:-1,CA| CBC VANCOUVER
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40580
+#EXTINF:-1,CA| CBS EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40581
+#EXTINF:-1,CA| CBS WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40582
+#EXTINF:-1,CA| CHCH FHD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40583
+#EXTINF:-1,CA| CHCH HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40584
+#EXTINF:-1,CA| CITY CALGARY
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40586
+#EXTINF:-1,CA| CITY MONTREAL
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40587
+#EXTINF:-1,CA| CITY SASKATCHEWAN
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40588
+#EXTINF:-1,CA| CITY TORONTO
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40589
+#EXTINF:-1,CA| City Toronto HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40590
+#EXTINF:-1,CA| CITY VANCOUVER
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40591
+#EXTINF:-1,CA| City Vancouver HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40592
+#EXTINF:-1,CA| CITY WINNIPEG
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40593
+#EXTINF:-1,CA| CMT CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40594
+#EXTINF:-1,CA| CNBC HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40595
+#EXTINF:-1,CA| CNN
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40596
+#EXTINF:-1,CA| CNN HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40597
+#EXTINF:-1,CA| COMEDY EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40598
+#EXTINF:-1,CA| COMEDY GOLD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40599
+#EXTINF:-1,CA| COMEDY HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40600
+#EXTINF:-1,CA| COMEDY WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40601
+#EXTINF:-1,CA| COOKING CHANNEL
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40602
+#EXTINF:-1,CA| COSMO
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40603
+#EXTINF:-1,CA| COTTAGE LIFE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40604
+#EXTINF:-1,CA| Cottage Life FHD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40605
+#EXTINF:-1,CA| CP 24 HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40606
+#EXTINF:-1,CA| CP24 HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40607
+#EXTINF:-1,CA| CP24 FHD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40608
+#EXTINF:-1,CA| CRIME   INVEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40612
+#EXTINF:-1,CA| CTV 2 VANCOUVER
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40613
+#EXTINF:-1,CA| CTV BARRIE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40614
+#EXTINF:-1,CA| CTV CALGARY
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40615
+#EXTINF:-1,CA| CTV EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40616
+#EXTINF:-1,CA| CTV HALIFAX
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40617
+#EXTINF:-1,CA| CTV HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40618
+#EXTINF:-1,CA| CTV MONTREAL
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40619
+#EXTINF:-1,CA| CTV Montreal HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40620
+#EXTINF:-1,CA| CTV NEWS HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40621
+#EXTINF:-1,CA| CTV NEWS NETWORK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40622
+#EXTINF:-1,CA| CTV OTTAWA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40623
+#EXTINF:-1,CA| CTV TORONTO
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40624
+#EXTINF:-1,CA| CTV VANCOUVER
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40625
+#EXTINF:-1,CA| CTV2 OTTAWA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40626
+#EXTINF:-1,CA| CW 11 HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40627
+#EXTINF:-1,CA| DEJAVIEW
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40629
+#EXTINF:-1,CA| DISCOVERY CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40630
+#EXTINF:-1,CA| DISCOVERY SCIENCE CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40631
+#EXTINF:-1,CA| DISNEY CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40632
+#EXTINF:-1,CA| DISNEY FRENCH
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40633
+#EXTINF:-1,CA| DISNEY JR
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40634
+#EXTINF:-1,CA| DISNEY JR HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40635
+#EXTINF:-1,CA| DIY NETWORK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40636
+#EXTINF:-1,CA| DIY NETWORK HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40637
+#EXTINF:-1,CA| DOCUMENTARY
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40638
+#EXTINF:-1,CA| ENCORE 1 EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40641
+#EXTINF:-1,CA| ENCORE 2 EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40642
+#EXTINF:-1,CA| FAMILY CHRGD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40644
+#EXTINF:-1,CA| FAMILY EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40645
+#EXTINF:-1,CA| FAMILY JR
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40646
+#EXTINF:-1,CA| FAMILY WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40647
+#EXTINF:-1,CA| FOOD NETWORK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40649
+#EXTINF:-1,CA| Food Network HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40650
+#EXTINF:-1,CA| FOX EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40651
+#EXTINF:-1,CA| FOX HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40652
+#EXTINF:-1,CA| FOX NEWS
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40653
+#EXTINF:-1,CA| FOX WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40654
+#EXTINF:-1,CA| FXX HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40657
+#EXTINF:-1,CA| FYI
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40658
+#EXTINF:-1,CA| GLOBAL CALGARY
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40661
+#EXTINF:-1,CA| GLOBAL EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40662
+#EXTINF:-1,CA| GLOBAL HALIFAX
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40663
+#EXTINF:-1,CA| GLOBAL HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40664
+#EXTINF:-1,CA| GLOBAL TORONTO
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40665
+#EXTINF:-1,CA| GLOBAL VANCOUVER
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40666
+#EXTINF:-1,CA| H2 CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40669
+#EXTINF:-1,CA| HBO 1
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40670
+#EXTINF:-1,CA| HBO 2
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40671
+#EXTINF:-1,CA| HBO EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40672
+#EXTINF:-1,CA| HGTV
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40673
+#EXTINF:-1,CA| HISTORIA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40674
+#EXTINF:-1,CA| HISTORY HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40675
+#EXTINF:-1,CA| KTLA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40684
+#EXTINF:-1,CA| LCN
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40685
+#EXTINF:-1,CA| LCN HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40686
+#EXTINF:-1,CA| LIFETIME
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40687
+#EXTINF:-1,CA| NAT GEO
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40705
+#EXTINF:-1,CA| NAT GEO WILD HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40706
+#EXTINF:-1,CA| NBA TV
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40707
+#EXTINF:-1,CA| NBC EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40708
+#EXTINF:-1,CA| NBC WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40709
+#EXTINF:-1,CA| NICK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40711
+#EXTINF:-1,CA| NTV
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40712
+#EXTINF:-1,CA| OLN
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40713
+#EXTINF:-1,CA| OLN HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40714
+#EXTINF:-1,CA| Omni 1 HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40715
+#EXTINF:-1,CA| OMNI 2
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40716
+#EXTINF:-1,CA| OMNI BC
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40717
+#EXTINF:-1,CA| OMNI EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40718
+#EXTINF:-1,CA| ONE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40719
+#EXTINF:-1,CA| OUTTV
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40720
+#EXTINF:-1,CA| OWN
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40721
+#EXTINF:-1,CA| OWN HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40722
+#EXTINF:-1,CA| OWN HD (OPRAH WINFRY NETWORK)
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40723
+#EXTINF:-1,CA| PBS EAST HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40724
+#EXTINF:-1,CA| PBS WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40725
+#EXTINF:-1,CA| PEACH TREE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40726
+#EXTINF:-1,CA| SHOWCASE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40736
+#EXTINF:-1,CA| SHOWCASE HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40737
+#EXTINF:-1,CA| SILVER SCREEN CLASSICS
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40738
+#EXTINF:-1,CA| SLICE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40739
+#EXTINF:-1,CA| SLICE HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40740
+#EXTINF:-1,CA| SMITHSONIAN HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40741
+#EXTINF:-1,CA| SPACE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40742
+#EXTINF:-1,CA| SPACE HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40743
+#EXTINF:-1,CA| SPIKE TV
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40744
+#EXTINF:-1,CA| SPIKE TV / PARAMOUNT CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40745
+#EXTINF:-1,CA| SUPER CHANNEL 2
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40767
+#EXTINF:-1,CA| SUPER CHANNEL FUSE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40768
+#EXTINF:-1,CA| SUPER CHANNEL HEART & HOME
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40769
+#EXTINF:-1,CA| SUPER CHANNEL VAULT
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40770
+#EXTINF:-1,CA| TCM
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40775
+#EXTINF:-1,CA| TELE TOON
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40778
+#EXTINF:-1,CA| TELE TOON EAST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40779
+#EXTINF:-1,CA| TELE TOON WEST
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40781
+#EXTINF:-1,CA| TELETOON
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40783
+#EXTINF:-1,CA| THE WEATHER NETWORK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40786
+#EXTINF:-1,CA| TLC HD CANADA
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40787
+#EXTINF:-1,CA| TMN 1
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40788
+#EXTINF:-1,CA| TMN 2
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40789
+#EXTINF:-1,CA| TMN 3
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40790
+#EXTINF:-1,CA| TMN 4
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40791
+#EXTINF:-1,CA| TRAVEL
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40792
+#EXTINF:-1,CA| TREEHOUSE
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40793
+#EXTINF:-1,CA| TREEHOUSE HD
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40794
+#EXTINF:-1,CA| W NETWORK
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40808
+#EXTINF:-1,CA| YES TV
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40814
+#EXTINF:-1,CA| YTV E
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40816
+#EXTINF:-1,CA| YTV West
+http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40817
 #EXTINF:-1,US: ABC HD New York NY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/11740
 #EXTINF:-1,US: CBS HD New York NY
