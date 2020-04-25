@@ -106,11 +106,11 @@ http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40604
 #EXTINF:-1,CA| Cottage Life FHD
 http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40605
 #EXTINF:-1,CA| CP 24 HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40606
 #EXTINF:-1,CA| CP24 HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40607
 #EXTINF:-1,CA| CP24 FHD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40608
 #EXTINF:-1,CA| CRIME   INVEST
 http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40612
 #EXTINF:-1,CA| CTV 2 VANCOUVER
