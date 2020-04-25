@@ -4,107 +4,107 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.
 #EXTINF:-1,CA|  Discovery HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40538
 #EXTINF:-1,CA|  FAMILY HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40539
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40539
 #EXTINF:-1,CA| A&E FHD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40540
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40540
 #EXTINF:-1,CA| ABC EAST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40541
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40541
 #EXTINF:-1,CA| ABC HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40542
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40542
 #EXTINF:-1,CA| ABC SPARK
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40543
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40543
 #EXTINF:-1,CA| ABC SPARK HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40544
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40544
 #EXTINF:-1,CA| ABC WEST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40545
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40545
 #EXTINF:-1,CA| ACTION
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40546
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40546
 #EXTINF:-1,CA| AE HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40548
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40548
 #EXTINF:-1,CA| AHC
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40549
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40549
 #EXTINF:-1,CA| AMC FHD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40550
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40550
 #EXTINF:-1,CA| AMC HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40551
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40551
 #EXTINF:-1,CA| ANIMAL PLANET HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40552
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40552
 #EXTINF:-1,CA| Animal Planet HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40553
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40553
 #EXTINF:-1,CA| APTN HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40554
 #EXTINF:-1,CA| BBC CANADA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40557
 #EXTINF:-1,CA| BBC KIDS
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40558
 #EXTINF:-1,CA| BRAVO
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40564
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40564
 #EXTINF:-1,CA| CBC CALGARY HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40571
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40571
 #EXTINF:-1,CA| CBC MONTREAL HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40572
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40572
 #EXTINF:-1,CA| CBC NEWS
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40574
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40574
 #EXTINF:-1,CA| CBC NEWS HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40575
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40575
 #EXTINF:-1,CA| CBC NOVA SCOTIA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40576
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40576
 #EXTINF:-1,CA| CBC OTTAWA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40577
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40577
 #EXTINF:-1,CA| CBC TORONTO FHD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40578
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40578
 #EXTINF:-1,CA| CBC TORONTO HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40579
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40579
 #EXTINF:-1,CA| CBC VANCOUVER
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40580
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40580
 #EXTINF:-1,CA| CBS EAST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40581
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40581
 #EXTINF:-1,CA| CBS WEST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40582
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40582
 #EXTINF:-1,CA| CHCH FHD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40583
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40583
 #EXTINF:-1,CA| CHCH HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40584
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40584
 #EXTINF:-1,CA| CITY CALGARY
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40586
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40586
 #EXTINF:-1,CA| CITY MONTREAL
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40587
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40587
 #EXTINF:-1,CA| CITY SASKATCHEWAN
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40588
 #EXTINF:-1,CA| CITY TORONTO
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40589
 #EXTINF:-1,CA| City Toronto HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40590
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40590
 #EXTINF:-1,CA| CITY VANCOUVER
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40591
 #EXTINF:-1,CA| City Vancouver HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40592
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40592
 #EXTINF:-1,CA| CITY WINNIPEG
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40593
 #EXTINF:-1,CA| CMT CANADA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40594
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40594
 #EXTINF:-1,CA| CNBC HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40595
 #EXTINF:-1,CA| CNN
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40596
 #EXTINF:-1,CA| CNN HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40597
 #EXTINF:-1,CA| COMEDY EAST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40598
 #EXTINF:-1,CA| COMEDY GOLD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40599
 #EXTINF:-1,CA| COMEDY HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40600
 #EXTINF:-1,CA| COMEDY WEST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40601
 #EXTINF:-1,CA| COOKING CHANNEL
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40602
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40602
 #EXTINF:-1,CA| COSMO
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40603
 #EXTINF:-1,CA| COTTAGE LIFE
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40604
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40604
 #EXTINF:-1,CA| Cottage Life FHD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40605
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40605
 #EXTINF:-1,CA| CP 24 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40606
 #EXTINF:-1,CA| CP24 HD
@@ -112,43 +112,43 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.
 #EXTINF:-1,CA| CP24 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40608
 #EXTINF:-1,CA| CRIME   INVEST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40612
 #EXTINF:-1,CA| CTV 2 VANCOUVER
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40613
 #EXTINF:-1,CA| CTV BARRIE
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40614
 #EXTINF:-1,CA| CTV CALGARY
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40615
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40615
 #EXTINF:-1,CA| CTV EAST
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40616
 #EXTINF:-1,CA| CTV HALIFAX
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40617
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40617
 #EXTINF:-1,CA| CTV HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40618
 #EXTINF:-1,CA| CTV MONTREAL
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40619
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40619
 #EXTINF:-1,CA| CTV Montreal HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40620
 #EXTINF:-1,CA| CTV NEWS HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40621
 #EXTINF:-1,CA| CTV NEWS NETWORK
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40622
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40622
 #EXTINF:-1,CA| CTV OTTAWA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40623
 #EXTINF:-1,CA| CTV TORONTO
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40624
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40624
 #EXTINF:-1,CA| CTV VANCOUVER
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40625
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40625
 #EXTINF:-1,CA| CTV2 OTTAWA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40626
 #EXTINF:-1,CA| CW 11 HD
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40627
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40627
 #EXTINF:-1,CA| DEJAVIEW
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40629
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40629
 #EXTINF:-1,CA| DISCOVERY CANADA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40630
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40630
 #EXTINF:-1,CA| DISCOVERY SCIENCE CANADA
-http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40631
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40631
 #EXTINF:-1,CA| DISNEY CANADA
 http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40632
 #EXTINF:-1,CA| DISNEY FRENCH
