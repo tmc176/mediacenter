@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,CA: A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1729
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1729
 #EXTINF:-1,CA: ABC (West) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestcostiptv.com:8080/Restr1000con/5bb7441f/40699
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/40699
 #EXTINF:-1,CA: ABC 10 HD
 http://bestcostiptv.com:8080/Restr1000con/5bb7441f/72572
 #EXTINF:-1,CA: ABC Buffalo
