@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1,CA| WFN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40809
-#EXTINF:-1,CA| Wild TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40810
+
+#EXTINF:-1,CANADA: WILD TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/379909
 #EXTINF:-1,World Fishing Network
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/263171
 #EXTINF:-1,VIP HD WORLD FISHING NETWORK
