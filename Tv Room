@@ -3,10 +3,13 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40809
 #EXTINF:-1,CA| Wild TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40810
-#EXTINF:-1,CA| WORLD FISHING NET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40811
-#EXTINF:-1,CA| SPORTSMAN CHANNEL CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40754
+#EXTINF:-1,World Fishing Network
+http://yourdnshere.xyz:83/Kericage/6824106935/263171
+#EXTINF:-1,VIP HD WORLD FISHING NETWORK
+http://yourdnshere.xyz:83/Kericage/6824106935/308761
+#EXTINF:-1,Sportsman Channel
+http://yourdnshere.xyz:83/Kericage/6824106935/263170
+
 #EXTINF:-1,Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
