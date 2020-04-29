@@ -50,1441 +50,653 @@ https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA",Hot Rock TV
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 
-#EXTINF:-1,24/7: Fresh Prince of Bel Air
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42559
-#EXTINF:-1,24/7: Beck
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40190
-#EXTINF:-1,24/7: Roast Of Roseanne
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41944
-#EXTINF:-1,24/7: Boy Meets World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28624
-#EXTINF:-1,24/7: Castle
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28681
-#EXTINF:-1,24/7: Barney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28704
-#EXTINF:-1,24/7: Curb Your Enthusiasm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28710
-#EXTINF:-1,24/7: Heidi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28713
-#EXTINF:-1,24/7: Bones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28768
-#EXTINF:-1,24/7: Sesame Street
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28772
-#EXTINF:-1,24/7: Space Ghost Coast to Coast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28773
-#EXTINF:-1,24/7: Mighty Mouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28774
-#EXTINF:-1,24/7: Underdog
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28776
-#EXTINF:-1,24/7: Walker Texas Ranger
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28785
-#EXTINF:-1,24/7: Its Always Sunny In Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28790
-#EXTINF:-1,24/7: The Rifleman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28792
-#EXTINF:-1,24/7: Columbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28793
-#EXTINF:-1,24/7: Impractical Jokers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28808
-#EXTINF:-1,24/7: West Wing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28838
-#EXTINF:-1,24/7: The Fresh Prince of Bel Air
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28835
-#EXTINF:-1,24/7: Ash vs The Evil Dead
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28854
-#EXTINF:-1,24/7: The Strain.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28855
-#EXTINF:-1,24/7 Icarly
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28856
-#EXTINF:-1,24/7: 3rd Rock.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28857
-#EXTINF:-1,24/7: The Addams Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28858
-#EXTINF:-1,24/7: Agents of Shield.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28859
-#EXTINF:-1,24/7 Are you Afraid of the Dark.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28860
-#EXTINF:-1,24/7: Good Eats.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28861
-#EXTINF:-1,24/7: Green Hornett
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28862
-#EXTINF:-1,24/7: Arrested Development.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28863
-#EXTINF:-1,24/7: Coach
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28864
-#EXTINF:-1,24/7: Frasier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28866
-#EXTINF:-1,24/7: Law and Order
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28874
-#EXTINF:-1,24/7: Malcolm in the Middle
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28876
-#EXTINF:-1,24/7: Marvel Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28877
-#EXTINF:-1,24/7: Miami Vice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28878
-#EXTINF:-1,24/7: Monty Pythons Flying Circus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28880
-#EXTINF:-1,24/7: Penny Dreadful
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28881
-#EXTINF:-1,24/7: Survivor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28882
-#EXTINF:-1,24/7 Teen Titans
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28883
-#EXTINF:-1,24/7: Trailer Park Boys
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28885
-#EXTINF:-1,24/7: Bobs Burgers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28896
-#EXTINF:-1,24/7: Desperate Housewives
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28903
-#EXTINF:-1,24/7: Charmed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28951
-#EXTINF:-1,24/7: Six Feet Under
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28965
-#EXTINF:-1,24/7: Three's Company
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28966
-#EXTINF:-1,24/7: Boyz II Men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28967
-#EXTINF:-1,24/7: Adventure Time
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28976
-#EXTINF:-1,24/7: Agents Of Shield
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28977
-#EXTINF:-1,24/7: Sanford and Son
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28989
-#EXTINF:-1,24/7: The Jeffersons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28991
-#EXTINF:-1,24/7: American Horror Story
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28992
-#EXTINF:-1,24/7: All in the Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28993
-#EXTINF:-1,24/7: I Love Lucy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28995
-#EXTINF:-1,24/7: Criminal Minds
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/29010
-#EXTINF:-1,24/7: House MD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/29019
-#EXTINF:-1,24/7: The Office
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30188
-#EXTINF:-1,24/7: Grey's Anatomy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30189
-#EXTINF:-1,24/7: Will and Grace
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30196
-#EXTINF:-1,24/7: Buffy the Vampire Slayer.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30199
-#EXTINF:-1,24/7: Gotham
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30205
-#EXTINF:-1,24/7: Homeland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30209
-#EXTINF:-1,24/7: Twilight Zone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30210
-#EXTINF:-1,24/7: Blacklist
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30217
-#EXTINF:-1,24/7: Star Wars: The Clone Wars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30221
-#EXTINF:-1,24/7: The Munsters
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30222
-#EXTINF:-1,24/7: Maria Conchita Alonso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30447
-#EXTINF:-1,24/7:Justlice League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30448
-#EXTINF:-1,24/7: Leave it to Beaver
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30449
-#EXTINF:-1,24/7: Sin Bandera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30450
-#EXTINF:-1,24/7: Black Sails
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30451
-#EXTINF:-1,24/7: Brooklyn 99
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30452
-#EXTINF:-1,24/7: Hannibal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30453
-#EXTINF:-1,24/7: Vampire Diaries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30454
-#EXTINF:-1,24/7: True Blood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30455
-#EXTINF:-1,24/7: MythBusters
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30456
-#EXTINF:-1,24/7: CSI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30484
-#EXTINF:-1,24/7: CSI Miami
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30485
-#EXTINF:-1,24/7: Good Times
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30486
-#EXTINF:-1,24/7: Star Trek Voyager
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30487
-#EXTINF:-1,24/7: Gunsmoke
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30490
-#EXTINF:-1,24/7: Sherlock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30491
-#EXTINF:-1,24/7: Bewitched
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30495
-#EXTINF:-1,24/7: Brady Bunch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30496
-#EXTINF:-1,24/7: Supernatural
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30502
-#EXTINF:-1,24/7: Cops
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30504
-#EXTINF:-1,24/7: My Little Pony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30506
-#EXTINF:-1,24/7: The Fairly OddParents
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30721
-#EXTINF:-1,24/7: Blindspot
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30725
-#EXTINF:-1,24/7: The Chronicles of Narnia Saga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30726
-#EXTINF:-1,24/7: Chappelle Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30730
-#EXTINF:-1,24/7: Diff'rent Strokes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30734
-#EXTINF:-1,24/7: Dora The Explorer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30737
-#EXTINF:-1,24/7: Alf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30738
-#EXTINF:-1,24/7: The Andy Griffith Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30741
-#EXTINF:-1,24/7: The Beverly Hillbillies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30742
-#EXTINF:-1,24/7: Beavis and Butt-Head
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30743
-#EXTINF:-1,24/7: PAW Patrol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/30976
-#EXTINF:-1,24/7: Planet Earth 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31042
-#EXTINF:-1,24/7: Gordon Ramsays Great Escape
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31044
-#EXTINF:-1,24/7: Gordon Ramsays Recipes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31045
-#EXTINF:-1,24/7: Master Chef
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31046
-#EXTINF:-1,24/7: Best Stand Ups Ever (Comedy Central)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31056
-#EXTINF:-1,24/7: Eddie Murphy Standup
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31057
-#EXTINF:-1,24/7: NFL Super Bowls
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31060
-#EXTINF:-1,24/7: The Kings of Queens
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31062
-#EXTINF:-1,24/7: 60's & 70's Music Videos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31064
-#EXTINF:-1,24/7: 80's Music Videos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31065
-#EXTINF:-1,24/7: Aquarium Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31091
-#EXTINF:-1,24/7: The Bible Mini Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31111
-#EXTINF:-1,24/7: Ben 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31119
-#EXTINF:-1,24/7 Vampirina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31120
-#EXTINF:-1,24/7: Courage the Cowardly Dog
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31128
-#EXTINF:-1,24/7: Comedy Central Presents
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31130
-#EXTINF:-1,24/7: Doc Mcstuffins
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31131
-#EXTINF:-1,24/7: CHiPs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31140
-#EXTINF:-1,24/7: Leaving Neverland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31141
-#EXTINF:-1,24/7: BlacKkKlansman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31142
-#EXTINF:-1,24/7: Grim Adventure With Billy And Mandy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31146
-#EXTINF:-1,24/7: Green Book
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31149
-#EXTINF:-1,24/7: Hell's Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31223
-#EXTINF:-1,24/7: Facts Of Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31229
-#EXTINF:-1,24/7: NASCAR Monster Energy Cup Series   2019 Season
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31231
-#EXTINF:-1,24/7: Family Guy.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31233
-#EXTINF:-1,24/7: Isnt It Romantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31235
-#EXTINF:-1,24/7: Jeff Dunham
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31236
-#EXTINF:-1,24/7: The Smurfs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31484
-#EXTINF:-1,24/7: The Grand Tour S1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31502
-#EXTINF:-1,24/7: The Cosby Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31505
-#EXTINF:-1,24/7: Happy Days
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31511
-#EXTINF:-1,24/7: Heroes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31524
-#EXTINF:-1,24/7: Spiderman The Animated Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31525
-#EXTINF:-1,24/7: Lucifer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31534
-#EXTINF:-1,24/7: My name is Earl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31535
-#EXTINF:-1,24/7: Lost In Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31537
-#EXTINF:-1,24/7: Max & Ruby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31539
-#EXTINF:-1,24/7: Kevin Hart Stand UP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31674
-#EXTINF:-1,24/7: Katt Williams Stand Up
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31675
-#EXTINF:-1,24/7: George Carlin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31676
-#EXTINF:-1,24/7: Mister Ed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31755
-#EXTINF:-1,24/7: True Detective
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31814
-#EXTINF:-1,24/7: Welcome Back Kotter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31815
-#EXTINF:-1,24/7: The Six Million Dollar Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31821
-#EXTINF:-1,24/7: Naked & Afraid Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31843
-#EXTINF:-1,24/7: The Wire Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31845
-#EXTINF:-1,24/7: The Wire Season 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31849
-#EXTINF:-1,24/7: American Idol S17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31869
-#EXTINF:-1,24/7 The Lion Guard Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31873
-#EXTINF:-1,24/7: Fuller House
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31875
-#EXTINF:-1,24/7: The Wire Season 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31879
-#EXTINF:-1,24/7: The Godfather Trilogy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31880
-#EXTINF:-1,24/7: The Flash
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31881
-#EXTINF:-1,24/7: Naked & Afraid Season 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31886
-#EXTINF:-1,24/7: Naked & Afraid Season 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/31887
-#EXTINF:-1,24/7: Bonanza Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/35194
-#EXTINF:-1,24/7: Bonanza Season 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/35203
-#EXTINF:-1,24/7: Laverne and Shirley
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/35206
-#EXTINF:-1,24/7: MASH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/35212
-#EXTINF:-1,24/7: Bottom  The Complete Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36299
-#EXTINF:-1,24/7:  Bottom  The Live Shows
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36300
-#EXTINF:-1,24/7: Killing Eve  Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36308
-#EXTINF:-1,24/7: Gomer Pyle
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36311
-#EXTINF:-1,24/7: Kevin Can Wait
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36319
-#EXTINF:-1,24/7: The FBI Files
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36441
-#EXTINF:-1,24/7: Full House Season 1 thru 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36446
-#EXTINF:-1,24/7: Good Luck Charlie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36447
-#EXTINF:-1,24/7: Family Ties
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36449
-#EXTINF:-1,24/7: Glass 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36452
-#EXTINF:-1,24/7: Game of Thrones 4K  Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36456
-#EXTINF:-1,24/7: Buck Rogers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36474
-#EXTINF:-1,24/7: Keeping Up Appearances
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36475
-#EXTINF:-1,24/7: Magnum P.I.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36483
-#EXTINF:-1,24/7: Ugly Betty
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36484
-#EXTINF:-1,24/7: Riverdale  Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36489
-#EXTINF:-1,24/7: Riverdale  Season 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36490
-#EXTINF:-1,24/7: Are You Being Served
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36491
-#EXTINF:-1,24/7: Better Off Ted
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36497
-#EXTINF:-1,24/7: Black Summer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36503
-#EXTINF:-1,24/7: Archer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36507
-#EXTINF:-1,24/7: Neighbors 1 and 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36508
-#EXTINF:-1,24/7: Game Of Thrones Season 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36516
-#EXTINF:-1,24/7: 30 Rock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36519
-#EXTINF:-1,24/7: Cheers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36520
-#EXTINF:-1,24/7: Community
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36523
-#EXTINF:-1,24/7: Entourage
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36527
-#EXTINF:-1,24/7: ER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36530
-#EXTINF:-1,24/7: DC's Legends of Tomorrow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36531
-#EXTINF:-1,24/7 The Flintstones Season 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36536
-#EXTINF:-1,24/7: Jericho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36540
-#EXTINF:-1,24/7: Fringe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36556
-#EXTINF:-1,24/7: Lie To Me
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36568
-#EXTINF:-1,24/7: Mr. Robot
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36569
-#EXTINF:-1,24/7: Parks and Recreation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36574
-#EXTINF:-1,24/7: King of The Hill
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36575
-#EXTINF:-1,24/7: Macgyver 2016
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36585
-#EXTINF:-1,24/7: Spitting Image
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36591
-#EXTINF:-1,24/7: Doctor Who
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36593
-#EXTINF:-1,24/7: Elementary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36596
-#EXTINF:-1,24/7: Weeds
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36598
-#EXTINF:-1,24/7: Shameless
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36607
-#EXTINF:-1,24/7: Live PD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36615
-#EXTINF:-1,24/7: Sons Of Anarchy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36617
-#EXTINF:-1,24/7: Killing Eve Season 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36618
-#EXTINF:-1,24/7: The Orville
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36623
-#EXTINF:-1,24/7: The Sopranos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36624
-#EXTINF:-1,24/7 Big Hero 6 The Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36633
-#EXTINF:-1,24/7: Pokemon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36946
-#EXTINF:-1,24/7: Fawlty Towers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36951
-#EXTINF:-1,24/7 Anamaniacs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36956
-#EXTINF:-1,24/7 Sabrina The Teenage Witch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/36959
-#EXTINF:-1,24/7: Lois & Clark: New Adventures of Superman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/37014
-#EXTINF:-1,24/7 Talespin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/37775
-#EXTINF:-1,24/7: Star Trek The Next Generation S1 thru S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/37889
-#EXTINF:-1,24/7: Diesel Brothers S1-S5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/37909
-#EXTINF:-1,24/7: Dirty Jobs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/37913
-#EXTINF:-1,24/7 Bubble Guppies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38401
-#EXTINF:-1,24/7: Family Guy ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38475
-#EXTINF:-1,24/7 Duck Tales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/38563
-#EXTINF:-1,24/7: Futurama ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39264
-#EXTINF:-1,24/7: Americas Got Talent S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39368
-#EXTINF:-1,24/7: Hotel Hell
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39742
-#EXTINF:-1,24/7: Ultraman ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39748
-#EXTINF:-1,24/7: Hercules ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39749
-#EXTINF:-1,24/7: Everwood ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39750
-#EXTINF:-1,24/7: Mad About You
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39751
-#EXTINF:-1,24/7: El Inspector Gadget
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39752
-#EXTINF:-1,24/7: The Grand Tour S2 4K UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39756
-#EXTINF:-1,24/7: Sherlock Holmes ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39761
-#EXTINF:-1,24/7 Thomas and Friends
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39818
-#EXTINF:-1,24/7 The Octonauts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39819
-#EXTINF:-1,24/7 Scooby Doo and Guess Who?
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39820
-#EXTINF:-1,24/7: Perfect Storms Disasters that Changed the World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39822
-#EXTINF:-1,24/7: Dark S1 and S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/398239
-#EXTINF:-1,24/7: Trollhunters ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39847
-#EXTINF:-1,24/7: Dragon Ball Z ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39849
-#EXTINF:-1,24/7: Dragon Ball Super ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39873
-#EXTINF:-1,24/7: Treehouse Masters
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39885
-#EXTINF:-1,24/7: Body Cam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39886
-#EXTINF:-1,24/7 Spiderman The 1967 Collection
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/39887
-#EXTINF:-1,24/7: South Park ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40092
-#EXTINF:-1,24/7: He-Man ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40094
-#EXTINF:-1,24/7 The Care Bears
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40102
-#EXTINF:-1,24/7: Super Size Me
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40103
-#EXTINF:-1,24/7: Stranger Things S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40104
-#EXTINF:-1,24/7: Wrecked ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40131
-#EXTINF:-1,24/7: DeadWood ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40132
-#EXTINF:-1,24/7: Black Lightning ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40133
-#EXTINF:-1,24/7: Glitch ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40134
-#EXTINF:-1,24/7: American Pickers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40149
-#EXTINF:-1,24/7: Police Chases
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40160
-#EXTINF:-1,24/7: Future Man ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40182
-#EXTINF:-1,24/7: Designated Survivor ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40183
-#EXTINF:-1,24/7: DCs Legends of Tomorrow ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40188
-#EXTINF:-1,24/7: The Cars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40207
-#EXTINF:-1,24/7: Our Cartoon President
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40209
-#EXTINF:-1,24/7: Better Call Saul ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40213
-#EXTINF:-1,24/7: Workaholics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40225
-#EXTINF:-1,24/7: Dateline
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40611
-#EXTINF:-1,24/7: Making a Murderer ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40620
-#EXTINF:-1,24/7: Medal of Honor ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40622
-#EXTINF:-1,24/7: Leaving Neverland ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40623
-#EXTINF:-1,24/7: Texas Flip n Move
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40638
-#EXTINF:-1,24/7: The Chef Show ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40652
-#EXTINF:-1,24/7: AEW Fight For The Fallen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40657
-#EXTINF:-1,24/7: WWE Extreme Rules 2019
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40659
-#EXTINF:-1,24/7: Snowfall
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40672
-#EXTINF:-1,24/7: Snowfall S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40673
-#EXTINF:-1,24/7: Snowfall S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40674
-#EXTINF:-1,24/7: Puppy Dog Pals
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40683
-#EXTINF:-1,24/7: Saved By The Bell  The College Years
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40704
-#EXTINF:-1,24/7: Batman Beyond
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40705
-#EXTINF:-1,24/7: Saved By The Bell
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40708
-#EXTINF:-1,24/7: Dangerous Brothers World of Danger
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40710
-#EXTINF:-1,24/7: Scooby Doo  Where Are You?
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40711
-#EXTINF:-1,24/7: Counting Cars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40713
-#EXTINF:-1,24/7: The Shield S1 thru S4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40747
-#EXTINF:-1,24/7: Baywatch S1 thru S6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40766
-#EXTINF:-1,24/7 PJ Masks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40791
-#EXTINF:-1,24/7: Gordon Ramsay Uncharted
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40816
-#EXTINF:-1,24/7: BH 90210
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40820
-#EXTINF:-1,24/7: Daredevil ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40822
-#EXTINF:-1,24/7: Mickey Mouse Clubhouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40841
-#EXTINF:-1,24/7: Spongebob Squarepants S1 thru S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40842
-#EXTINF:-1,24/7: The Loud House  S1 and S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40851
-#EXTINF:-1,24/7: Man Vs Food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/Max30/WQEyZd5Ilf/40959
 #EXTINF:-1,24/7  Addams Family
-http://yourdnshere.xyz:83/Kericage/6824106935/382130
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382130
 #EXTINF:-1,24/7  Adventure Time
-http://yourdnshere.xyz:83/Kericage/6824106935/337969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/337969
 #EXTINF:-1,24/7  Allo Allo
-http://yourdnshere.xyz:83/Kericage/6824106935/340540
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/340540
 #EXTINF:-1,24/7  American Horror Story
-http://yourdnshere.xyz:83/Kericage/6824106935/376117
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376117
 #EXTINF:-1,24/7  Arrow
-http://yourdnshere.xyz:83/Kericage/6824106935/309341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309341
 #EXTINF:-1,24/7  Batman 1966  
-http://yourdnshere.xyz:83/Kericage/6824106935/382140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382140
 #EXTINF:-1,24/7  Bernie Mac Show
-http://yourdnshere.xyz:83/Kericage/6824106935/305102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305102
 #EXTINF:-1,24/7  Better Call Saul
-http://yourdnshere.xyz:83/Kericage/6824106935/332727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332727
 #EXTINF:-1,24/7  Boston Legal
-http://yourdnshere.xyz:83/Kericage/6824106935/351733
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351733
 #EXTINF:-1,24/7  Breaking Bad
-http://yourdnshere.xyz:83/Kericage/6824106935/376133
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376133
 #EXTINF:-1,24/7  Celebrity Deathmatch
-http://yourdnshere.xyz:83/Kericage/6824106935/382133
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382133
 #EXTINF:-1,24/7  Charlies Angels
-http://yourdnshere.xyz:83/Kericage/6824106935/351729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351729
 #EXTINF:-1,24/7  CSI
-http://yourdnshere.xyz:83/Kericage/6824106935/305104
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305104
 #EXTINF:-1,24/7  CSI Miami
-http://yourdnshere.xyz:83/Kericage/6824106935/309333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309333
 #EXTINF:-1,24/7  Desperate Housewives
-http://yourdnshere.xyz:83/Kericage/6824106935/314001
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/314001
 #EXTINF:-1,24/7  Doctor Who
-http://yourdnshere.xyz:83/Kericage/6824106935/382143
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382143
 #EXTINF:-1,24/7  Documentaries
-http://yourdnshere.xyz:83/Kericage/6824106935/382137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382137
 #EXTINF:-1,24/7  EL Chapo
-http://yourdnshere.xyz:83/Kericage/6824106935/335057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/335057
 #EXTINF:-1,24/7  Entourage
-http://yourdnshere.xyz:83/Kericage/6824106935/382135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382135
 #EXTINF:-1,24/7  Fail Army
-http://yourdnshere.xyz:83/Kericage/6824106935/382150
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382150
 #EXTINF:-1,24/7 Farscape
-http://yourdnshere.xyz:83/Kericage/6824106935/382147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382147
 #EXTINF:-1,24/7  Food Shows
-http://yourdnshere.xyz:83/Kericage/6824106935/382148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382148
 #EXTINF:-1,24/7  Frasier
-http://yourdnshere.xyz:83/Kericage/6824106935/382136
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382136
 #EXTINF:-1,24/7  Fringe
-http://yourdnshere.xyz:83/Kericage/6824106935/376159
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376159
 #EXTINF:-1,24/7  Full House
-http://yourdnshere.xyz:83/Kericage/6824106935/309329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309329
 #EXTINF:-1,24/7  Game Of Thrones
-http://yourdnshere.xyz:83/Kericage/6824106935/303005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303005
 #EXTINF:-1,24/7  George Lopex
-http://yourdnshere.xyz:83/Kericage/6824106935/382127
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382127
 #EXTINF:-1,24/7  Girlfriends
-http://yourdnshere.xyz:83/Kericage/6824106935/313994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313994
 #EXTINF:-1,24/7  Greys Anatomy
-http://yourdnshere.xyz:83/Kericage/6824106935/305106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305106
 #EXTINF:-1,24/7  I Dream Of Jeannie
-http://yourdnshere.xyz:83/Kericage/6824106935/382114
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382114
 #EXTINF:-1,24/7  I Love Lucy
-http://yourdnshere.xyz:83/Kericage/6824106935/341934
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/341934
 #EXTINF:-1,24/7  Las Vegas
-http://yourdnshere.xyz:83/Kericage/6824106935/305109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305109
 #EXTINF:-1,24/7  Last Man Standing
-http://yourdnshere.xyz:83/Kericage/6824106935/309324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309324
 #EXTINF:-1,24/7  Macgyver
-http://yourdnshere.xyz:83/Kericage/6824106935/309322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309322
 #EXTINF:-1,24/7  Miami Vice
-http://yourdnshere.xyz:83/Kericage/6824106935/302968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302968
 #EXTINF:-1,24/7  My Wife And Kids
-http://yourdnshere.xyz:83/Kericage/6824106935/313990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313990
 #EXTINF:-1,24/7  Mystery Science Theatre 3000
-http://yourdnshere.xyz:83/Kericage/6824106935/382121
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382121
 #EXTINF:-1,24/7  Only Fools And Horses Xmas Specials
-http://yourdnshere.xyz:83/Kericage/6824106935/382108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382108
 #EXTINF:-1,24/7  Peppa Pig
-http://yourdnshere.xyz:83/Kericage/6824106935/382183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382183
 #EXTINF:-1,24/7  Pinky And The Brain
-http://yourdnshere.xyz:83/Kericage/6824106935/376088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376088
 #EXTINF:-1,24/7  PJ Masks
-http://yourdnshere.xyz:83/Kericage/6824106935/302942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302942
 #EXTINF:-1,24/7  Planet Earth
-http://yourdnshere.xyz:83/Kericage/6824106935/332710
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332710
 #EXTINF:-1,24/7  Red Dwarf
-http://yourdnshere.xyz:83/Kericage/6824106935/382098
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382098
 #EXTINF:-1,24/7  Robot Chicken
-http://yourdnshere.xyz:83/Kericage/6824106935/366534
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/366534
 #EXTINF:-1,24/7  Silicon Valley
-http://yourdnshere.xyz:83/Kericage/6824106935/382090
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382090
 #EXTINF:-1,24/7  Spongbob Square Pants
-http://yourdnshere.xyz:83/Kericage/6824106935/382014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382014
 #EXTINF:-1,24/7  Star Trek The Next Generation
-http://yourdnshere.xyz:83/Kericage/6824106935/351669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351669
 #EXTINF:-1,24/7  The Golden Girls
-http://yourdnshere.xyz:83/Kericage/6824106935/382088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382088
 #EXTINF:-1,24/7  TheVampire Diaries
-http://yourdnshere.xyz:83/Kericage/6824106935/352304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352304
 #EXTINF:-1,24/7  Wilfred
-http://yourdnshere.xyz:83/Kericage/6824106935/352298
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352298
 #EXTINF:-1,24/7 30 Rock
-http://yourdnshere.xyz:83/Kericage/6824106935/351743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351743
 #EXTINF:-1,24/7 3rd Rock From The Sun
-http://yourdnshere.xyz:83/Kericage/6824106935/382139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382139
 #EXTINF:-1,24/7 7th Heaven
-http://yourdnshere.xyz:83/Kericage/6824106935/356474
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/356474
 #EXTINF:-1,24/7 999 What's Your Emergency 
-http://yourdnshere.xyz:83/Kericage/6824106935/382219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382219
 #EXTINF:-1,24/7 According To Jim
-http://yourdnshere.xyz:83/Kericage/6824106935/351741
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351741
 #EXTINF:-1,24/7 Action Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382034
 #EXTINF:-1,24/7 Adam Sandler Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382241
 #EXTINF:-1,24/7 Adult Swim
-http://yourdnshere.xyz:83/Kericage/6824106935/382005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382005
 #EXTINF:-1,24/7 Adventures Of Pete & Pete
-http://yourdnshere.xyz:83/Kericage/6824106935/314003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/314003
 #EXTINF:-1,24/7 Airwolf
-http://yourdnshere.xyz:83/Kericage/6824106935/351740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351740
 #EXTINF:-1,24/7 Alf
-http://yourdnshere.xyz:83/Kericage/6824106935/332728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332728
 #EXTINF:-1,24/7 American Dad
-http://yourdnshere.xyz:83/Kericage/6824106935/168536
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/168536
 #EXTINF:-1,24/7 American Horror Story
-http://yourdnshere.xyz:83/Kericage/6824106935/309343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309343
 #EXTINF:-1,24/7 American Pickers
-http://yourdnshere.xyz:83/Kericage/6824106935/302532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302532
 #EXTINF:-1,24/7 Animated Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382035
 #EXTINF:-1,24/7 Anime
-http://yourdnshere.xyz:83/Kericage/6824106935/382006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382006
 #EXTINF:-1,24/7 Aqua Teen Hunger Force
-http://yourdnshere.xyz:83/Kericage/6824106935/366541
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/366541
 #EXTINF:-1,24/7 Are You Afraid Of The Dark
-http://yourdnshere.xyz:83/Kericage/6824106935/302530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302530
 #EXTINF:-1,24/7 Arnold Schwarzenegger Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382245
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382245
 #EXTINF:-1,24/7 Arrested Development
-http://yourdnshere.xyz:83/Kericage/6824106935/382131
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382131
 #EXTINF:-1,24/7 Auf Wiedersehen Pet 
-http://yourdnshere.xyz:83/Kericage/6824106935/382220
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382220
 #EXTINF:-1,24/7 Bad Girls
-http://yourdnshere.xyz:83/Kericage/6824106935/382218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382218
 #EXTINF:-1,24/7 Band Of Brothers
-http://yourdnshere.xyz:83/Kericage/6824106935/376123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376123
 #EXTINF:-1,24/7 Banshee
-http://yourdnshere.xyz:83/Kericage/6824106935/309340
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309340
 #EXTINF:-1,24/7 Banshee
-http://yourdnshere.xyz:83/Kericage/6824106935/376124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376124
 #EXTINF:-1,24/7 Bar Rescue
-http://yourdnshere.xyz:83/Kericage/6824106935/382146
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382146
 #EXTINF:-1,24/7 Batman The Animated Series
-http://yourdnshere.xyz:83/Kericage/6824106935/376072
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376072
 #EXTINF:-1,24/7 Battlestar Galactica
-http://yourdnshere.xyz:83/Kericage/6824106935/332729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332729
 #EXTINF:-1,24/7 Beavis And Butt Head
-http://yourdnshere.xyz:83/Kericage/6824106935/382009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382009
 #EXTINF:-1,24/7 Ben and Holly
-http://yourdnshere.xyz:83/Kericage/6824106935/380420
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/380420
 #EXTINF:-1,24/7 Better Call Saul
-http://yourdnshere.xyz:83/Kericage/6824106935/376126
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376126
 #EXTINF:-1,24/7 Beverly Hills 90210
-http://yourdnshere.xyz:83/Kericage/6824106935/376127
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376127
 #EXTINF:-1,24/7 Bing
-http://yourdnshere.xyz:83/Kericage/6824106935/380417
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/380417
 #EXTINF:-1,24/7 Black Jesus
-http://yourdnshere.xyz:83/Kericage/6824106935/366540
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/366540
 #EXTINF:-1,24/7 Blacklist
-http://yourdnshere.xyz:83/Kericage/6824106935/382132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382132
 #EXTINF:-1,24/7 Blaze And The Monster Machines
-http://yourdnshere.xyz:83/Kericage/6824106935/382362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382362
 #EXTINF:-1,24/7 Blindspot
-http://yourdnshere.xyz:83/Kericage/6824106935/332713
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332713
 #EXTINF:-1,24/7 Bobs Burgers I
-http://yourdnshere.xyz:83/Kericage/6824106935/268810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/268810
 #EXTINF:-1,24/7 Bobs Burgers II
-http://yourdnshere.xyz:83/Kericage/6824106935/303059
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303059
 #EXTINF:-1,24/7 Bollywood Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382023
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382023
 #EXTINF:-1,24/7 Bonanza
-http://yourdnshere.xyz:83/Kericage/6824106935/314002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/314002
 #EXTINF:-1,24/7 Bones
-http://yourdnshere.xyz:83/Kericage/6824106935/341931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/341931
 #EXTINF:-1,24/7 Boston Legal
-http://yourdnshere.xyz:83/Kericage/6824106935/382145
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382145
 #EXTINF:-1,24/7 Boy Meets World
-http://yourdnshere.xyz:83/Kericage/6824106935/376132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376132
 #EXTINF:-1,24/7 Breaking Bad
-http://yourdnshere.xyz:83/Kericage/6824106935/332726
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332726
 #EXTINF:-1,24/7 Brooklyn 99
-http://yourdnshere.xyz:83/Kericage/6824106935/351732
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351732
 #EXTINF:-1,24/7 Bruce Lee
-http://yourdnshere.xyz:83/Kericage/6824106935/356477
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/356477
 #EXTINF:-1,24/7 Bruce Wills Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382246
 #EXTINF:-1,24/7 Buffy The Vampire Slayer
-http://yourdnshere.xyz:83/Kericage/6824106935/382129
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382129
 #EXTINF:-1,24/7 Carebears
-http://yourdnshere.xyz:83/Kericage/6824106935/382279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382279
 #EXTINF:-1,24/7 Carry on 
-http://yourdnshere.xyz:83/Kericage/6824106935/382052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382052
 #EXTINF:-1,24/7 Castle Rock
-http://yourdnshere.xyz:83/Kericage/6824106935/351731
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351731
 #EXTINF:-1,24/7 Catdog
-http://yourdnshere.xyz:83/Kericage/6824106935/376073
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376073
 #EXTINF:-1,24/7 Charmed
-http://yourdnshere.xyz:83/Kericage/6824106935/351728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351728
 #EXTINF:-1,24/7 Cheaters
-http://yourdnshere.xyz:83/Kericage/6824106935/382223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382223
 #EXTINF:-1,24/7 Cheers
-http://yourdnshere.xyz:83/Kericage/6824106935/351727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351727
 #EXTINF:-1,24/7 Chicago P.D
-http://yourdnshere.xyz:83/Kericage/6824106935/382128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382128
 #EXTINF:-1,24/7 Classic Toons
-http://yourdnshere.xyz:83/Kericage/6824106935/382007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382007
 #EXTINF:-1,24/7 Clint Eastwood
-http://yourdnshere.xyz:83/Kericage/6824106935/382051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382051
 #EXTINF:-1,24/7 Columbo
-http://yourdnshere.xyz:83/Kericage/6824106935/348915
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/348915
 #EXTINF:-1,24/7 Comedy Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382036
 #EXTINF:-1,24/7 Community
-http://yourdnshere.xyz:83/Kericage/6824106935/351725
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351725
 #EXTINF:-1,24/7 Con TV and Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382050
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382050
 #EXTINF:-1,24/7 Cops
-http://yourdnshere.xyz:83/Kericage/6824106935/309335
-#EXTINF:-1,24/7 Cops
-http://yourdnshere.xyz:83/Kericage/6824106935/376141
-#EXTINF:-1,24/7 Courage The Cowardly Dog
-http://yourdnshere.xyz:83/Kericage/6824106935/376074
-#EXTINF:-1,24/7 Cow And Chicken
-http://yourdnshere.xyz:83/Kericage/6824106935/376075
-#EXTINF:-1,24/7 Cow And Chicken
-http://yourdnshere.xyz:83/Kericage/6824106935/351723
-#EXTINF:-1,24/7 Cracker
-http://yourdnshere.xyz:83/Kericage/6824106935/382222
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309335
 #EXTINF:-1,24/7 Criminal Minds
-http://yourdnshere.xyz:83/Kericage/6824106935/309334
-#EXTINF:-1,24/7 Criminal Minds
-http://yourdnshere.xyz:83/Kericage/6824106935/351722
-#EXTINF:-1,24/7 Cult Classics 
-http://yourdnshere.xyz:83/Kericage/6824106935/382037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309334
 #EXTINF:-1,24/7 Curb Your Enthusiasm
-http://yourdnshere.xyz:83/Kericage/6824106935/376144
-#EXTINF:-1,24/7 Da Ali G Show
-http://yourdnshere.xyz:83/Kericage/6824106935/382361
-#EXTINF:-1,24/7 Dallas
-http://yourdnshere.xyz:83/Kericage/6824106935/303043
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376144
 #EXTINF:-1,24/7 Dallas 
-http://yourdnshere.xyz:83/Kericage/6824106935/382247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382247
 #EXTINF:-1,24/7 Darkwing Duck
-http://yourdnshere.xyz:83/Kericage/6824106935/376076
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376076
 #EXTINF:-1,24/7 Dawsons Creek
-http://yourdnshere.xyz:83/Kericage/6824106935/309332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309332
 #EXTINF:-1,24/7 Deadwood
-http://yourdnshere.xyz:83/Kericage/6824106935/351718
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351718
 #EXTINF:-1,24/7 Denzel Washington 
-http://yourdnshere.xyz:83/Kericage/6824106935/382248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382248
 #EXTINF:-1,24/7 Dexter
-http://yourdnshere.xyz:83/Kericage/6824106935/382142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382142
 #EXTINF:-1,24/7 Diners Drive In & Dives
-http://yourdnshere.xyz:83/Kericage/6824106935/376148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376148
 #EXTINF:-1,24/7 Diners Drive Ins & Dives
-http://yourdnshere.xyz:83/Kericage/6824106935/309331
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309331
 #EXTINF:-1,24/7 Disney Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382033
 #EXTINF:-1,24/7 Disney Movies 2 
-http://yourdnshere.xyz:83/Kericage/6824106935/382365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382365
 #EXTINF:-1,24/7 Doogie Howser M.D.
-http://yourdnshere.xyz:83/Kericage/6824106935/313999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313999
 #EXTINF:-1,24/7 Dora The Explorer
-http://yourdnshere.xyz:83/Kericage/6824106935/382221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382221
 #EXTINF:-1,24/7 Doug
-http://yourdnshere.xyz:83/Kericage/6824106935/376077
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376077
 #EXTINF:-1,24/7 Downton Abbey
-http://yourdnshere.xyz:83/Kericage/6824106935/382144
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382144
 #EXTINF:-1,24/7 Dr Phil 
-http://yourdnshere.xyz:83/Kericage/6824106935/380426
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/380426
 #EXTINF:-1,24/7 Dragonball Z
-http://yourdnshere.xyz:83/Kericage/6824106935/382008
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382008
 #EXTINF:-1,24/7 Drop The Dead Donkey
-http://yourdnshere.xyz:83/Kericage/6824106935/382363
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382363
 #EXTINF:-1,24/7 Dukes Of Hazzard
-http://yourdnshere.xyz:83/Kericage/6824106935/376149
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376149
 #EXTINF:-1,24/7 Dwayne Johnson Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382249
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382249
 #EXTINF:-1,24/7 Dynasty
-http://yourdnshere.xyz:83/Kericage/6824106935/313997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313997
 #EXTINF:-1,24/7 Early Doors
-http://yourdnshere.xyz:83/Kericage/6824106935/382369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382369
 #EXTINF:-1,24/7 East Bound And Down
-http://yourdnshere.xyz:83/Kericage/6824106935/376150
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376150
 #EXTINF:-1,24/7 Eddie Murphy Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382250
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382250
 #EXTINF:-1,24/7 ER
-http://yourdnshere.xyz:83/Kericage/6824106935/381374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/381374
 #EXTINF:-1,24/7 Everybody Hates Chris
-http://yourdnshere.xyz:83/Kericage/6824106935/313996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313996
 #EXTINF:-1,24/7 Everybody Hates Chris
-http://yourdnshere.xyz:83/Kericage/6824106935/376152
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376152
 #EXTINF:-1,24/7 Everybody Loves Raymond
-http://yourdnshere.xyz:83/Kericage/6824106935/332722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332722
 #EXTINF:-1,24/7 Everybody Loves Raymond
-http://yourdnshere.xyz:83/Kericage/6824106935/376153
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376153
 #EXTINF:-1,24/7 Family Guy
-http://yourdnshere.xyz:83/Kericage/6824106935/318066
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/318066
 #EXTINF:-1,24/7 Family Matters
-http://yourdnshere.xyz:83/Kericage/6824106935/302544
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302544
 #EXTINF:-1,24/7 Family Matters
-http://yourdnshere.xyz:83/Kericage/6824106935/376154
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376154
 #EXTINF:-1,24/7 Fargo
-http://yourdnshere.xyz:83/Kericage/6824106935/376155
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376155
 #EXTINF:-1,24/7 Fast And Furious Collection
-http://yourdnshere.xyz:83/Kericage/6824106935/376068
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376068
 #EXTINF:-1,24/7 Father Ted
-http://yourdnshere.xyz:83/Kericage/6824106935/382138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382138
 #EXTINF:-1,24/7 Fawlty Towers
-http://yourdnshere.xyz:83/Kericage/6824106935/335053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/335053
 #EXTINF:-1,24/7 Fear The Walking Dead
-http://yourdnshere.xyz:83/Kericage/6824106935/376156
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376156
 #EXTINF:-1,24/7 Fireman Sam
-http://yourdnshere.xyz:83/Kericage/6824106935/382213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382213
 #EXTINF:-1,24/7 Flintstones
-http://yourdnshere.xyz:83/Kericage/6824106935/376079
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376079
 #EXTINF:-1,24/7 Forensic Files
-http://yourdnshere.xyz:83/Kericage/6824106935/382151
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382151
 #EXTINF:-1,24/7 Fresh Prince
-http://yourdnshere.xyz:83/Kericage/6824106935/303013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303013
 #EXTINF:-1,24/7 Fresh Prince Of Bel Air
-http://yourdnshere.xyz:83/Kericage/6824106935/376157
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376157
 #EXTINF:-1,24/7 Friday The 13th Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382251
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382251
 #EXTINF:-1,24/7 Friends
-http://yourdnshere.xyz:83/Kericage/6824106935/376158
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376158
 #EXTINF:-1,24/7 Fringe
-http://yourdnshere.xyz:83/Kericage/6824106935/313995
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313995
 #EXTINF:-1,24/7 Gargoyles
-http://yourdnshere.xyz:83/Kericage/6824106935/351709
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351709
 #EXTINF:-1,24/7 Ghost Whisperer
-http://yourdnshere.xyz:83/Kericage/6824106935/382126
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382126
 #EXTINF:-1,24/7 Gilligans Islands
-http://yourdnshere.xyz:83/Kericage/6824106935/376161
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376161
 #EXTINF:-1,24/7 Gilmore Girls
-http://yourdnshere.xyz:83/Kericage/6824106935/351708
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351708
 #EXTINF:-1,24/7 Go Jetters
-http://yourdnshere.xyz:83/Kericage/6824106935/380421
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/380421
 #EXTINF:-1,24/7 Gomer Pyle
-http://yourdnshere.xyz:83/Kericage/6824106935/309328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309328
 #EXTINF:-1,24/7 Gomer Pyle
-http://yourdnshere.xyz:83/Kericage/6824106935/376163
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376163
 #EXTINF:-1,24/7 Gotham
-http://yourdnshere.xyz:83/Kericage/6824106935/376164
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376164
 #EXTINF:-1,24/7 Green Acres
-http://yourdnshere.xyz:83/Kericage/6824106935/351707
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351707
 #EXTINF:-1,24/7 Halloween Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382252
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382252
 #EXTINF:-1,24/7 Hannah Montana
-http://yourdnshere.xyz:83/Kericage/6824106935/382253
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382253
 #EXTINF:-1,24/7 Happy Days
-http://yourdnshere.xyz:83/Kericage/6824106935/382116
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382116
 #EXTINF:-1,24/7 Hardcore Pawn
-http://yourdnshere.xyz:83/Kericage/6824106935/382254
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382254
 #EXTINF:-1,24/7 Harrison Ford Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382255
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382255
 #EXTINF:-1,24/7 Harry Potter 
-http://yourdnshere.xyz:83/Kericage/6824106935/382038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382038
 #EXTINF:-1,24/7 Hemlock Grove
-http://yourdnshere.xyz:83/Kericage/6824106935/382112
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382112
 #EXTINF:-1,24/7 Hercules The Legendary Journeys 
-http://yourdnshere.xyz:83/Kericage/6824106935/309327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309327
 #EXTINF:-1,24/7 Hey Dude
-http://yourdnshere.xyz:83/Kericage/6824106935/313993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313993
 #EXTINF:-1,24/7 Hill Street Blues
-http://yourdnshere.xyz:83/Kericage/6824106935/376168
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376168
 #EXTINF:-1,24/7 Hollywood Movies 1
-http://yourdnshere.xyz:83/Kericage/6824106935/382024
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382024
 #EXTINF:-1,24/7 Hollywood Movies 2
-http://yourdnshere.xyz:83/Kericage/6824106935/382025
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382025
 #EXTINF:-1,24/7 Homeland
-http://yourdnshere.xyz:83/Kericage/6824106935/309325
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309325
 #EXTINF:-1,24/7 Horror Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382039
 #EXTINF:-1,24/7 House MD
-http://yourdnshere.xyz:83/Kericage/6824106935/305107
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305107
 #EXTINF:-1,24/7 How It's Made
-http://yourdnshere.xyz:83/Kericage/6824106935/382113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382113
 #EXTINF:-1,24/7 Hunger Games
-http://yourdnshere.xyz:83/Kericage/6824106935/382360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382360
 #EXTINF:-1,24/7 Impractical Jokers
-http://yourdnshere.xyz:83/Kericage/6824106935/313992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313992
 #EXTINF:-1,24/7 Inbetweeners 
-http://yourdnshere.xyz:83/Kericage/6824106935/382359
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382359
 #EXTINF:-1,24/7 Ink Master
-http://yourdnshere.xyz:83/Kericage/6824106935/313991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313991
 #EXTINF:-1,24/7 Invader Zim
-http://yourdnshere.xyz:83/Kericage/6824106935/382010
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382010
 #EXTINF:-1,24/7 James Bond 007 Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382257
 #EXTINF:-1,24/7 Jamie Foxx Show
-http://yourdnshere.xyz:83/Kericage/6824106935/305108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305108
 #EXTINF:-1,24/7 Jeremy Kyle
-http://yourdnshere.xyz:83/Kericage/6824106935/382224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382224
 #EXTINF:-1,24/7 Judge Judy
-http://yourdnshere.xyz:83/Kericage/6824106935/342288
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/342288
 #EXTINF:-1,24/7 Jurassic Park
-http://yourdnshere.xyz:83/Kericage/6824106935/382258
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382258
 #EXTINF:-1,24/7 Kenan and Kel
-http://yourdnshere.xyz:83/Kericage/6824106935/380425
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/380425
 #EXTINF:-1,24/7 Key & Peele
-http://yourdnshere.xyz:83/Kericage/6824106935/376177
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376177
 #EXTINF:-1,24/7 Killing Eve
-http://yourdnshere.xyz:83/Kericage/6824106935/382357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382357
 #EXTINF:-1,24/7 King Of Queens
-http://yourdnshere.xyz:83/Kericage/6824106935/348916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/348916
 #EXTINF:-1,24/7 King Of The Hill
-http://yourdnshere.xyz:83/Kericage/6824106935/351699
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351699
 #EXTINF:-1,24/7 Knight Rider
-http://yourdnshere.xyz:83/Kericage/6824106935/376179
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376179
 #EXTINF:-1,24/7 Kubrick Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382032
 #EXTINF:-1,24/7 Law & Order Suv
-http://yourdnshere.xyz:83/Kericage/6824106935/382117
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382117
 #EXTINF:-1,24/7 Leonardo Decaprio Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382259
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382259
 #EXTINF:-1,24/7 Lethal Weapon Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/332694
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332694
 #EXTINF:-1,24/7 Leverage
-http://yourdnshere.xyz:83/Kericage/6824106935/376181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376181
 #EXTINF:-1,24/7 Liam Neeson Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382260
 #EXTINF:-1,24/7 Lion King Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382261
 #EXTINF:-1,24/7 Live PD
-http://yourdnshere.xyz:83/Kericage/6824106935/351697
-#EXTINF:-1,24/7 Living Single
-http://yourdnshere.xyz:83/Kericage/6824106935/300964
-#EXTINF:-1,24/7 Londons Burning 
-http://yourdnshere.xyz:83/Kericage/6824106935/382379
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351697
 #EXTINF:-1,24/7 Lord OF The Rings
-http://yourdnshere.xyz:83/Kericage/6824106935/382031
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382031
 #EXTINF:-1,24/7 Madmen
-http://yourdnshere.xyz:83/Kericage/6824106935/382111
-#EXTINF:-1,24/7 Mafia Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382040
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382111
 #EXTINF:-1,24/7 Magnum P.I.
-http://yourdnshere.xyz:83/Kericage/6824106935/309321
-#EXTINF:-1,24/7 Major League Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309321
 #EXTINF:-1,24/7 Malcolm In The Middle
-http://yourdnshere.xyz:83/Kericage/6824106935/332513
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332513
 #EXTINF:-1,24/7 Man V Food
-http://yourdnshere.xyz:83/Kericage/6824106935/351694
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351694
 #EXTINF:-1,24/7 Married With Children
-http://yourdnshere.xyz:83/Kericage/6824106935/332720
-#EXTINF:-1,24/7 Martial Arts Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382030
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332720
 #EXTINF:-1,24/7 Martin
-http://yourdnshere.xyz:83/Kericage/6824106935/339712
-#EXTINF:-1,24/7 Marvel Movies 1
-http://yourdnshere.xyz:83/Kericage/6824106935/382020
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/339712
 #EXTINF:-1,24/7 Masha and the Bear
-http://yourdnshere.xyz:83/Kericage/6824106935/380424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/380424
 #EXTINF:-1,24/7 Men Behaving Badly
-http://yourdnshere.xyz:83/Kericage/6824106935/382122
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382122
 #EXTINF:-1,24/7 Men In Black: The Series
-http://yourdnshere.xyz:83/Kericage/6824106935/376084
-#EXTINF:-1,24/7 Metalocalypse
-http://yourdnshere.xyz:83/Kericage/6824106935/366537
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376084
 #EXTINF:-1,24/7 Mickey Mouse
-http://yourdnshere.xyz:83/Kericage/6824106935/382227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382227
 #EXTINF:-1,24/7 Mickey Mouse House Of Mouse
-http://yourdnshere.xyz:83/Kericage/6824106935/382264
-#EXTINF:-1,24/7 Mickey Mouse Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382264
 #EXTINF:-1,24/7 Mighty Max
-http://yourdnshere.xyz:83/Kericage/6824106935/376085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376085
 #EXTINF:-1,24/7 Minder
-http://yourdnshere.xyz:83/Kericage/6824106935/382123
-#EXTINF:-1,24/7 Miranda
-http://yourdnshere.xyz:83/Kericage/6824106935/382124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382123
 #EXTINF:-1,24/7 Mission Impossible
-http://yourdnshere.xyz:83/Kericage/6824106935/382118
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382118
 #EXTINF:-1,24/7 Mister Ed
-http://yourdnshere.xyz:83/Kericage/6824106935/305111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305111
 #EXTINF:-1,24/7 Modern Family
-http://yourdnshere.xyz:83/Kericage/6824106935/376188
-#EXTINF:-1,24/7 Moesha
-http://yourdnshere.xyz:83/Kericage/6824106935/305110
-#EXTINF:-1,24/7 Monster Movie
-http://yourdnshere.xyz:83/Kericage/6824106935/382041
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376188
 #EXTINF:-1,24/7 Mr Bean The Animated Series
-http://yourdnshere.xyz:83/Kericage/6824106935/382214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382214
 #EXTINF:-1,24/7 Mr. Pickles
-http://yourdnshere.xyz:83/Kericage/6824106935/366536
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/366536
 #EXTINF:-1,24/7 Mrs Browns Boy's
-http://yourdnshere.xyz:83/Kericage/6824106935/382125
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382125
 #EXTINF:-1,24/7 Muppet Babies
-http://yourdnshere.xyz:83/Kericage/6824106935/382265
-#EXTINF:-1,24/7 Musical Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382043
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382265
 #EXTINF:-1,24/7 My Name Is Earl
-http://yourdnshere.xyz:83/Kericage/6824106935/351687
-#EXTINF:-1,24/7 Mystery Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382044
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351687
 #EXTINF:-1,24/7 Mythbusters
-http://yourdnshere.xyz:83/Kericage/6824106935/382110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382110
 #EXTINF:-1,24/7 Naked And Afraid
-http://yourdnshere.xyz:83/Kericage/6824106935/309588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309588
 #EXTINF:-1,24/7 Night Court
-http://yourdnshere.xyz:83/Kericage/6824106935/382120
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382120
 #EXTINF:-1,24/7 Northern Exposure
-http://yourdnshere.xyz:83/Kericage/6824106935/309320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309320
 #EXTINF:-1,24/7 On The Buses
-http://yourdnshere.xyz:83/Kericage/6824106935/382101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382101
 #EXTINF:-1,24/7 Once Upon A Time
-http://yourdnshere.xyz:83/Kericage/6824106935/332719
-#EXTINF:-1,24/7 One Tree Hill
-http://yourdnshere.xyz:83/Kericage/6824106935/376108
-#EXTINF:-1,24/7 Only Fools & Horses
-http://yourdnshere.xyz:83/Kericage/6824106935/382228
-#EXTINF:-1,24/7 Only Fools And Horses
-http://yourdnshere.xyz:83/Kericage/6824106935/382096
-#EXTINF:-1,24/7 Open All Hours
-http://yourdnshere.xyz:83/Kericage/6824106935/357464
-#EXTINF:-1,24/7 Orange Is The New Black
-http://yourdnshere.xyz:83/Kericage/6824106935/302948
-#EXTINF:-1,24/7 Our Girls
-http://yourdnshere.xyz:83/Kericage/6824106935/382102
-#EXTINF:-1,24/7 Our Planet 1 -2
-http://yourdnshere.xyz:83/Kericage/6824106935/382103
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332719
 #EXTINF:-1,24/7 Outer Limits
-http://yourdnshere.xyz:83/Kericage/6824106935/382089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382089
 #EXTINF:-1,24/7 Outlander
-http://yourdnshere.xyz:83/Kericage/6824106935/382104
-#EXTINF:-1,24/7 Parenthood
-http://yourdnshere.xyz:83/Kericage/6824106935/376193
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382104
 #EXTINF:-1,24/7 Parks And Recreation
-http://yourdnshere.xyz:83/Kericage/6824106935/351684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351684
 #EXTINF:-1,24/7 Paw Patrol
-http://yourdnshere.xyz:83/Kericage/6824106935/382212
-#EXTINF:-1,24/7 Peaky Blinders
-http://yourdnshere.xyz:83/Kericage/6824106935/382105
-#EXTINF:-1,24/7 Peepshow
-http://yourdnshere.xyz:83/Kericage/6824106935/382106
-#EXTINF:-1,24/7 Penny Dreadful
-http://yourdnshere.xyz:83/Kericage/6824106935/382107
-#EXTINF:-1,24/7 Penny Dreadful
-http://yourdnshere.xyz:83/Kericage/6824106935/382109
-#EXTINF:-1,24/7 Peter Kay Car Share
-http://yourdnshere.xyz:83/Kericage/6824106935/332512
-#EXTINF:-1,24/7 Peter Kay Phoenix Nights
-http://yourdnshere.xyz:83/Kericage/6824106935/332511
-#EXTINF:-1,24/7 Peter Kay Stand Up
-http://yourdnshere.xyz:83/Kericage/6824106935/382358
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382212
 #EXTINF:-1,24/7 Pettitcoat Junction
-http://yourdnshere.xyz:83/Kericage/6824106935/376195
-#EXTINF:-1,24/7 Pimp My Ride
-http://yourdnshere.xyz:83/Kericage/6824106935/382266
-#EXTINF:-1,24/7 Pirates Of The Caribbean Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382267
-#EXTINF:-1,24/7 Pixar Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382029
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376195
 #EXTINF:-1,24/7 Pokemon
-http://yourdnshere.xyz:83/Kericage/6824106935/382367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382367
 #EXTINF:-1,24/7 Popeye
-http://yourdnshere.xyz:83/Kericage/6824106935/382366
-#EXTINF:-1,24/7 Porridge
-http://yourdnshere.xyz:83/Kericage/6824106935/382229
-#EXTINF:-1,24/7 Power
-http://yourdnshere.xyz:83/Kericage/6824106935/144002
-#EXTINF:-1,24/7 Power II
-http://yourdnshere.xyz:83/Kericage/6824106935/302940
-#EXTINF:-1,24/7 Predator Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382268
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382366
 #EXTINF:-1,24/7 Prison Break
-http://yourdnshere.xyz:83/Kericage/6824106935/332717
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332717
 #EXTINF:-1,24/7 Property Brothers
-http://yourdnshere.xyz:83/Kericage/6824106935/376197
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376197
 #EXTINF:-1,24/7 Quantum Leap
-http://yourdnshere.xyz:83/Kericage/6824106935/305112
-#EXTINF:-1,24/7 Random Movie 1
-http://yourdnshere.xyz:83/Kericage/6824106935/382042
-#EXTINF:-1,24/7 Random Movies 2
-http://yourdnshere.xyz:83/Kericage/6824106935/382045
-#EXTINF:-1,24/7 Ray Donovan
-http://yourdnshere.xyz:83/Kericage/6824106935/313989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305112
 #EXTINF:-1,24/7 Regular Show
-http://yourdnshere.xyz:83/Kericage/6824106935/382017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382017
 #EXTINF:-1,24/7 Reno 911!
-http://yourdnshere.xyz:83/Kericage/6824106935/357152
-#EXTINF:-1,24/7 Resident Evil Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382022
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/357152
 #EXTINF:-1,24/7 Rick & Morty
-http://yourdnshere.xyz:83/Kericage/6824106935/254222
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254222
 #EXTINF:-1,24/7 Ridiculousness 
-http://yourdnshere.xyz:83/Kericage/6824106935/352140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352140
 #EXTINF:-1,24/7 River Monsters
-http://yourdnshere.xyz:83/Kericage/6824106935/351680
-#EXTINF:-1,24/7 Rockos Modern Life
-http://yourdnshere.xyz:83/Kericage/6824106935/376092
-#EXTINF:-1,24/7 Rocky/Creed Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382269
-#EXTINF:-1,24/7 Romance Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382046
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351680
 #EXTINF:-1,24/7 Roseanne
-http://yourdnshere.xyz:83/Kericage/6824106935/348914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/348914
 #EXTINF:-1,24/7 Rugrats
-http://yourdnshere.xyz:83/Kericage/6824106935/376093
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376093
 #EXTINF:-1,24/7 Rules Of Engagement
-http://yourdnshere.xyz:83/Kericage/6824106935/376202
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376202
 #EXTINF:-1,24/7 Sabrina The Teenage Witch
-http://yourdnshere.xyz:83/Kericage/6824106935/382270
-#EXTINF:-1,24/7 Salem
-http://yourdnshere.xyz:83/Kericage/6824106935/382099
-#EXTINF:-1,24/7 Samurai Jack
-http://yourdnshere.xyz:83/Kericage/6824106935/382018
-#EXTINF:-1,24/7 Sandra Bullock Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382270
 #EXTINF:-1,24/7 Sanford And Son
-http://yourdnshere.xyz:83/Kericage/6824106935/302916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302916
 #EXTINF:-1,24/7 Saved by the Bell
-http://yourdnshere.xyz:83/Kericage/6824106935/381175
-#EXTINF:-1,24/7 Sci-Fi Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382028
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/381175
 #EXTINF:-1,24/7 Scobby Doo
-http://yourdnshere.xyz:83/Kericage/6824106935/382230
-#EXTINF:-1,24/7 Scooby Doo Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/382272
-#EXTINF:-1,24/7 Scream Movies 
-http://yourdnshere.xyz:83/Kericage/6824106935/376064
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382230
 #EXTINF:-1,24/7 Seinfield
-http://yourdnshere.xyz:83/Kericage/6824106935/332692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332692
 #EXTINF:-1,24/7 Shark Tank
-http://yourdnshere.xyz:83/Kericage/6824106935/334851
-#EXTINF:-1,24/7 Shrek Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/334851
 #EXTINF:-1,24/7 Sons Of Anarchy
-http://yourdnshere.xyz:83/Kericage/6824106935/332715
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332715
 #EXTINF:-1,24/7 South Park
-http://yourdnshere.xyz:83/Kericage/6824106935/382013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382013
 #EXTINF:-1,24/7 Spartacus
-http://yourdnshere.xyz:83/Kericage/6824106935/337844
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/337844
 #EXTINF:-1,24/7 Spider Man: The Animated Series
-http://yourdnshere.xyz:83/Kericage/6824106935/376095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376095
 #EXTINF:-1,24/7 Squidbillies
-http://yourdnshere.xyz:83/Kericage/6824106935/366533
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/366533
 #EXTINF:-1,24/7 Star Trek
-http://yourdnshere.xyz:83/Kericage/6824106935/332730
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332730
 #EXTINF:-1,24/7 Star Trek Enterprise
-http://yourdnshere.xyz:83/Kericage/6824106935/376211
-#EXTINF:-1,24/7 Star War Movies 1
-http://yourdnshere.xyz:83/Kericage/6824106935/382047
-#EXTINF:-1,24/7 Star Wars
-http://yourdnshere.xyz:83/Kericage/6824106935/377135
-#EXTINF:-1,24/7 Star Wars Movies 2
-http://yourdnshere.xyz:83/Kericage/6824106935/382048
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376211
 #EXTINF:-1,24/7 Stargate Atlantis
-http://yourdnshere.xyz:83/Kericage/6824106935/332732
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332732
 #EXTINF:-1,24/7 Stargate Universe
-http://yourdnshere.xyz:83/Kericage/6824106935/332731
-#EXTINF:-1,24/7 Step By Step
-http://yourdnshere.xyz:83/Kericage/6824106935/313986
-#EXTINF:-1,24/7 Stephen King Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/376065
-#EXTINF:-1,24/7 Steptoe & Sun
-http://yourdnshere.xyz:83/Kericage/6824106935/382231
-#EXTINF:-1,24/7 Still Open All Hours 
-http://yourdnshere.xyz:83/Kericage/6824106935/382372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332731
 #EXTINF:-1,24/7 Stranger Things
-http://yourdnshere.xyz:83/Kericage/6824106935/382274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382274
 #EXTINF:-1,24/7 Street Outlaws
-http://yourdnshere.xyz:83/Kericage/6824106935/302890
-#EXTINF:-1,24/7 Studio Ghibli Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382049
-#EXTINF:-1,24/7 Suite Life Of Zach And Cody
-http://yourdnshere.xyz:83/Kericage/6824106935/382275
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302890
 #EXTINF:-1,24/7 Super Hero Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382376
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382376
 #EXTINF:-1,24/7 Super Mario Brothers
-http://yourdnshere.xyz:83/Kericage/6824106935/382276
-#EXTINF:-1,24/7 Superbowls
-http://yourdnshere.xyz:83/Kericage/6824106935/382277
-#EXTINF:-1,24/7 Superbowls
-http://yourdnshere.xyz:83/Kericage/6824106935/335047
-#EXTINF:-1,24/7 Superjail!
-http://yourdnshere.xyz:83/Kericage/6824106935/366532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382276
 #EXTINF:-1,24/7 Supernatural
-http://yourdnshere.xyz:83/Kericage/6824106935/341932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/341932
 #EXTINF:-1,24/7 Tales From The Crypt
-http://yourdnshere.xyz:83/Kericage/6824106935/376215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376215
 #EXTINF:-1,24/7 Taxi
-http://yourdnshere.xyz:83/Kericage/6824106935/376216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376216
 #EXTINF:-1,24/7 Teenage Mutant Ninja Turtles (1987)
-http://yourdnshere.xyz:83/Kericage/6824106935/376111
-#EXTINF:-1,24/7 Terminator Movies (L)
-http://yourdnshere.xyz:83/Kericage/6824106935/380422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376111
 #EXTINF:-1,24/7 That '70s Show
-http://yourdnshere.xyz:83/Kericage/6824106935/352318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352318
 #EXTINF:-1,24/7 The A-Team
-http://yourdnshere.xyz:83/Kericage/6824106935/376217
-#EXTINF:-1,24/7 The Amazing World Of Gumball
-http://yourdnshere.xyz:83/Kericage/6824106935/376096
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376217
 #EXTINF:-1,24/7 The Andy Griffith Show
-http://yourdnshere.xyz:83/Kericage/6824106935/302882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302882
 #EXTINF:-1,24/7 The Angry Beavers
-http://yourdnshere.xyz:83/Kericage/6824106935/376097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376097
 #EXTINF:-1,24/7 The Beverlys Hillbillies 
-http://yourdnshere.xyz:83/Kericage/6824106935/352315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352315
 #EXTINF:-1,24/7 The Big Bang Theory
-http://yourdnshere.xyz:83/Kericage/6824106935/302880
-#EXTINF:-1,24/7 The Boondocks
-http://yourdnshere.xyz:83/Kericage/6824106935/347771
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302880
 #EXTINF:-1,24/7 The Cleveland Show
-http://yourdnshere.xyz:83/Kericage/6824106935/352314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352314
 #EXTINF:-1,24/7 The Curse Of Oak Island
-http://yourdnshere.xyz:83/Kericage/6824106935/309317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309317
 #EXTINF:-1,24/7 The Drew Carey Show
-http://yourdnshere.xyz:83/Kericage/6824106935/376221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376221
 #EXTINF:-1,24/7 The First 48
-http://yourdnshere.xyz:83/Kericage/6824106935/309316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/309316
 #EXTINF:-1,24/7 The Flash
-http://yourdnshere.xyz:83/Kericage/6824106935/376224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376224
 #EXTINF:-1,24/7 The Garfield Show
-http://yourdnshere.xyz:83/Kericage/6824106935/382232
-#EXTINF:-1,24/7 The Grand Tour
-http://yourdnshere.xyz:83/Kericage/6824106935/382233
-#EXTINF:-1,24/7 The Knick
-http://yourdnshere.xyz:83/Kericage/6824106935/382086
-#EXTINF:-1,24/7 The Last Airbender
-http://yourdnshere.xyz:83/Kericage/6824106935/382015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382232
 #EXTINF:-1,24/7 The Last Man On Earth
-http://yourdnshere.xyz:83/Kericage/6824106935/376226
-#EXTINF:-1,24/7 The League
-http://yourdnshere.xyz:83/Kericage/6824106935/309315
-#EXTINF:-1,24/7 The Marvellous Misadventures Of Flapjacks
-http://yourdnshere.xyz:83/Kericage/6824106935/382016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376226
 #EXTINF:-1,24/7 The Munsters
-http://yourdnshere.xyz:83/Kericage/6824106935/382280
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382280
 #EXTINF:-1,24/7 The Munsters
-http://yourdnshere.xyz:83/Kericage/6824106935/382091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382091
 #EXTINF:-1,24/7 The Musketeers 
-http://yourdnshere.xyz:83/Kericage/6824106935/382092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382092
 #EXTINF:-1,24/7 The Nanny
-http://yourdnshere.xyz:83/Kericage/6824106935/313984
-#EXTINF:-1,24/7 The Office UK 
-http://yourdnshere.xyz:83/Kericage/6824106935/332514
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313984
 #EXTINF:-1,24/7 The Orville
-http://yourdnshere.xyz:83/Kericage/6824106935/382097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382097
 #EXTINF:-1,24/7 The Real Ghostbusters
-http://yourdnshere.xyz:83/Kericage/6824106935/376099
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376099
 #EXTINF:-1,24/7 The Royale Family 
-http://yourdnshere.xyz:83/Kericage/6824106935/382371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382371
 #EXTINF:-1,24/7 The Simpsons
-http://yourdnshere.xyz:83/Kericage/6824106935/382234
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382234
 #EXTINF:-1,24/7 The Sopranos
-http://yourdnshere.xyz:83/Kericage/6824106935/382093
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382093
 #EXTINF:-1,24/7 The Three Stooges
-http://yourdnshere.xyz:83/Kericage/6824106935/352301
-#EXTINF:-1,24/7 The Tudors
-http://yourdnshere.xyz:83/Kericage/6824106935/382094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352301
 #EXTINF:-1,24/7 The Twilight Zone
-http://yourdnshere.xyz:83/Kericage/6824106935/342067
-#EXTINF:-1,24/7 The Vicar Of Dibley
-http://yourdnshere.xyz:83/Kericage/6824106935/382373
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/342067
 #EXTINF:-1,24/7 The Wayans Bros
-http://yourdnshere.xyz:83/Kericage/6824106935/305113
-#EXTINF:-1,24/7 The White Queen
-http://yourdnshere.xyz:83/Kericage/6824106935/382085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/305113
 #EXTINF:-1,24/7 The Wild Thornberrys
-http://yourdnshere.xyz:83/Kericage/6824106935/352302
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/352302
 #EXTINF:-1,24/7 The Wire
-http://yourdnshere.xyz:83/Kericage/6824106935/332689
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332689
 #EXTINF:-1,24/7 The X Files
-http://yourdnshere.xyz:83/Kericage/6824106935/382084
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382084
 #EXTINF:-1,24/7 The Young Ones
-http://yourdnshere.xyz:83/Kericage/6824106935/382374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382374
 #EXTINF:-1,24/7 Three's Company
-http://yourdnshere.xyz:83/Kericage/6824106935/302855
-#EXTINF:-1,24/7 Thriller Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382375
-#EXTINF:-1,24/7 Thunderbirds Are Go
-http://yourdnshere.xyz:83/Kericage/6824106935/382364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/302855
 #EXTINF:-1,24/7 Thundercats
-http://yourdnshere.xyz:83/Kericage/6824106935/376102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376102
 #EXTINF:-1,24/7 Tom & Jerry
-http://yourdnshere.xyz:83/Kericage/6824106935/382004
-#EXTINF:-1,24/7 Tom Cruise Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382281
-#EXTINF:-1,24/7 Tom Hanks Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382004
 #EXTINF:-1,24/7 Top Gear
-http://yourdnshere.xyz:83/Kericage/6824106935/382095
-#EXTINF:-1,24/7 Toy Story Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382095
 #EXTINF:-1,24/7 Trailer Park Boys
-http://yourdnshere.xyz:83/Kericage/6824106935/382082
-#EXTINF:-1,24/7 Transformers Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382284
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382082
 #EXTINF:-1,24/7 True Detective
-http://yourdnshere.xyz:83/Kericage/6824106935/353134
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/353134
 #EXTINF:-1,24/7 Two And A Half Men
-http://yourdnshere.xyz:83/Kericage/6824106935/332686
-#EXTINF:-1,24/7 Two Doors Down
-http://yourdnshere.xyz:83/Kericage/6824106935/382238
-#EXTINF:-1,24/7 UK Stand Up
-http://yourdnshere.xyz:83/Kericage/6824106935/382378
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332686
 #EXTINF:-1,24/7 Unsolved Mysteries 
-http://yourdnshere.xyz:83/Kericage/6824106935/382083
-#EXTINF:-1,24/7 USA Stand up
-http://yourdnshere.xyz:83/Kericage/6824106935/382377
-#EXTINF:-1,24/7 Van Damme Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382285
-#EXTINF:-1,24/7 Venture Bros
-http://yourdnshere.xyz:83/Kericage/6824106935/382019
-#EXTINF:-1,24/7 Vice Principals
-http://yourdnshere.xyz:83/Kericage/6824106935/376240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382083
 #EXTINF:-1,24/7 Vikings
-http://yourdnshere.xyz:83/Kericage/6824106935/382054
-#EXTINF:-1,24/7 War Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382027
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382054
 #EXTINF:-1,24/7 Webster
-http://yourdnshere.xyz:83/Kericage/6824106935/313982
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313982
 #EXTINF:-1,24/7 Weeds
-http://yourdnshere.xyz:83/Kericage/6824106935/376241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376241
 #EXTINF:-1,24/7 Wentworth
-http://yourdnshere.xyz:83/Kericage/6824106935/382235
-#EXTINF:-1,24/7 Western Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382026
-#EXTINF:-1,24/7 Whose Line Is It Anyway?
-http://yourdnshere.xyz:83/Kericage/6824106935/382053
-#EXTINF:-1,24/7 Workaholics
-http://yourdnshere.xyz:83/Kericage/6824106935/376246
-#EXTINF:-1,24/7 X-MEN Animated Series
-http://yourdnshere.xyz:83/Kericage/6824106935/376105
-#EXTINF:-1,24/7 XENA Warrior Princess
-http://yourdnshere.xyz:83/Kericage/6824106935/313979
-#EXTINF:-1,24/7 XMen Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382235
 #EXTINF:-1,24/7 Diff'rent Strokes
-http://yourdnshere.xyz:83/Kericage/6824106935/314000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/314000
 #EXTINF:-1,24/7 It's Always Sunny In Philadelphia 
-http://yourdnshere.xyz:83/Kericage/6824106935/332685
-#EXTINF:-1,24/7 MXC
-http://yourdnshere.xyz:83/Kericage/6824106935/382115
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332685
 #EXTINF:-1,24/7 NCIS
-http://yourdnshere.xyz:83/Kericage/6824106935/382119
-#EXTINF:-1,24/7' Marvel Movies 2
-http://yourdnshere.xyz:83/Kericage/6824106935/382021
-#EXTINF:-1,24/7 13 Reasons Why
-http://yourdnshere.xyz:83/Kericage/6824106935/382382
-#EXTINF:-1,24/7 The Inbetweeners 
-http://yourdnshere.xyz:83/Kericage/6824106935/382383
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382119
 #EXTINF:-1,24/7 Looney Tunes
-http://yourdnshere.xyz:83/Kericage/6824106935/382384
-#EXTINF:-1,24/7 Saw Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382385
-#EXTINF:-1,24/7 Titanic
-http://yourdnshere.xyz:83/Kericage/6824106935/382386
-#EXTINF:-1,24/7 Two Pints Of Lager And A Packet Of Crisps 
-http://yourdnshere.xyz:83/Kericage/6824106935/382387
-#EXTINF:-1,24/7 Hangover Movies
-http://yourdnshere.xyz:83/Kericage/6824106935/382388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/38238
 #EXTINF:-1,24/7 Black-ish
-http://yourdnshere.xyz:83/Kericage/6824106935/351735
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/351735
 #EXTINF:-1,24/7 Archer
-http://yourdnshere.xyz:83/Kericage/6824106935/376071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/376071
