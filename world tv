@@ -15,9 +15,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnsh
 #EXTINF:-1,CANADA: BRAVO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306247
 #EXTINF:-1,CANADA: CABLEPULSE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/378930
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/662
 #EXTINF:-1,CANADA: CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306241
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pcjatv.com:8080/fred123/fred123/642
 #EXTINF:-1,CANADA: CBC OTTAWA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306240
 #EXTINF:-1,CANADA: CBC ST. JOHNS
