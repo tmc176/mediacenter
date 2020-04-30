@@ -1,11 +1,12 @@
 #EXTM3U
-
-#EXTINF:-1,WFN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/26231
-#EXTINF:-1,OUTDOOR CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9049
-#EXTINF:-1,SPORTSMAN NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9050
+#EXTINF:-1,CANADA: WILD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/379909
+#EXTINF:-1,VIP HD WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308761
+#EXTINF:-1,VIP USA HD : Outdoor Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308818
+#EXTINF:-1,VIP HD SPORTSMAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308795
 #EXTINF:-1,Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
