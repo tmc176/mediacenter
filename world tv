@@ -1,40 +1,38 @@
 #EXTM3U
 #EXTINF:-1,CANADA: CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/336126
-#EXTINF:-1,CANADA: CBC ST. JOHNS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311212
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3058
 #EXTINF:-1,CANADA: CBC TORONTO
-http://bestever.vodiptv.org:83/forty1234/forty4321/332435
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3060
 #EXTINF:-1,CANADA: CITY TORONTO
-http://bestever.vodiptv.org:83/forty1234/forty4321/332733
-#EXTINF:-1,CANADA: CTV TORONTO
-http://bestever.vodiptv.org:83/forty1234/forty4321/331998
-#EXTINF:-1,CANADA: CTV TWO ATLANTIC
-http://bestever.vodiptv.org:83/forty1234/forty4321/378934
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3057
+#EXTINF:-1,CA019:CTV
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3050
+#EXTINF:-1,CA020:CTV Atlantic
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3049
 #EXTINF:-1,CA205: GLOBAL HALIFAX
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30109
 #EXTINF:-1,CANADA: GLOBAL TORONTO
-http://bestever.vodiptv.org:83/forty1234/forty4321/306178
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3035
 #EXTINF:-1,CANADA: ABC EAST
-http://bestever.vodiptv.org:83/forty1234/forty4321/306264
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30230
 #EXTINF:-1,CANADA: ABC SHARK HD
-http://bestever.vodiptv.org:83/forty1234/forty4321/378926
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3068
 #EXTINF:-1,CANADA: CBS EAST
-http://bestever.vodiptv.org:83/forty1234/forty4321/306237
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30211
 #EXTINF:-1,CANADA: FOX EAST
-http://bestever.vodiptv.org:83/forty1234/forty4321/306186
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3038
 #EXTINF:-1,CANADA: NBC EAST
-http://bestever.vodiptv.org:83/forty1234/forty4321/306140
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30115
 #EXTINF:-1,CANADA: CABLEPULSE 24 HD
-http://bestever.vodiptv.org:83/forty1234/forty4321/378930
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3053
 #EXTINF:-1,CANADA: CBC NEWS
-http://bestever.vodiptv.org:83/forty1234/forty4321/306241
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30215
 #EXTINF:-1,CANADA: CTV NEWS
-http://bestever.vodiptv.org:83/forty1234/forty4321/355369
-#EXTINF:-1,CANADA: CNN INTERNATIONAL
-http://bestever.vodiptv.org:83/forty1234/forty4321/306225
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3048
+#EXTINF:-1,CANADA: CNN
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3056
 #EXTINF:-1, FOX NEWS
-http://bestever.vodiptv.org:83/forty1234/forty4321/306185
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30181
 #EXTINF:-1,CANADA: THE WEATHER NETWORK
-http://bestever.vodiptv.org:83/forty1234/forty4321/306091
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2996
 
