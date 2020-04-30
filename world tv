@@ -1,39 +1,42 @@
 #EXTM3U
-
+#EXTINF:-1,CANADA: CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3057
+#EXTINF:-1,CANADA: NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306136
 #EXTINF:-1,CANADA: CBC ST. JOHNS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/311212
 #EXTINF:-1,CANADA: CBC TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332435
-#EXTINF:-1,CANADA: CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/336126
-#EXTINF:-1,CANADA: NTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306136
 #EXTINF:-1,CANADA: CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/332733
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3057
 #EXTINF:-1,CANADA: CTV TWO ATLANTIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/378934
 #EXTINF:-1,CANADA: CTV TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/331998
-#EXTINF:-1,CANADA: GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306178
+#EXTINF:-1,CA001:ABC-SPARK
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3068
 #EXTINF:-1,CANADA: ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306237
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30230
 #EXTINF:-1,CANADA: CBS EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306237
 #EXTINF:-1,CANADA: FOX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3038
 #EXTINF:-1,CANADA: NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30115
 #EXTINF:-1,CANADA: CP24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306218
 #EXTINF:-1,CANADA: CBC NEWS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pcjatv.com:8080/fred123/fred123/642
 #EXTINF:-1,CANADA: CTV NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/355369
+#EXTINF:-1,CA205:GLOBAL HALIFAX
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30109
+#EXTINF:-1,CANADA: GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3035
 #EXTINF:-1,CNN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/353543
 #EXTINF:-1,FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306185
 #EXTINF:-1,CANADA: THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/306091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2996
 
