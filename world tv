@@ -13,6 +13,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdfli
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30109
 #EXTINF:-1,CANADA: GLOBAL TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3035
+#EXTINF:-1,CA173:NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30141
 #EXTINF:-1,CANADA: ABC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30230
 #EXTINF:-1,CANADA: ABC SHARK HD
