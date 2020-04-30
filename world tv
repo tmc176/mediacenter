@@ -1,233 +1,229 @@
 #EXTM3U
 
 #EXTINF:-1,NBC HD EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7
 #EXTINF:-1,CBS HD EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8
 #EXTINF:-1,ABC HD EAST
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/10
 #EXTINF:-1,FOX HD EAST
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9
 #EXTINF:-1,*CP24 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/11
 #EXTINF:-1,CP24 (H264)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/71459
-#EXTINF:-1,OMNI 1 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/12
-#EXTINF:-1,OMNI 2 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/71459
 #EXTINF:-1,CITY TV HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/14
 #EXTINF:-1,*GLOBAL EAST HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/15
 #EXTINF:-1,*CTV EAST HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/16
 #EXTINF:-1,CBC EAST HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/18
 #EXTINF:-1,CBC HALIFAX
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4075
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4075
 #EXTINF:-1,CTV HALIFAX
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4074
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4074
 #EXTINF:-1,NTV (NEWFOUNDLAND) - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/68073
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/68073
 #EXTINF:-1,*USA NETWORK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/312
 #EXTINF:-1,TV LAND HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/313
 #EXTINF:-1,DEJAVIEW  - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/48517
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/48517
 #EXTINF:-1,METV HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/15072
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/15072
 #EXTINF:-1,YES TV
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/6962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/6962
 #EXTINF:-1,FX HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/314
 #EXTINF:-1,FXX HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/315
 #EXTINF:-1,COMEDY NETWORK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/316
 #EXTINF:-1,*TBS HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/317
 #EXTINF:-1,PARAMOUNT NETWORK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/318
 #EXTINF:-1,*DISCOVERY HD (CDN)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/319
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/319
 #EXTINF:-1,DISCOVERY HD (USA)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/56250
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/56250
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/320
 #EXTINF:-1,SMITHSONIAN HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3951
 #EXTINF:-1,*HALLMARK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/321
 #EXTINF:-1,*HALLMARK MOVIES MYSTERY HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4599
 #EXTINF:-1,HALLMARK DRAMA
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/83349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/83349
 #EXTINF:-1,OXYGEN HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/59037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/59037
 #EXTINF:-1,*HISTORY HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/322
 #EXTINF:-1,*LIFETIME MOVIES HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/326
 #EXTINF:-1,*TLC HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/328
 #EXTINF:-1,DIY HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/329
 #EXTINF:-1,FYI HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42684
 #EXTINF:-1,OLN - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/67103
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/67103
 #EXTINF:-1,NAT GEO HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/330
 #EXTINF:-1,*NAT GEO WILD HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/331
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/331
 #EXTINF:-1,ANIMAL PLANET HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/332
 #EXTINF:-1,COOKING CHANNEL HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/6108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/6108
 #EXTINF:-1,VICELAND HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/323
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/323
 #EXTINF:-1,AMC HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/334
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/334
 #EXTINF:-1,*HGTV HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/335
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/335
 #EXTINF:-1,HGTV HD (CDN)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42685
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42685
 #EXTINF:-1,COTTAGE TV HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42394
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42394
 #EXTINF:-1,PEACHTREE HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/337
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/337
 #EXTINF:-1,WGN HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9163
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9163
 #EXTINF:-1,SYFY HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/339
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/339
 #EXTINF:-1,TNT HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/341
 #EXTINF:-1,WE TV HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/342
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/342
 #EXTINF:-1,SLICE HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/343
 #EXTINF:-1,W NETWORK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/344
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/344
 #EXTINF:-1,SHOWCASE HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/346
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/346
 #EXTINF:-1,*A&E HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/347
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/347
 #EXTINF:-1,OWN HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/348
 #EXTINF:-1,CMT HD  - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/12266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/12266
 #EXTINF:-1,BRAVO HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/353
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/353
 #EXTINF:-1,CHCH HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/358
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/358
 #EXTINF:-1,CW11 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/359
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/359
 #EXTINF:-1,BBC CANADA - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/46724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/46724
 #EXTINF:-1,BBC AMERICA HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/357
 #EXTINF:-1,*CNN HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/360
 #EXTINF:-1,CBC NEWS HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/361
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/361
 #EXTINF:-1,CTV NEWS NETWORK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2423
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2423
 #EXTINF:-1,*FOX NEWS HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/363
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/363
 #EXTINF:-1,CBS NEWS HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3078
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3078
 #EXTINF:-1,ABC NEWS HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3077
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3077
 #EXTINF:-1,WEATHER CANADA
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3079
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/3079
 #EXTINF:-1,TCM HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/368
 #EXTINF:-1,MOVIE TIME HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/369
 #EXTINF:-1,ADULT SWIM HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/370
 #EXTINF:-1,FXM HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/56246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/56246
 #EXTINF:-1,PPV MOVIES
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8784
 #EXTINF:-1,CRAVE 1 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9505
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9505
 #EXTINF:-1,CRAVE 2 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9506
 #EXTINF:-1,CRAVE 3 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9507
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9507
 #EXTINF:-1,HBO 1 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/26321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/26321
 #EXTINF:-1,HBO 2 HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/26322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/26322
 #EXTINF:-1,HBO EAST HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/371
 #EXTINF:-1,HBO COMEDY HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/373
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/373
 #EXTINF:-1,HBO FAMILY HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4829
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4829
 #EXTINF:-1,HBO SIGNATURE HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/372
 #EXTINF:-1,HBO ZONE HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4828
 #EXTINF:-1,CBS ACTION
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7184
 #EXTINF:-1,CBS DRAMA
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7186
 #EXTINF:-1,CBS REALITY
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7187
 #EXTINF:-1,PBS KIDS - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/15071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/15071
 #EXTINF:-1,YTV HD (NA)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/390
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/390
 #EXTINF:-1,DISCOVERY FAMILY HD - NEW
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/59034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/59034
 #EXTINF:-1,DISNEY HD EAST
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/392
 #EXTINF:-1,ABC SPARK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/4063
 #EXTINF:-1,TREEHOUSE HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/393
 #EXTINF:-1,MAGIC SCHOOL BUS 24x7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8092
 #EXTINF:-1,BABY EINSTEIN 24X7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8089
 #EXTINF:-1,PEPPA PIG 24x7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9737
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9737
 #EXTINF:-1,PAW PATROL 24x7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9736
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9736
 #EXTINF:-1,SONIC BOOM 24x7 (NEW)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42215
 #EXTINF:-1,PJ MASK 24x7 (NEW)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/42216
 #EXTINF:-1,SUPER WINGS 24x7 (NEW)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/38759
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/38759
 #EXTINF:-1,TROLLHUNTERS 24x7 (NEW)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/43224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/43224
 #EXTINF:-1,TRANSFORMER - RETRO 24x7 (NEW)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/65803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/65803
 #EXTINF:-1,NICKELODEON HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/394
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/394
 #EXTINF:-1,CARTOON NETWORK HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/395
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/395
 #EXTINF:-1,FAMILY HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/396
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/396
 #EXTINF:-1,DISNEY XD HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/397
 #EXTINF:-1,DISNEY ALL DAY 24X7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7804
 #EXTINF:-1,DUCK TALES 24X7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7498
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7498
 #EXTINF:-1,SPIDERMAN 24x7 (NEW)
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/9976
 #EXTINF:-1,BATMAN THE ANIMATED SERIES 24x7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7499
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7499
 #EXTINF:-1,STAR WARS CLONE WARS 24X7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7835
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/7835
 #EXTINF:-1,STAR WARS REBELS 24x7
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8090
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8090
 #EXTINF:-1,TELETOON HD
-http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2422
 
