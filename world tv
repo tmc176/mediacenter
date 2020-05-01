@@ -58,13 +58,13 @@ http://pcjatv.com:8080/fred123/fred123/38
 http://pcjatv.com:8080/fred123/fred123/19867
 
 #EXTINF:-1,CA | HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/697
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://pcjatv.com:8080/fred123/fred123/697
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/61
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://pcjatv.com:8080/fred123/fred123/61
 
 #EXTINF:-1,US | HGTV (East) Direct
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/19897
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://pcjatv.com:8080/fred123/fred123/19897
 
 #EXTINF:-1,US | TV LAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/140
