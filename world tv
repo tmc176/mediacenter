@@ -1,55 +1,76 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/650
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/635
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/652
 
 #EXTINF:-1,CA118:CTV TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30196
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30177
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/693
 
 #EXTINF:-1,CA001:ABC-SPARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3068
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30230
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/633
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30211
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/649
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/686
 
 #EXTINF:-1,CA199:NBC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30115
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30146
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/737
 
 #EXTINF:-1,CA099:CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/641
 
 #EXTINF:-1,CA021:CTV-NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3048
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/662
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/657
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/462
 
-#EXTINF:-1,CA039:HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3030
+#EXTINF:-1,CA | DIY NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/682
+
+#EXTINF:-1,US | DIY Network
+http://pcjatv.com:8080/fred123/fred123/38
+
+#EXTINF:-1,US | DIY Direct
+http://pcjatv.com:8080/fred123/fred123/19867
+
+#EXTINF:-1,CA | HGTV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/697
+
+#EXTINF:-1,US | HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/61
+
+#EXTINF:-1,US | HGTV (East) Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/19897
+
+#EXTINF:-1,US | TV LAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/140
+
+#EXTINF:-1,US | TV Land (East) Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/21399
 
 #EXTINF:-1,CA123:DEJAVIEW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/30191
@@ -57,6 +78,32 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdfli
 #EXTINF:-1,CA063:TLC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3006
 
-#EXTINF:-1,CA045:ME-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3024
+#EXTINF:-1,US | TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/133
 
+#EXTINF:-1,US | TLC (East) Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/21378
+
+#EXTINF:-1,US | WE Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/148
+
+#EXTINF:-1,US | WE tv Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/21410
+
+#EXTINF:-1,CA045:ME-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/74
+
+#EXTINF:-1,CA | SMITHSONIAN CHANNEL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/715
+
+#EXTINF:-1,US | Smithsonian Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/108
+
+#EXTINF:-1,US | Smithsonian Channel (East) Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/21353
+
+#EXTINF:-1,US | Motortrend
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/75
+
+#EXTINF:-1,US | MotorTrend Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/21295
