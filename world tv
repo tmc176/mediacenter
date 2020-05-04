@@ -46,13 +46,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39847
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39854
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39854
 
 #EXTINF:-1,CA | DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85392
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85392
 
 #EXTINF:-1,US | DIY Network
-http://pcjatv.com:8080/fred123/fred123/38
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pcjatv.com:8080/fred123/fred123/38
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36383
