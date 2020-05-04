@@ -10,7 +10,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39869
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85362
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36391
@@ -25,7 +25,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39898
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36405
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85551
 
 #EXTINF:-1,CA199:NBC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39897
@@ -40,7 +40,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39844
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85355
 
 #EXTINF:-1,CA013:CNN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39847
@@ -49,7 +49,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39854
 
 #EXTINF:-1,CA | DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85392
 
 #EXTINF:-1,US | DIY Network
 http://pcjatv.com:8080/fred123/fred123/38
