@@ -13,7 +13,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39882
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39867
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36391
 
 #EXTINF:-1,CA001:ABC-SPARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39923
@@ -25,7 +25,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39898
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36405
 
 #EXTINF:-1,CA199:NBC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39897
@@ -55,7 +55,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.wor
 http://pcjatv.com:8080/fred123/fred123/38
 
 #EXTINF:-1,CA | HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36383
 
 #EXTINF:-1,US | HGTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/61
