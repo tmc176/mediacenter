@@ -1,88 +1,85 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39848
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374310
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39885
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374302
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374311
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374322
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374337
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/378926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374285
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/306264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374283
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374308
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85551
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374332
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39897
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374354
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39798
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/306091
 
 #EXTINF:-1,CA099:CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39858
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374307
 
 #EXTINF:-1,CA021:CTV-NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39844
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374323
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85355
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/306218
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39847
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374313
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39854
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/306185
 
 #EXTINF:-1,CA | DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.233.185.213:25443/NDAZWnxuUiAQP/mYmzK3RwSr/85392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/306199
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pcjatv.com:8080/fred123/fred123/38
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/308918
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/306169
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/308871
 
 #EXTINF:-1,US | TV LAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/332002
 
 #EXTINF:-1,CA123:DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39966
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/332734
 
 #EXTINF:-1,CA:PEACHTREE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/0rk7azufRR/kva8UgbJiy/39929
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374357
 
 #EXTINF:-1,CA063:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/3006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/303986
 
 #EXTINF:-1,US | WE Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/308763
 
 #EXTINF:-1,CA045:ME-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/74
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374348
 
 #EXTINF:-1,CA | SMITHSONIAN CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/715
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/310775
 
 #EXTINF:-1,US | Motortrend
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/75
-
-#EXTINF:-1,US | MotorTrend Direct
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/21295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/358889
