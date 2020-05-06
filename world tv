@@ -7,7 +7,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ndaiptv.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ndaiptv.com:80/test200/ttt2017/49340
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ndaiptv.com:80/test200/ttt2017/49350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.eu:80/abcd1234/1234abcd/36465
 
 #EXTINF:-1,CA118:CTV TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/374322
