@@ -16,10 +16,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wfcGQ3XSyu/zZ9v1hkWHA/45457
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wfcGQ3XSyu/zZ9v1hkWHA/44282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/45516
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wfcGQ3XSyu/zZ9v1hkWHA/45516
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/45517
 
 #EXTINF:-1,CA103:CBS EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wfcGQ3XSyu/zZ9v1hkWHA/45516
