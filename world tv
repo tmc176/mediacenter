@@ -4,7 +4,7 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/336126
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wOsuTgFF8s/77bWYIpKfZ/45518
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://restream.geniptv.com:8080/wOsuTgFF8s/77bWYIpKfZ/45518
 
 #EXTINF:-1,CA106:CITY TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/332733
