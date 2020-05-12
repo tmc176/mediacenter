@@ -58,10 +58,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.exp
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339104
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/142677
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3119
 
 #EXTINF:-1,US | TV LAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339165
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3116
 
 #EXTINF:-1,CA123:DEJAVIEW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339402
