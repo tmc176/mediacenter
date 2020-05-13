@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",VIP CAN: ABC Spark HD
+
+
+http://iptvhit.live/hadrikou/RAMDAN/2020/1706
+
 #EXTINF:-1,CA011:CHCH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339074
 
