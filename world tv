@@ -16,7 +16,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339376
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3152
+http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3152
 
 #EXTINF:-1,CA084:ABC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvhit.live/hadrikou/RAMDAN/2020/1705
