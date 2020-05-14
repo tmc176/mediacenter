@@ -2,11 +2,11 @@
 #EXTINF:-1,CANADA: WILD TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amigotv.online:8080/faucontv/2c248b3e1d35/9332
 #EXTINF:-1,VIP HD WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amigotv.online:8080/faucontv/2c248b3e1d35/78300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/30040
 #EXTINF:-1,VIP USA HD : Outdoor Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amigotv.online:8080/faucontv/2c248b3e1d35/15075
 #EXTINF:-1,VIP HD SPORTSMAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amigotv.online:8080/faucontv/2c248b3e1d35/30847
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/30037
 #EXTINF:-1,USA SD : Pursuit Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://amigotv.online:8080/faucontv/2c248b3e1d35/15448
 
