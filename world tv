@@ -19,16 +19,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.moh
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3068
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9511.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9511.m3u8
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32803.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32803.m3u8
 
 #EXTINF:-1,CA031:FOX-EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3132
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32804.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32804.m3u8
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339179
@@ -43,22 +43,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.moh
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3053
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9493.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9493.m3u8
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9477.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9477.m3u8
 
 #EXTINF:-1,CA | DIY NETWORK | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3043
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32704.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32704.m3u8
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3030
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
 
 #EXTINF:-1,US | TV LAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3116
