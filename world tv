@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5712
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5701
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5709
 
 #EXTINF:-1,CA118:CTV TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3050
@@ -19,7 +19,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.moh
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3068
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9511.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://a.srvbr.me:8880/f10050/f10050/5694
 
 #EXTINF:-1,CA103:CBS EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32803.m3u8
