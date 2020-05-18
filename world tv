@@ -28,7 +28,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5695
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5686
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Germany1/Germany1/32804
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5713
@@ -43,10 +43,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.moh
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/f10050/f10050/5714
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9493.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Germany1/Germany1/9493
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9477.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Germany1/Germany1/9477
 
 #EXTINF:-1,CA | DIY NETWORK | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3043
@@ -61,7 +61,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.moh
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
 
 #EXTINF:-1,US | TV LAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3116
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1729
 
 #EXTINF:-1,CA123:DEJAVIEW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339402
@@ -70,7 +70,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wfcGQ3XSyu/zZ9v1hkWHA/45419
 
 #EXTINF:-1,CA063:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3093
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1732
 
 #EXTINF:-1,US | WE Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3086
