@@ -64,7 +64,6 @@ http://45.58.62.92:8080
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="/logo/" group-title="News",CNN
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/452
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Business News 24/7" tvg-logo="/logo/cnbc.png" group-title="News",CNBC
