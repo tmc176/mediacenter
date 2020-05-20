@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77140
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPTTAqQ.png" group-title="USA",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
