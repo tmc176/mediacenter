@@ -73,7 +73,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/667
 
 #EXTINF:-1,US | WE Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77027
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/646
 
 #EXTINF:-1,CA045:ME-TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3024
