@@ -19,16 +19,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76985
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/651
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77007
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/699
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/682
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/640
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3104
@@ -43,7 +43,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.moh
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3099
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/Germany1/Germany1/9493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/644
 
 #EXTINF:-1,CA133:FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77099
@@ -52,25 +52,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.re
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3108
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32704.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/685
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3117
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/704
 
 #EXTINF:-1,US | TV LAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/648
 
 #EXTINF:-1,CA123:DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/maggie/maggie/339402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3180
 
 #EXTINF:-1,CA:PEACHTREE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/wfcGQ3XSyu/zZ9v1hkWHA/45419
 
 #EXTINF:-1,CA063:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1732
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/667
 
 #EXTINF:-1,US | WE Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77027
