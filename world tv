@@ -16,10 +16,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.n
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/30727
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvplug.xyz:8080/live/DR5hTt4f6z/y7wMsH3oIS/407514.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14622.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvplug.xyz:8080/live/DR5hTt4f6z/y7wMsH3oIS/407515.m3u8
 
 #EXTINF:-1,CA103:CBS EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14623.ts
