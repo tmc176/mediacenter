@@ -52,13 +52,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/30639
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.38.89.242:8080/live/1899/1899/14630.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14630.ts
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/30719
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.38.89.242:8080/live/1899/1899/14641.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14641.ts
 
 #EXTINF:-1,US | TV LAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/648
