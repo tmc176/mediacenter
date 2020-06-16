@@ -19,16 +19,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.n
 http://tvplug.xyz:8080/live/DR5hTt4f6z/y7wMsH3oIS/407514.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104488.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104488.m3u8
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104507.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104507.m3u8
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104650.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104650.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104553.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104553.m3u8
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3104
