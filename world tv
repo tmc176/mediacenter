@@ -4,7 +4,7 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/36869
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/164981
+http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/164981
 
 #EXTINF:-1,CA106:CITY TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvplug.xyz:8080/live/DR5hTt4f6z/y7wMsH3oIS/407478.m3u8
