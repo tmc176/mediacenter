@@ -4,7 +4,7 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/36869
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/39950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/164981
 
 #EXTINF:-1,CA106:CITY TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvplug.xyz:8080/live/DR5hTt4f6z/y7wMsH3oIS/407478.m3u8
@@ -16,10 +16,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.n
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/30727
 
 #EXTINF:-1,CA001:ABC-SPARK
-http://tvplug.xyz:8080/live/DR5hTt4f6z/y7wMsH3oIS/407514.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/164956
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104488.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/164957
 
 #EXTINF:-1,CA103:CBS EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104507.m3u8
