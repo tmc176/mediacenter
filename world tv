@@ -1,61 +1,61 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/36869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4649
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvgold.org:25461/oumlil75/esNUlsddgi/51111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4646
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4696
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvgold.org:25461/oumlil75/esNUlsddgi/51111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4667
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4665
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13115
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4639
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50234
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4648
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50161
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13184
 
 #EXTINF:-1,CA199:NBC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50104
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50026
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4738
 
 #EXTINF:-1,CA099:CBC NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4740
 
 #EXTINF:-1,CA021:CTV-NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50194
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4653
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4637
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4651
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50160
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13185
 
 #EXTINF:-1,CA | DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4658
 
 #EXTINF:-1,US | DIY Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/675417
 
 #EXTINF:-1,CA | HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/95025267076109/65839594001441/30719
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13197
 
 #EXTINF:-1,US | HGTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50140
@@ -64,7 +64,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.mi
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104587.m3u8
 
 #EXTINF:-1,CA123:DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4684
 
 #EXTINF:-1,CA:PEACHTREE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50086
@@ -82,7 +82,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.t
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50074
 
 #EXTINF:-1,CA | SMITHSONIAN CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4691
 
 #EXTINF:-1,CANADA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4711
