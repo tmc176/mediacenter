@@ -10,7 +10,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4696
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4667
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13174
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4665
