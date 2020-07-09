@@ -13,7 +13,7 @@ http://mhiptv.com:8888/live/naeem/naeem123/15230.m3u8
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15244.m3u8
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15233.m3u8
+http://mediahere.ca:80/Dave00Trial/Today17this!/45905
 
 #EXTINF:-1,CA001:ABC-SPARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13115
