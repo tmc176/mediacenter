@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4649
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15230
 
 #EXTINF:-1,CA101:CBC TORONTO
 http://mhiptv.com:8888/live/naeem/naeem123/15259.m3u8
 
 #EXTINF:-1,CA106:CITY TORONTO
-http://mhiptv.com:8888/live/naeem/naeem123/15230.m3u8
+http://mhiptv.com:8888/naeem/naeem123/15230
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15244.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/naeem/naeem123/15230
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
 http://mediahere.ca:80/Dave00Trial/Today17this!/45905
