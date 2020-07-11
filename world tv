@@ -19,16 +19,16 @@ http://mediahere.ca:80/Dave00Trial/Today17this!/45905
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13115
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15260.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17588
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15258.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17611
 
 #EXTINF:-1,CA031:FOX-EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15264.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50104
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17666
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4738
@@ -43,7 +43,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15267.m3u8
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15263.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17619
 
 #EXTINF:-1,CA133:FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/12353.m3u8
@@ -58,10 +58,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13197
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17653
 
 #EXTINF:-1,US | TV LAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104587.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17695
 
 #EXTINF:-1,CA123:DEJAVIEW
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15191.m3u8
@@ -70,7 +70,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50086
 
 #EXTINF:-1,CA063:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50025
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.nonoip.com:7000/karam/karam123/17686
 
 #EXTINF:-1,US | WE Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104595.m3u8
