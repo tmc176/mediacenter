@@ -25,7 +25,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2732.m3u8
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2780.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/286.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2819.m3u8
