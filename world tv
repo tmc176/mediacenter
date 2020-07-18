@@ -4,7 +4,7 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/113737
 
 #EXTINF:-1,CA101:CBC TORONTO
-http://live.dynamicvod.tv:18181/Stefan/Stefan/113737
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2767.m3u8
 
 #EXTINF:-1,CA106:CITY TORONTO
 http://mhiptv.com:8888/naeem/naeem123/15230
@@ -49,10 +49,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.nonoip.
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/12353.m3u8
 
 #EXTINF:-1,CA | DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/15225.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2767.m3u8
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/naeem/naeem123/12380.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2767.m3u8
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtreamtv.com.mx:8000/252525/252525/13197
