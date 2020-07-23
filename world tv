@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/314.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67310.m3u8
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/344.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67311.m3u8
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/312.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67309.m3u8
 
 #EXTINF:-1,CA118:CTV TORONTO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2756.m3u8
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2787.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67289.m3u8
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2706.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67326.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2705.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6356.m3u8
 
 #EXTINF:-1,CA103:CBS EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2732.m3u8
@@ -34,10 +34,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2851.m3u8
 
 #EXTINF:-1,CA099:CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/318.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67312.m3u8
 
 #EXTINF:-1,CA021:CTV-NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2754.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67304.m3u8
 
 #EXTINF:-1,CA016:CP24
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/303.m3u8
@@ -52,10 +52,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2767.m3u8
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/374.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67297.m3u8
 
 #EXTINF:-1,CA | HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2795.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67287.m3u8
 
 #EXTINF:-1,US | HGTV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/15.m3u8
@@ -67,7 +67,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2761.m3u8
 
 #EXTINF:-1,CA:PEACHTREE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2831.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67271.m3u8
 
 #EXTINF:-1,CA063:TLC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2852.m3u8
@@ -88,4 +88,4 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2842.m3u8
 
 #EXTINF:-1,CANADA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/234.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67245.m3u8
