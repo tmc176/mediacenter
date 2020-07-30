@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,CORONA TV [ISTATISTIKLER CANLI]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/49373
+
 #EXTINF:-1,CA011:CHCH
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67310.m3u8
 
@@ -19,16 +22,16 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67326.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6356.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51406
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2732.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51407
 
 #EXTINF:-1,CA031:FOX-EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/286.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2819.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51408
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67247.m3u8
@@ -43,22 +46,22 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/303.m3u8
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/1142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51411
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2781.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51412
 
 #EXTINF:-1,CA | DIY NETWORK | HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2767.m3u8
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67297.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51456
 
 #EXTINF:-1,CA | HGTV | HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67287.m3u8
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/15.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51457
 
 #EXTINF:-1,US | TV LAND
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/120.m3u8
