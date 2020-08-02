@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,NETFLIX ACTION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.171.160.19:25461/star7arab/star7arab/14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.171.160.19:25461/star7arab/star7arab/14
 #EXTINF:-1,NETFLIX HORROR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.171.160.19:25461/star7arab/star7arab/15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.171.160.19:25461/star7arab/star7arab/15
 #EXTINF:-1,NETFLIX DRAMA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.171.160.19:25461/star7arab/star7arab/16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.171.160.19:25461/star7arab/star7arab/16
 #EXTINF:-1,NETFLIX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.171.160.19:25461/star7arab/star7arab/17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.171.160.19:25461/star7arab/star7arab/17
 
 #EXTINF:-1,CA011:CHCH
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67310.m3u8
