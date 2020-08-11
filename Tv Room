@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,CANADA: WILD TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2200.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2200.m3u8
 #EXTINF:-1,VIP HD WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2198.m3u8
+plugin://plugin.video.f4mTester/?streamtype=http://hdonline.ml:80/live/kam/kam/2198.m3u8
 #EXTINF:-1,VIP USA HD : Outdoor Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/90.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/90.m3u8
 #EXTINF:-1,VIP HD SPORTSMAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/31.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/31.m3u8
 #EXTINF:-1,USA SD : Pursuit Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/666.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/666.m3u8
 #EXTINF:-1,US: FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/462.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2198.m3u8
 #EXTINF:-1,US: Longhorn Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/873.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/873.m3u8
 #EXTINF:-1,US: Hunt Channel
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5498.m3u8
 #EXTINF:-1,Hunt Channel
