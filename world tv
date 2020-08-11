@@ -10,91 +10,91 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://62.171.160.19:25461/star7arab/star7arab/17
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2290.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2290.m3u8
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2095.m3u8
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2096.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2214.m3u8
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2344.m3u8
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67289.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2351.m3u8
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2078.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2078.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51406
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2323.m3u8
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7389
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7389
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2124.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2124.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7315
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2357.m3u8
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2182.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2182.m3u8
 
 #EXTINF:-1,CA099:CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2289.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2289.m3u8
 
 #EXTINF:-1,CA021:CTV-NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2297.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2296.m3u8
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2288.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2288.m3u8
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7232
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2292.m3u8
 
 #EXTINF:-1,CA133:FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7254
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2298.m3u8
 
 #EXTINF:-1,CA | DIY NETWORK | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdonline.ml:80/live/rana/rana/2118.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2118.m3u8
 
 #EXTINF:-1,US | DIY Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5486
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/661.m3u8
 
 #EXTINF:-1,CA | HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2211.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2211.m3u8
 
 #EXTINF:-1,US | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7290
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/645.m3u8
 
 #EXTINF:-1,US | TV LAND
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/128.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/128.m3u8
 
 #EXTINF:-1,CA123:DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2113.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2114.m3u8
 
 #EXTINF:-1,CA:PEACHTREE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2207.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2207.m3u8
 
 #EXTINF:-1,CA063:TLC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2852.m3u8
 
 #EXTINF:-1,US: TLC East
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/5533
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/112.m3u8
 
 #EXTINF:-1,US | WE Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7388
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/125.m3u8
 
 #EXTINF:-1,CA045:ME-TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/89.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/89.m3u8
 
 #EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2172.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2172.m3u8
 
 #EXTINF:-1,CA | SMITHSONIAN CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7349
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/674.m3u8
 
 #EXTINF:-1,CANADA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2381.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2381.m3u8
