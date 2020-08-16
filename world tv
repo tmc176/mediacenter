@@ -35,10 +35,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65821.m3u8
 
 #EXTINF:-1,CA099:CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2289.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65865.m3u8
 
 #EXTINF:-1,CA021:CTV-NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2296.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65857.m3u8
 
 #EXTINF:-1,CA016:CP24
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3733.m3u8
