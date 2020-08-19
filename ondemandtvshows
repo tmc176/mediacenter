@@ -2,6 +2,48 @@
 #EXTINF:-1,24/7 : ALL IN THE FAMILY
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18260.m3u8
 
+#EXTINF:-1,24/7 : LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18174.m3u8
+
+#EXTINF:-1,24/7 : BUGS BUNNY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/63660.m3u8
+
+#EXTINF:-1,24/7 : THE FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18177.m3u8
+
+#EXTINF:-1,24/7 : EVERYBODY LOVES RAYMOND
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16039.m3u8
+
+#EXTINF:-1,24/7 : THE MUNSTERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/17897.m3u8
+
+#EXTINF:-1,24/7 : GOOD TIMES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93362.m3u8
+
+#EXTINF:-1,24/7 : GILLIGAN'S ISLAND
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18506.m3u8
+
+#EXTINF:-1,24/7 : HAPPY DAYS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16183.m3u8
+
+#EXTINF:-1,24/7 : GET SMART
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65470.m3u8
+
+#EXTINF:-1,24/7 : BARNEY MILLER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/63661.m3u8
+
+#EXTINF:-1,24/7 : BEWITCHED
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/62885.m3u8
+
+#EXTINF:-1,24/7 : MRS BROWNS BOYS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/17791.m3u8
+
+#EXTINF:-1,24/7 : CARRY ON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65526.m3u8
+
+#EXTINF:-1,24/7 : GREYS ANATOMY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18507.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
 http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
  
