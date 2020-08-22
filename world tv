@@ -88,5 +88,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 #EXTINF:-1,CA | SMITHSONIAN CHANNEL | HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/674.m3u8
 
+#EXTINF:-1,US : LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/15491.m3u8
+
+#EXTINF:-1,US : LIFETIME FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64093.m3u8
+
+#EXTINF:-1,US : LIFETIME MOVIE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/338.m3u8
+
+#EXTINF:-1,US : LIFETIME MOVIE NETWORK FHD 1080
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64092.m3u8
+
 #EXTINF:-1,CANADA: TREEHOUSE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3203.m3u8
