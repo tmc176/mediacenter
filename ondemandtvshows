@@ -53,6 +53,12 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 #EXTINF:-1,24/7 : THE HONEYMOONERS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18500.m3u8
 
+#EXTINF:-1,24/7 : THE JEFFERSONS
+http://185.232.53.5:2086/live/wickeduk/etqyhww45e/63734.m3u8
+
+#EXTINF:-1,24/7 : THE JETSONS
+http://185.232.53.5:2086/live/wickeduk/etqyhww45e/15264.m3u8
+
 #EXTINF:-1,24/7 : THE CAROL BURNETT SHOW
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93396.m3u8
 
