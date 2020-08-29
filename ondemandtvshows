@@ -17,6 +17,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 #EXTINF:-1,24/7 : THE MUNSTERS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/17897.m3u8
 
+#EXTINF:-1,24/7 : THE ADDAMS FAMILY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65031.m3u8
+
 #EXTINF:-1,24/7 : GOOD TIMES
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93362.m3u8
 
@@ -35,17 +38,35 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 #EXTINF:-1,24/7 : BEWITCHED
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/62885.m3u8
 
+#EXTINF:-1,24/7 : SANFORD AND SON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93486.m3u8
+
+#EXTINF:-1,24/7 : THE BEVERLY HILLBILLIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65116.m3u8
+
+#EXTINF:-1,24/7 : THE ANDY GRIFFITH SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65522.m3u8
+
+#EXTINF:-1,24/7 : THE BRADY BUNCH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/62660.m3u8
+
+#EXTINF:-1,24/7 : THE HONEYMOONERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18500.m3u8
+
+#EXTINF:-1,24/7 : THE CAROL BURNETT SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93396.m3u8
+
 #EXTINF:-1,24/7 : MRS BROWNS BOYS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/17791.m3u8
 
 #EXTINF:-1,24/7 : CARRY ON
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65526.m3u8
 
+#EXTINF:-1,24/7 : THE BENNY HILL SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18490.m3u8
+
 #EXTINF:-1,24/7 : GREYS ANATOMY
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18507.m3u8
-
-#EXTINF:-1,24/7 : SANFORD AND SON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93486.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
 http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
