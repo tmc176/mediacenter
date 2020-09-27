@@ -26,7 +26,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7389
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3251.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/15119.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/91260.m3u8
