@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1,RIPLEYS AQUARIUM TORONTO SHARK TANK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93701.m3u8
+
 #EXTINF:-1,CANADA: WILD TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2200.m3u8
 #EXTINF:-1,VIP HD WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/53214.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/53214.m3u8
 #EXTINF:-1,VIP USA HD : Outdoor Channel
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/15360.m3u8
 #EXTINF:-1,VIP HD SPORTSMAN CHANNEL
