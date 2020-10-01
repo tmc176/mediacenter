@@ -20,10 +20,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3285.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3284.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/183
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7389
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/68
 
 #EXTINF:-1,CA031:FOX-EAST
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/15119.m3u8
@@ -44,7 +44,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3733.m3u8
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16216.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
 
 #EXTINF:-1,CA133:FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3252.m3u8
