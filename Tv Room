@@ -1,23 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1,CANADA: WILD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/379909.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/379909.m3u8
 #EXTINF:-1,VIP HD WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/308761.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308761.m3u8
 #EXTINF:-1,VIP USA HD : Outdoor Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/308818.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308818.m3u8
 #EXTINF:-1,VIP HD SPORTSMAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/308795.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308795.m3u8
 #EXTINF:-1,USA SD : Pursuit Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/354961.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/354961.m3u8
 #EXTINF:-1,US: FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/52917.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/52917.m3u8
 #EXTINF:-1,US: Longhorn Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/308859.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308859.m3u8
 #EXTINF:-1,US: Hunt Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5498.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5498.m3u8
 #EXTINF:-1,Hunt Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="USA",Gone Fishing
 https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
