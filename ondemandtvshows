@@ -1,78 +1,67 @@
 #EXTM3U
-#EXTINF:-1,24/7 : ALL IN THE FAMILY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18260.m3u8
+
+#EXTINF:-1,24/7  GOLDEN GIRLS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35154.m3u8
+
+#EXTINF:-1,24/7 GOMER PYLE (L)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99838.m3u8
 
 #EXTINF:-1,24/7 : LOONEY TUNES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18174.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38673.m3u8
 
-#EXTINF:-1,24/7 : BUGS BUNNY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/63660.m3u8
+#EXTINF:-1,24/7 GREEN ACRES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95904.m3u8
 
 #EXTINF:-1,24/7 : THE FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18177.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99829.m3u8
 
 #EXTINF:-1,24/7 : EVERYBODY LOVES RAYMOND
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16039.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/75500.m3u8
 
 #EXTINF:-1,24/7 : THE MUNSTERS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/17897.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95907.m3u8
 
-#EXTINF:-1,24/7 : THE ADDAMS FAMILY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65031.m3u8
+#EXTINF:-1,24/7 WKRP IN CINCINNATI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/85198.m3u8
 
-#EXTINF:-1,24/7 : GOOD TIMES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93362.m3u8
+#EXTINF:-1,24/7 THE MARY TYLER MOORE SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95913.m3u8
 
 #EXTINF:-1,24/7 : GILLIGAN'S ISLAND
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18506.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99836.m3u8
 
 #EXTINF:-1,24/7 : HAPPY DAYS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16183.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/58713.m3u8
 
-#EXTINF:-1,24/7 : GET SMART
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65470.m3u8
-
-#EXTINF:-1,24/7 : BARNEY MILLER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/63661.m3u8
-
-#EXTINF:-1,24/7 : BEWITCHED
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/62885.m3u8
+#EXTINF:-1,24/7 THAT 70s SHOW (L)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/108181.m3u8
 
 #EXTINF:-1,24/7 : SANFORD AND SON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93486.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99897.m3u8
 
 #EXTINF:-1,24/7 : THE BEVERLY HILLBILLIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65116.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35149.m3u8
 
-#EXTINF:-1,24/7 : THE ANDY GRIFFITH SHOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65522.m3u8
+#EXTINF:-1,24/7  HOGANS HEROES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35153.m3u8
 
-#EXTINF:-1,24/7 : THE BRADY BUNCH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/62660.m3u8
+#EXTINF:-1,24/7 NIGHT COURT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/89366.m3u8
 
-#EXTINF:-1,24/7 : THE HONEYMOONERS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18500.m3u8
+#EXTINF:-1,24/7 THE FRESH PRINCE OF BEL-AIR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38666.m3u8
 
 #EXTINF:-1,24/7 : THE JEFFERSONS
-http://185.232.53.5:2086/live/wickeduk/etqyhww45e/63734.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35148.m3u8
 
 #EXTINF:-1,24/7 : THE JETSONS
-http://185.232.53.5:2086/live/wickeduk/etqyhww45e/15264.m3u8
-
-#EXTINF:-1,24/7 : THE CAROL BURNETT SHOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/93396.m3u8
-
-#EXTINF:-1,24/7 : MRS BROWNS BOYS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/17791.m3u8
-
-#EXTINF:-1,24/7 : CARRY ON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65526.m3u8
-
-#EXTINF:-1,24/7 : THE BENNY HILL SHOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18490.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38645.m3u8
 
 #EXTINF:-1,24/7 : GREYS ANATOMY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/18507.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99840.m3u8
+
+#EXTINF:-1,24/7 THE CURSE OF OAK ISLAND (L)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99921.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
 http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
