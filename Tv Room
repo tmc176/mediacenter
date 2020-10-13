@@ -3,15 +3,15 @@
 #EXTINF:-1,CANADA: WILD TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/379909.m3u8
 #EXTINF:-1,VIP HD WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/30261.m3u8
-#EXTINF:-1,VIP USA HD : Outdoor Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/26029.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18549
 #EXTINF:-1,VIP HD SPORTSMAN CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109205.m3u8
 #EXTINF:-1,USA SD : Pursuit Channel
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/97636.m3u8
-#EXTINF:-1,OUTSIDE TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38436.m3u8
+#EXTINF:-1,US: Outdoor Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18449
+#EXTINF:-1,US: Outside TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18551
 #EXTINF:-1,Hunt Channel
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95939.m3u8
 
