@@ -119,11 +119,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:82
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/32
 #EXTINF:-1,VIP USA HD : Hallmark Movies & Mysteries
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
-#EXTINF:-1,|CA| CRAVE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39324.m3u8
-#EXTINF:-1,|CA| CRAVE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39325.m3u8
-#EXTINF:-1,|CA| CRAVE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39326.m3u8
-#EXTINF:-1,|CA| CRAVE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39327.m3u8
+#EXTINF:-1,CA: Crave 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67368
+#EXTINF:-1,CA: Crave 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67369
+#EXTINF:-1,CA: Crave 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67370
+#EXTINF:-1,CA: Crave 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67371
