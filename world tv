@@ -1,46 +1,46 @@
 #EXTM3U
 
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374310.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36925.m3u8
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/3546.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36855.m3u8
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/332733.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36848.m3u8
 
 #EXTINF:-1,CA118:CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/331998.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36917.m3u8
 
 #EXTINF:-1,CA137:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374337.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36811.m3u8
 
 #EXTINF:-1,CA001:ABC-SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/3390.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36884.m3u8
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38699.m3u8
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/77486.m3u8
 
 #EXTINF:-1,CA031:FOX-EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/3417.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/77484.m3u8
 
 #EXTINF:-1,CA199:NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308843.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/77485.m3u8
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374376.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36764.m3u8
 
 #EXTINF:-1,CA099:CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374382.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36927.m3u8
 
 #EXTINF:-1,CA021:CTV-NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374323.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36916.m3u8
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36921.m3u8
 
 #EXTINF:-1,CA013:CNN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
@@ -55,7 +55,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11
 
 #EXTINF:-1,CA | HGTV | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/306169.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36901.m3u8
 
 #EXTINF:-1,US | HGTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/23
@@ -85,46 +85,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/47
 
 #EXTINF:-1,CANADA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/306084.m3u8
-#EXTINF:-1,|CA| CRAVE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39324.m3u8
-#EXTINF:-1,|CA| CRAVE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39325.m3u8
-#EXTINF:-1,|CA| CRAVE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39326.m3u8
-#EXTINF:-1,|CA| CRAVE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39327.m3u8
-
-#EXTINF:-1,NETFLIX ACTION
-http://178.63.48.23:25461/netott/nFu0mOB8pm/63
-#EXTINF:-1,Netflix Comedy
-http://178.63.48.23:25461/netott/nFu0mOB8pm/65
-#EXTINF:-1,NETFLIX ARABIC
-http://178.63.48.23:25461/netott/nFu0mOB8pm/66
-#EXTINF:-1,NETFLIX KIDS
-http://178.63.48.23:25461/netott/nFu0mOB8pm/67
-#EXTINF:-1,NETFLIX ASIA
-http://178.63.48.23:25461/netott/nFu0mOB8pm/68
-#EXTINF:-1,NETFLIX Thriller
-http://178.63.48.23:25461/netott/nFu0mOB8pm/69
-#EXTINF:-1,SHAHID ACTION
-http://178.63.48.23:25461/netott/nFu0mOB8pm/80
-#EXTINF:-1,SHAHID Horror
-http://178.63.48.23:25461/netott/nFu0mOB8pm/160
-#EXTINF:-1,SHAHID ACTION
-http://178.63.48.23:25461/netott/nFu0mOB8pm/161
-#EXTINF:-1,SHAHID Thriller
-http://178.63.48.23:25461/netott/nFu0mOB8pm/162
-#EXTINF:-1,SHAHID COMEDY
-http://178.63.48.23:25461/netott/nFu0mOB8pm/163
-#EXTINF:-1,SHAHID ARABIC
-http://178.63.48.23:25461/netott/nFu0mOB8pm/164
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36760.m3u8
 
 #EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/306116.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36891.m3u8
 
 #EXTINF:-1,CA | SMITHSONIAN CHANNEL | HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/326616.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36776.m3u8
 
 #EXTINF:-1,US: SMITHSONIAN
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/310775.m3u8
@@ -133,7 +100,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27
 
 #EXTINF:-1,US : LIFETIME FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374347.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36898.m3u8
 
 #EXTINF:-1,VIP USA HD : Hallmark Drama
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308882.m3u8
@@ -141,3 +108,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/32
 #EXTINF:-1,VIP USA HD : Hallmark Movies & Mysteries
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
+#EXTINF:-1,|CA| CRAVE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39324.m3u8
+#EXTINF:-1,|CA| CRAVE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39325.m3u8
+#EXTINF:-1,|CA| CRAVE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39326.m3u8
+#EXTINF:-1,|CA| CRAVE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39327.m3u8
