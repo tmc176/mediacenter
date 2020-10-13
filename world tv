@@ -101,9 +101,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 
 #EXTINF:-1,US : LIFETIME FHD 1080
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36898.m3u8
-
-#EXTINF:-1,VIP USA HD : Hallmark Drama
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308882.m3u8
+#EXTINF:-1,LIFETIME MOVIE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/2514.m3u8
+#EXTINF:-1,HALLMARK CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1375.m3u8
+#EXTINF:-1,HALLMARK CHANNEL Low
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109164.m3u8
+#EXTINF:-1,HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38591.m3u8
+#EXTINF:-1,HALLMARK DRAMA Low
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109163.m3u8
+#EXTINF:-1,HALLMARK MOVIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1611.m3u8
+#EXTINF:-1,HALLMARK MOVIES Low
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109165.m3u8
 #EXTINF:-1,VIP HD HALLMARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/32
 #EXTINF:-1,VIP USA HD : Hallmark Movies & Mysteries
