@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,US076:TNT-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21762
-
-EXTINF:-1,US079:USA-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/34
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPTTAqQ.png" group-title="USA",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
@@ -17,6 +11,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5kRPjAM.png" group-title="USA",Capitol Wrestling
 https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/index.m3u8
+
+#EXTINF:-1,US076:TNT-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21762
+
+EXTINF:-1,US079:USA-Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/34
 
 #EXTINF:-1,'UFC Fight Pass HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/102578.m3u8
