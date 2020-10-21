@@ -1,32 +1,154 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPTTAqQ.png" group-title="USA",WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,WWE Network HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67506
-
-#EXTINF:-1,WWE Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3653
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5kRPjAM.png" group-title="USA",Capitol Wrestling
-https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/index.m3u8
-
-#EXTINF:-1,US076:TNT-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21762
-
-EXTINF:-1,US079:USA-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/34
-
-#EXTINF:-1,'UFC Fight Pass HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/102578.m3u8
-
-#EXTINF:-1,UFC NIGHT PASS 24/7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/33843.m3u8
-
-#EXTINF:-1,FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67291
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="USA",Fighting Spirit (New!)
-https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+#EXTINF:-1,US : ABC (WABC-NEW YORK NY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90336
+#EXTINF:-1,US : A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13558
+#EXTINF:-1,US : A&E FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64160
+#EXTINF:-1,US : AMC
+http://185.232.53.5:2086/gennaro/gennaro/562
+#EXTINF:-1,US : AMC FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64158
+#EXTINF:-1,US : BRAVO
+http://185.232.53.5:2086/gennaro/gennaro/315
+#EXTINF:-1,US : BRAVO FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64147
+#EXTINF:-1,US : CARTOON NETWORK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64139
+#EXTINF:-1,US : CBS (WCBS- New York NY)
+http://185.232.53.5:2086/gennaro/gennaro/90366
+#EXTINF:-1,US : CMT
+http://185.232.53.5:2086/gennaro/gennaro/13745
+#EXTINF:-1,US : CMT FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64143
+#EXTINF:-1,US : CNN
+http://185.232.53.5:2086/gennaro/gennaro/260
+#EXTINF:-1,US : CNN FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64140
+#EXTINF:-1,US : COMEDY CENTRAL
+http://185.232.53.5:2086/gennaro/gennaro/257
+#EXTINF:-1,US : COMEDY CENTRAL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64135
+#EXTINF:-1,US : CW
+http://185.232.53.5:2086/gennaro/gennaro/319
+#EXTINF:-1,US : DISCOVERY CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/255
+#EXTINF:-1,US : DISCOVERY CHANNEL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64162
+#EXTINF:-1,US : DISNEY CHANNEL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64131
+#EXTINF:-1,US : DISNEY JUNIOR FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64130
+#EXTINF:-1,US : DISNEY XD FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64129
+#EXTINF:-1,US : DIY NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/13568
+#EXTINF:-1,US : DIY NETWORK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64133
+#EXTINF:-1,US : FOOD NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/195
+#EXTINF:-1,US : FOOD NETWORK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64114
+#EXTINF:-1,US : FOX (WUTV Buffalo NY)
+http://185.232.53.5:2086/gennaro/gennaro/91138
+#EXTINF:-1,US : FOX NEWS CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/252
+#EXTINF:-1,US : FOX NEWS CHANNEL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64112
+#EXTINF:-1,US : FX
+http://185.232.53.5:2086/gennaro/gennaro/324
+#EXTINF:-1,US : FX MOVIE CHANNEL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64117
+#EXTINF:-1,US : FXM
+http://185.232.53.5:2086/gennaro/gennaro/1271
+#EXTINF:-1,US : FXX
+http://185.232.53.5:2086/gennaro/gennaro/323
+#EXTINF:-1,US : FXX FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64116
+#EXTINF:-1,US : HALLMARK CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/341
+#EXTINF:-1,US : HALLMARK CHANNEL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64099
+#EXTINF:-1,US : HALLMARK DRAMA
+http://185.232.53.5:2086/gennaro/gennaro/14869
+#EXTINF:-1,US : HALLMARK DRAMA FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64097
+#EXTINF:-1,US : HALLMARK MOVIES
+http://185.232.53.5:2086/gennaro/gennaro/14947
+#EXTINF:-1,US : HALLMARK MOVIES & MYSTERIES FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64098
+#EXTINF:-1,US : HBO 2
+http://185.232.53.5:2086/gennaro/gennaro/14949
+#EXTINF:-1,US : HBO COMEDY
+http://185.232.53.5:2086/gennaro/gennaro/15470
+#EXTINF:-1,US : HBO EAST
+http://185.232.53.5:2086/gennaro/gennaro/14948
+#EXTINF:-1,US : HBO EAST FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64104
+#EXTINF:-1,US : HBO FAMILY
+http://185.232.53.5:2086/gennaro/gennaro/172
+#EXTINF:-1,US : HBO FAMILY EAST FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64103
+#EXTINF:-1,US : HGTV
+http://185.232.53.5:2086/gennaro/gennaro/4212
+#EXTINF:-1,US : HGTV FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64101
+#EXTINF:-1,US : HISTORY
+http://185.232.53.5:2086/gennaro/gennaro/251
+#EXTINF:-1,US : HISTORY CHANNEL FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64096
+#EXTINF:-1,US : LIFETIME
+http://185.232.53.5:2086/gennaro/gennaro/15491
+#EXTINF:-1,US : LIFETIME FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64093
+#EXTINF:-1,US : LIFETIME MOVIE NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/338
+#EXTINF:-1,US : LIFETIME MOVIE NETWORK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64092
+#EXTINF:-1,US : NBC (WGRZ - Buffalo NY)
+http://185.232.53.5:2086/gennaro/gennaro/90669
+#EXTINF:-1,US : ME TV
+http://185.232.53.5:2086/gennaro/gennaro/15539
+#EXTINF:-1,US : NICK JUNIOR FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64081
+#EXTINF:-1,US : NICK TOONS FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64079
+#EXTINF:-1,US : NICKELODEON EAST FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64080
+#EXTINF:-1,US : SYFY
+http://185.232.53.5:2086/gennaro/gennaro/245
+#EXTINF:-1,US : SYFY FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64037
+#EXTINF:-1,US : TBS
+http://185.232.53.5:2086/gennaro/gennaro/301
+#EXTINF:-1,US : TBS FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64036
+#EXTINF:-1,US : TEEN NICK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64030
+#EXTINF:-1,US : TLC
+http://185.232.53.5:2086/gennaro/gennaro/119
+#EXTINF:-1,US : TLC FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64034
+#EXTINF:-1,US : TNT EAST
+http://185.232.53.5:2086/gennaro/gennaro/298
+#EXTINF:-1,US : TNT FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64033
+#EXTINF:-1,US : TV LAND
+http://185.232.53.5:2086/gennaro/gennaro/325
+#EXTINF:-1,US : TV LAND FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64032
+#EXTINF:-1,US : TV ONE
+http://185.232.53.5:2086/gennaro/gennaro/5987
+#EXTINF:-1,US : TV ONE FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64031
+#EXTINF:-1,US : USA NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/242
+#EXTINF:-1,US : USA NETWORK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64025
+#EXTINF:-1,US : WE TV
+http://185.232.53.5:2086/gennaro/gennaro/470
+#EXTINF:-1,US : WE TV FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64021
+#EXTINF:-1,US : YES NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/1673
 
