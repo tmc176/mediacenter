@@ -21,7 +21,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://edge1.d
 #EXTINF:-1,US : OUTDOOR CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/15360
 #EXTINF:-1,US : PURSUIT CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/21948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/21948
 #EXTINF:-1,US : PURSUIT CHANNEL FHD 1080
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64066
 #EXTINF:-1,US : WORLD FISHING NETWORK
