@@ -4,9 +4,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rahal-pr
 #EXTINF:-1,US : A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rahal-pro.net:8080/IbrahimMalouk/683203665/69442
 #EXTINF:-1,US : A&E FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64160
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/32756.m3u8
 #EXTINF:-1,US : AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/562
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/32712.m3u8
 #EXTINF:-1,US : AMC FHD 1080
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64158
 #EXTINF:-1,US : BRAVO
