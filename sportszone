@@ -2,9 +2,9 @@
 #EXTINF:-1,-- US | USA --
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/9562.m3u8
 #EXTINF:-1,USA | ABC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/9511.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/9511.m3u8
 #EXTINF:-1,USA | ABC NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/9441.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/9441
 #EXTINF:-1,USA | AMC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/9502.m3u8
 #EXTINF:-1,USA | BRAVO
