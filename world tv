@@ -15,10 +15,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 #EXTINF:-1,CA106:CITY TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67309
 
-#EXTINF:-1,CA118:CTV TORONTO
+#EXTINF:-1,CA118:CTV Canada
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67303
 
-#EXTINF:-1,CA137:GLOBAL TORONTO
+#EXTINF:-1,CA137:GLOBAL TV TORONTO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67289
 
 #EXTINF:-1,CA001:ABC-SPARK
