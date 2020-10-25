@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Coronavirus Pandemic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42518
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16240?checkedby:hlscat.com
 
 #EXTINF:-1,US: Coronavirus Outbreak
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42519
