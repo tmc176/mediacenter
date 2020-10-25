@@ -1,473 +1,215 @@
 #EXTM3U
-#EXTINF:-1,UK: ALIBI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3452
-#EXTINF:-1,UK: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3188
-#EXTINF:-1,UK: BBC 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39727
-#EXTINF:-1,UK: BBC 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39726
-#EXTINF:-1,UK: BBC 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3447
-#EXTINF:-1,UK: BBC 4 FHD /CBEEBIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39724
-#EXTINF:-1,UK: BBC NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39723
-#EXTINF:-1,UK: BET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3185
-#EXTINF:-1,UK: Blaze
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3177
-#EXTINF:-1,UK: CBBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3174
-#EXTINF:-1,UK: CBS Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3191
-#EXTINF:-1,UK: CBS Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3444
-#EXTINF:-1,UK: CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3425
-#EXTINF:-1,UK: Challenge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3443
-#EXTINF:-1,UK: Channel 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3190
-#EXTINF:-1,UK: CHANNEL 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39721
-#EXTINF:-1,UK: Channel 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3388
-#EXTINF:-1,UK: CHANNEL 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39720
-#EXTINF:-1,UK: Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3428
-#EXTINF:-1,UK: Crime & Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3196
-#EXTINF:-1,UK: Dave TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42048
-#EXTINF:-1,UK: Daystar FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42371
-#EXTINF:-1,UK: Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41570
-#EXTINF:-1,UK: Discovery History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41571
-#EXTINF:-1,UK: Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41572
-#EXTINF:-1,UK: Discovery Shed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41578
-#EXTINF:-1,UK: Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41577
-#EXTINF:-1,UK: Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3442
-#EXTINF:-1,UK: DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3195
-#EXTINF:-1,UK: E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3200
-#EXTINF:-1,UK: E4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42366
-#EXTINF:-1,UK: Eden FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42373
-#EXTINF:-1,UK: Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3368
-#EXTINF:-1,UK: Fox FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42365
-#EXTINF:-1,UK: GOLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3416
-#EXTINF:-1,UK: Good Food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42370
-#EXTINF:-1,UK: H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3165
-#EXTINF:-1,UK: History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3164
-#EXTINF:-1,UK: Home & Health
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3163
-#EXTINF:-1,UK: Love Nature FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42372
-#EXTINF:-1,UK: ITV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3207
-#EXTINF:-1,UK: ITV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39718
-#EXTINF:-1,UK: ITV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3206
-#EXTINF:-1,UK: ITV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39717
-#EXTINF:-1,UK: ITV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3205
-#EXTINF:-1,UK: ITV 3  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39716
-#EXTINF:-1,UK: ITV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3204
-#EXTINF:-1,UK: ITV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39715
-#EXTINF:-1,UK: ITV BE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3203
-#EXTINF:-1,UK: ITV BE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39719
-#EXTINF:-1,UK: More4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3382
-#EXTINF:-1,UK: Movies4men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3422
-#EXTINF:-1,UK: Movies 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3381
-#EXTINF:-1,UK: MTV BASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3158
-#EXTINF:-1,UK: MTV CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3157
-#EXTINF:-1,UK: MTV DANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3156
-#EXTINF:-1,UK: MTV Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3372
-#EXTINF:-1,UK: MTV MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3155
-#EXTINF:-1,UK: MTV ROCKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3154
-#EXTINF:-1,UK: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3433
-#EXTINF:-1,UK: National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3377
-#EXTINF:-1,UK: Pick TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3387
-#EXTINF:-1,UK: Quest HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3385
-#EXTINF:-1,UK: QVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/36329
-#EXTINF:-1,UK: QVC Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/36613
-#EXTINF:-1,UK: QVC Style
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/36614
-#EXTINF:-1,UK: Really
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3389
-#EXTINF:-1,UK: RTE ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3435
-#EXTINF:-1,UK : RTE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/39730
-#EXTINF:-1,UK: RTE TWO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3436
-#EXTINF:-1,UK: Smithsonian FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42369
-#EXTINF:-1,UK: Sky Atlantic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3390
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3431
-#EXTINF:-1,UK: Sky Witness FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/22830
-#EXTINF:-1,UK: SONY Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3421
-#EXTINF:-1,UK: STV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3138
-#EXTINF:-1,UK: SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3411
-#EXTINF:-1,UK: S4C HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3146
-#EXTINF:-1,UK: TG 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3412
-#EXTINF:-1,UK: Tiny Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3137
-#EXTINF:-1,UK: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3413
-#EXTINF:-1,UK: Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3136
-#EXTINF:-1,UK: TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3189
-#EXTINF:-1,UK: UTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42368
-#EXTINF:-1,UK: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3417
-#EXTINF:-1,UK: W
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42367
-#EXTINF:-1,UK: Yesterday
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3439
-#EXTINF:-1,UK: ZEE CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3186
-#EXTINF:-1,UK: ZEE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3182
-#EXTINF:-1,UK: 4 Seven HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3454
-#EXTINF:-1,UK: 5Star HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3453
-#EXTINF:-1,UK: 3E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3181
-#EXTINF:-1,UK: 5 USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3448
-#EXTINF:-1,UK: Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42117
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42111
-#EXTINF:-1,UK: Sky Cinema Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42118
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/22962
-#EXTINF:-1,UK: Sky Cinema Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42113
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42112
-#EXTINF:-1,UK: Sky Cinema Greats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42116
-#EXTINF:-1,UK: Sky Cinema Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42115
-#EXTINF:-1,UK: Sky Cinema Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42114
-#EXTINF:-1,UK: Sky Cinema Premiere +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42122
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42121
-#EXTINF:-1,UK: Sky Cinema Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42120
-#EXTINF:-1,UK: Sky Cinema Superheroes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42119
-#EXTINF:-1,UK: BT Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3399
-#EXTINF:-1,UK: BT Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3398
-#EXTINF:-1,UK: BT Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3397
-#EXTINF:-1,UK: BT Sports ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3396
-#EXTINF:-1,US: Showtime (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/8186
-#EXTINF:-1,US: Showtime (East backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19846
-#EXTINF:-1,US: Showtime (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41400
-#EXTINF:-1,US: Showtime 2 HD (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5883
-#EXTINF:-1,US: Showtime 2 (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42398
-#EXTINF:-1,US: Showtime 2 (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42399
-#EXTINF:-1,US: Showtime Beyond (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42400
-#EXTINF:-1,US: Showtime Beyond (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42401
-#EXTINF:-1,US: Showtime Extreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19666
-#EXTINF:-1,US: Showtime Family Zone (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42402
-#EXTINF:-1,US: Showtime Family Zone (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42403
-#EXTINF:-1,US: Showtime Next (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42404
-#EXTINF:-1,US: Showtime Next (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42405
-#EXTINF:-1,US: Showtime Showcase HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19664
-#EXTINF:-1,US: Showtime Women (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42406
-#EXTINF:-1,US: Showtime Women (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42407
-#EXTINF:-1,US: HBO  (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21761
-#EXTINF:-1,US: HBO  (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42548
-#EXTINF:-1,US: HBO  (backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19658
-#EXTINF:-1,US: HBO 2 (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42045
-#EXTINF:-1,US: HBO 2 (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42549
-#EXTINF:-1,US: HBO Comedy (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5879
-#EXTINF:-1,US: HBO Comedy (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42550
-#EXTINF:-1,US: HBO Family (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41405
-#EXTINF:-1,US: HBO Signature (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42390
-#EXTINF:-1,US: HBO Zone (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42394
-#EXTINF:-1,US: Starz HD (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41398
-#EXTINF:-1,US: Starz Cinema (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42416
-#EXTINF:-1,US: Starz Comedy (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42418
-#EXTINF:-1,US: Starz Kids & Family (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41388
-#EXTINF:-1,US: Starz Edge (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42420
-#EXTINF:-1,US: Starz Encore (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42422
-#EXTINF:-1,US: Starz Encore Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41393
-#EXTINF:-1,US: Starz Encore Black (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42426
-#EXTINF:-1,US: Starz Encore Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41392
-#EXTINF:-1,US: Starz Encore Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41391
-#EXTINF:-1,US: Starz Encore Suspense
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41390
-#EXTINF:-1,US: Starz Encore Westerns
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/25047
-#EXTINF:-1,US: Starz in Black
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41389
-#EXTINF:-1,US: Cinemax HD (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19847
-#EXTINF:-1,US: CineMAX (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42383
-#EXTINF:-1,US: Cinemax Moremax HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19655
-#EXTINF:-1,US: ActionMAX (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42381
-#EXTINF:-1,US: ActionMAX (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42382
-#EXTINF:-1,US: MovieMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42387
-#EXTINF:-1,US: OuterMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42388
-#EXTINF:-1,US: Thriller MAX (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42385
-#EXTINF:-1,US: Thriller MAX (West)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42386
-#EXTINF:-1,US: 5 StarMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42389
-#EXTINF:-1,US: Sony Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19725
-#EXTINF:-1,US: EPIX HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5874
-#EXTINF:-1,US: EPIX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/40915
-#EXTINF:-1,US: Epix Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/40890
-#EXTINF:-1,US: Baby First
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42095
-#EXTINF:-1,US: Nick Toons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41569
-#EXTINF:-1,US: PBS Kids (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/37916
-#EXTINF:-1,US: Teen Nick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42089
-#EXTINF:-1,US: Universal Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3658
-#EXTINF:-1,US: Universal Kids (sprout)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/17210
-#EXTINF:-1,UK: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3176
-#EXTINF:-1,UK: Cbeebies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3131
-#EXTINF:-1,UK: Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3410
-#EXTINF:-1,UK: Disney Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3194
-#EXTINF:-1,UK: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3168
-#EXTINF:-1,UK: Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3380
-#EXTINF:-1,UK: Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3378
-#EXTINF:-1,UK: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3384
-#EXTINF:-1,UK: Nick Toons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3434
-#EXTINF:-1,UK: RTE jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3148
-#EXTINF:-1,US: A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/12213
-#EXTINF:-1,US: Adult Swim (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/40887
-#EXTINF:-1,US: AHC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19747
-#EXTINF:-1,US: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11541
-#EXTINF:-1,US: Animal Planet (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41576
-#EXTINF:-1,US: BBC America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3683
-#EXTINF:-1,US: Bravo (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/4201
-#EXTINF:-1,US: Comedy Central (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11665
-#EXTINF:-1,US: COMET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/40918
-#EXTINF:-1,US: Cozi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/7372
-#EXTINF:-1,US: CRIME & INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/22428
-#EXTINF:-1,US: Destination America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19684
-#EXTINF:-1,US: Discovery Ch (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41543
-#EXTINF:-1,US: Discovery Family HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3676
-#EXTINF:-1,US: Discovery Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41564
-#EXTINF:-1,US: Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41563
-#EXTINF:-1,US: DIY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3673
-#EXTINF:-1,US: E! (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3680
-#EXTINF:-1,US: FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41406
-#EXTINF:-1,US: Food Network (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11552
-#EXTINF:-1,US: Freeform HD (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41558
-#EXTINF:-1,US: Fuse HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/15161
-#EXTINF:-1,US: Fusion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3666
-#EXTINF:-1,US: FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3668
-#EXTINF:-1,US: FX Movie Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19682
-#EXTINF:-1,US: FXX HD East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3667
-#EXTINF:-1,US: FYI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5876
-#EXTINF:-1,US: HGTV (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5881
-#EXTINF:-1,US: History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11671
-#EXTINF:-1,US: H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19659
-#EXTINF:-1,US: ID (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41627
-#EXTINF:-1,US: IFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3663
-#EXTINF:-1,US: Ovation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41402
-#EXTINF:-1,US: OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19661
-#EXTINF:-1,US: Oxygen HD (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3672
-#EXTINF:-1,US: Paramount Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19662
-#EXTINF:-1,US: People TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19727
-#EXTINF:-1,US: Smithsonian Ch (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/22939
-#EXTINF:-1,US: Sundance HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19676
-#EXTINF:-1,US: SYFY (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11536
-#EXTINF:-1,US: TBS (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11537
-#EXTINF:-1,US: TCM (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19670
-#EXTINF:-1,US: TLC (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5892
-#EXTINF:-1,US: TNT (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21762
-#EXTINF:-1,US: Travel Ch (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3655
-#EXTINF:-1,US: Tru TV (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11540
-#EXTINF:-1,US: TV LAND (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41554
-#EXTINF:-1,US: TV ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18451
-#EXTINF:-1,US: USA Network (East)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/40925
-#EXTINF:-1,US: Viceland HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3734
-#EXTINF:-1,US: WE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3654
-#EXTINF:-1,US:  WE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/40926
-#EXTINF:-1,US: CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11664
-#EXTINF:-1,US: Fox News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21783
-#EXTINF:-1,US: HLN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19680
-#EXTINF:-1,Coronavirus Pandemic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/42518
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=#EXTINF:-1,US: Coronavirus Outbreak
-http://ingrid.ltd:25461/Cc1/Cc1/42519
+#EXTINF:-1,|UK| ITV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24237
+#EXTINF:-1,|UK| ITV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24239
+#EXTINF:-1,|UK| ITV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24241
+#EXTINF:-1,|UK| ITV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24243
+#EXTINF:-1,|UK| ITV BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26049
+#EXTINF:-1,|UK| ITV London
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24235
+#EXTINF:-1,|UK| SKY Cinema Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24200
+#EXTINF:-1,|UK| SKY Cinema Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24203
+#EXTINF:-1,|UK| SKY Cinema Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24205
+#EXTINF:-1,|UK| SKY Cinema Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24207
+#EXTINF:-1,|UK| SKY Cinema Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24209
+#EXTINF:-1,|UK| SKY Cinema Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24211
+#EXTINF:-1,|UK| SKY Cinema Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24215
+#EXTINF:-1,|UK| SKY Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24217
+#EXTINF:-1,|UK| SKY Cinema Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24219
+#EXTINF:-1,|UK| SKY Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24221
+#EXTINF:-1,|UK| BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24169
+#EXTINF:-1,|UK| BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24171
+#EXTINF:-1,|UK| BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24173
+#EXTINF:-1,|UK| BT Sport ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24175
+#EXTINF:-1,|UK| SKY Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24147
+#EXTINF:-1,|UK| SKY Sports Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24149
+#EXTINF:-1,|UK| SKY Sports Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24151
+#EXTINF:-1,|UK| SKY Sports Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24153
+#EXTINF:-1,|UK| SKY Sports Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24156
+#EXTINF:-1,|UK| SKY Sports Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24157
+#EXTINF:-1,|UK| SKY Sports NFL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24159
+#EXTINF:-1,|UK| SKY Sports Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24161
+#EXTINF:-1,|UK| SKY Sports Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24163
+#EXTINF:-1,|UK| SKY Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24165
+#EXTINF:-1,|UK| SKY Sports Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24167
+#EXTINF:-1,|UK| Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26041
+#EXTINF:-1,|UK| BBC Alba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26039
+#EXTINF:-1,|UK| BBC Scotland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26038
+#EXTINF:-1,|UK| TG4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26034
+#EXTINF:-1,|UK| UTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26027
+#EXTINF:-1,|UK| SKY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26025
+#EXTINF:-1,|UK| 5 Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26024
+#EXTINF:-1,|UK| 5 Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26023
+#EXTINF:-1,|UK| 5 USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26022
+#EXTINF:-1,|UK| BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26021
+#EXTINF:-1,|UK| CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26018
+#EXTINF:-1,|UK| CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26017
+#EXTINF:-1,|UK| Challenge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26016
+#EXTINF:-1,|UK| Dmax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26015
+#EXTINF:-1,|UK| Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26014
+#EXTINF:-1,|UK| Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26013
+#EXTINF:-1,|UK| More 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26012
+#EXTINF:-1,|UK| Sony Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26011
+#EXTINF:-1,|UK| PBS America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26010
+#EXTINF:-1,|UK| Comedy Central Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26000
+#EXTINF:-1,|UK| E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25999
+#EXTINF:-1,|UK| SKY Cinema Animation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25997
+#EXTINF:-1,|UK| AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25996
+#EXTINF:-1,|UK| Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25980
+#EXTINF:-1,|UK| Discovery H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25979
+#EXTINF:-1,|UK| Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25978
+#EXTINF:-1,|UK| Discovery Shed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25977
+#EXTINF:-1,|UK| Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25976
+#EXTINF:-1,|UK| Crime Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25974
+#EXTINF:-1,|UK| Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25972
+#EXTINF:-1,|UK| Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25971
+#EXTINF:-1,|UK| RTE ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25573
+#EXTINF:-1,|UK| RTE TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25572
+#EXTINF:-1,|UK| Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25570
+#EXTINF:-1,|UK| Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25559
+#EXTINF:-1,|UK| TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24222
+#EXTINF:-1,|UK| Film 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24223
+#EXTINF:-1,|UK| BBC One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24230
+#EXTINF:-1,|UK| BBC Two HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24232
+#EXTINF:-1,|UK| BBC Four HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24234
+#EXTINF:-1,|UK| Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24248
+#EXTINF:-1,|UK| Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24250
+#EXTINF:-1,|UK| Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24255
+#EXTINF:-1,|UK| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24262
+#EXTINF:-1,|UK| FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24267
+#EXTINF:-1,|UK| Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24268
+#EXTINF:-1,|UK| Dave HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24278
+#EXTINF:-1,|UK| 4 Seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24286
+#EXTINF:-1,|UK| E4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24289
+#EXTINF:-1,|UK| Alibi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24291
+#EXTINF:-1,|UK| Sony Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24304
+#EXTINF:-1,|UK| Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24305
+#EXTINF:-1,|UK| Pick TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24311
+#EXTINF:-1,|UK| Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24315
+#EXTINF:-1,|UK| Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24324
+#EXTINF:-1,|UK| Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24326
+#EXTINF:-1,|UK| Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24328
+#EXTINF:-1,|UK| History 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24330
+#EXTINF:-1,|UK| History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24332
+#EXTINF:-1,|UK| Eden HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24333
+#EXTINF:-1,|UK| TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24337
+#EXTINF:-1,|UK| Quest HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24339
+#EXTINF:-1,|UK| SKY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24344
+#EXTINF:-1,|UK| Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24348
+#EXTINF:-1,|UK| Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24349
+#EXTINF:-1,|UK| Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24350
+#EXTINF:-1,|UK| Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24352
+#EXTINF:-1,|UK| Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24354
+#EXTINF:-1,|UK| Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24356
+#EXTINF:-1,|UK| Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24358
+#EXTINF:-1,|UK| Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24360
+#EXTINF:-1,|UK| Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24362
+#EXTINF:-1,|UK| CBBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24363
+#EXTINF:-1,|UK| CBeebies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24364
+#EXTINF:-1,|UK| Tiny Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24368
+#EXTINF:-1,|UK| CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24377
