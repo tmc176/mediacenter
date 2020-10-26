@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,US : A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13558
 #EXTINF:-1,US : A&E FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64160
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64160
 #EXTINF:-1,US : ABC (KABC-LA SO CAL)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90326
 #EXTINF:-1,US : ABC (KATC-LAFAYETTE LA)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98673
-#EXTINF:-1,US : ABC (KDNL-ST. LOUIS MO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90327
+#EXTINF:-1,US : ABC (WABC-NEW YORK NY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90336
 
 
 
