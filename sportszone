@@ -1,701 +1,283 @@
 #EXTM3U
-#EXTINF:-1,US: USA Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1096
-#EXTINF:-1,US: SPIKE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1092
-#EXTINF:-1,US: NICKELODEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1076
-#EXTINF:-1,US: National Geographic
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1095
-#EXTINF:-1,US: HALLMARK
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1098
-#EXTINF:-1,US: H2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1099
-#EXTINF:-1,US: FX HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1075
-#EXTINF:-1,US: Food Network HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1079
-#EXTINF:-1,US: DIY Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1100
-#EXTINF:-1,US: Discovery Science HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1080
-#EXTINF:-1,US: Cinemax East
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1101
-#EXTINF:-1,US: Cinemax ActionMax East
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1102
-#EXTINF:-1,US: Cinemax 5 StarMax
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1103
-#EXTINF:-1,US: Bein Sports USA HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1104
-#EXTINF:-1,US: FIGHT SPORT
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2277
-#EXTINF:-1,US: TSN 5
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/96
-#EXTINF:-1,US: TSN 4 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/95
-#EXTINF:-1,US: TSN 3*
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/94
-#EXTINF:-1,US: CA | TSN 2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/93
-#EXTINF:-1,US: TSN 1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/92
-#EXTINF:-1,US: Sportsnet 360 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/97
-#EXTINF:-1,US: TBS HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/138
-#EXTINF:-1,US: NHL Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3474
-#EXTINF:-1,US: MLB Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3477
-#EXTINF:-1,US: Fox SPORTS 506 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4009
-#EXTINF:-1,US: ESPN 2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/121
-#EXTINF:-1,US: CNN HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/142
-#EXTINF:-1,US: CINEMAX ACTION HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4010
-#EXTINF:-1,US: ANIMAL PLANET HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/132
-#EXTINF:-1,US: NICKELODEN HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/891
-#EXTINF:-1,US: NFL Network 1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5724
-#EXTINF:-1,US: Boomerang
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5762
-#EXTINF:-1,US: Cinemax East HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5795
-#EXTINF:-1,US: Cinemax MoreMax
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5796
-#EXTINF:-1,US: HGTV HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5794
-#EXTINF:-1,US: OUTDOOR CHANNEL HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5756
-#EXTINF:-1,US: NBC
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6621
-#EXTINF:-1,US: Bloomberg TV FHD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6978
-#EXTINF:-1,US: MY9 TV
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7156
-#EXTINF:-1,US: Yes Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7149
-#EXTINF:-1,US: CNN US HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7254
-#EXTINF:-1,US: ESPN News HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7255
-#EXTINF:-1,US: ESPN U HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7256
-#EXTINF:-1,US: Lifetime Movie Network HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7259
-#EXTINF:-1,US: WGN America HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7260
-#EXTINF:-1,US: WWE HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2
-#EXTINF:-1,US: TLC HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/86
-#EXTINF:-1,US: NFL Network HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/90
-#EXTINF:-1,US: NBCSNHD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/98
-#EXTINF:-1,US: Fox Sports 2 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/13
-#EXTINF:-1,US: Fox Sports 1 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/14
-#EXTINF:-1,US: ESPN
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/189
-#EXTINF:-1,US: A&E HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/50
-#EXTINF:-1,US: TNT HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/122
-#EXTINF:-1,US: SYFY HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/124
-#EXTINF:-1,US: USA Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/892
-#EXTINF:-1,US: Investigation Discovery
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3486
-#EXTINF:-1,US: HISTORY HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/895
-#EXTINF:-1,US: FOX NEWS HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/127
-#EXTINF:-1,US: ESPN HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/129
-#EXTINF:-1,US: CW HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/140
-#EXTINF:-1,US: COMEDY CENTRAL HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/141
-#EXTINF:-1,US: CBS
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/131
-#EXTINF:-1,US: BRAVO HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/128
-#EXTINF:-1,US: ABC HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/136
-#EXTINF:-1,US: Starz Encore
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3487
-#EXTINF:-1,US: Starz Etas
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3488
-#EXTINF:-1,US: Starz Comedy
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3489
-#EXTINF:-1,US: Starz Cinema
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3490
-#EXTINF:-1,US: SHOWTIME HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3492
-#EXTINF:-1,US: Showtime 2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3493
-#EXTINF:-1,US:   NBA TV HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3484
-#EXTINF:-1,US: HBO Zone
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2454
-#EXTINF:-1,US: HBO Signature
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2458
-#EXTINF:-1,US: HBO HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2455
-#EXTINF:-1,US: HBO Comedy
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2457
-#EXTINF:-1,US: FXX
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2452
-#EXTINF:-1,US: Fight HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3632
-#EXTINF:-1,US: DISCOVERY HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/139
-#EXTINF:-1,US: CARTOON NETWORK
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/15
-#EXTINF:-1,US: AMC HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/179
-#EXTINF:-1,US: NFL Network 1080i
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5726
-#EXTINF:-1,US: NFL REDZONE SD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5725
-#EXTINF:-1,US: Fox HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6965
-#EXTINF:-1,CA : sportsnet world hd
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3058
-#EXTINF:-1,CA: Sportsnet West HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2449
-#EXTINF:-1,CA : Sportsnet One HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2450
-#EXTINF:-1,CA: sportsnet 360 hd
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3057
-#EXTINF:-1,CA: Sportnet Ontario HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2451
-#EXTINF:-1,CA: Fox news
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3013
-#EXTINF:-1,|UK| ITV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24237
-#EXTINF:-1,|UK| ITV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24239
-#EXTINF:-1,|UK| ITV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24241
-#EXTINF:-1,|UK| ITV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24243
-#EXTINF:-1,|UK| ITV BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26049
-#EXTINF:-1,|UK| ITV London
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24235
-#EXTINF:-1,|UK| SKY Cinema Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24200
-#EXTINF:-1,|UK| SKY Cinema Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24203
-#EXTINF:-1,|UK| SKY Cinema Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24205
-#EXTINF:-1,|UK| SKY Cinema Greats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24207
-#EXTINF:-1,|UK| SKY Cinema Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24209
-#EXTINF:-1,|UK| SKY Cinema Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24211
-#EXTINF:-1,|UK| SKY Cinema Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24215
-#EXTINF:-1,|UK| SKY Cinema Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24217
-#EXTINF:-1,|UK| SKY Cinema Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24219
-#EXTINF:-1,|UK| SKY Cinema Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24221
-#EXTINF:-1,|UK| BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24169
-#EXTINF:-1,|UK| BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24171
-#EXTINF:-1,|UK| BT Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24173
-#EXTINF:-1,|UK| BT Sport ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24175
-#EXTINF:-1,|UK| SKY Sports News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24147
-#EXTINF:-1,|UK| SKY Sports Main Event
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24149
-#EXTINF:-1,|UK| SKY Sports Football
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24151
-#EXTINF:-1,|UK| SKY Sports Premier League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24153
-#EXTINF:-1,|UK| SKY Sports Mix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24156
-#EXTINF:-1,|UK| SKY Sports Arena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24157
-#EXTINF:-1,|UK| SKY Sports NFL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24159
-#EXTINF:-1,|UK| SKY Sports Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24161
-#EXTINF:-1,|UK| SKY Sports Cricket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24163
-#EXTINF:-1,|UK| SKY Sports F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24165
-#EXTINF:-1,|UK| SKY Sports Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24167
-#EXTINF:-1,|UK| Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26041
-#EXTINF:-1,|UK| BBC Alba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26039
-#EXTINF:-1,|UK| BBC Scotland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26038
-#EXTINF:-1,|UK| TG4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26034
-#EXTINF:-1,|UK| UTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26027
-#EXTINF:-1,|UK| SKY 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26025
-#EXTINF:-1,|UK| 5 Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26024
-#EXTINF:-1,|UK| 5 Star
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26023
-#EXTINF:-1,|UK| 5 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26022
-#EXTINF:-1,|UK| BET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26021
-#EXTINF:-1,|UK| CBS Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26018
-#EXTINF:-1,|UK| CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26017
-#EXTINF:-1,|UK| Challenge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26016
-#EXTINF:-1,|UK| Dmax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26015
-#EXTINF:-1,|UK| Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26014
-#EXTINF:-1,|UK| Gold HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26013
-#EXTINF:-1,|UK| More 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26012
-#EXTINF:-1,|UK| Sony Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26011
-#EXTINF:-1,|UK| PBS America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26010
-#EXTINF:-1,|UK| Comedy Central Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/26000
-#EXTINF:-1,|UK| E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25999
-#EXTINF:-1,|UK| SKY Cinema Animation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25997
-#EXTINF:-1,|UK| AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25996
-#EXTINF:-1,|UK| Discovery History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25980
-#EXTINF:-1,|UK| Discovery H&H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25979
-#EXTINF:-1,|UK| Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25978
-#EXTINF:-1,|UK| Discovery Shed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25977
-#EXTINF:-1,|UK| Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25976
-#EXTINF:-1,|UK| Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25974
-#EXTINF:-1,|UK| Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25972
-#EXTINF:-1,|UK| Showcase HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25971
-#EXTINF:-1,|UK| RTE ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25573
-#EXTINF:-1,|UK| RTE TWO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25572
-#EXTINF:-1,|UK| Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25570
-#EXTINF:-1,|UK| Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25559
-#EXTINF:-1,|UK| TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24222
-#EXTINF:-1,|UK| Film 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24223
-#EXTINF:-1,|UK| BBC One HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24230
-#EXTINF:-1,|UK| BBC Two HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24232
-#EXTINF:-1,|UK| BBC Four HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24234
-#EXTINF:-1,|UK| Channel 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24248
-#EXTINF:-1,|UK| Channel 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24250
-#EXTINF:-1,|UK| Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24255
-#EXTINF:-1,|UK| SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24262
-#EXTINF:-1,|UK| FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24267
-#EXTINF:-1,|UK| Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24268
-#EXTINF:-1,|UK| Dave HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24278
-#EXTINF:-1,|UK| 4 Seven
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24286
-#EXTINF:-1,|UK| E4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24289
-#EXTINF:-1,|UK| Alibi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24291
-#EXTINF:-1,|UK| Sony Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24304
-#EXTINF:-1,|UK| Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24305
-#EXTINF:-1,|UK| Pick TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24311
-#EXTINF:-1,|UK| Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24315
-#EXTINF:-1,|UK| Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24324
-#EXTINF:-1,|UK| Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24326
-#EXTINF:-1,|UK| Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24328
-#EXTINF:-1,|UK| History 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24330
-#EXTINF:-1,|UK| History 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24332
-#EXTINF:-1,|UK| Eden HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24333
-#EXTINF:-1,|UK| TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24337
-#EXTINF:-1,|UK| Quest HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24339
-#EXTINF:-1,|UK| SKY 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24344
-#EXTINF:-1,|UK| Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24348
-#EXTINF:-1,|UK| Cartoonito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24349
-#EXTINF:-1,|UK| Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24350
-#EXTINF:-1,|UK| Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24352
-#EXTINF:-1,|UK| Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24354
-#EXTINF:-1,|UK| Nicktoons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24356
-#EXTINF:-1,|UK| Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24358
-#EXTINF:-1,|UK| Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24360
-#EXTINF:-1,|UK| Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24362
-#EXTINF:-1,|UK| CBBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24363
-#EXTINF:-1,|UK| CBeebies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24364
-#EXTINF:-1,|UK| Tiny Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24368
-#EXTINF:-1,|UK| CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24377
-#EXTINF:-1,UK:True Movies 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1031
-#EXTINF:-1,UK:TLC - IRELAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/421
-#EXTINF:-1,UK: Sky Movies Modern
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/425
-#EXTINF:-1,UK: 4Seven
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/388
-#EXTINF:-1,UK: Travel Channel
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1037
-#EXTINF:-1,UK: TLC 1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4445
-#EXTINF:-1,UK: TLC
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1415
-#EXTINF:-1,UK: Syfy + 1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4452
-#EXTINF:-1,UK: Sky Two
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/423
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2459
-#EXTINF:-1,UK: SKY SPORTS GOLF
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2460
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2461
-#EXTINF:-1,UK: SKY SPORTS CRICKET
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2462
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2463
-#EXTINF:-1,UK: Sky Movies Select HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/424
-#EXTINF:-1,UK: RTE Two
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1425
-#EXTINF:-1,UK: RTE One
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1426
-#EXTINF:-1,UK: Racing UK
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/391
-#EXTINF:-1,UK: PREMIERE SPORT HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1028
-#EXTINF:-1,UK: Nickelodeon
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/383
-#EXTINF:-1,UK: Nick Jr +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4463
-#EXTINF:-1,UK: Nick Jr Too
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4464
-#EXTINF:-1,UK: Nat Geo Wild
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/430
-#EXTINF:-1,UK: ITV4
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/379
-#EXTINF:-1,UK: ITV3
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/380
-#EXTINF:-1,UK: ITV2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/381
-#EXTINF:-1,UK: ITV1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/382
-#EXTINF:-1,UK: Horror Channel  +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4444
-#EXTINF:-1,UK: Home&Health  +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4458
-#EXTINF:-1,UK: Food Network  1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4443
-#EXTINF:-1,UK: Food Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1039
-#EXTINF:-1,UK: E!  + 1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4448
-#EXTINF:-1,UK: E!
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1040
-#EXTINF:-1,UK: Disney Channel  +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4466
-#EXTINF:-1,UK: Discovery Science  1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4467
-#EXTINF:-1,UK: Discovery History +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4468
-#EXTINF:-1,UK: Comedy Central Extra  +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4456
-#EXTINF:-1,UK: Cartoon Network
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1041
-#EXTINF:-1,UK: BT Sports 2 SD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/2464
-#EXTINF:-1,UK: BT Sport Extra 4
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4479
-#EXTINF:-1,UK: BT Sport Extra 2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4477
-#EXTINF:-1,UK: BT Sport Extra 1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4476
-#EXTINF:-1,UK: BT Sport 3 SD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4954
-#EXTINF:-1,UK: BBC 4 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/385
-#EXTINF:-1,UK: BBC TWO HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/852
-#EXTINF:-1,UK: Animal Planet  +1
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4457
-#EXTINF:-1,UK: Alibi
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/390
-#EXTINF:-1,UK: 5Star
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/387
-#EXTINF:-1,UK: 3e
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/389
-#EXTINF:-1,UK: ID
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1429
-#EXTINF:-1,UK: BT Sport 3 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5547
-#EXTINF:-1,UK: Crime & Investigiation
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5497
-#EXTINF:-1,UK: Sky Sports Mix
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5496
-#EXTINF:-1,UK: Premier Sports HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1427
-#EXTINF:-1,UK: 5USA
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/386
-#EXTINF:-1,UK:VIP Cartoon network HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5642
-#EXTINF:-1,UK: AMC
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5805
-#EXTINF:-1,UK: BBC ALBA
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5806
-#EXTINF:-1,UK: BET
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5771
-#EXTINF:-1,UK: Channel 4
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5811
-#EXTINF:-1,UK: Channel 4 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5810
-#EXTINF:-1,UK: CHANNEL 5
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5813
-#EXTINF:-1,UK: CHANNEL 5 FHD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5812
-#EXTINF:-1,UK: FOX News
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5782
-#EXTINF:-1,UK: Investigation Discovery
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5780
-#EXTINF:-1,UK: ITV ENCORE
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5804
-#EXTINF:-1,UK: Movies 4 Men
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5779
-#EXTINF:-1,UK: Sony Movie
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5775
-#EXTINF:-1,UK: Sony Channel
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5774
-#EXTINF:-1,UK: VICELAND
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/5807
-#EXTINF:-1,VIP UK: BT Sport 3 HD 1080p
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6631
-#EXTINF:-1,VIP UK: Sky Sports F1 HD 1080p
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6628
-#EXTINF:-1,VIP UK: Sky Sports News HD 1080p
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6629
-#EXTINF:-1,VIP UK: BBC 1 FHD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6744
-#EXTINF:-1,VIP UK: ITV2 FHD 1080
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6972
-#EXTINF:-1,VIP UK: Premier Sports FHD 1080
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6971
-#EXTINF:-1,VIP UK: SKY NEWS 1080P HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6979
-#EXTINF:-1,UK: Cartoonito
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7144
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7300
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7297
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7298
-#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7294
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7299
-#EXTINF:-1,UK: Sky Cinema Premier HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7301
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7296
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7292
-#EXTINF:-1,UK: Cbeebies
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7439
-#EXTINF:-1,UK: History
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7437
-#EXTINF:-1,UK: TCM
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7440
-#EXTINF:-1,UK: National Geographic
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7441
-#EXTINF:-1,UK: H2
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7442
-#EXTINF:-1,UK: NATGEO WILD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/7463
-#EXTINF:-1,UK: Yesterday
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/420
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/443
-#EXTINF:-1,UK: Sky Sport 1 SD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1922
-#EXTINF:-1,UK: SKY One
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/422
-#EXTINF:-1,UK : Sky Movies Drama
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/427
-#EXTINF:-1,UK: SKY Atlantic HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/428
-#EXTINF:-1,UK: Sky Arts
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/429
-#EXTINF:-1,UK: Nat Geo Graphic
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/431
-#EXTINF:-1,UK: More 4
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/432
-#EXTINF:-1,UK: Life time
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/894
-#EXTINF:-1,UK: FOX
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/434
-#EXTINF:-1,UK: Dave
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/437
-#EXTINF:-1,UK : Comedy Central
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/438
-#EXTINF:-1,UK: CNN
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/3134
-#EXTINF:-1,UK: Animal Planet
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/441
-#EXTINF:-1,UK: Tiny POP
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4460
-#EXTINF:-1,UK: Syfy
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/74
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/26
-#EXTINF:-1,UK: Sky Sport News
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/16
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/18
-#EXTINF:-1,UK: SKY SPORTS GOLF HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/20
-#EXTINF:-1,UK: SKY SPORTS ACTION HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/22
-#EXTINF:-1,UK: SKY SPORTS CRICKET HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/24
-#EXTINF:-1,UK: Sky Movies Thriller
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/54
-#EXTINF:-1,UK: Sky Movies Showcase
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/55
-#EXTINF:-1,UK: Sky Movies Premiere
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/56
-#EXTINF:-1,UK: Sky Movies Greats
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/57
-#EXTINF:-1,UK: Sky Movies Family
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/58
-#EXTINF:-1,UK: Sky Movies Disney
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/59
-#EXTINF:-1,UK: Sky Movies Comedy
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/60
-#EXTINF:-1,UK: Sky Movies Action
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/61
-#EXTINF:-1,UK: Sky Movie Sci-Fi
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/62
-#EXTINF:-1,UK: Nicktoons
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1433
-#EXTINF:-1,UK: Nick Jr
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1434
-#EXTINF:-1,UK: ITV be
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1627
-#EXTINF:-1,UK: Home & Health
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/66
-#EXTINF:-1,UK: gold
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1432
-#EXTINF:-1,UK: Film 4
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1419
-#EXTINF:-1,UK: E4
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1420
-#EXTINF:-1,UK: E!
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1430
-#EXTINF:-1,UK: Drama
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/174
-#EXTINF:-1,UK: DMax
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/853
-#EXTINF:-1,UK: Disney XD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/47
-#EXTINF:-1,UK: Disney Junior
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/48
-#EXTINF:-1,UK: Disney
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/49
-#EXTINF:-1,UK: Discovery Turbo
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/63
-#EXTINF:-1,UK: Discovery Shed
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/64
-#EXTINF:-1,UK: Discovery Science
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/65
-#EXTINF:-1,UK: Discovery History
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/67
-#EXTINF:-1,UK: DISCOVERY
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/68
-#EXTINF:-1,UK: CBS reality
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1421
-#EXTINF:-1,UK: CBS Drama
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1422
-#EXTINF:-1,UK: CBS Action
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1423
-#EXTINF:-1,UK: BT Sport ESPN
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/4
-#EXTINF:-1,UK: BT Sport 2 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/6
-#EXTINF:-1,UK: BT Sport 1 HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/8
-#EXTINF:-1,UK: Boomerang
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/1424
-#EXTINF:-1,UK: CBBC
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/167
-#EXTINF:-1,UK: BBC Three HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/184
-#EXTINF:-1,UK: BBC ONE HD
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/185
-#EXTINF:-1,UK: Baby TV
-http://premium-iptv.link:7899/live:83051d549bd7a7e3/MxhkBW9olI/171
+#EXTINF:-1,|USA| CORONA VIRUS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/477846155654/477846155654/81217
+#EXTINF:-1,|USA| HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/477846155654/477846155654/81216
+#EXTINF:-1,|USA| HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/477846155654/477846155654/81215
+#EXTINF:-1,|USA| HBO ZONE HD
+http://rv.therevenge.co:80/477846155654/477846155654/81214
+#EXTINF:-1,|USA| HBO SIGNATURE
+http://rv.therevenge.co:80/477846155654/477846155654/81213
+#EXTINF:-1,|USA| HBO FAMILY HD
+http://rv.therevenge.co:80/477846155654/477846155654/81212
+#EXTINF:-1,|USA| HBO COMEDY HD
+http://rv.therevenge.co:80/477846155654/477846155654/81211
+#EXTINF:-1,|USA| HALLMARK MOVIES & MYSTERIES HD
+http://rv.therevenge.co:80/477846155654/477846155654/81210
+#EXTINF:-1,|USA| HALLMARK HD
+http://rv.therevenge.co:80/477846155654/477846155654/81209
+#EXTINF:-1,|USA| HALLMARK DRAMA
+http://rv.therevenge.co:80/477846155654/477846155654/81208
+#EXTINF:-1,|USA| STARZ
+http://rv.therevenge.co:80/477846155654/477846155654/81207
+#EXTINF:-1,|USA| STARZ IN BLACK
+http://rv.therevenge.co:80/477846155654/477846155654/81206
+#EXTINF:-1,|USA| STARZ ENCORE WESTERNS
+http://rv.therevenge.co:80/477846155654/477846155654/81205
+#EXTINF:-1,|USA| STARZ ENCORE
+http://rv.therevenge.co:80/477846155654/477846155654/81204
+#EXTINF:-1,|USA| STARZ EDGE
+http://rv.therevenge.co:80/477846155654/477846155654/81203
+#EXTINF:-1,|USA| STARZ COMEDY
+http://rv.therevenge.co:80/477846155654/477846155654/81202
+#EXTINF:-1,|USA| EPIX HITS
+http://rv.therevenge.co:80/477846155654/477846155654/81201
+#EXTINF:-1,|USA| EPIX HD
+http://rv.therevenge.co:80/477846155654/477846155654/81200
+#EXTINF:-1,|USA| EPIX 2
+http://rv.therevenge.co:80/477846155654/477846155654/81199
+#EXTINF:-1,|USA| CINEMAXX MORE MAXX
+http://rv.therevenge.co:80/477846155654/477846155654/81198
+#EXTINF:-1,|USA| CINEMAX THRILLERMAX HD
+http://rv.therevenge.co:80/477846155654/477846155654/81197
+#EXTINF:-1,|USA| CINEMAX OUTER MAX
+http://rv.therevenge.co:80/477846155654/477846155654/81196
+#EXTINF:-1,|USA| CINEMAX MOVIEMAX
+http://rv.therevenge.co:80/477846155654/477846155654/81195
+#EXTINF:-1,|USA| CINEMAX EAST
+http://rv.therevenge.co:80/477846155654/477846155654/81194
+#EXTINF:-1,|USA| CINEMAX ACTION MAX EAST
+http://rv.therevenge.co:80/477846155654/477846155654/81193
+#EXTINF:-1,|USA| WGN AMERICA
+http://rv.therevenge.co:80/477846155654/477846155654/81192
+#EXTINF:-1,|USA| WE TV
+http://rv.therevenge.co:80/477846155654/477846155654/81191
+#EXTINF:-1,|USA| VICELAND
+http://rv.therevenge.co:80/477846155654/477846155654/81190
+#EXTINF:-1,|USA| USA NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81189
+#EXTINF:-1,|USA| TVONE
+http://rv.therevenge.co:80/477846155654/477846155654/81185
+#EXTINF:-1,|USA| TV LAND HD
+http://rv.therevenge.co:80/477846155654/477846155654/81184
+#EXTINF:-1,|USA| TRU TV
+http://rv.therevenge.co:80/477846155654/477846155654/81183
+#EXTINF:-1,|USA| TNT
+http://rv.therevenge.co:80/477846155654/477846155654/81182
+#EXTINF:-1,|USA| TLC CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81181
+#EXTINF:-1,|USA| THE CW HD CHICAGO
+http://rv.therevenge.co:80/477846155654/477846155654/81180
+#EXTINF:-1,|USA| THE CW PIX 11
+http://rv.therevenge.co:80/477846155654/477846155654/81179
+#EXTINF:-1,|USA| TBS
+http://rv.therevenge.co:80/477846155654/477846155654/81176
+#EXTINF:-1,|USA| SYFY
+http://rv.therevenge.co:80/477846155654/477846155654/81174
+#EXTINF:-1,|USA| SUNDANCE
+http://rv.therevenge.co:80/477846155654/477846155654/81173
+#EXTINF:-1,|USA| SPIKE/PARAMOUNT
+http://rv.therevenge.co:80/477846155654/477846155654/81171
+#EXTINF:-1,|USA| SMITHSONIAN CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81168
+#EXTINF:-1,|USA| SHOWTIME SHOWCASE
+http://rv.therevenge.co:80/477846155654/477846155654/81166
+#EXTINF:-1,|USA| SHOWTIME HD
+http://rv.therevenge.co:80/477846155654/477846155654/81164
+#EXTINF:-1,|USA| SHOWTIME EXTREME
+http://rv.therevenge.co:80/477846155654/477846155654/81162
+#EXTINF:-1,|USA| SHOWTIME 2
+http://rv.therevenge.co:80/477846155654/477846155654/81160
+#EXTINF:-1,|USA| PURSUIT CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81149
+#EXTINF:-1,|USA| OXYGEN
+http://rv.therevenge.co:80/477846155654/477846155654/81145
+#EXTINF:-1,|USA| OWN NETWORK HD
+http://rv.therevenge.co:80/477846155654/477846155654/81143
+#EXTINF:-1,|USA| NBC 5
+http://rv.therevenge.co:80/477846155654/477846155654/81136
+#EXTINF:-1,|USA| NBC 4 NY
+http://rv.therevenge.co:80/477846155654/477846155654/81134
+#EXTINF:-1,|USA| ME TV
+http://rv.therevenge.co:80/477846155654/477846155654/81127
+#EXTINF:-1,|USA| MAV TV
+http://rv.therevenge.co:80/477846155654/477846155654/81125
+#EXTINF:-1,|USA| LIFETIME MOVIES
+http://rv.therevenge.co:80/477846155654/477846155654/81123
+#EXTINF:-1,|USA| LIFETIME
+http://rv.therevenge.co:80/477846155654/477846155654/81121
+#EXTINF:-1,|USA| HGTV HD
+http://rv.therevenge.co:80/477846155654/477846155654/81106
+#EXTINF:-1,|USA| HGTV UHD
+http://rv.therevenge.co:80/477846155654/477846155654/81103
+#EXTINF:-1,|USA| FYI NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81095
+#EXTINF:-1,|USA| FXX
+http://rv.therevenge.co:80/477846155654/477846155654/81092
+#EXTINF:-1,|USA| FXM
+http://rv.therevenge.co:80/477846155654/477846155654/81090
+#EXTINF:-1,|USA| FX HD
+http://rv.therevenge.co:80/477846155654/477846155654/81088
+#EXTINF:-1,|USA| FREEFORM HD
+http://rv.therevenge.co:80/477846155654/477846155654/81083
+#EXTINF:-1,|USA| FOOD NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81081
+#EXTINF:-1,|USA| EL REY NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81079
+#EXTINF:-1,|USA| EL REY NETWORK HD
+http://rv.therevenge.co:80/477846155654/477846155654/81077
+#EXTINF:-1,|USA| E!
+http://rv.therevenge.co:80/477846155654/477846155654/81075
+#EXTINF:-1,|USA| DIY NETWORK HD
+http://rv.therevenge.co:80/477846155654/477846155654/81071
+#EXTINF:-1,|USA| COZI TV
+http://rv.therevenge.co:80/477846155654/477846155654/81066
+#EXTINF:-1,|USA| COUNTRY NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81064
+#EXTINF:-1,|USA| COOKING CHANNEL HD
+http://rv.therevenge.co:80/477846155654/477846155654/81062
+#EXTINF:-1,|USA| COMET TV
+http://rv.therevenge.co:80/477846155654/477846155654/81061
+#EXTINF:-1,|USA| COMEDY CENTRAL
+http://rv.therevenge.co:80/477846155654/477846155654/81060
+#EXTINF:-1,|USA| CMT HD
+http://rv.therevenge.co:80/477846155654/477846155654/81059
+#EXTINF:-1,|USA| CBS NY HD
+http://rv.therevenge.co:80/477846155654/477846155654/81058
+#EXTINF:-1,|USA| CBS EAST
+http://rv.therevenge.co:80/477846155654/477846155654/81057
+#EXTINF:-1,|USA| BRAVO
+http://rv.therevenge.co:80/477846155654/477846155654/81055
+#EXTINF:-1,|USA| BET HD
+http://rv.therevenge.co:80/477846155654/477846155654/81051
+#EXTINF:-1,|USA| BBC AMERICA
+http://rv.therevenge.co:80/477846155654/477846155654/81050
+#EXTINF:-1,|USA| ANTENNA TV
+http://rv.therevenge.co:80/477846155654/477846155654/81047
+#EXTINF:-1,|USA| AMERICAN HEROES CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81046
+#EXTINF:-1,|USA| AMC
+http://rv.therevenge.co:80/477846155654/477846155654/81045
+#EXTINF:-1,|USA| ABC WEST
+http://rv.therevenge.co:80/477846155654/477846155654/81044
+#EXTINF:-1,|USA| ABC NY HD
+http://rv.therevenge.co:80/477846155654/477846155654/81043
+#EXTINF:-1,|USA| ABC EAST HD
+http://rv.therevenge.co:80/477846155654/477846155654/81042
+#EXTINF:-1,|USA| A&E HD
+http://rv.therevenge.co:80/477846155654/477846155654/81041
+#EXTINF:-1,|USA| BABY TV
+http://rv.therevenge.co:80/477846155654/477846155654/81039
+#EXTINF:-1,|USA| UNIVERSAL KIDS HD
+http://rv.therevenge.co:80/477846155654/477846155654/81038
+#EXTINF:-1,|USA| TEEN NICK
+http://rv.therevenge.co:80/477846155654/477846155654/81037
+#EXTINF:-1,|USA| STARZ KIDS & FAMILY
+http://rv.therevenge.co:80/477846155654/477846155654/81036
+#EXTINF:-1,|USA| NICKTOONS
+http://rv.therevenge.co:80/477846155654/477846155654/81035
+#EXTINF:-1,|USA| NICK JR. TOO
+http://rv.therevenge.co:80/477846155654/477846155654/81034
+#EXTINF:-1,|USA| NICK JR
+http://rv.therevenge.co:80/477846155654/477846155654/81033
+#EXTINF:-1,|USA| NICK HD
+http://rv.therevenge.co:80/477846155654/477846155654/81032
+#EXTINF:-1,|USA| DISNEY XD
+http://rv.therevenge.co:80/477846155654/477846155654/81031
+#EXTINF:-1,|USA| DISNEY JR
+http://rv.therevenge.co:80/477846155654/477846155654/81030
+#EXTINF:-1,|USA| DISNEY CHANNEL HD
+http://rv.therevenge.co:80/477846155654/477846155654/81029
+#EXTINF:-1,|USA| PBS
+http://rv.therevenge.co:80/477846155654/477846155654/81026
+#EXTINF:-1,|USA| CARTOONITO ES
+http://rv.therevenge.co:80/477846155654/477846155654/81025
+#EXTINF:-1,|USA| CARTOON NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81024
+#EXTINF:-1,|USA| BOOMERANG
+http://rv.therevenge.co:80/477846155654/477846155654/81023
+#EXTINF:-1,|USA| ANIMAL PLANET
+http://rv.therevenge.co:80/477846155654/477846155654/81021
+#EXTINF:-1,|USA| NAT GEO WILD HD US
+http://rv.therevenge.co:80/477846155654/477846155654/81020
+#EXTINF:-1,|USA| NAT GEO USA
+http://rv.therevenge.co:80/477846155654/477846155654/81019
+#EXTINF:-1,|USA| INVESTIGATION DISCOVERY HD
+http://rv.therevenge.co:80/477846155654/477846155654/81018
+#EXTINF:-1,|USA| HISTORY CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81017
+#EXTINF:-1,|USA| HISTORY 2
+http://rv.therevenge.co:80/477846155654/477846155654/81016
+#EXTINF:-1,|USA| DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/477846155654/477846155654/81015
+#EXTINF:-1,|USA| DISCOVERY LIFE
+http://rv.therevenge.co:80/477846155654/477846155654/81014
+#EXTINF:-1,|USA| DISCOVERY FAMILY
+http://rv.therevenge.co:80/477846155654/477846155654/81013
+#EXTINF:-1,|USA| DISCOVERY CHANNEL HD
+http://rv.therevenge.co:80/477846155654/477846155654/81012
+#EXTINF:-1,|USA| CRIME AND INVESTIGATION
+http://rv.therevenge.co:80/477846155654/477846155654/81011
+#EXTINF:-1,|USA| TRAVEL CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81010
+#EXTINF:-1,|USA| WORLD FISHING NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/81009
+#EXTINF:-1,|USA| OUTSIDE TV
+http://rv.therevenge.co:80/477846155654/477846155654/81008
+#EXTINF:-1,|USA| OUTDOOR CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/81007
+#EXTINF:-1,|USA| BLOOMBERG
+http://rv.therevenge.co:80/477846155654/477846155654/81005
+#EXTINF:-1,|USA| CNN
+http://rv.therevenge.co:80/477846155654/477846155654/81004
+#EXTINF:-1,|USA| FOX NEWS
+http://rv.therevenge.co:80/477846155654/477846155654/80998
+#EXTINF:-1,|USA| THE WEATHER CHANNEL HD
+http://rv.therevenge.co:80/477846155654/477846155654/809954
+#EXTINF:-1,|USA| FOX 50
+http://rv.therevenge.co:80/477846155654/477846155654/80993
+#EXTINF:-1,|USA| FOX 5 HD
+http://rv.therevenge.co:80/477846155654/477846155654/80992
+#EXTINF:-1,|USA| WWE
+http://rv.therevenge.co:80/477846155654/477846155654/80985
+#EXTINF:-1,|USA| UFC 24/7
+http://rv.therevenge.co:80/477846155654/477846155654/80984
+#EXTINF:-1,|USA| SPORTSMAN CHANNEL
+http://rv.therevenge.co:80/477846155654/477846155654/80980
+#EXTINF:-1,|USA| NHL NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80972
+#EXTINF:-1,|USA| NFL RED ZONE
+http://rv.therevenge.co:80/477846155654/477846155654/80971
+#EXTINF:-1,|USA| NFL NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80970
+#EXTINF:-1,|USA| NBC SPORTS NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80966
+#EXTINF:-1,|USA| NBC 10 EAST
+http://rv.therevenge.co:80/477846155654/477846155654/80960
+#EXTINF:-1,|USA| NBA TV HD
+http://rv.therevenge.co:80/477846155654/477846155654/80959
+#EXTINF:-1,|USA| MOTOR TREND
+http://rv.therevenge.co:80/477846155654/477846155654/80956
+#EXTINF:-1,|USA| MLB NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80955
+#EXTINF:-1,|USA| LONGHORN NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80954
+#EXTINF:-1,|USA| FOX SPORTS 1
+http://rv.therevenge.co:80/477846155654/477846155654/80951
+#EXTINF:-1,|USA| FOX SPORTS 2
+http://rv.therevenge.co:80/477846155654/477846155654/80950
+#EXTINF:-1,|USA| ESPN U
+http://rv.therevenge.co:80/477846155654/477846155654/80946
+#EXTINF:-1,|USA| ESPN 2
+http://rv.therevenge.co:80/477846155654/477846155654/80945
+#EXTINF:-1,|USA| ESPN
+http://rv.therevenge.co:80/477846155654/477846155654/80944
+#EXTINF:-1,|USA| CBSN SPORTS NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80942
+#EXTINF:-1,|USA| CBS SPORTS NETWORK
+http://rv.therevenge.co:80/477846155654/477846155654/80941
+#EXTINF:-1,|USA| BEIN SPORT USA
+http://rv.therevenge.co:80/477846155654/477846155654/80939
+
+
