@@ -1,67 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,24/7  GOLDEN GIRLS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35154.m3u8
-
-#EXTINF:-1,24/7 GOMER PYLE (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99838.m3u8
-
-#EXTINF:-1,24/7 : LOONEY TUNES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38673.m3u8
-
-#EXTINF:-1,24/7 GREEN ACRES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95904.m3u8
-
-#EXTINF:-1,24/7 : THE FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99829.m3u8
-
-#EXTINF:-1,24/7 : EVERYBODY LOVES RAYMOND
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/75500.m3u8
-
-#EXTINF:-1,24/7 : THE MUNSTERS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95907.m3u8
-
-#EXTINF:-1,24/7 WKRP IN CINCINNATI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/85198.m3u8
-
-#EXTINF:-1,24/7 THE MARY TYLER MOORE SHOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95913.m3u8
-
-#EXTINF:-1,24/7 : GILLIGAN'S ISLAND
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99836.m3u8
-
-#EXTINF:-1,24/7 : HAPPY DAYS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/58713.m3u8
-
-#EXTINF:-1,24/7 THAT 70s SHOW (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/108181.m3u8
-
-#EXTINF:-1,24/7 : SANFORD AND SON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99897.m3u8
-
-#EXTINF:-1,24/7 : THE BEVERLY HILLBILLIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35149.m3u8
-
-#EXTINF:-1,24/7  HOGANS HEROES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35153.m3u8
-
-#EXTINF:-1,24/7 NIGHT COURT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/89366.m3u8
-
-#EXTINF:-1,24/7 THE FRESH PRINCE OF BEL-AIR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38666.m3u8
-
-#EXTINF:-1,24/7 : THE JEFFERSONS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/35148.m3u8
-
-#EXTINF:-1,24/7 : THE JETSONS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/38645.m3u8
-
-#EXTINF:-1,24/7 : GREYS ANATOMY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99840.m3u8
-
-#EXTINF:-1,24/7 THE CURSE OF OAK ISLAND (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/99921.m3u8
+#EXTINF:-1 tvg-id="American Classics" tvg-name="American Classics" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+#EXTINF:-1 tvg-id="Beverly Hillbillies" tvg-name="Beverly Hillbillies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Beverly Hillbillies
+https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
+#EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Bonanza
+https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
 http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
