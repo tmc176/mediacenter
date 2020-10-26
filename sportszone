@@ -38,9 +38,9 @@ http://185.232.53.5:2086/gennaro/gennaro/64147
 #EXTINF:-1,US : CARTOON NETWORK FHD 1080
 http://185.232.53.5:2086/gennaro/gennaro/64139
 #EXTINF:-1,US : CBS (WCBS- New York NY)
-http://185.232.53.5:2086/gennaro/gennaro/90366
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90366
 #EXTINF:-1,US : CBS (WLNY- New York NY)
-http://185.232.53.5:2086/gennaro/gennaro/90372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90372
 #EXTINF:-1,US : CBS SPORTS HQ
 http://185.232.53.5:2086/gennaro/gennaro/6730
 #EXTINF:-1,US : CBS SPORTS NETWORK
@@ -228,7 +228,7 @@ http://185.232.53.5:2086/gennaro/gennaro/64092
 #EXTINF:-1,US : LONGHORN NETWORK
 http://185.232.53.5:2086/gennaro/gennaro/13562
 #EXTINF:-1,US : MAV TV
-http://185.232.53.5:2086/gennaro/gennaro/1073
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/1073
 #EXTINF:-1,US : ME TV
 http://185.232.53.5:2086/gennaro/gennaro/15539
 #EXTINF:-1,US : MLB NETWORK
@@ -258,9 +258,9 @@ http://185.232.53.5:2086/gennaro/gennaro/336
 #EXTINF:-1,US : NBA TV FHD 1080
 http://185.232.53.5:2086/gennaro/gennaro/64086
 #EXTINF:-1,US : NBC (WNBC - New York NY)
-http://185.232.53.5:2086/gennaro/gennaro/90429
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90429
 #EXTINF:-1,US : NBC SPORTS NETWORK FHD 1080
-http://185.232.53.5:2086/gennaro/gennaro/64085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64085
 #EXTINF:-1,US : NBCSN (NBC SPORTS NETWORK)
 http://185.232.53.5:2086/gennaro/gennaro/149
 #EXTINF:-1,US : NFL NETWORK
