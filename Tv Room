@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,CANADA: WILD TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/379909.m3u8
-#EXTINF:-1,VIP HD WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18549
-#EXTINF:-1,VIP HD SPORTSMAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109205.m3u8
-#EXTINF:-1,USA SD : Pursuit Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/97636.m3u8
-#EXTINF:-1,US: Outdoor Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18449
-#EXTINF:-1,US: Outside TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/18551
-#EXTINF:-1,Hunt Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95939.m3u8
-#EXTINF:-1,US : FISHING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/52917
-#EXTINF:-1,US : HARDCORE HUNTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
 #EXTINF:-1,US : OUTDOOR CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/15360
 #EXTINF:-1,US : PURSUIT CHANNEL
@@ -35,29 +17,7 @@ https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting 
 https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1"USA",Outdoor Channel 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://84.22.33.254/unicast.outdoorchannel/index.m3u8
-
-#EXTINF:-1,CA: OLN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2158.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsyc1o.png" group-title="USA",Outside TV
-https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors 
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="UK",Animal Planet
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
 
 
