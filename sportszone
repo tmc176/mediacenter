@@ -19,9 +19,11 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:-1,US: ACTIONMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25794
-#EXTINF:-1,US: CINEMAX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25795
-#EXTINF:-1,US: CINEMAX WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25796
+#EXTINF:-1,US: USA NETWORK WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25885
+#EXTINF:-1,US: USA NETWORK EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25886
+#EXTINF:-1,US: TV ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25887
+#EXTINF:-1,US: TV LAND EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://51.15.10.225:25461/@iptvworldfree/telegram/25888
