@@ -31,209 +31,141 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/31878
 #EXTINF:-1,GB : BBC ONE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90864
-#EXTINF:-1,GB : BBC SCOTLAND
-http://185.232.53.5:2086/gennaro/gennaro/98711
-#EXTINF:-1,GB : BLAZE
-http://185.232.53.5:2086/gennaro/gennaro/66951
-#EXTINF:-1,GB : BOX HITS
-http://185.232.53.5:2086/gennaro/gennaro/99202
-#EXTINF:-1,GB : BOXNATION
-http://185.232.53.5:2086/gennaro/gennaro/67081
 #EXTINF:-1,GB : BT SPORTS 1
-http://185.232.53.5:2086/gennaro/gennaro/67062
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67062
 #EXTINF:-1,GB : BT SPORTS 2
-http://185.232.53.5:2086/gennaro/gennaro/67063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67063
 #EXTINF:-1,GB : BT SPORTS 3
-http://185.232.53.5:2086/gennaro/gennaro/67075
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67075
 #EXTINF:-1,GB : BT SPORTS ESPN
-http://185.232.53.5:2086/gennaro/gennaro/67076
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67076
 #EXTINF:-1,GB : CBBC 
-http://185.232.53.5:2086/gennaro/gennaro/90880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90880
 #EXTINF:-1,GB : CBEEBIES
-http://185.232.53.5:2086/gennaro/gennaro/90881
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90881
 #EXTINF:-1,GB : CHANNEL 4
-http://185.232.53.5:2086/gennaro/gennaro/66961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66961
 #EXTINF:-1,GB : CHANNEL 5
-http://185.232.53.5:2086/gennaro/gennaro/66962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66962
 #EXTINF:-1,GB : COMEDY CENTRAL
-http://185.232.53.5:2086/gennaro/gennaro/72570
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/72570
 #EXTINF:-1,GB : CRIME & INVESTIGATION
-http://185.232.53.5:2086/gennaro/gennaro/98704
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98704
 #EXTINF:-1,GB : DAVE
-http://185.232.53.5:2086/gennaro/gennaro/66969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66969
 #EXTINF:-1,GB : DISCOVERY CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/32042
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32042
 #EXTINF:-1,GB : DISNEY CHANNEL
-http://185.232.53.5:2086/gennaro/gennaro/98703
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98703
 #EXTINF:-1,GB : DISNEY JUNIOR
-http://185.232.53.5:2086/gennaro/gennaro/98702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98702
 #EXTINF:-1,GB : DISNEY XD
-http://185.232.53.5:2086/gennaro/gennaro/98701
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98701
 #EXTINF:-1,GB : E!
-http://185.232.53.5:2086/gennaro/gennaro/67089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67089
 #EXTINF:-1,GB : E4
-http://185.232.53.5:2086/gennaro/gennaro/66972
-#EXTINF:-1,GB : EDEN
-http://185.232.53.5:2086/gennaro/gennaro/72572
-#EXTINF:-1,GB : EIR SPORT 1
-http://185.232.53.5:2086/gennaro/gennaro/91786
-#EXTINF:-1,GB : EIR SPORT 2
-http://185.232.53.5:2086/gennaro/gennaro/91787
-#EXTINF:-1,GB : EIR SPORTS 1
-http://185.232.53.5:2086/gennaro/gennaro/36252
-#EXTINF:-1,GB : EIR SPORTS 2
-http://185.232.53.5:2086/gennaro/gennaro/36253
-#EXTINF:-1,GB : EUROSPORT 1
-http://185.232.53.5:2086/gennaro/gennaro/72659
-#EXTINF:-1,GB : EUROSPORT 2
-http://185.232.53.5:2086/gennaro/gennaro/72660
-#EXTINF:-1,GB : EUROSPORT ONE
-http://185.232.53.5:2086/gennaro/gennaro/99200
-#EXTINF:-1,GB : EUROSPORT TWO
-http://185.232.53.5:2086/gennaro/gennaro/99201
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66972
 #EXTINF:-1,GB : FILM4
-http://185.232.53.5:2086/gennaro/gennaro/66975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66975
 #EXTINF:-1,GB : FOOD NETWORK
-http://185.232.53.5:2086/gennaro/gennaro/66977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66977
 #EXTINF:-1,GB : FOX
-http://185.232.53.5:2086/gennaro/gennaro/98699
-#EXTINF:-1,GB : FREESPORTS
-http://185.232.53.5:2086/gennaro/gennaro/99228
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98699
 #EXTINF:-1,GB : GOLD
-http://185.232.53.5:2086/gennaro/gennaro/67064
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67064
 #EXTINF:-1,GB : H2
-http://185.232.53.5:2086/gennaro/gennaro/67070
-#EXTINF:-1,GB : HORSE AND COUNTRY TV
-http://185.232.53.5:2086/gennaro/gennaro/99203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67070
 #EXTINF:-1,GB : ID
-http://185.232.53.5:2086/gennaro/gennaro/67088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67088
 #EXTINF:-1,GB : ITV
-http://185.232.53.5:2086/gennaro/gennaro/66991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66991
 #EXTINF:-1,GB : ITV +1
-http://185.232.53.5:2086/gennaro/gennaro/66992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66992
 #EXTINF:-1,GB : ITV2
-http://185.232.53.5:2086/gennaro/gennaro/67003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67003
 #EXTINF:-1,GB : ITV3
-http://185.232.53.5:2086/gennaro/gennaro/72596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/72596
 #EXTINF:-1,GB : ITV4
-http://185.232.53.5:2086/gennaro/gennaro/67004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67004
 #EXTINF:-1,GB : ITVBe
-http://185.232.53.5:2086/gennaro/gennaro/67006
-#EXTINF:-1,GB : KERRANG!
-http://185.232.53.5:2086/gennaro/gennaro/67009
-#EXTINF:-1,GB : LA LIGA TV
-http://185.232.53.5:2086/gennaro/gennaro/99199
-#EXTINF:-1,GB : LFC TV
-http://185.232.53.5:2086/gennaro/gennaro/56180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67006
 #EXTINF:-1,GB : LIFETIME
-http://185.232.53.5:2086/gennaro/gennaro/67069
-#EXTINF:-1,GB : MAGIC
-http://185.232.53.5:2086/gennaro/gennaro/67014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67069
 #EXTINF:-1,GB : MORE4
-http://185.232.53.5:2086/gennaro/gennaro/98696
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98696
 #EXTINF:-1,GB : MORE4 +1
-http://185.232.53.5:2086/gennaro/gennaro/67015
-#EXTINF:-1,GB : MTV
-http://185.232.53.5:2086/gennaro/gennaro/67073
-#EXTINF:-1,GB : MTV LIVE
-http://185.232.53.5:2086/gennaro/gennaro/91785
-#EXTINF:-1,GB : MUTV
-http://185.232.53.5:2086/gennaro/gennaro/42409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67015
 #EXTINF:-1,GB : NAT GEO
-http://185.232.53.5:2086/gennaro/gennaro/98691
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98691
 #EXTINF:-1,GB : NAT GEO WILD
-http://185.232.53.5:2086/gennaro/gennaro/67074
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67074
 #EXTINF:-1,GB : NICK
-http://185.232.53.5:2086/gennaro/gennaro/91784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91784
 #EXTINF:-1,GB : PARAMOUNT
-http://185.232.53.5:2086/gennaro/gennaro/66940
-#EXTINF:-1,GB : PREMIER SPORTS 1
-http://185.232.53.5:2086/gennaro/gennaro/91782
-#EXTINF:-1,GB : PREMIER SPORTS 2
-http://185.232.53.5:2086/gennaro/gennaro/91783
-#EXTINF:-1,GB : QUEST
-http://185.232.53.5:2086/gennaro/gennaro/67029
-#EXTINF:-1,GB : RACING TV
-http://185.232.53.5:2086/gennaro/gennaro/67071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66940
 #EXTINF:-1,GB : RTE JR
-http://185.232.53.5:2086/gennaro/gennaro/91792
-#EXTINF:-1,GB : RTE NEWS
-http://185.232.53.5:2086/gennaro/gennaro/91793
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91792
 #EXTINF:-1,GB : RTE ONE
-http://185.232.53.5:2086/gennaro/gennaro/32065
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32065
 #EXTINF:-1,GB : RTE TWO
-http://185.232.53.5:2086/gennaro/gennaro/32064
-#EXTINF:-1,GB : SHEFFIELD LIVE TV
-http://185.232.53.5:2086/gennaro/gennaro/99204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32064
 #EXTINF:-1,GB : SKY ARTS
-http://185.232.53.5:2086/gennaro/gennaro/98689
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98689
 #EXTINF:-1,GB : SKY ATLANTIC
-http://185.232.53.5:2086/gennaro/gennaro/91780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91780
 #EXTINF:-1,GB : SKY CINEMA ACTION
-http://185.232.53.5:2086/gennaro/gennaro/87571
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87571
 #EXTINF:-1,GB : SKY CINEMA COMEDY
-http://185.232.53.5:2086/gennaro/gennaro/87572
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87572
 #EXTINF:-1,GB : SKY CINEMA DISNEY
-http://185.232.53.5:2086/gennaro/gennaro/87573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87573
 #EXTINF:-1,GB : SKY CINEMA DRAMA
-http://185.232.53.5:2086/gennaro/gennaro/87574
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87574
 #EXTINF:-1,GB : SKY CINEMA FAMILY
-http://185.232.53.5:2086/gennaro/gennaro/87575
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87575
 #EXTINF:-1,GB : SKY CINEMA GREATS
-http://185.232.53.5:2086/gennaro/gennaro/87576
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87576
 #EXTINF:-1,GB : SKY CINEMA HITS
-http://185.232.53.5:2086/gennaro/gennaro/87577
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87577
 #EXTINF:-1,GB : SKY CINEMA PREMIERE
-http://185.232.53.5:2086/gennaro/gennaro/87578
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87578
 #EXTINF:-1,GB : SKY CINEMA SCI-FI
-http://185.232.53.5:2086/gennaro/gennaro/87579
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87579
 #EXTINF:-1,GB : SKY CINEMA SELECT
-http://185.232.53.5:2086/gennaro/gennaro/87580
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87580
 #EXTINF:-1,GB : SKY CINEMA THRILLER
-http://185.232.53.5:2086/gennaro/gennaro/87581
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87581
 #EXTINF:-1,GB : SKY COMEDY
-http://185.232.53.5:2086/gennaro/gennaro/98688
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98688
 #EXTINF:-1,GB : SKY CRIME
-http://185.232.53.5:2086/gennaro/gennaro/91779
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91779
 #EXTINF:-1,GB : SKY DOCUMENTARIES
-http://185.232.53.5:2086/gennaro/gennaro/99207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99207
 #EXTINF:-1,GB : SKY HISTORY
-http://185.232.53.5:2086/gennaro/gennaro/98698
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98698
 #EXTINF:-1,GB : SKY NATURE
-http://185.232.53.5:2086/gennaro/gennaro/99206
-#EXTINF:-1,GB : SKY NEWS
-http://185.232.53.5:2086/gennaro/gennaro/98692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99206
 #EXTINF:-1,GB : SKY ONE
-http://185.232.53.5:2086/gennaro/gennaro/98687
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98687
 #EXTINF:-1,GB : SKY SPORTS ARENA
-http://185.232.53.5:2086/gennaro/gennaro/85931
-#EXTINF:-1,GB : SKY SPORTS CRICKET
-http://185.232.53.5:2086/gennaro/gennaro/51106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/85931
 #EXTINF:-1,GB : SKY SPORTS F1
-http://185.232.53.5:2086/gennaro/gennaro/67056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67056
 #EXTINF:-1,GB : SKY SPORTS FOOTBALL
-http://185.232.53.5:2086/gennaro/gennaro/67057
-#EXTINF:-1,GB : SKY SPORTS GOLF
-http://185.232.53.5:2086/gennaro/gennaro/67059
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67057
 #EXTINF:-1,GB : SKY SPORTS MAIN EVENT
-http://185.232.53.5:2086/gennaro/gennaro/67058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67058
 #EXTINF:-1,GB : SKY SPORTS MIX
-http://185.232.53.5:2086/gennaro/gennaro/67061
-#EXTINF:-1,GB : SKY SPORTS NEWS
-http://185.232.53.5:2086/gennaro/gennaro/67091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67061
 #EXTINF:-1,GB : SKY SPORTS NFL
-http://185.232.53.5:2086/gennaro/gennaro/85930
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/85930
 #EXTINF:-1,GB : SKY SPORTS PREMIER LEAGUE
-http://185.232.53.5:2086/gennaro/gennaro/67060
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67060
 #EXTINF:-1,GB : SKY SPORTS RACING
-http://185.232.53.5:2086/gennaro/gennaro/47763
-#EXTINF:-1,GB : SKY WITNESS
-http://185.232.53.5:2086/gennaro/gennaro/38338
-#EXTINF:-1,GB : SPORTS TONIGHT
-http://185.232.53.5:2086/gennaro/gennaro/99205
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/47763
 #EXTINF:-1,GB : SYFY
-http://185.232.53.5:2086/gennaro/gennaro/67068
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67068
 #EXTINF:-1,GB : TCM
-http://185.232.53.5:2086/gennaro/gennaro/32055
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32055
 #EXTINF:-1,GB : TLC
-http://185.232.53.5:2086/gennaro/gennaro/91781
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91781
