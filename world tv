@@ -5,7 +5,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.
 
 #EXTINF:-1,US: Coronavirus Outbreak
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:hlscat.com
-
+#EXTINF:-1,CA : COVID-19 LIVE UPDATE (Real Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=http://185.232.53.5:2086/gennaro/gennaro/99456
 #EXTINF:-1,CA011:CHCH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sd-48232.dedibox.fr:25461/93xxDXA2qY/ue8tWAXBe4/15874?checkedby:hlscat.com
 
@@ -18,8 +19,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 #EXTINF:-1,CA118:CTV Canada
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/live/Cc1/Cc1/67566.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="CANADA",Global Toronto
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1,CA : GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3246
 
 #EXTINF:-1,CA001:ABC-SPARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67326
