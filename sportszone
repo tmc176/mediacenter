@@ -19,319 +19,211 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:-1,CA : A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16240
-#EXTINF:-1,CA : ABC SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3285
-#EXTINF:-1,CA : ABC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3284
-#EXTINF:-1,CA : ABORIGINAL PEOPLE TELEVISION NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65869
-#EXTINF:-1,CA : ADULT SWIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65868
-#EXTINF:-1,CA : AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3283
-#EXTINF:-1,CA : AMERICAN HEROES CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3282
-#EXTINF:-1,CA : ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3281
-#EXTINF:-1,CA : APTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99452
-#EXTINF:-1,CA : BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3277
-#EXTINF:-1,CA : CABLEPULSE 24TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65854
-#EXTINF:-1,CA : CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3270
-#EXTINF:-1,CA : CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url==http://185.232.53.5:2086/gennaro/gennaro/5487
-#EXTINF:-1,CA : CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/15283
-#EXTINF:-1,CA : CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3275
-#EXTINF:-1,CA : CITY TV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853
-#EXTINF:-1,CA : CMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3271
-#EXTINF:-1,CA : CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16216
-#EXTINF:-1,CA : COMEDY WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3266
-#EXTINF:-1,CA : CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3733
-#EXTINF:-1,CA : CRAVE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16227
-#EXTINF:-1,CA : CRAVE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16226
-#EXTINF:-1,CA : CRAVE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16225
-#EXTINF:-1,CA : CRAVE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66727
-#EXTINF:-1,CA : CRIME INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3276
-#EXTINF:-1,CA : CTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3768
-#EXTINF:-1,CA : CTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65831
-#EXTINF:-1,CA : CTV NEWS 2 LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/36344
-#EXTINF:-1,CA : CTV NEWS CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65857
-#EXTINF:-1,CA : CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32233
-#EXTINF:-1,CA : DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/93956
-#EXTINF:-1,CA : DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3263
-#EXTINF:-1,CA : DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3262
-#EXTINF:-1,CA : DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/93917
-#EXTINF:-1,CA : DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3261
-#EXTINF:-1,CA : DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3260
-#EXTINF:-1,CA : DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65851
-#EXTINF:-1,CA : DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13236
-#EXTINF:-1,CA : DOCUMENTARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3259
-#EXTINF:-1,CA : E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13235
-#EXTINF:-1,CA : FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3257
-#EXTINF:-1,CA : FAMILY (EAST)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65849
-#EXTINF:-1,CA : FAMILY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3255
-#EXTINF:-1,CA : FAMILY WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3256
-#EXTINF:-1,CA : FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3253
-#EXTINF:-1,CA : FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3251
-#EXTINF:-1,CA : FOX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99172
-#EXTINF:-1,CA : FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3252
-#EXTINF:-1,CA : FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16201
-#EXTINF:-1,CA : FXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16200
-#EXTINF:-1,CA : GAME SHOW NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/93915
-#EXTINF:-1,CA : GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3246
-#EXTINF:-1,CA : H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91264
-#EXTINF:-1,CA : HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3245
-#EXTINF:-1,CA : HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3244
-#EXTINF:-1,CA : HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3243
-#EXTINF:-1,CA : HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3242
-#EXTINF:-1,CA : ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16235
-#EXTINF:-1,CA : INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/93928
-#EXTINF:-1,CA : LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65843
-#EXTINF:-1,CA : MOVIETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13231
-#EXTINF:-1,CA : NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65838
-#EXTINF:-1,CA : NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13233
-#EXTINF:-1,CA : NBC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91260
-#EXTINF:-1,CA : NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3238
-#EXTINF:-1,CA : NTV NEWFOUNDLAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/36347
-#EXTINF:-1,CA : OLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65837
-#EXTINF:-1,CA : OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3237
-#EXTINF:-1,CA : PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91265
-#EXTINF:-1,CA : PEACH TREE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3235
-#EXTINF:-1,CA : SHOWCASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65832
-#EXTINF:-1,CA : SILVER SCREEN CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3230
-#EXTINF:-1,CA : SLICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3231
-#EXTINF:-1,CA : SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99453
-#EXTINF:-1,CA : SPIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3228
-#EXTINF:-1,CA : TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3217
-#EXTINF:-1,CA : TELETOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3205
-#EXTINF:-1,CA : TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3207
-#EXTINF:-1,CA : TREEHOUSE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3203
-#EXTINF:-1,CA : WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65821
-#EXTINF:-1,CA : WEATHER NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99181
-#EXTINF:-1,CA : YTV EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3190
-#EXTINF:-1,CA : YTV WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/93919
-#EXTINF:-1,GB : 4SEVEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66935
-#EXTINF:-1,GB : ALIBI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/72565
-#EXTINF:-1,GB : ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/72567
-#EXTINF:-1,GB : BBC 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90876
-#EXTINF:-1,GB : BBC ONE EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/31878
-#EXTINF:-1,GB : BBC ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90864
-#EXTINF:-1,GB : BT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67062
-#EXTINF:-1,GB : BT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67063
-#EXTINF:-1,GB : BT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67075
-#EXTINF:-1,GB : BT SPORTS ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67076
-#EXTINF:-1,GB : CBBC 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90880
-#EXTINF:-1,GB : CBEEBIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90881
-#EXTINF:-1,GB : CHANNEL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66961
-#EXTINF:-1,GB : CHANNEL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66962
-#EXTINF:-1,GB : COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/72570
-#EXTINF:-1,GB : CRIME & INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98704
-#EXTINF:-1,GB : DAVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66969
-#EXTINF:-1,GB : DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32042
-#EXTINF:-1,GB : DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98703
-#EXTINF:-1,GB : DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98702
-#EXTINF:-1,GB : DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98701
-#EXTINF:-1,GB : E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67089
-#EXTINF:-1,GB : E4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66972
-#EXTINF:-1,GB : FILM4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66975
-#EXTINF:-1,GB : FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66977
-#EXTINF:-1,GB : FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98699
-#EXTINF:-1,GB : GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67064
-#EXTINF:-1,GB : H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67070
-#EXTINF:-1,GB : ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67088
-#EXTINF:-1,GB : ITV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66991
-#EXTINF:-1,GB : ITV +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66992
-#EXTINF:-1,GB : ITV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67003
-#EXTINF:-1,GB : ITV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/72596
-#EXTINF:-1,GB : ITV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67004
-#EXTINF:-1,GB : ITVBe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67006
-#EXTINF:-1,GB : LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67069
-#EXTINF:-1,GB : MORE4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98696
-#EXTINF:-1,GB : MORE4 +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67015
-#EXTINF:-1,GB : NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98691
-#EXTINF:-1,GB : NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67074
-#EXTINF:-1,GB : NICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91784
-#EXTINF:-1,GB : PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66940
-#EXTINF:-1,GB : RTE JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91792
-#EXTINF:-1,GB : RTE ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32065
-#EXTINF:-1,GB : RTE TWO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32064
-#EXTINF:-1,GB : SKY ARTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98689
-#EXTINF:-1,GB : SKY ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91780
-#EXTINF:-1,GB : SKY CINEMA ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87571
-#EXTINF:-1,GB : SKY CINEMA COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87572
-#EXTINF:-1,GB : SKY CINEMA DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87573
-#EXTINF:-1,GB : SKY CINEMA DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87574
-#EXTINF:-1,GB : SKY CINEMA FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87575
-#EXTINF:-1,GB : SKY CINEMA GREATS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87576
-#EXTINF:-1,GB : SKY CINEMA HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87577
-#EXTINF:-1,GB : SKY CINEMA PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87578
-#EXTINF:-1,GB : SKY CINEMA SCI-FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87579
-#EXTINF:-1,GB : SKY CINEMA SELECT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87580
-#EXTINF:-1,GB : SKY CINEMA THRILLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/87581
-#EXTINF:-1,GB : SKY COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98688
-#EXTINF:-1,GB : SKY CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91779
-#EXTINF:-1,GB : SKY DOCUMENTARIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99207
-#EXTINF:-1,GB : SKY HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98698
-#EXTINF:-1,GB : SKY NATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99206
-#EXTINF:-1,GB : SKY ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/98687
-#EXTINF:-1,GB : SKY SPORTS ARENA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/85931
-#EXTINF:-1,GB : SKY SPORTS F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67056
-#EXTINF:-1,GB : SKY SPORTS FOOTBALL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67057
-#EXTINF:-1,GB : SKY SPORTS MAIN EVENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67058
-#EXTINF:-1,GB : SKY SPORTS MIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67061
-#EXTINF:-1,GB : SKY SPORTS NFL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/85930
-#EXTINF:-1,GB : SKY SPORTS PREMIER LEAGUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67060
-#EXTINF:-1,GB : SKY SPORTS RACING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/47763
-#EXTINF:-1,GB : SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/67068
-#EXTINF:-1,GB : TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32055
-#EXTINF:-1,GB : TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/91781
+#EXTINF:-1,UK: 4Seven HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1977
+#EXTINF:-1,UK: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1924
+#EXTINF:-1,UK: Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1939
+#EXTINF:-1,UK: BBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1910
+#EXTINF:-1,UK: BBC 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1911
+#EXTINF:-1,UK: BBC 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1912
+#EXTINF:-1,UK: BBC 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1913
+#EXTINF:-1,UK: BBC One HD ✎
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/281
+#EXTINF:-1,UK: BBC Two HD ✎
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/282
+#EXTINF:-1,UK: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1989
+#EXTINF:-1,UK: BT Sport ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/529
+#EXTINF:-1,UK: BT Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/526
+#EXTINF:-1,UK: BT Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/527
+#EXTINF:-1,UK: BT Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/528
+#EXTINF:-1,UK: Cartoon 4 U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2046
+#EXTINF:-1,UK: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1969
+#EXTINF:-1,UK: CBBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1938
+#EXTINF:-1,UK: Cbeebies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1937
+#EXTINF:-1,UK: Channel 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1919
+#EXTINF:-1,UK: Channel 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1925
+#EXTINF:-1,UK: Classic TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2048
+#EXTINF:-1,UK: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1994
+#EXTINF:-1,UK: Comedy Central Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1980
+#EXTINF:-1,UK: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1936
+#EXTINF:-1,UK: Crime Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1967
+#EXTINF:-1,UK: Dave HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1918
+#EXTINF:-1,UK: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1923
+#EXTINF:-1,UK: Discovery History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1981
+#EXTINF:-1,UK: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1962
+#EXTINF:-1,UK: Discovery Shed HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1964
+#EXTINF:-1,UK: Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1963
+#EXTINF:-1,UK: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1940
+#EXTINF:-1,UK: Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1935
+#EXTINF:-1,UK: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1941
+#EXTINF:-1,UK: Docurama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2050
+#EXTINF:-1,UK: E! Entertainement HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1961
+#EXTINF:-1,UK: E4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1926
+#EXTINF:-1,UK: Film 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1920
+#EXTINF:-1,UK: Filmrise Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2051
+#EXTINF:-1,UK: Food HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1960
+#EXTINF:-1,UK: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1959
+#EXTINF:-1,UK: Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1934
+#EXTINF:-1,UK: Good Food HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1997
+#EXTINF:-1,UK: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1982
+#EXTINF:-1,UK: Home Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1998
+#EXTINF:-1,UK: Horror Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1983
+#EXTINF:-1,UK: Hunt Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2058
+#EXTINF:-1,UK: Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1965
+#EXTINF:-1,UK: ITV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1914
+#EXTINF:-1,UK: ITV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1915
+#EXTINF:-1,UK: ITV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1916
+#EXTINF:-1,UK: ITV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1917
+#EXTINF:-1,UK: ITV BE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1999
+#EXTINF:-1,UK: Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1966
+#EXTINF:-1,UK: More 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1921
+#EXTINF:-1,UK: Movies 4Men HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2000
+#EXTINF:-1,UK: Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1954
+#EXTINF:-1,UK: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1922
+#EXTINF:-1,UK: Nick Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1953
+#EXTINF:-1,UK: Nick Toons HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1951
+#EXTINF:-1,UK: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1952
+#EXTINF:-1,UK: Parliament HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2043
+#EXTINF:-1,UK: Quest HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1956
+#EXTINF:-1,UK: RT Documentary HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2015
+#EXTINF:-1,UK: RTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2016
+#EXTINF:-1,UK: RTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2017
+#EXTINF:-1,UK: RTE JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2021
+#EXTINF:-1,UK: Rte One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2019
+#EXTINF:-1,UK: RTE Two HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2020
+#EXTINF:-1,UK: Sky 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1927
+#EXTINF:-1,UK: Sky Arts HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1932
+#EXTINF:-1,UK: Sky Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1931
+#EXTINF:-1,UK: Sky Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1933
+#EXTINF:-1,UK: Sky Movies Action & Adv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2023
+#EXTINF:-1,UK: Sky Movies Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1949
+#EXTINF:-1,UK: Sky Movies Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2024
+#EXTINF:-1,UK: Sky Movies Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1948
+#EXTINF:-1,UK: Sky Movies Modern-Geant HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2025
+#EXTINF:-1,UK: Sky Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1947
+#EXTINF:-1,UK: Sky Movies Scfi&Horror HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1946
+#EXTINF:-1,UK: Sky Movies Sci-Fi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2026
+#EXTINF:-1,UK: Sky Movies Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2027
+#EXTINF:-1,UK: Sky Movies Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2028
+#EXTINF:-1,UK: Sky Movies Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1945
+#EXTINF:-1,UK: Sky One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1928
+#EXTINF:-1,UK: Sky Sports Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/534
+#EXTINF:-1,UK: Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/536
+#EXTINF:-1,UK: Sky Sports Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/533
+#EXTINF:-1,UK: Sky Sports Main Event HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/531
+#EXTINF:-1,UK: Sky Sports Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/535
+#EXTINF:-1,UK: Spike HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2031
+#EXTINF:-1,UK: Starz TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2032
+#EXTINF:-1,UK: Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1985
+#EXTINF:-1,UK: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1957
+#EXTINF:-1,UK: Tiny Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2035
+#EXTINF:-1,UK: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2036
+#EXTINF:-1,UK: True Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2037
+#EXTINF:-1,UK: Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1942
+#EXTINF:-1,UK: Yesterday HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1988
+#EXTINF:-1,USA: ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/538
+#EXTINF:-1,USA: ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/537
+#EXTINF:-1,USA: Fight Box HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/541
+#EXTINF:-1,USA: Fight Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/539
+#EXTINF:-1,USA: NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/540
