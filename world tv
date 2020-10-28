@@ -2,11 +2,12 @@
 
 #EXTINF:-1,Coronavirus Pandemic
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:hlscat.com
-
+#EXTINF:-1,UK: Covid 19 News HD ✎
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/278
 #EXTINF:-1,US: Coronavirus Outbreak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:hlscat.com
 #EXTINF:-1,CA : COVID-19 LIVE UPDATE (Real Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=http://185.232.53.5:2086/gennaro/gennaro/99456
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99456
 #EXTINF:-1,CA011:CHCH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sd-48232.dedibox.fr:25461/93xxDXA2qY/ue8tWAXBe4/15874?checkedby:hlscat.com
 
