@@ -1,5 +1,42 @@
 #EXTM3U
-
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 ALF
+http://bestcostiptv.com:8080/ruru/4fd09a88/148429?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Abbott & Castello
+http://bestcostiptv.com:8080/ruru/4fd09a88/148451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 All in the Family
+http://bestcostiptv.com:8080/ruru/4fd09a88/148441?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Allo Allo
+http://bestcostiptv.com:8080/ruru/4fd09a88/148436?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Breaking Bad
+http://bestcostiptv.com:8080/ruru/4fd09a88/148483?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Diffrent Strokes
+http://bestcostiptv.com:8080/ruru/4fd09a88/148434?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Family Ties
+http://bestcostiptv.com:8080/ruru/4fd09a88/148439?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Friends
+http://bestcostiptv.com:8080/ruru/4fd09a88/148440?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 GOOD TIMES
+http://bestcostiptv.com:8080/ruru/4fd09a88/148448?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Letterkenny
+http://bestcostiptv.com:8080/ruru/4fd09a88/148464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Martin
+http://104.218.61.161:83/directline76598/3522202030822350813MA8352020/128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Mr. Bean
+http://bestcostiptv.com:8080/ruru/4fd09a88/148450?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Sanford & Son
+http://bestcostiptv.com:8080/ruru/4fd09a88/148453?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Stranger Things
+http://bestcostiptv.com:8080/ruru/4fd09a88/148468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids;Undefined",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Benny Hill Show
+http://bestcostiptv.com:8080/ruru/4fd09a88/148480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Golden Girls
+http://bestcostiptv.com:8080/ruru/4fd09a88/148463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Jeffersons
+http://bestcostiptv.com:8080/ruru/4fd09a88/148485?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="American Classics" tvg-name="American Classics" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 #EXTINF:-1 tvg-id="Filmrise Classic TV" tvg-name="Filmrise Classic TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Filmrise Classic TV
