@@ -1,24 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1,Coronavirus Pandemic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:hlscat.com
-#EXTINF:-1,UK: Covid 19 News HD ✎
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/278
-#EXTINF:-1,US: Coronavirus Outbreak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:hlscat.com
 #EXTINF:-1,CA : COVID-19 LIVE UPDATE (Real Time)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99456
 #EXTINF:-1,CA011:CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sd-48232.dedibox.fr:25461/93xxDXA2qY/ue8tWAXBe4/15874?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://flow2.biz:25461/800104/800104/4480?checkedby:iptvcat.com
 
 #EXTINF:-1,CA101:CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440965?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://flow2.biz:25461/800104/800104/4474?checkedby:iptvcat.com
 
 #EXTINF:-1,CA106:CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67566?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65853?checkedby:iptvcat.com
 
 #EXTINF:-1,CA118:CTV Canada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/live/Cc1/Cc1/67566.m3u8?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/441025?checkedby:iptvcat.com
 
 #EXTINF:-1,CA : GLOBAL TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3246
@@ -28,10 +22,10 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67326
 
 #EXTINF:-1,CA084:ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67325
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440966?checkedby:iptvcat.com
 
 #EXTINF:-1,CA103:CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67471
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/65863?checkedby:iptvcat.com
 
 #EXTINF:-1,CA031:FOX-EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67472
@@ -40,7 +34,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67589
 
 #EXTINF:-1,CA168:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/441002?checkedby:iptvcat.com
 
 #EXTINF:-1,CA099:CBC NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67443
@@ -49,10 +43,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67304
 
 #EXTINF:-1,CA016:CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://flow2.biz:25461/800104/800104/4460?checkedby:iptvcat.com
 
 #EXTINF:-1,CA013:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440999?checkedby:iptvcat.com
 
 #EXTINF:-1,CA133:FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/2
@@ -96,53 +90,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 #EXTINF:-1,CANADA: TREEHOUSE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67245
 
-#EXTINF:-1,CA: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67299
-#EXTINF:-1,CA: Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67322
-#EXTINF:-1,CA: Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67298
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Family Channel
-http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1,CA: Family CHRGD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67294
-#EXTINF:-1,CA: Family Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67292
-
 #EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36891.m3u8
 
 #EXTINF:-1,US: SMITHSONIAN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/22939
 
-#EXTINF:-1,US : LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27
 
-#EXTINF:-1,US : LIFETIME FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67284
-#EXTINF:-1,US: Lifetime 720
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/11667
-#EXTINF:-1,US: Lifetime Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5882
-#EXTINF:-1,US: Lifetime Movies (Backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/15179
-#EXTINF:-1,US: Hallmark HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41547
-#EXTINF:-1,US: Hallmark Ch (Backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41605
-#EXTINF:-1,US: Hallmark Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/19730
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5878
-#EXTINF:-1,VIP HD HALLMARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/32
-#EXTINF:-1,VIP USA HD : Hallmark Movies & Mysteries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
 #EXTINF:-1,CA: Crave 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premiumtop.top:8080/1234/123456/21504?checkedby:iptvcat.com
 #EXTINF:-1,CA: Crave 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premiumtop.top:8080/1234/123456/21505?checkedby:iptvcat.com
 #EXTINF:-1,CA: Crave 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/441009?checkedby:iptvcat.com
 #EXTINF:-1,CA: Crave 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/1072/2701/85548?checkedby:iptvcat.com
