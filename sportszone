@@ -63,65 +63,65 @@ https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="",TVS Western Movie
 https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRIME + INVESTIGATION
-http://flow2.biz:25461/800104/800104/4500?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://flow2.biz:25461/800104/800104/4500?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRIME + INVESTIGATION
-http://rv.therevenge.co:80/477846155654/477846155654/81234?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/477846155654/477846155654/81234?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/32233?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/32233?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV TORONTO
-http://185.232.53.5:2086/gennaro/gennaro/32233?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/32233?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CablePulse 24
-http://flow2.biz:25461/800104/800104/4460?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://flow2.biz:25461/800104/800104/4460?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TORONTO
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/81398?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/81398?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TORONTO
-http://exodus1.eu:8080/blue123/blue123/440995?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440995?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
-http://exodus1.eu:8080/blue123/blue123/441001?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/441001?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
-http://185.232.53.5:2086/gennaro/gennaro/16216?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16216?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 1
 http://185.232.53.5:2086/arellano/kgtL965n2Y/16227?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 2
-http://exodus1.eu:8080/blue123/blue123/441008?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/441008?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 3
-http://185.232.53.5:2086/gennaro/gennaro/16225?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16225?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 4
-http://185.232.53.5:2086/gennaro/gennaro/66727?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/66727?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
-http://flow2.biz:25461/800104/800104/4475?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://flow2.biz:25461/800104/800104/4475?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15283?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/15283?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS BUFFALO (WIVB)
-http://185.232.53.5:2086/gennaro/gennaro/65863?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65863?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
-http://185.232.53.5:2086/gennaro/gennaro/3275?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3275?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3275?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/3275?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16240?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/16240?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
-http://exodus1.eu:8080/blue123/blue123/440965?checkedby:hlscat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440965?checkedby:hlscat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BRAVO
-http://185.232.53.5:2086/gennaro/gennaro/3277?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3277?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BRAVO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3277?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/3277?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CARTOON NETWORK
-http://premiumtop.top:8080/1234/123456/21475?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premiumtop.top:8080/1234/123456/21475?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK
-http://185.232.53.5:2086/gennaro/gennaro/3285?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3285?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3285?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/3285?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC
-http://exodus1.eu:8080/blue123/blue123/440966?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440966?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABORIGINAL PEOPLE TELEVISION NETWORK
-http://185.232.53.5:2086/gennaro/gennaro/65869?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65869?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABORIGINAL PEOPLE TELEVISION NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65869?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/65869?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
-http://exodus1.eu:8080/blue123/blue123/440969?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://exodus1.eu:8080/blue123/blue123/440969?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3283?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/3283?checkedby:iptvcat.com
 
 #EXTINF:-1,UK: 4Seven HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1977
