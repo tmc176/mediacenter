@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,|US| Hallmark Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109522.m3u8
+http://163.172.17.196:80/live/307210016401/307210016401/109522.m3u8
 #EXTINF:-1,|US| Hallmark Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109521.m3u8
+http://163.172.17.196:80/live/307210016401/307210016401/109521.m3u8
 #EXTINF:-1,|US| HALLMARK Drama FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109520.m3u8
+http://163.172.17.196:80/live/307210016401/307210016401/109520.m3u8
 #EXTINF:-1,|US| HALLMARK Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109519.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109519.m3u8
 #EXTINF:-1,|US| HALLMARK MOVIES & MYSTERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109518.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/109518.m3u8
 #EXTINF:-1,|USA| HALLMARK MOVIES & MYSTERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/81210.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/81210.m3u8
 #EXTINF:-1,|USA| HALLMARK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/81209.m3u8
+http://163.172.17.196:80/live/307210016401/307210016401/81209.m3u8
 #EXTINF:-1,|USA| HALLMARK DRAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.17.196:80/live/307210016401/307210016401/81208.m3u8
 #EXTINF:-1 tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
