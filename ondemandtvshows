@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE FLINTSTONES" tvg-logo="http://www.thetvdb.com/banners/posters/76171-2.jpg" group-title="24/7 CHANNELS",24/7 : THE FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/18177
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE MUNSTERS" tvg-logo="http://www.thetvdb.com/banners/posters/77280-4.jpg" group-title="24/7 CHANNELS",24/7 : THE MUNSTERS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/17897
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE ADDAMS FAMILY" tvg-logo="http://www.thetvdb.com/banners/posters/77137-5.jpg" group-title="24/7 CHANNELS",24/7 : THE ADDAMS FAMILY
