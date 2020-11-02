@@ -13,6 +13,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/16039
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : LOONEY TUNES" tvg-logo="http://www.thetvdb.com/banners/posters/72514-5.jpg" group-title="24/7 CHANNELS",24/7 : LOONEY TUNES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/18174
+#EXTINF:-1 tvg-id="" tvg-name="24/7 All in the Family" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/7895398/p7895398_b_v8_ab.jpg" group-title="TV 24/ 7  (English)",24/7 All in the Family
+http://latiniptv.vip:8008/enzo/123/128055
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 All in the Family
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestcostiptv.com:8080/ruru/4fd09a88/148441?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : ALL IN THE FAMILY" tvg-logo="https://artworks.thetvdb.com/banners/series/72741/posters/5f383f47b48c6_t.jpg" group-title="24/7 CHANNELS",24/7 : ALL IN THE FAMILY
