@@ -80,6 +80,8 @@ http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wR2Zv8d.png" group-title="24/7 ENGLISH",The Lucy Show
 http://dai.google.com/linear/hls/pa/event/-s-FtbzrQCaLMDSyM0ejyw/stream/6dc92ea2-dba1-4493-b8d2-269e89f9ba9c:CHS/variant/1b0beacafb6a1cad0279ea30f33d25f9/bandwidth/1291125.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory" tvg-logo="https://i.ibb.co/58fLH54/the-big-bang-theory-actores.jpg" group-title="TV 24/7",24/7 The Big Bang Theory
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/130150
 #EXTINF:-1 tvg-id="" tvg-name="24/7  The Dukes of Hazzard" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/7895158/p7895158_b_v8_aa.jpg" group-title="TV 24/ 7  (English)",24/7  The Dukes of Hazzard
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/128028
 #EXTINF:-1 tvg-id="" tvg-name="24/7 13 Reasons Why" tvg-logo="" group-title="TV 24/ 7  (English)",24/7 13 Reasons Why
