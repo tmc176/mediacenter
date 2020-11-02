@@ -68,236 +68,113 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="",TVS Western Movie
 https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA : A&E" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="CANADIAN TV",CA : A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/16240
-#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA : ABC SPARK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ABC_Spark_Logo.png/230px-ABC_Spark_Logo.png" group-title="CANADIAN TV",CA : ABC SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/3285
-#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA : ABC WEST" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png" group-title="CANADIAN TV",CA : ABC WEST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3284
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : ABORIGINAL PEOPLE TELEVISION NETWORK" tvg-logo="https://i.pinimg.com/originals/9a/36/dc/9a36dc51cbcbc9c04b20cb13718ba0bf.png" group-title="CANADIAN TV",CA : ABORIGINAL PEOPLE TELEVISION NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65869
-#EXTINF:-1 tvg-id="addiktv.ca" tvg-name="CA : ADDIK TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/15230/addikatelevision.png" group-title="CANADIAN TV",CA : ADDIK TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/66735
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : ADULT SWIM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Adult_Swim_Screen-Bug_2002.svg/200px-Adult_Swim_Screen-Bug_2002.svg.png" group-title="CANADIAN TV",CA : ADULT SWIM
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65868
-#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA : AMC" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/35455/amctv.png" group-title="CANADIAN TV",CA : AMC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3283
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="CA : AMERICAN HEROES CHANNEL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="CANADIAN TV",CA : AMERICAN HEROES CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3282
-#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="CA : ANIMAL PLANET" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="CANADIAN TV",CA : ANIMAL PLANET
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3281
-#EXTINF:-1 tvg-id="bbccanada.ca" tvg-name="CA : BBC CANADA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/85848/bbccanadatv.png" group-title="CANADIAN TV",CA : BBC CANADA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65866
-#EXTINF:-1 tvg-id="assembleenationale.ca" tvg-name="CA : BRAVO" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="CANADIAN TV",CA : BRAVO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3277
-#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA : CABLEPULSE 24TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="CANADIAN TV",CA : CABLEPULSE 24TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65854
-#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA : CARTOON NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cartoonnetwork.png" group-title="CANADIAN TV",CA : CARTOON NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3270
-#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA : CBC" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Cbctv.svg/1256px-Cbctv.svg.png" group-title="CANADIAN TV",CA : CBC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/5487
-#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA : CBC NEWS NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbc_news_network.png" group-title="NEWS NETWORKS",CA : CBC NEWS NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65865
-#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA : CBC TORONTO" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CBC_HD_logo.svg/2000px-CBC_HD_logo.svg.png" group-title="CANADIAN TV",CA : CBC TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15283
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : CBS BUFFALO (WIVB)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="CANADIAN TV",CA : CBS BUFFALO (WIVB)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65863
-#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA : CHCH" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/chch.png" group-title="CANADIAN TV",CA : CHCH
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3275
-#EXTINF:-1 tvg-id="chrgd.ca" tvg-name="CA : CHRGD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/familychrgd.png" group-title="CANADIAN TV",CA : CHRGD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65862
-#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA : CITY TV TORONTO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctv-2018.png" group-title="CANADIAN TV",CA : CITY TV TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65853
-#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA : CMT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="CANADIAN TV",CA : CMT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3271
-#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA : CNN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnn.png" group-title="NEWS NETWORKS",CA : CNN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16216
-#EXTINF:-1 tvg-id="ctvcomedywest.ca" tvg-name="CA : COMEDY WEST" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TheComedyNetworkHDEast.png" group-title="CANADIAN TV",CA : COMEDY WEST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3266
-#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA : COTTAGE LIFE TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cott.png" group-title="CANADIAN TV",CA : COTTAGE LIFE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3265
-#EXTINF:-1 tvg-id="" tvg-name="CA : COVID-19 LIVE UPDATE (Real Time)" tvg-logo="" group-title="CANADIAN TV",CA : COVID-19 LIVE UPDATE (Real Time)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99456
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA : CP24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="CANADIAN TV",CA : CP24
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3733
-#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA : CRAVE 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="PREMIUM MOVIES",CA : CRAVE 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16227
-#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA : CRAVE 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="PREMIUM MOVIES",CA : CRAVE 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16226
-#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA : CRAVE 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="PREMIUM MOVIES",CA : CRAVE 3
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16225
-#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA : CRAVE 4" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/8124/crave4tv.png" group-title="CANADIAN TV",CA : CRAVE 4
-http://185.232.53.5:2086/arellano/kgtL965n2Y/66727
-#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA : CRIME INVESTIGATION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/crime_invest.png" group-title="CANADIAN TV",CA : CRIME INVESTIGATION
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3276
-#EXTINF:-1 tvg-id="ctv.ca" tvg-name="CA : CTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctv-2018.png" group-title="CANADIAN TV",CA : CTV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3768
-#EXTINF:-1 tvg-id="ctv2.ca" tvg-name="CA : CTV 2" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/1142/ctv2channel.png" group-title="CANADIAN TV",CA : CTV 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65831
-#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA : CTV NEWS CHANNEL" tvg-logo="http://www.livenewsnow.com/wp-content/uploads/2015/01/CTV-News.png" group-title="NEWS NETWORKS",CA : CTV NEWS CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65857
-#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA : CTV TORONTO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctv-2018.png" group-title="CANADIAN TV",CA : CTV TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/32233
-#EXTINF:-1 tvg-id="ctv2toronto.ca" tvg-name="CA : CTV2 TORONTO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctv2-2018.png" group-title="CANADIAN TV",CA : CTV2 TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93968
-#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA : DEJAVIEW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/dejaview.png" group-title="CANADIAN TV",CA : DEJAVIEW
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93956
-#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA : DISCOVERY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discovery-canada.png" group-title="CANADIAN TV",CA : DISCOVERY CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3263
-#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA : DISCOVERY SCIENCE" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/120px-Discovery_Science_Canada_2011.PNG" group-title="CANADIAN TV",CA : DISCOVERY SCIENCE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3262
-#EXTINF:-1 tvg-id="discoveryvelocity.ca" tvg-name="CA : DISCOVERY VELOCITY" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/84992/discoveryvelocitytv.png" group-title="CANADIAN TV",CA : DISCOVERY VELOCITY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99170
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney.png" group-title="CANADIAN TV",CA : DISNEY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93917
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney.png" group-title="CANADIAN TV",CA : DISNEY CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3261
-#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="CANADIAN TV",CA : DISNEY JR
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3260
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA : DISNEY XD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" group-title="CANADIAN TV",CA : DISNEY XD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65851
-#EXTINF:-1 tvg-id="doityourselfnetwork.ca" tvg-name="CA : DIY NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/diy.png" group-title="CANADIAN TV",CA : DIY NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13236
-#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA : DOCUMENTARY" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/docu-can.png" group-title="CANADIAN TV",CA : DOCUMENTARY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3259
-#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA : E!" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/17642/eentertainmenttv.png" group-title="CANADIAN TV",CA : E!
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13235
-#EXTINF:-1 tvg-id="familychannel.ca" tvg-name="CA : FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/familychannel.png" group-title="CANADIAN TV",CA : FAMILY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3257
-#EXTINF:-1 tvg-id="familychannel.ca" tvg-name="CA : FAMILY (EAST)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/familychannel.png" group-title="CANADIAN TV",CA : FAMILY (EAST)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65849
-#EXTINF:-1 tvg-id="familyjr.ca" tvg-name="CA : FAMILY JUNIOR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FamilyJRlogo.png/200px-FamilyJRlogo.png" group-title="CANADIAN TV",CA : FAMILY JUNIOR
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3255
-#EXTINF:-1 tvg-id="familychannel.ca" tvg-name="CA : FAMILY WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/familychannel.png" group-title="CANADIAN TV",CA : FAMILY WEST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3256
-#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="CA : FIGHT NETWORK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/500px-Fight_network_logo.svg.png" group-title="CANADIAN TV",CA : FIGHT NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3254
-#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA : FOOD NETWORK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="CANADIAN TV",CA : FOOD NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3253
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : FOX" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="CANADIAN TV",CA : FOX
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3251
-#EXTINF:-1 tvg-id="" tvg-name="CA : FOX EAST" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/4/foxchannel.png" group-title="CANADIAN TV",CA : FOX EAST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99172
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA : FOX NEWS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS NETWORKS",CA : FOX NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3252
-#EXTINF:-1 tvg-id="" tvg-name="CA : FOX SEATTLE HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="CANADIAN TV",CA : FOX SEATTLE HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93982
-#EXTINF:-1 tvg-id="foxsportsracing.ca" tvg-name="CA : FOX SPORTS RACING" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/fsracing.png" group-title="CANADIAN TV",CA : FOX SPORTS RACING
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65848
-#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA : FX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxcanada.png" group-title="PREMIUM MOVIES",CA : FX
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16201
-#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA : FXX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxx.png" group-title="PREMIUM MOVIES",CA : FXX
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16200
-#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA : GLOBAL TORONTO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/global.png" group-title="CANADIAN TV",CA : GLOBAL TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3246
-#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA : HBO 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="PREMIUM MOVIES",CA : HBO 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3245
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA : HBO 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="PREMIUM MOVIES",CA : HBO 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3244
-#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA : HGTV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/86421/hgtelevisionchannel.png" group-title="CANADIAN TV",CA : HGTV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3243
-#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA : HISTORY CHANNEL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="CANADIAN TV",CA : HISTORY CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3242
-#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA : ID" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5a/Investigation_Discovery_HD.png/revision/latest?cb=20151128232026" group-title="CANADIAN TV",CA : ID
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16235
-#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA : INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Investigation.svg/220px-Investigation.svg.png" group-title="CANADIAN TV",CA : INVESTIGATION HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93928
-#EXTINF:-1 tvg-id="leafstv.ca" tvg-name="CA : LEAFS TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/leafstv.png" group-title="CANADIAN TV",CA : LEAFS TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95306
-#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA : LIFETIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lifetime19.png" group-title="CANADIAN TV",CA : LIFETIME
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65843
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="CA : MLB NETWORK" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87687/mlbnetworktv.png" group-title="CANADIAN TV",CA : MLB NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65842
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : MOTORTREND" tvg-logo="https://wpapi.motortrendondemand.com/wp-content/uploads/motor_trend_presents.png" group-title="CANADIAN TV",CA : MOTORTREND
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16196
-#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA : MOVIETIME" tvg-logo="https://images.ctfassets.net/3cqlnin176yn/4UOnS4n4piGMkCM0YikK2S/de08a5087f5162d045d27a3fe3c9f65d/60_MovieTime.png" group-title="PREMIUM MOVIES",CA : MOVIETIME
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13231
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA : NAT GEO WILD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/natgeowild.png" group-title="CANADIAN TV",CA : NAT GEO WILD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65838
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA : NATIONAL GEOGRAPHIC" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="CANADIAN TV",CA : NATIONAL GEOGRAPHIC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13233
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA : NBA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/50625/nbatvchannel.png" group-title="CANADIAN TV",CA : NBA TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65840
-#EXTINF:-1 tvg-id="" tvg-name="CA : NBC SEATTLE HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc.png" group-title="CANADIAN TV",CA : NBC SEATTLE HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93980
-#EXTINF:-1 tvg-id="" tvg-name="CA : NBC WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc.png" group-title="CANADIAN TV",CA : NBC WEST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91260
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : NFL NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png/revision/latest?cb=20150923232918" group-title="CANADIAN TV",CA : NFL NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3402
-#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA : NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="CANADIAN TV",CA : NICKELODEON
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3238
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : NTV NEWFOUNDLAND" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="CANADIAN TV",CA : NTV NEWFOUNDLAND
-http://185.232.53.5:2086/arellano/kgtL965n2Y/36347
-#EXTINF:-1 tvg-id="outdoorlife.ca" tvg-name="CA : OLN" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/OLNHD.png" group-title="CANADIAN TV",CA : OLN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65837
-#EXTINF:-1 tvg-id="onegetfit.ca" tvg-name="CA : ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/One_TV_Get_Fit.png/150px-One_TV_Get_Fit.png" group-title="CANADIAN TV",CA : ONE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91262
-#EXTINF:-1 tvg-id="toprahwinfreynetwork.ca" tvg-name="CA : OWN" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/167px-OWN_2011_logo.svg.png" group-title="CANADIAN TV",CA : OWN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3237
-#EXTINF:-1 tvg-id="paramountnetwork.ca" tvg-name="CA : PARAMOUNT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/paramount.png" group-title="CANADIAN TV",CA : PARAMOUNT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91265
-#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA : PEACH TREE TV" tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/57/Peachtree.png" group-title="CANADIAN TV",CA : PEACH TREE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3235
-#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA : SHOWCASE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/showcasecanada.png" group-title="CANADIAN TV",CA : SHOWCASE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65832
-#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA : SILVER SCREEN CLASSICS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/1200px-Silverscreenclassics.svg.png" group-title="PREMIUM MOVIES",CA : SILVER SCREEN CLASSICS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3230
-#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA : SLICE" tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/12/logo_tv_slice_nov2017.png" group-title="CANADIAN TV",CA : SLICE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3231
-#EXTINF:-1 tvg-id="spike.ca" tvg-name="CA : SPIKE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/220px-Spike_logo_2015.svg.png" group-title="CANADIAN TV",CA : SPIKE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3228
-#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSMAN" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/12286/sc_colordark.png" group-title="CANADIAN TV",CA : SPORTSMAN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99176
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA : SPORTSNET 360" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/210px-SN_360_logo.svg.png" group-title="PREMIUM SPORTS",CA : SPORTSNET 360
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3227
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA : SPORTSNET EAST" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/250px-Logo_Sportsnet_2011.svg.png" group-title="PREMIUM SPORTS",CA : SPORTSNET EAST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3226
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA : SPORTSNET ONE" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/250px-Sportsnetone2011.svg.png" group-title="PREMIUM SPORTS",CA : SPORTSNET ONE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3225
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA : SPORTSNET ONTARIO" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/250px-SportsnetOntario2011.png" group-title="PREMIUM SPORTS",CA : SPORTSNET ONTARIO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3224
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/sportsnetpacific.png" group-title="PREMIUM SPORTS",CA : SPORTSNET PACIFIC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3223
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA : SPORTSNET WEST" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/250px-Logo_Sportsnet_2011.svg.png" group-title="PREMIUM SPORTS",CA : SPORTSNET WEST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3222
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA : SPORTSNET WORLD" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="PREMIUM SPORTS",CA : SPORTSNET WORLD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3221
-#EXTINF:-1 tvg-id="turnerclassicmovies.ca" tvg-name="CA : TCM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/175px-TCM_logo.svg.png" group-title="PREMIUM MOVIES",CA : TCM
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3217
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA : TELETOON" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG" group-title="CANADIAN TV",CA : TELETOON
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3205
-#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA : TLC" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="CANADIAN TV",CA : TLC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3207
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA : TREEHOUSE TV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Treehouse_TV_2013.png/200px-Treehouse_TV_2013.png" group-title="CANADIAN TV",CA : TREEHOUSE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3203
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA : TSN 1" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TSN1HD.png" group-title="CANADIAN TV",CA : TSN 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3202
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA : TSN 2" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" group-title="CANADIAN TV",CA : TSN 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3201
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA : TSN 3" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" group-title="CANADIAN TV",CA : TSN 3
-http://185.232.53.5:2086/arellano/kgtL965n2Y/8802
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA : TSN 4" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" group-title="CANADIAN TV",CA : TSN 4
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3199
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA : TSN 5" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="CANADIAN TV",CA : TSN 5
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3198
-#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA : W NETWORK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/100px-W_Network_Logo.svg.png" group-title="CANADIAN TV",CA : W NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3195
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA : WEATHER NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="CANADIAN TV",CA : WEATHER NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65821
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA : WEATHER NETWORK HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/78762/weathernetworkhdtv.png" group-title="CANADIAN TV",CA : WEATHER NETWORK HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99181
-#EXTINF:-1 tvg-id="wgncanada.ca" tvg-name="CA : WGN CHICAGO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" group-title="CANADIAN TV",CA : WGN CHICAGO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91638
-#EXTINF:-1 tvg-id="wild.ca" tvg-name="CA : WILD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/250px-Wild_TV_logo_2020.png" group-title="CANADIAN TV",CA : WILD TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93948
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : WWE" tvg-logo="http://www.freepnglogos.com/uploads/wwe-network-logo-0.png" group-title="CANADIAN TV",CA : WWE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16218
-#EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA : YES TV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/YesTV_Canada.svg/150px-YesTV_Canada.svg.png" group-title="CANADIAN TV",CA : YES TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3191
-#EXTINF:-1 tvg-id="ytv.ca" tvg-name="CA : YTV EAST" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/f/f8/YTV_logo.svg/150px-YTV_logo.svg.png" group-title="CANADIAN TV",CA : YTV EAST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3190
-#EXTINF:-1 tvg-id="" tvg-name="CA : YTV WEST" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/f/f8/YTV_logo.svg/150px-YTV_logo.svg.png" group-title="CANADIAN TV",CA : YTV WEST
-
+#EXTINF:-1 tvg-id="" tvg-name="M-A&E NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-A&E NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126947
+#EXTINF:-1 tvg-id="" tvg-name="M-AMC NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-AMC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126948
+#EXTINF:-1 tvg-id="" tvg-name="M-AMERICAN HEROES CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-AMERICAN HEROES CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126949
+#EXTINF:-1 tvg-id="" tvg-name="M-ANIMAL PLANET EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-ANIMAL PLANET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126950
+#EXTINF:-1 tvg-id="" tvg-name="M-BOOMERANG" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126963
+#EXTINF:-1 tvg-id="" tvg-name="M-BRAVO EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-BRAVO EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126964
+#EXTINF:-1 tvg-id="" tvg-name="M-CARTOON NETWORK EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CARTOON NETWORK EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126966
+#EXTINF:-1 tvg-id="" tvg-name="M-CBSSN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CBSSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126969
+#EXTINF:-1 tvg-id="" tvg-name="M-CMT" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126971
+#EXTINF:-1 tvg-id="" tvg-name="M-CNN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126974
+#EXTINF:-1 tvg-id="" tvg-name="M-COMEDY CENTRAL EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-COMEDY CENTRAL EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126976
+#EXTINF:-1 tvg-id="" tvg-name="M-DISCOVERY EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-DISCOVERY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126981
+#EXTINF:-1 tvg-id="" tvg-name="M-DISCOVERY WEST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-DISCOVERY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126982
+#EXTINF:-1 tvg-id="" tvg-name="M-DISCOVERY FAMILY CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-DISCOVERY FAMILY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126983
+#EXTINF:-1 tvg-id="" tvg-name="M-DISCOVERY LIFE" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-DISCOVERY LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126984
+#EXTINF:-1 tvg-id="" tvg-name="M-DIY" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-DIY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126985
+#EXTINF:-1 tvg-id="" tvg-name="M-E! ENTERTAINMENT TELEVISION EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-E! ENTERTAINMENT TELEVISION EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126986
+#EXTINF:-1 tvg-id="" tvg-name="M-FOX NEWS CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-FOX NEWS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126992
+#EXTINF:-1 tvg-id="" tvg-name="M-HALLMARK CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-HALLMARK CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127004
+#EXTINF:-1 tvg-id="" tvg-name="M-HALLMARK DRAMA" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127005
+#EXTINF:-1 tvg-id="" tvg-name="M-HALLMARK MOVIES & MYSTERIES" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127006
+#EXTINF:-1 tvg-id="" tvg-name="M-HGTV WEST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-HGTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127007
+#EXTINF:-1 tvg-id="" tvg-name="M-HISTORY CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127008
+#EXTINF:-1 tvg-id="" tvg-name="M-INVESTIGATION DISCOVERY" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127012
+#EXTINF:-1 tvg-id="" tvg-name="M-LIFETIME" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127013
+#EXTINF:-1 tvg-id="" tvg-name="M-LIFETIME MOVIE NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-LIFETIME MOVIE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127014
+#EXTINF:-1 tvg-id="" tvg-name="M-Mav TV" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-Mav TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127017
+#EXTINF:-1 tvg-id="" tvg-name="M-MOTORTREND" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-MOTORTREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127018
+#EXTINF:-1 tvg-id="" tvg-name="M-NBA TV" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127027
+#EXTINF:-1 tvg-id="" tvg-name="M-NBCSN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127032
+#EXTINF:-1 tvg-id="" tvg-name="M-NFL NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127034
+#EXTINF:-1 tvg-id="" tvg-name="M-NFL REDZONE" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NFL REDZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127035
+#EXTINF:-1 tvg-id="" tvg-name="M-NICK JR EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NICK JR EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127036
+#EXTINF:-1 tvg-id="" tvg-name="M-NICKELODEON EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NICKELODEON EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127038
+#EXTINF:-1 tvg-id="" tvg-name="M-NICKTOONS" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127041
+#EXTINF:-1 tvg-id="" tvg-name="M-OUTDOOR CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-OUTDOOR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127043
+#EXTINF:-1 tvg-id="" tvg-name="M-OWN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127045
+#EXTINF:-1 tvg-id="" tvg-name="M-OXYGEN EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-OXYGEN EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127046
+#EXTINF:-1 tvg-id="" tvg-name="M-PARAMOUNT NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-PARAMOUNT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127055
+#EXTINF:-1 tvg-id="" tvg-name="M-SMITHSONIAN CHANNEL EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-SMITHSONIAN CHANNEL EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127061
+#EXTINF:-1 tvg-id="" tvg-name="M-SPORTSMAN CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-SPORTSMAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127064
+#EXTINF:-1 tvg-id="" tvg-name="M-SYFY EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-SYFY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127066
+#EXTINF:-1 tvg-id="" tvg-name="M-TBS EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127068
+#EXTINF:-1 tvg-id="" tvg-name="M-THE FIGHT NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-THE FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127073
+#EXTINF:-1 tvg-id="" tvg-name="M-TLC EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TLC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127076
+#EXTINF:-1 tvg-id="" tvg-name="M-TNT EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TNT EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127078
+#EXTINF:-1 tvg-id="" tvg-name="M-TURNER CLASSIC MOVIES" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TURNER CLASSIC MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127082
+#EXTINF:-1 tvg-id="" tvg-name="M-TV LAND EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TV LAND EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127083
+#EXTINF:-1 tvg-id="" tvg-name="M-UNIVERSAL KIDS" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-UNIVERSAL KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127087
+#EXTINF:-1 tvg-id="" tvg-name="M-USA NETWORK EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-USA NETWORK EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127088
+#EXTINF:-1 tvg-id="" tvg-name="M-VICELAND" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127092
+#EXTINF:-1 tvg-id="" tvg-name="M-WE tv" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-WE tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127094
+#EXTINF:-1 tvg-id="" tvg-name="M-WORLD FISHING NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127095
+#EXTINF:-1 tvg-id="" tvg-name="M-TV ONE" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TV ONE
 #EXTINF:-1,UK: 4Seven HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1977
 #EXTINF:-1,UK: Animal Planet HD
