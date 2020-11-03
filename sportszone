@@ -68,6 +68,22 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="",TVS Western Movie
 https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: WILD TV | SD" tvg-logo="https://live.staticflickr.com/65535/49514746517_bc744b570a_t.jpg" group-title="TV CANADA",CA: WILD TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123609
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/GLOBAL-TORONTO.png" group-title="TV CANADA",CA: GLOBAL TORONTO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123615
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET EAST | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/SPORTSNET-EAST.png" group-title="TV CANADA",CA: SPORTSNET EAST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123623
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONE | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/SportsnetOntario2011.png" group-title="TV CANADA",CA: SPORTSNET ONE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123624
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/SPORTSNET-ONTARIO.png" group-title="TV CANADA",CA: SPORTSNET ONTARIO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123625
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO | HD*" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/SPORTSNET-ONTARIO.png" group-title="TV CANADA",CA: SPORTSNET ONTARIO | HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123626
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/SPORTSNET-ONTARIO.png" group-title="TV CANADA",CA: SPORTSNET ONTARIO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123627
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET PACIFIC | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/SPORTSNET-PACIFIC.png" group-title="TV CANADA",CA: SPORTSNET PACIFIC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/123628
 #EXTINF:-1 tvg-id="" tvg-name="M-A&E NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-A&E NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126947
 #EXTINF:-1 tvg-id="" tvg-name="M-AMC NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-AMC NETWORK
