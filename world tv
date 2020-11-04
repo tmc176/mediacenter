@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="Discovery HD" tvg-name="UK: Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/330px-2019_Discovery_logo.svg.png" group-title="Documentaries",UK: Discovery
-http://mediahere.ca:80/live/Dave00012/4H16hGZSHd/23521.ts
-#EXTINF:-1 tvg-ID="Discovery HD" tvg-name="UK: Discovery FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/330px-2019_Discovery_logo.svg.png" group-title="Documentaries",UK: Discovery FHD
-http://mediahere.ca:80/live/Dave00012/4H16hGZSHd/50815.ts
-#EXTINF:-1 tvg-ID="Discovery Channel CA" tvg-name="CA: Discovery Channel" tvg-logo="http://www.discovery.ca/Custom/discovery/assets/img/brand-logo.png" group-title="Documentaries",CA: Discovery Channel
-http://mediahere.ca:80/live/Dave00012/4H16hGZSHd/49292.ts
-#EXTINF:-1 tvg-ID="The Discovery Channel HD" tvg-name="US: Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/330px-2019_Discovery_logo.svg.png" group-title="Documentaries",US: Discovery Channel
-http://mediahere.ca:80/live/Dave00012/4H16hGZSHd/27462.ts
 #EXTINF:-1,CA : COVID-19 LIVE UPDATE (Real Time)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99456
 #EXTINF:-1,CA011:CHCH
