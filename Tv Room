@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,CA : SPORTSMAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/99176
+
 #EXTINF:-1,CA : WILD TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/93948
 
