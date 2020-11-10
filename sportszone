@@ -92,8 +92,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latinipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126964
 #EXTINF:-1 tvg-id="" tvg-name="M-CARTOON NETWORK EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CARTOON NETWORK EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126966
-#EXTINF:-1 tvg-id="" tvg-name="M-CBSSN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CBSSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126969
 #EXTINF:-1 tvg-id="" tvg-name="M-CMT" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CMT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/126971
 #EXTINF:-1 tvg-id="" tvg-name="M-CNN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-CNN
@@ -130,26 +128,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latinipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127013
 #EXTINF:-1 tvg-id="" tvg-name="M-LIFETIME MOVIE NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-LIFETIME MOVIE NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127014
-#EXTINF:-1 tvg-id="" tvg-name="M-Mav TV" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-Mav TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127017
-#EXTINF:-1 tvg-id="" tvg-name="M-MOTORTREND" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-MOTORTREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127018
-#EXTINF:-1 tvg-id="" tvg-name="M-NBA TV" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127027
-#EXTINF:-1 tvg-id="" tvg-name="M-NBCSN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NBCSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127032
-#EXTINF:-1 tvg-id="" tvg-name="M-NFL NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NFL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127034
-#EXTINF:-1 tvg-id="" tvg-name="M-NFL REDZONE" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NFL REDZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127035
 #EXTINF:-1 tvg-id="" tvg-name="M-NICK JR EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NICK JR EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127036
 #EXTINF:-1 tvg-id="" tvg-name="M-NICKELODEON EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NICKELODEON EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127038
 #EXTINF:-1 tvg-id="" tvg-name="M-NICKTOONS" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-NICKTOONS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127041
-#EXTINF:-1 tvg-id="" tvg-name="M-OUTDOOR CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-OUTDOOR CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127043
 #EXTINF:-1 tvg-id="" tvg-name="M-OWN" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-OWN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127045
 #EXTINF:-1 tvg-id="" tvg-name="M-OXYGEN EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-OXYGEN EAST
@@ -158,8 +142,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latinipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127055
 #EXTINF:-1 tvg-id="" tvg-name="M-SMITHSONIAN CHANNEL EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-SMITHSONIAN CHANNEL EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127061
-#EXTINF:-1 tvg-id="" tvg-name="M-SPORTSMAN CHANNEL" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-SPORTSMAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127064
 #EXTINF:-1 tvg-id="" tvg-name="M-SYFY EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-SYFY EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127066
 #EXTINF:-1 tvg-id="" tvg-name="M-TBS EAST" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TBS EAST
@@ -182,8 +164,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latinipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127092
 #EXTINF:-1 tvg-id="" tvg-name="M-WE tv" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-WE tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127094
-#EXTINF:-1 tvg-id="" tvg-name="M-WORLD FISHING NETWORK" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-WORLD FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/127095
 #EXTINF:-1 tvg-id="" tvg-name="M-TV ONE" tvg-logo="" group-title="TV USA | CINE  & DEPORTE",M-TV ONE
 #EXTINF:-1,UK: 4Seven HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1977
@@ -277,8 +257,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1998
 #EXTINF:-1,UK: Horror Channel HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1983
-#EXTINF:-1,UK: Hunt Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/2058
 #EXTINF:-1,UK: Investigation Discovery HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.132.244:25461/DorianGjini/g4YzP0FQv6/1965
 #EXTINF:-1,UK: ITV 1 HD
