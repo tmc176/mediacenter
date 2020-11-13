@@ -155,9 +155,9 @@ http://gold.euromediaserver.com:80/bahri2020/bahri2020/48532?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax 5 Star Max (TV)(720)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53891?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax Action Max (TV)(720)
-http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53890?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53890?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax East (TV)(1080)
-http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53889?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53889?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax Moremax (TV)(720)
 http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53892?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Classic Movies
