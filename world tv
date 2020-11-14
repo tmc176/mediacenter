@@ -124,12 +124,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
-http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
-http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
 
 
 
