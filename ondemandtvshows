@@ -45,6 +45,21 @@ http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wR2Zv8d.png" group-title="24/7 ENGLISH",The Lucy Show
 http://dai.google.com/linear/hls/pa/event/-s-FtbzrQCaLMDSyM0ejyw/stream/6dc92ea2-dba1-4493-b8d2-269e89f9ba9c:CHS/variant/1b0beacafb6a1cad0279ea30f33d25f9/bandwidth/1291125.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FM3fBaj.png" group-title="Undefined",Classic TV 4U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FM3fBaj.png" group-title="",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
+http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory" tvg-logo="https://i.ibb.co/58fLH54/the-big-bang-theory-actores.jpg" group-title="TV 24/7",24/7 The Big Bang Theory
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latiniptv.vip:8008/enzo/123/130150
