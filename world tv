@@ -1,6 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="",► AMC CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/68caef2d264729a.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="",► AMERICAN HERO
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c107ae9213d092c.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="",► BBC Canada
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/17e2fbf10348457.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8f12c6a0ac29b75.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-id="CBLT" tvg-name="CBC Toronto" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC New Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6vremw.png" group-title="",► CTV NEWS
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8d62a2326c5b765.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",► CITY TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/878a249cd2e6454.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WMvALb.png" group-title="",► COMEDY GOLD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/64c1111a19c73f9.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0dnKxJd.png" group-title="",► COTTAGE LIFE
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/90d25d8b05f2990.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2H707B.png" group-title="",► CTV TWO
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/a14ee913377b198.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CAJkcjW.png" group-title="",► CRIME INVESTIGATION CAN 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f2cf3cf1e395c5c.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k58usl.png" group-title="",► CP 24 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/1818bfb72eb2141.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",CARTOON NETWORK
 http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DESTINATION AMERICA
@@ -9,6 +37,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/167846?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",DISCOVERY
 http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c62ZUq3.png" group-title="",► DISCOVERY CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/1deee8916549f8d.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/255?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
@@ -19,6 +49,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104602?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY LIFE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/14880?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/luu1BBL.png" group-title="",► DISCOVERY SCI CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/12023713f14bb5d.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/13565?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
@@ -31,13 +63,75 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/64130?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28223?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGO4izI.png" group-title="",► DIY NETWORK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/fa9182a2c73ff5f.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/13568?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/64133?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28222?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khD6vuy.png" group-title="",► DOCUMENTARY
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d31c17a23a06192.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DOCURAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/25779?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQeS1i4.png" group-title="",► E! ENT CANDA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/3ebd16015f7683c.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Fox
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xM54fHS.png" group-title="News",► FOX
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/61f14b3bc902dae.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5dOL2O.png" group-title="",► GAME TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/35591ba73e0de21.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aqetvxz.png" group-title="News",Global News National 
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0PjRqw.png" group-title="",Global Toronto
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b71d978ae8cc919.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lWZsITH.png" group-title="News",Global News Peterborough 
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0PjRqw.png" group-title="",Global TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b71d978ae8cc919.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2kC456.png" group-title="",► HBO CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/6e250e707dc2b33.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azsvbVs.png" group-title="",► HISTORY CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/bb5444bb9bd6963.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFJEFAG.png" group-title="",► HISTORY CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f988f6ee205ecc7.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hTVk0fk.png" group-title="",► LIFETIME CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/90c7eea18eef7b0.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaOHKsm.png" group-title="",► OWN CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f726d51796f319d.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAb96Id.png" group-title="Kids",► PBS KIDS CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/320bf31dfe3df18.m3u8|User-Agent=strea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mmk5qYX.png" group-title="",► PEACHTREE TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/87eeeae50141e9e.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJvViZC.png" group-title="",► SHOWCASE CANADA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/557469a9934e0e3.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt3KNIw.png" group-title="",► SLICE
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/e33750ce6874012.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h535oXl.png" group-title="",► SPACE (CTV ScI-Fy)
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/945a987e2a0b1a1.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+#https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER CHANNEL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43a.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
+http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+
+
+
+
