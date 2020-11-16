@@ -123,131 +123,26 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Canadian Lists Enjoy[/COLOR][/COLOR]
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC
-http://mains.vip:2086/craigg/1Lurn7m3F1/5487?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC
-http://exodus1.eu:8080/blue123/blue123/440979?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC EAST
-http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/10087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC NEWS
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30215?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC NEWS HD
-http://exodus1.eu:8080/blue123/blue123/440986?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC NEWS NETWORK
 http://185.232.53.5:2086/arellano/kgtL965n2Y/65865?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC News Network HD
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/3059?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15283?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30213?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
 http://mains.vip:2086/craigg/1Lurn7m3F1/15283?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
-http://exodus1.eu:8080/blue123/blue123/440989?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS BUFFALO (WIVB)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS BUFFALO (WIVB)
-http://mains.vip:2086/craigg/1Lurn7m3F1/65863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS EAST
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30211?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS WEST
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30210?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
-http://greenstreamtv.xyz:25461/MS11/M1234/7890?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
 http://185.232.53.5:2086/arellano/kgtL965n2Y/3275?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
-http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7890?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
-http://mains.vip:2086/craigg/1Lurn7m3F1/3275?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH HD
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/3058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH HD
-http://exodus1.eu:8080/blue123/blue123/440993?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHRGD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65862?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHRGD
 http://mains.vip:2086/craigg/1Lurn7m3F1/65862?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Kids",CHRGD (CA)
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TORONTO
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30208?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV HD
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/3057?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV TORONTO
 http://185.232.53.5:2086/arellano/kgtL965n2Y/65853?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV TORONTO
 http://mains.vip:2086/craigg/1Lurn7m3F1/65853?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
-http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7888?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
-http://exodus1.eu:8080/blue123/blue123/440998?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
-http://mains.vip:2086/craigg/1Lurn7m3F1/3271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
-http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/9814?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT CANADA
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30206?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
-http://greenstreamtv.xyz:25461/MS11/M1234/8022?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
 http://185.232.53.5:2086/arellano/kgtL965n2Y/16216?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 OTTAWA
-http://exodus1.eu:8080/blue123/blue123/441027?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 OTTAWA
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30194?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 TORONTO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93968?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 TORONTO
-http://mains.vip:2086/craigg/1Lurn7m3F1/93968?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CW 11
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30193?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",City (1080)(M)
-http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/3676?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Comedy (720)(M)
-http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/3677?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 1
-http://greenstreamtv.xyz:25461/MS11/M1234/7950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 1
-http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 2
-http://greenstreamtv.xyz:25461/MS11/M1234/7951?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 3
-http://greenstreamtv.xyz:25461/MS11/M1234/7952?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crime & Investigation
-http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7914?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DAYSTAR TV
-http://greenstreamtv.xyz:25461/MS11/M1234/8036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DAYSTAR TV
-http://exodus1.eu:8080/blue123/blue123/441030?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DAYSTAR TV
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30192?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DEJAVIEW
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DEJAVIEW
-http://exodus1.eu:8080/blue123/blue123/441031?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DEJAVIEW
-http://mains.vip:2086/craigg/1Lurn7m3F1/93956?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/93956?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3263?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/3263?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
 http://mains.vip:2086/craigg/1Lurn7m3F1/3263?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY HD
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/3047?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://greenstreamtv.xyz:25461/MS11/M1234/8038?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://exodus1.eu:8080/blue123/blue123/441032?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/3262?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
-http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30190?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY VELOCITY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99170?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY VELOCITY
-http://mains.vip:2086/craigg/1Lurn7m3F1/99170?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY
 http://185.232.53.5:2086/arellano/kgtL965n2Y/93917?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY
