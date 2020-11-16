@@ -123,7 +123,300 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Canadian Lists Enjoy[/COLOR][/COLOR]
-
+#EXTINF:-1,CA-EN | GAME TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48410
+#EXTINF:-1,CA-EN | FXX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48411
+#EXTINF:-1,CA-EN |  FX HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48412
+#EXTINF:-1,CA-EN |  ABC SPARK
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48413
+#EXTINF:-1,CA-EN | NTV (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48414
+#EXTINF:-1,CA-EN | E! HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48415
+#EXTINF:-1,CA-EN | A&E Canada HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48416
+#EXTINF:-1,CA-EN | Lifetime HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48417
+#EXTINF:-1,CA-EN | Makeful SD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48418
+#EXTINF:-1,CA-EN | CablePulse 24 HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48419
+#EXTINF:-1,CA-EN | OLN HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48420
+#EXTINF:-1,CA-EN | OWN HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48421
+#EXTINF:-1,CA-EN | PBS Buffalo (WNED) HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48422
+#EXTINF:-1,CA-EN | Peachtree TV HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48423
+#EXTINF:-1,CA-EN | Game Plus HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48424
+#EXTINF:-1,CA-EN | Headline News HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48425
+#EXTINF:-1,CA-EN | SLICE HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48426
+#EXTINF:-1,CA-EN | Vision HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48427
+#EXTINF:-1,CA | AMI TV HD 
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48428
+#EXTINF:-1,CA-EN | Adult Swim HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48429
+#EXTINF:-1,CA-EN | TSC HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48430
+#EXTINF:-1,CA-EN | TLC (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48431
+#EXTINF:-1,CA-EN | travelxp HD 
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48432
+#EXTINF:-1,CA-EN | Amazing Discoveries TV HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48433
+#EXTINF:-1,CA-EN | Cable 14 HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48434
+#EXTINF:-1,CA-EN | APTN HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48435
+#EXTINF:-1,CA-EN | CANADA star tv
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48436
+#EXTINF:-1,CA-EN | ABC_Buffalo_(WKBW) (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48437
+#EXTINF:-1,CA-EN | PRIME TV (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48438
+#EXTINF:-1,CA-EN | EET TV (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48439
+#EXTINF:-1,CA-EN | W-NETWORK(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48440
+#EXTINF:-1,CA-EN | CMT SD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48441
+#EXTINF:-1,CA-EN | BBC Canada HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48442
+#EXTINF:-1,CA-EN |  CTV Ottawa HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48443
+#EXTINF:-1,CA-EN | CTV Vancouver HD (B)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48444
+#EXTINF:-1,CA-EN | CTV Atlentic (ATV Moncton)(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48445
+#EXTINF:-1,CA-EN | CTV SCI-FI (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48446
+#EXTINF:-1,CA-EN | CTV Comedy (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48447
+#EXTINF:-1,CA-EN | CTV Drama (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48448
+#EXTINF:-1,CA-EN | CTV Kitchener HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48449
+#EXTINF:-1,CA-EN | CTV Halifax (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48450
+#EXTINF:-1,CA-EN | CTV Toronto HD (CFto) R
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48451
+#EXTINF:-1,CA-EN | CTV Calgary (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48452
+#EXTINF:-1,CA-EN | CTV2 Ottawa HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48453
+#EXTINF:-1,CA-EN | CTV2 Atlantic HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48454
+#EXTINF:-1,CA-EN | CTV2 London HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48455
+#EXTINF:-1,CA-EN | CTV2 Windsor HD (B)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48456
+#EXTINF:-1,CA-EN | CTV2 Victoria HD (B)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48457
+#EXTINF:-1,CA-EN | CTV2 Toronto HD (B)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48458
+#EXTINF:-1,CA-EN | CTV2 Barrie HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48459
+#EXTINF:-1,CA-EN | CBC YELLOWKNIFE (HD)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48460
+#EXTINF:-1,CA-EN | CBC VANCOUVER HD (D)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48461
+#EXTINF:-1,CA-EN | CBC ST JOHN's (HD)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48462
+#EXTINF:-1,CA-EN | CBC REGINA(HD)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48463
+#EXTINF:-1,CA-EN | CBC OTTAWA HD (D)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48464
+#EXTINF:-1,CA-EN | CBC MONTREALHD (D)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48465
+#EXTINF:-1,CA-EN | CBC Halifax HD (D)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48466
+#EXTINF:-1,CA-EN | CBC Fredericton (HD)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48467
+#EXTINF:-1,CA-EN | CBC Edmonton HD (D)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48468
+#EXTINF:-1,CA-EN | CBC Charlottetown (HD)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48469
+#EXTINF:-1,CA-EN | CBC Calgary HD (D)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48470
+#EXTINF:-1,CA-EN | CBC Toronto HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48471
+#EXTINF:-1,CA-EN | CBC Moncton HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48472
+#EXTINF:-1,CA-EN | CBC Winnipeg HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48473
+#EXTINF:-1,CA-EN | CBC3 (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48474
+#EXTINF:-1,CA-EN | Global Vancouver (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48475
+#EXTINF:-1,CA-EN | Global Toronto HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48476
+#EXTINF:-1,CA-EN | Global Saint Jhons HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48477
+#EXTINF:-1,CA-EN | Global Calagry sd (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48478
+#EXTINF:-1,CA-EN | Global Halifax sd
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48479
+#EXTINF:-1,CA-EN | Global Durham HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48480
+#EXTINF:-1,CA-EN | Global  HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48481
+#EXTINF:-1,CA-EN | Citytv Vancouver HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48482
+#EXTINF:-1,CA-EN | Citytv Toronto HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48483
+#EXTINF:-1,CA-EN | Citytv Montreal (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48484
+#EXTINF:-1,CA-EN | CTV NEWS CHANNEL (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48485
+#EXTINF:-1,CA-EN | CPAC HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48486
+#EXTINF:-1,CA-EN | CBC NEWS NETWORK HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48487
+#EXTINF:-1,CA-EN | CBC Windsor HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48488
+#EXTINF:-1,CA-EN | BBN Bloomberg (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48489
+#EXTINF:-1,CA-EN | Weather Network HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48490
+#EXTINF:-1,CA-EN | AMC FHD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48491
+#EXTINF:-1,CA-EN | Paramount Network
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48492
+#EXTINF:-1,CA-EN | Starz 1  (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48493
+#EXTINF:-1,CA-EN | Starz 2  (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48494
+#EXTINF:-1,CA-EN | HBO 1 (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48495
+#EXTINF:-1,CA-EN | HBO 2 (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48496
+#EXTINF:-1,CA-EN | TCM (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48497
+#EXTINF:-1,CA-EN | Movie Time(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48498
+#EXTINF:-1,CA-EN | Super Channel VAULT HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48499
+#EXTINF:-1,CA-EN | Super Channel Heart & Home HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48500
+#EXTINF:-1,CA-EN | Super Channel Fuse HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48501
+#EXTINF:-1,CA-EN | OMNI_1 (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48502
+#EXTINF:-1,CA-EN | OMNI_2 (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48503
+#EXTINF:-1,CA-EN | Silver Screen Classics HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48504
+#EXTINF:-1,CA-EN | Hollywood Suite 00s
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48505
+#EXTINF:-1,CA-EN | Hollywood Suite 90s
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48506
+#EXTINF:-1,CA-EN | Hollywood Suite 80s
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48507
+#EXTINF:-1,CA-EN | Hollywood Suite 70s
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48508
+#EXTINF:-1,CA-EN | CRAVE4 HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48509
+#EXTINF:-1,CA-EN | CRAVE3 HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48510
+#EXTINF:-1,CA-EN | CRAVE2 HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48511
+#EXTINF:-1,CA-EN | CRAVE1 HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48512
+#EXTINF:-1,CA-EN | Animal Planet HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48513
+#EXTINF:-1,CA-EN | National Geographic Wild HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48514
+#EXTINF:-1,CA-EN | National Geographic HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48515
+#EXTINF:-1,CA-EN | Love Nature HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48516
+#EXTINF:-1,CA-EN | Discovery Velocity HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48517
+#EXTINF:-1,CA-EN | Discovery Science
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48518
+#EXTINF:-1,CA-EN | Discovery HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48519
+#EXTINF:-1,CA-EN | Showcase(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48520
+#EXTINF:-1,CA-EN | crime + inverstigation (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48521
+#EXTINF:-1,CA-EN | History HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48522
+#EXTINF:-1,CA-EN | H2 HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48523
+#EXTINF:-1,CA-EN | Food Network HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48524
+#EXTINF:-1,CA-EN | THE COOKING CHANNEL (B)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48525
+#EXTINF:-1,CA-EN | DTOUR HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48526
+#EXTINF:-1,CA-EN | Cartoon Network HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48527
+#EXTINF:-1,CA-EN | Disney XD HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48528
+#EXTINF:-1,CA-EN |  TOON-A VISION HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48529
+#EXTINF:-1,CA-EN | TREE HOUSE
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48530
+#EXTINF:-1,CA-EN | YTV EAST HD(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48531
+#EXTINF:-1,CA-EN | TV Ontario HD (CA)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48532
+#EXTINF:-1,CA-EN | Bein Sports HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48533
+#EXTINF:-1,CA-EN | SPORTSNET_PPV  (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48534
+#EXTINF:-1,CA-EN | TSN_1
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48535
+#EXTINF:-1,CA-EN | TSN_2 
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48536
+#EXTINF:-1,CA-EN | TSN_3  (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48537
+#EXTINF:-1,CA-EN | TSN_4 
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48538
+#EXTINF:-1,CA-EN | TSN_5 
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48539
+#EXTINF:-1,CA-EN | FOX SPORT RACING (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48540
+#EXTINF:-1,CA-EN | FOXSPORT RACING HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48541
+#EXTINF:-1,CA-EN | SPORTSMAN HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48542
+#EXTINF:-1,CA-EN | NBA TV HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48543
+#EXTINF:-1,CA-EN | MAV TV HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48544
+#EXTINF:-1,CA-EN | MLB NETWORK (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48545
+#EXTINF:-1,CA-EN | NFL NETWORK(R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48546
+#EXTINF:-1,CA-EN | Willow Cricket Canada HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48547
+#EXTINF:-1,CA-EN | The Fight Network HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48548
+#EXTINF:-1,CA-EN | Sportsnet World HD (R)
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48549
+#EXTINF:-1,CA-EN | Sportsnet Pacific HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48550
+#EXTINF:-1,CA-EN | Sportsnet ONE HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48551
+#EXTINF:-1,CA-EN | Sportsnet East HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48552
+#EXTINF:-1,CA-EN | Sportsnet 360 HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48553
+#EXTINF:-1,CA-EN | Sportsnet West HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48554
+#EXTINF:-1,CA-EN | Sportsnet Ontario HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48555
+#EXTINF:-1,CA-EN | GOLF CHANNEL HD
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48556
 
 
 
