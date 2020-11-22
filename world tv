@@ -129,9 +129,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://greenstreamt
 #EXTINF:-1,CA ABC_Spark
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/7906
 #EXTINF:-1,CA Adult Swim
-http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/7844
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/7844
 #EXTINF:-1,CA AHC
-http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/7979
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/7979
 #EXTINF:-1,CA AMC
 http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/7898
 #EXTINF:-1,CA Animal Planet
