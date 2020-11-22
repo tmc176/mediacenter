@@ -133,6 +133,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 #EXTINF:-1,US: DISCOVERY LIFE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1292.ts
 #EXTINF:-1,US: DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1293.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1293.ts
 
 
