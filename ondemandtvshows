@@ -43,3 +43,1825 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
+#EXTINF:-1,Paw Patrol Collection
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dsud.site:25461/GoodServerIPTV/7675435qpg/143976
+#EXTINF:-1,Caillou Collection
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dsud.site:25461/GoodServerIPTV/7675435qpg/144214
+#EXTINF:-1,Despicable Me Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133359
+#EXTINF:-1,Donald Duck Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144349
+#EXTINF:-1,Harley Quinn Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134977
+#EXTINF:-1,Dora the Explorer Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141732
+#EXTINF:-1,Ben 10 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146119
+#EXTINF:-1,Ben and Holly's Little Kingdom Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146120
+#EXTINF:-1,Danny Phantom Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146121
+#EXTINF:-1,The Jetsons Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146122
+#EXTINF:-1,Johnny Bravo Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144358
+#EXTINF:-1,Trolls Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146050
+#EXTINF:-1,Pinky and the Brain Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146123
+#EXTINF:-1,Wreck It Ralph Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146124
+#EXTINF:-1,Monsters Inc / University Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146125
+#EXTINF:-1,Goofy Movies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146126
+#EXTINF:-1,Veggietales Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146127
+#EXTINF:-1,The Flintstone Kids Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146128
+#EXTINF:-1,Jake and the Neverland Pirates Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144093
+#EXTINF:-1,Mister Roger's Neighborhood Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146130
+#EXTINF:-1,Ducktales( 80's) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123453
+#EXTINF:-1,Fraggle Rock Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123455
+#EXTINF:-1,He-Man and the Masters of the Universe Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144130
+#EXTINF:-1,Mega Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123482
+#EXTINF:-1,Mickey Mouse Club House Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123462
+#EXTINF:-1,Mickey Mouse Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123461
+#EXTINF:-1,Mr Bean Cartoon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123463
+#EXTINF:-1,Peppa Pig Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123465
+#EXTINF:-1,Robot Boy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123468
+#EXTINF:-1,Spider-man (90's) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123470
+#EXTINF:-1,Spider-Man and His Amazing Friends Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146132
+#EXTINF:-1,Star Wars Rebels Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123471
+#EXTINF:-1,The Fairly Oddparents Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123474
+#EXTINF:-1,The New Adventures of Gilligan (1975) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123476
+#EXTINF:-1,The Flintstones Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123475
+#EXTINF:-1,The Super Mario Super Show! Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123481
+#EXTINF:-1,Three Stooges Cartoon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123478
+#EXTINF:-1,Diary Of A Wimpy Kid Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145452
+#EXTINF:-1,Thunder Cats Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144215
+#EXTINF:-1,Tom and Jerry Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123480
+#EXTINF:-1,Trains Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136502
+#EXTINF:-1,Ozzy Osbourne Chile 8 Mayo 2018
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123662
+#EXTINF:-1,90's Hip Hop Mix
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123663
+#EXTINF:-1,Bob Marley - The Legend Live
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123666
+#EXTINF:-1,Dancehall Mix
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123667
+#EXTINF:-1,Boyz II Men - The Total Package Tour
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123668
+#EXTINF:-1,DMX - Woodstock 99
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123669
+#EXTINF:-1,Eminem Live at Hannover, Germany
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123670
+#EXTINF:-1,Hip Hop Video Mix
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123671
+#EXTINF:-1,Iron Maiden Hammersmith 1982
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123672
+#EXTINF:-1,Janet Jackson Up Close!
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123673
+#EXTINF:-1,KIDZ BOP
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123674
+#EXTINF:-1,Lil Wayne Live at Firefly Music Festival
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123675
+#EXTINF:-1,Old School R&B
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123679
+#EXTINF:-1,Michael Jackson - Dangrous Tour
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123676
+#EXTINF:-1,Michael Jackson - Live at MSG
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123677
+#EXTINF:-1,On The Run II - Beyonc
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123680
+#EXTINF:-1,Pearl Jam Live 2018
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123682
+#EXTINF:-1,Prince Live - 20TEN Tour
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123683
+#EXTINF:-1,90's R&B Mix
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123684
+#EXTINF:-1,Snoop Dogg - Live at the Avalon
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123685
+#EXTINF:-1,The Jacksons - Victory Tour Toronto 1984
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123686
+#EXTINF:-1,Usher - OMG Tour (Live From London 2011)
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123687
+#EXTINF:-1,Twerk Party
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146139
+#EXTINF:-1,Best of In Living Collor Music Videos
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146140
+#EXTINF:-1,Looney Tunes Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123460
+#EXTINF:-1,Gumby Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144348
+#EXTINF:-1,Barney & Friends Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144213
+#EXTINF:-1,Felix The Cat Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123454
+#EXTINF:-1,Johnny Test Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123458
+#EXTINF:-1,Little Bear Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123459
+#EXTINF:-1,PJ Masks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123466
+#EXTINF:-1,Popeye The Sailor Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123467
+#EXTINF:-1,Sesame Street Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123469
+#EXTINF:-1,Teletubbies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123473
+#EXTINF:-1,Mater's Tall Tales Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146150
+#EXTINF:-1,Jordan vs Lebron - The Best GOAT Comparison
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146152
+#EXTINF:-1,Gravity Falls Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146157
+#EXTINF:-1,Thomas & Friends Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123477
+#EXTINF:-1,Cow and Chicken Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123452
+#EXTINF:-1,The New Fat Albert Show (1979-1981) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146159
+#EXTINF:-1,Gummi Bears Collections
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123457
+#EXTINF:-1,Super Mario World Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123472
+#EXTINF:-1,Bubble Guppies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146160
+#EXTINF:-1,Blaze and the Monster Machines
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144341
+#EXTINF:-1,Bosko Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146171
+#EXTINF:-1,Disney Shorts Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146172
+#EXTINF:-1,LEGO City Mini Movies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146173
+#EXTINF:-1,Nursery Rhymes Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146174
+#EXTINF:-1,The Octonauts Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146175
+#EXTINF:-1,Shaun the Sheep Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146176
+#EXTINF:-1,Superman Cartoon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146177
+#EXTINF:-1,All Grown Up Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146178
+#EXTINF:-1,Beetlejuice Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146184
+#EXTINF:-1,Lego Ninjago Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146185
+#EXTINF:-1,Frozen Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146219
+#EXTINF:-1,I Dream of Jeannie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118646
+#EXTINF:-1,OZ Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118653
+#EXTINF:-1,Prison Break Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118655
+#EXTINF:-1,The Bionic Woman S01 (2017) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118662
+#EXTINF:-1,The Cosby Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118663
+#EXTINF:-1,The Golden Girls Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118664
+#EXTINF:-1,The Little Rascals Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118668
+#EXTINF:-1,The Mandalorian Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118669
+#EXTINF:-1,The Nanny Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118671
+#EXTINF:-1,Corn Wars Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/122424
+#EXTINF:-1,Disney's Christmas Fireplace Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/122435
+#EXTINF:-1,The Facts Of Life Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123444
+#EXTINF:-1,The Fresh Prince of Bel-Air Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131983
+#EXTINF:-1,Benny Hill Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134218
+#EXTINF:-1,Krazy Kat Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136193
+#EXTINF:-1,Marlon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136212
+#EXTINF:-1,Mister Ed Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136214
+#EXTINF:-1,3rd Rock from the Sun Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136503
+#EXTINF:-1,Godfather of Harlem Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136505
+#EXTINF:-1,Bad Blood Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143150
+#EXTINF:-1,Alf Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143830
+#EXTINF:-1,Beavis and Butt-Head Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143832
+#EXTINF:-1,Everybody Loves Raymond Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143835
+#EXTINF:-1,Gilligan's Island Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143839
+#EXTINF:-1,Green Acres Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143840
+#EXTINF:-1, Knight Rider Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143846
+#EXTINF:-1,Night Court Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143847
+#EXTINF:-1,Perfect Strangers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143848
+#EXTINF:-1,Law and Order Criminal Intent Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143938
+#EXTINF:-1,Reba Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143940
+#EXTINF:-1,Taxi Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143942
+#EXTINF:-1,The Life and Times of Grizzly Adams Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143947
+#EXTINF:-1,The Munsters Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144127
+#EXTINF:-1,The Twilight Zone (1959) Collections
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144129
+#EXTINF:-1,American Dad Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144351
+#EXTINF:-1,Small Wonder Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144362
+#EXTINF:-1,Eight is Enough Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144598
+#EXTINF:-1,Flipper Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144600
+#EXTINF:-1,Lego Masters US Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144603
+#EXTINF:-1,The Pier S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144625
+#EXTINF:-1,Paranormal Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145431
+#EXTINF:-1,Cooking On High Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145432
+#EXTINF:-1,Haunting In the Heartland Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145442
+#EXTINF:-1,Destination Fear Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145482
+#EXTINF:-1,Young Sheldon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146107
+#EXTINF:-1,Billions Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146108
+#EXTINF:-1,Comedy Central Roasts Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146109
+#EXTINF:-1,Fire Masters Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146111
+#EXTINF:-1,Futurama Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146112
+#EXTINF:-1,Ghost Adventures Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146113
+#EXTINF:-1,Rick and Morty Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146114
+#EXTINF:-1,Titus Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146115
+#EXTINF:-1,Columbo 1-6 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146116
+#EXTINF:-1,Columbo 7-11 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146117
+#EXTINF:-1,Project Blue Book Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146141
+#EXTINF:-1,My 600-Lb. Life Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146144
+#EXTINF:-1,Planet of the Apes S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146145
+#EXTINF:-1,Bob's Burgers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146153
+#EXTINF:-1,Hangin' with Mr. Cooper Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146154
+#EXTINF:-1,The Big Show Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146155
+#EXTINF:-1,Charmed 2018 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146214
+#EXTINF:-1,The Lost Boys Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120764
+#EXTINF:-1,The Twilight Saga Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120766
+#EXTINF:-1,The Karate Kid Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120769
+#EXTINF:-1,Rocky Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120770
+#EXTINF:-1,Kill Bill Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120771
+#EXTINF:-1,Jaws Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120772
+#EXTINF:-1,Indiana Jones Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/120773
+#EXTINF:-1,Friday Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/122440
+#EXTINF:-1,Pirates of the Caribbean Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/122441
+#EXTINF:-1,Waynes World Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/122442
+#EXTINF:-1,Elvis Presley Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128889
+#EXTINF:-1,Gremlins Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128890
+#EXTINF:-1,Harry Potter Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128891
+#EXTINF:-1,Police Academy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128892
+#EXTINF:-1,Short Circuit Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128893
+#EXTINF:-1,The Hangover Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128894
+#EXTINF:-1,The Mighty Ducks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128895
+#EXTINF:-1,Taken Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128896
+#EXTINF:-1,The Lord of the Rings Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128897
+#EXTINF:-1,Ip Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128898
+#EXTINF:-1,The Godfather Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/128925
+#EXTINF:-1,Bumfights Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129039
+#EXTINF:-1,The Matrix Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129181
+#EXTINF:-1,Rush Hour Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129182
+#EXTINF:-1,Blade Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129183
+#EXTINF:-1,Look Who's Talking Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129184
+#EXTINF:-1,Grease Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129185
+#EXTINF:-1,Denzel Washington Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129838
+#EXTINF:-1,Mission Impossible Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129943
+#EXTINF:-1,Scream Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129944
+#EXTINF:-1,The Final Destination Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129947
+#EXTINF:-1,Porky's Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129950
+#EXTINF:-1,Hostel Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129951
+#EXTINF:-1,Child's Play Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130023
+#EXTINF:-1,Crocodile Dundee Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131321
+#EXTINF:-1,Die Hard Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131344
+#EXTINF:-1,Dumb and Dumber Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131345
+#EXTINF:-1,Enter The Ninja Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131350
+#EXTINF:-1,Home Alone Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131351
+#EXTINF:-1,Iron Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131354
+#EXTINF:-1,Ocean's Collections
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131361
+#EXTINF:-1,Ride Along Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131363
+#EXTINF:-1,Saw Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131366
+#EXTINF:-1,The Spider-Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131368
+#EXTINF:-1,The Amazing Spider-Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131369
+#EXTINF:-1,Tom Hanks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131985
+#EXTINF:-1,Kick Boxer Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131986
+#EXTINF:-1,Speed Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131987
+#EXTINF:-1,The Butterfly Effect Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132100
+#EXTINF:-1,Predator Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132101
+#EXTINF:-1,Miss Congeniality  Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132290
+#EXTINF:-1,Jumanji Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132291
+#EXTINF:-1,Psycho Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132292
+#EXTINF:-1,Cocoon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133345
+#EXTINF:-1,Forever Marilyn Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133346
+#EXTINF:-1,Hellboy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133347
+#EXTINF:-1,Independence Day Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133348
+#EXTINF:-1,Mark Wahlberg Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133349
+#EXTINF:-1,Men In Black Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133350
+#EXTINF:-1,Old School Kung-Fu Movies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133351
+#EXTINF:-1,Rambo Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133352
+#EXTINF:-1,Riddick Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133353
+#EXTINF:-1,Spike Lee Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133354
+#EXTINF:-1,The Hunger Games Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133357
+#EXTINF:-1,Leprechaun Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134207
+#EXTINF:-1,Maleficent Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136207
+#EXTINF:-1,Clint Eastwood Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141736
+#EXTINF:-1,Step Up Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141746
+#EXTINF:-1,Superman Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141749
+#EXTINF:-1,American Pie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143969
+#EXTINF:-1,48 Hours Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143972
+#EXTINF:-1,Back to The Future Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144089
+#EXTINF:-1,Cheech and Chong Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144091
+#EXTINF:-1,Adam Sandler Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144133
+#EXTINF:-1,Barbershop Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144148
+#EXTINF:-1,Best Of The Best Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144150
+#EXTINF:-1,Bourne Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144151
+#EXTINF:-1,Captain America Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144152
+#EXTINF:-1,Austin Powers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144414
+#EXTINF:-1,Teenage Mutant Ninja Turtles Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144421
+#EXTINF:-1,Weekend at Bernies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145445
+#EXTINF:-1,Anchorman Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145446
+#EXTINF:-1,Clerks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/145485
+#EXTINF:-1,Tomb Raider Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146048
+#EXTINF:-1,Friday The 13th Prt 1-6 Collection 
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146092
+#EXTINF:-1,Friday The 13th Prt 7-12 Collection 
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146093
+#EXTINF:-1,Bad Boys Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146131
+#EXTINF:-1,Underworld Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146133
+#EXTINF:-1,G.I. Joe Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146134
+#EXTINF:-1,Sister Act Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146135
+#EXTINF:-1,Leslie Nielsen Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146136
+#EXTINF:-1,Fifty Shades of Grey Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146137
+#EXTINF:-1,Waxworks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146147
+#EXTINF:-1,Deuce Bigalow Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146148
+#EXTINF:-1,21-22 Jump Street Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146149
+#EXTINF:-1,Pure Country Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146220
+#EXTINF:-1,Danger Mouse Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146299
+#EXTINF:-1,Kimba the White Lion Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146300
+#EXTINF:-1,Ed Edd n Eddy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146301
+#EXTINF:-1,Watchmen Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141734
+#EXTINF:-1,Insecure Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136209
+#EXTINF:-1,The Witcher Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136500
+#EXTINF:-1,Tiger King Murder Mayhem And Madness Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/140314
+#EXTINF:-1,Blood Ties S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146373
+#EXTINF:-1,American Vandal Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146374
+#EXTINF:-1,Discovery Mighty Trains Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146377
+#EXTINF:-1,The Incredible Hulk Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143946
+#EXTINF:-1,The Purge Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146378
+#EXTINF:-1,Narcos Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146379
+#EXTINF:-1,Dark Side of the Ring Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146380
+#EXTINF:-1,Locke & Key Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146381
+#EXTINF:-1,Rel Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146382
+#EXTINF:-1,Narcos Mexico Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146383
+#EXTINF:-1,Boss Baby Back in Business Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146549
+#EXTINF:-1,Kolchak The Night Stalker Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146550
+#EXTINF:-1,Bad Mothers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146551
+#EXTINF:-1,The Boys Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148021
+#EXTINF:-1,Talking Tom & Friends Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148022
+#EXTINF:-1,Maniac Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148023
+#EXTINF:-1,Halloween Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148025
+#EXTINF:-1,See Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148026
+#EXTINF:-1,For All Mankind Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148027
+#EXTINF:-1,Vikings Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148028
+#EXTINF:-1,American Gods Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148030
+#EXTINF:-1,Band of Brothers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148031
+#EXTINF:-1,Zombieland Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148033
+#EXTINF:-1,Puppy Dog Pals Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148035
+#EXTINF:-1,The Last O.G. Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148047
+#EXTINF:-1,The Conjuring / Annabelle Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148053
+#EXTINF:-1,Jeepers Creepers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148054
+#EXTINF:-1,Rocko's Modern Life Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148135
+#EXTINF:-1,Weeds Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148138
+#EXTINF:-1,Dirty Harry Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148152
+#EXTINF:-1,The Maze Runner Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148153
+#EXTINF:-1,'Allo 'Allo! Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148159
+#EXTINF:-1,The Grudge Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148160
+#EXTINF:-1,Flipping 101 With Tarek El Moussa
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148168
+#EXTINF:-1,Mickey and the Roadster Racers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148173
+#EXTINF:-1,Amazing Spider-Man (1977) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148180
+#EXTINF:-1,Beverly Hills, 90210 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143833
+#EXTINF:-1,You S01-02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131374
+#EXTINF:-1,Queer Eye (2018) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136215
+#EXTINF:-1,Cobra Kai S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148290
+#EXTINF:-1,Cobra Kai S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148291
+#EXTINF:-1,Spongebob Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148472
+#EXTINF:-1,Blindspot Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148475
+#EXTINF:-1,Charles in Charge Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134955
+#EXTINF:-1,The Boondock Saints Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148481
+#EXTINF:-1,The Wonder Years Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118677
+#EXTINF:-1,Calming Streams Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148494
+#EXTINF:-1,Calming Waves Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148496
+#EXTINF:-1,Campfire Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148497
+#EXTINF:-1,Coral Reef Aquarium Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148498
+#EXTINF:-1,Deep Sea Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148499
+#EXTINF:-1,Forest Rainstorm Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148500
+#EXTINF:-1,Heavy Thunderstorm Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148501
+#EXTINF:-1,Peaceful Waterfall Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148502
+#EXTINF:-1,Relaxing Birds Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148503
+#EXTINF:-1,Shower Sounds Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148504
+#EXTINF:-1,Snow Falling on Lake Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148505
+#EXTINF:-1,Tropical Island Beach Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148506
+#EXTINF:-1,Jackie Chan Adventures Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148507
+#EXTINF:-1,Mighty Ducks Cartoon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148508
+#EXTINF:-1,X-Men The Animated Series Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144132
+#EXTINF:-1,Rugrats Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141733
+#EXTINF:-1,She-ra and the Princesses of Power Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148510
+#EXTINF:-1,SilverHawks Collections
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148512
+#EXTINF:-1,Dragon Ball Z Kai Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148517
+#EXTINF:-1,PeeWees Playhouse Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144131
+#EXTINF:-1,Naruto Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133362
+#EXTINF:-1,Martin Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141457
+#EXTINF:-1,Bob Ross: The Joy of Painting Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144592
+#EXTINF:-1,Batman (1966) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144101
+#EXTINF:-1,Cheers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148531
+#EXTINF:-1,Buck Rogers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148532
+#EXTINF:-1,Curb Your Enthusiasm Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144593
+#EXTINF:-1,Chappelle's Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134221
+#EXTINF:-1,Mayans Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148535
+#EXTINF:-1,9-1-1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148536
+#EXTINF:-1,Jay and Silent Bob Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148537
+#EXTINF:-1,Neverending Story Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148595
+#EXTINF:-1,Shrek Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148647
+#EXTINF:-1,A Nightmare on Elm Street Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148650
+#EXTINF:-1,Bill & Ted Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148667
+#EXTINF:-1,Fantastic Beasts Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148668
+#EXTINF:-1,All in the Family Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143831
+#EXTINF:-1,Judge Mathis Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144602
+#EXTINF:-1,Big Momma's House Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148879
+#EXTINF:-1,Almighty Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148880
+#EXTINF:-1,Blair Witch Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148881
+#EXTINF:-1,Charlies Angels Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148882
+#EXTINF:-1,Avengers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148938
+#EXTINF:-1,300 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148937
+#EXTINF:-1,Brad Pitt Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148940
+#EXTINF:-1,Bruce Lee Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148941
+#EXTINF:-1,Cop and a Half Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148942
+#EXTINF:-1,Ernest Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148943
+#EXTINF:-1,Night at the Museum Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148944
+#EXTINF:-1,Pauly Shore Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148945
+#EXTINF:-1,Super Troopers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148947
+#EXTINF:-1,Waiting Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148948
+#EXTINF:-1,Candyman Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148950
+#EXTINF:-1,Fast & Furious Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148951
+#EXTINF:-1,Free Willy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148953
+#EXTINF:-1,Ghostbusters Collections
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148954
+#EXTINF:-1,GI Joe Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143177
+#EXTINF:-1,Grumpy Old Men Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148955
+#EXTINF:-1,Honey, I Shrunk the Kids Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148956
+#EXTINF:-1,Hulk Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118666
+#EXTINF:-1, Jurassic Park/World Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148957
+#EXTINF:-1,Kevin Costner Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148958
+#EXTINF:-1,Legally Blonde Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148959
+#EXTINF:-1,Lethal Weapon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148960
+#EXTINF:-1,National Treasure Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148961
+#EXTINF:-1,Poltergeist Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148962
+#EXTINF:-1,Smokey and the Bandit Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148964
+#EXTINF:-1,Swamp Thing Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141791
+#EXTINF:-1,The Expendables Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148965
+#EXTINF:-1,The Gods Must Be Crazy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148966
+#EXTINF:-1,Hannibal Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136507
+#EXTINF:-1,The Mummy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148967
+#EXTINF:-1,The Naked Gun Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148968
+#EXTINF:-1,The Princess Diaries Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148969
+#EXTINF:-1,Thor Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148970
+#EXTINF:-1,Wrong Turn Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148971
+#EXTINF:-1,X-Men Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148972
+#EXTINF:-1,Sniper Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148973
+#EXTINF:-1,Mad Max Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148974
+#EXTINF:-1,21 Jump Street Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143829
+#EXTINF:-1,CSI: Crime Scene Investigation Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148983
+#EXTINF:-1,Dexter Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148984
+#EXTINF:-1,Dinosaurs Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144595
+#EXTINF:-1,Dynasty (2017) SO1-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134960
+#EXTINF:-1,Revenge of the Nerds Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148987
+#EXTINF:-1,Everybody Hates Chris
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123443
+#EXTINF:-1,FBI S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144599
+#EXTINF:-1,Frasier Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136504
+#EXTINF:-1,Full House Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118640
+#EXTINF:-1,GLOW Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148990
+#EXTINF:-1,Good Times Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/134970
+#EXTINF:-1,Growing Pains 24-7
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136506
+#EXTINF:-1,Willy Wonka Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148992
+#EXTINF:-1,Highlander Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148993
+#EXTINF:-1,Home Before Dark S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148994
+#EXTINF:-1,Home Improvement Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148995
+#EXTINF:-1,House Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148996
+#EXTINF:-1,In Living Color Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/129948
+#EXTINF:-1,Jersey Shore - Family Vacation Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131371
+#EXTINF:-1,Judge Judy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144601
+#EXTINF:-1,Kenan & Kel Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136508
+#EXTINF:-1,Laverne & Shirley Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136205
+#EXTINF:-1,Living Single Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/140312
+#EXTINF:-1,Lost Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148997
+#EXTINF:-1,Making A Murderer S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144604
+#EXTINF:-1,Murder She Wrote Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148999
+#EXTINF:-1,MythBusters Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136509
+#EXTINF:-1,Quantum Leap Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149000
+#EXTINF:-1,Quick Draw Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149001
+#EXTINF:-1,Sabrina The Teenage Witch Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149002
+#EXTINF:-1,Seinfeld Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118657
+#EXTINF:-1,Stranger Things S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149003
+#EXTINF:-1,Stranger Things S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149004
+#EXTINF:-1,Stranger Things S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149005
+#EXTINF:-1,Teen Wolf S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143849
+#EXTINF:-1,Teen Wolf S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143850
+#EXTINF:-1, Teen Wolf S05-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143851
+#EXTINF:-1,The A-Team Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136220
+#EXTINF:-1,The Addams Family Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118660
+#EXTINF:-1,The Bernie Mac Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131372
+#EXTINF:-1,The Big Bang Theory S01-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149007
+#EXTINF:-1,The Big Bang Theory S05-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149008
+#EXTINF:-1,The Brady Bunch Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136498
+#EXTINF:-1,The East Side Kids (1941) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149009
+#EXTINF:-1,The Get Down S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144412
+#EXTINF:-1,The Green Hornet 24-7
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136499
+#EXTINF:-1,The Handmaid's Tale S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144613
+#EXTINF:-1,The Honeymooners Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118665
+#EXTINF:-1,The Jeffersons Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141691
+#EXTINF:-1,The Love Boat Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149010
+#EXTINF:-1,Good Morning Miss Bliss Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149011
+#EXTINF:-1,Saved By The Bell Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149012
+#EXTINF:-1,Saved By The Bell - College Years Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149013
+#EXTINF:-1,Saved By The Bell - The New Class Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149014
+#EXTINF:-1,Saved By The Bell TV Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149015
+#EXTINF:-1,The Rookie S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144626
+#EXTINF:-1,The Simpsons Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144128
+#EXTINF:-1,The Six Million Dollar Man Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143948
+#EXTINF:-1,The Sopranos S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149016
+#EXTINF:-1,The Sopranos S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149017
+#EXTINF:-1,The Sopranos S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149018
+#EXTINF:-1,The Sopranos S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149019
+#EXTINF:-1,The Three Stooges Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/123445
+#EXTINF:-1,The Umbrella Academy S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149020
+#EXTINF:-1,The Vampire Diaries Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/118676
+#EXTINF:-1,The Walking Dead S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149021
+#EXTINF:-1,The Walking Dead S04-S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149022
+#EXTINF:-1,The Walking Dead S06-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149023
+#EXTINF:-1,The Walking Dead S08-S09 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149024
+#EXTINF:-1,The Walking Dead S10 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149025
+#EXTINF:-1,The Wire S01-02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149026
+#EXTINF:-1,The Wire S03-04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149027
+#EXTINF:-1,The Wire S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149028
+#EXTINF:-1,Three's Company Company
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136501
+#EXTINF:-1,True Blood S01-02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149029
+#EXTINF:-1,True Blood S03-04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149030
+#EXTINF:-1,True Blood S05-07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149031
+#EXTINF:-1,Two and a Half Men Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131984
+#EXTINF:-1,Warrior S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131373
+#EXTINF:-1,Welcome Back, Kotter 24-7
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/140316
+#EXTINF:-1,Best NHL Goals of all Time Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149032
+#EXTINF:-1,Michael Jordan - Greatest Moments Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149033
+#EXTINF:-1,WWE 20 Matches that Define the Intercontinental Title Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149034
+#EXTINF:-1,An American Tail Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149042
+#EXTINF:-1,The Little Mermaid Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149043
+#EXTINF:-1,The Smurfs Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149044
+#EXTINF:-1,Daddy's Home Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149049
+#EXTINF:-1,Percy Jackson Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149053
+#EXTINF:-1,The Amanda Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149054
+#EXTINF:-1,Cloudy with a Chance of Meatballs Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149055
+#EXTINF:-1,Hotel Transylvania Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149056
+#EXTINF:-1,Mary Poppins Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149057
+#EXTINF:-1,Muppet Babies S05-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149060
+#EXTINF:-1,The Chilling Adventures of Sabrina Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149061
+#EXTINF:-1,Death Row Stories Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149062
+#EXTINF:-1,Eastbound and Down Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149063
+#EXTINF:-1,9-1-1 Lonestar Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149064
+#EXTINF:-1,Ramy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149065
+#EXTINF:-1,Real Rob Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149066
+#EXTINF:-1,Space Force Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149067
+#EXTINF:-1,Sweet Magnolias Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149068
+#EXTINF:-1,Tales From the Crypt Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149069
+#EXTINF:-1,Tales From the Crypt-keeper Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149070
+#EXTINF:-1,The Alienist Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149071
+#EXTINF:-1,The Chi Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149072
+#EXTINF:-1,American Horror Story Season 1-3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149073
+#EXTINF:-1,American Horror Story Season 4-6 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149074
+#EXTINF:-1,American Horror Story Season 7-9 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149075
+#EXTINF:-1,Breaking Bad S04-S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149147
+#EXTINF:-1,Dirty John Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149149
+#EXTINF:-1,The Evil Dead Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149180
+#EXTINF:-1,Fantastic Four Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149181
+#EXTINF:-1,House Party Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149051
+#EXTINF:-1,28 Days/Weeks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149185
+#EXTINF:-1,Bad Santa Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149186
+#EXTINF:-1,Footloose Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149187
+#EXTINF:-1,My Big Fat Greek Wedding Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149188
+#EXTINF:-1,Classic 80's Vol 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149189
+#EXTINF:-1,Classic 80's Vol 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149190
+#EXTINF:-1,Classic 90's Vol 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149191
+#EXTINF:-1,Classic 90's Vol 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149192
+#EXTINF:-1,Classic 2000's Vol 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149193
+#EXTINF:-1,Classic 2000's Vol 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149194
+#EXTINF:-1,Fuller House Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143838
+#EXTINF:-1,The Ropers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149195
+#EXTINF:-1,Blue Bloods Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143970
+#EXTINF:-1,Press Your Luck Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149196
+#EXTINF:-1,Happy Days Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143841
+#EXTINF:-1,2 Broke Girls Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143828
+#EXTINF:-1,Mr. Robot Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/143939
+#EXTINF:-1,Murphy Brown Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149345
+#EXTINF:-1,Alfred Hitchcock Presents Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/122431
+#EXTINF:-1,Mork and Mindy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144352
+#EXTINF:-1,Conan Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149346
+#EXTINF:-1,Herbie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149369
+#EXTINF:-1,Friends S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149378
+#EXTINF:-1,Friends S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149379
+#EXTINF:-1,Friends S05-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149380
+#EXTINF:-1,Friends S07-S08 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149381
+#EXTINF:-1,Friends S09-S10 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149382
+#EXTINF:-1,Alvin And The Chipmunks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149383
+#EXTINF:-1,Will Smith Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149385
+#EXTINF:-1,Star Trek Deep Space Nine Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149398
+#EXTINF:-1,EVIL Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136208
+#EXTINF:-1,F*ck That's Delicious Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146288
+#EXTINF:-1,The Wrestlers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146207
+#EXTINF:-1,Game of Thrones S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149640
+#EXTINF:-1,Game of Thrones S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149641
+#EXTINF:-1,Game of Thrones S07-S08 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149642
+#EXTINF:-1,Ben 10 Ultimate Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146089
+#EXTINF:-1,Dinosaur Train Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146158
+#EXTINF:-1,Guardians of the Galaxy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146206
+#EXTINF:-1,Vampirina Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148012
+#EXTINF:-1,13 Reasons Why Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149647
+#EXTINF:-1,Alvin and the Chipmunks TV Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/133361
+#EXTINF:-1,Teen Titans Go Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146129
+#EXTINF:-1,Lincoln Rhyme: Hunt for the Bone Collector Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136211
+#EXTINF:-1,South Park Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/141692
+#EXTINF:-1,Power S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149653
+#EXTINF:-1,Power S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149654
+#EXTINF:-1,Power S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149655
+#EXTINF:-1,Power S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149656
+#EXTINF:-1,Rugrats Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146156
+#EXTINF:-1,Star Wars Clone Wars Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146143
+#EXTINF:-1,Inspector Gadget
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144347
+#EXTINF:-1,Ozark Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148020
+#EXTINF:-1,Cops Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148032
+#EXTINF:-1,Nicky, Ricky, Dicky & Dawn Season 2-3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/144212
+#EXTINF:-1,Supergirl Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149671
+#EXTINF:-1,Good Girls Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149672
+#EXTINF:-1,Letter Kenny Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149673
+#EXTINF:-1,My Name is Earl Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149682
+#EXTINF:-1,Man Vs Food Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149683
+#EXTINF:-1,Reno 911! Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149684
+#EXTINF:-1,IZombie S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152680
+#EXTINF:-1,IZombie S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152681
+#EXTINF:-1,Robin Williams Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152682
+#EXTINF:-1,Pacific Rim Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152697
+#EXTINF:-1,Silent Hill Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152701
+#EXTINF:-1,Godzilla Collection Vol 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152715
+#EXTINF:-1,Godzilla Collection Vol 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152716
+#EXTINF:-1,Rules of Engagement Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152717
+#EXTINF:-1,Sliders Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/152718
+#EXTINF:-1,Downton Abbey Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146110
+#EXTINF:-1,That 70s Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153009
+#EXTINF:-1,Perry Mason Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153024
+#EXTINF:-1,The Odd Couple S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153026
+#EXTINF:-1,Problem Child Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153027
+#EXTINF:-1,The Odd Couple S03-S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153028
+#EXTINF:-1,Being Human Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153029
+#EXTINF:-1,Being Human (UK) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153030
+#EXTINF:-1,The Last Dance Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146384
+#EXTINF:-1,Truth Be Told Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148029
+#EXTINF:-1,Cold Case Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153031
+#EXTINF:-1,Western Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153032
+#EXTINF:-1,Car 54, Where Are You? Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153033
+#EXTINF:-1,The Andy Griffith Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153035
+#EXTINF:-1,Doom Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153042
+#EXTINF:-1,Star Trek: Picard Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/136216
+#EXTINF:-1,Designated Survivor Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153043
+#EXTINF:-1,Breaking Bad S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149146
+#EXTINF:-1,Coach Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153141
+#EXTINF:-1,Who's the Boss Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153142
+#EXTINF:-1,NCIS L.A. Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153145
+#EXTINF:-1,Empire Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153152
+#EXTINF:-1,Mr. Iglesias Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153153
+#EXTINF:-1,Hunters Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148019
+#EXTINF:-1,DCs Legends of Tomorrow Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149201
+#EXTINF:-1,Robo Cop Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148963
+#EXTINF:-1,John Wick Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/153316
+#EXTINF:-1,Muppet Babies S01-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149059
+#EXTINF:-1,Lost in Space Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148024
+#EXTINF:-1,Steven Seagal Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148975
+#EXTINF:-1,Lego Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/146205
+#EXTINF:-1,Scary Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/148161
+#EXTINF:-1,T.J. Hooker Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149392
+#EXTINF:-1,Dharma & Greg Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/154451
+#EXTINF:-1,Get Smart (1965 - 1970) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/154508
+#EXTINF:-1,Air Bud and Air Buddies Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/154509
+#EXTINF:-1,Automan (1983) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/154537
+#EXTINF:-1,The Dick Van Dyke Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156752
+#EXTINF:-1,SuperFriends (1980) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156753
+#EXTINF:-1,Spawn Cartoon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156754
+#EXTINF:-1,Whats New Scooby Doo Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156755
+#EXTINF:-1,A Different World S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156756
+#EXTINF:-1,A Different World S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156757
+#EXTINF:-1,Eureka Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156759
+#EXTINF:-1,Hart to Hart Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156760
+#EXTINF:-1,Little House on the Prairie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156762
+#EXTINF:-1,M*A*S*H Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156763
+#EXTINF:-1,Moonlighting (1985) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156764
+#EXTINF:-1,Rome Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156765
+#EXTINF:-1,Liberty's Kids Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156880
+#EXTINF:-1,UFO Hunters Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156884
+#EXTINF:-1,Snowfall S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156886
+#EXTINF:-1,The Jamie Foxx Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156887
+#EXTINF:-1,Love & Hip Hop New York Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156888
+#EXTINF:-1,Sons of Anarchy S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156889
+#EXTINF:-1,Sons of Anarchy S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156890
+#EXTINF:-1,Sons of Anarchy S05-S06A Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156892
+#EXTINF:-1,Sons of Anarchy S06B-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156893
+#EXTINF:-1,What's Happenning!! Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156894
+#EXTINF:-1,Different Strokes Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156895
+#EXTINF:-1,Almost Human Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/156896
+#EXTINF:-1,Altered Carbon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/162638
+#EXTINF:-1,Pokémon Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/162639
+#EXTINF:-1,Ambitions Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/162640
+#EXTINF:-1,America's Funniest Home Videos Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/162641
+#EXTINF:-1,America's Got Talent Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/162642
+#EXTINF:-1,The First 48 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163005
+#EXTINF:-1,Shameless Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163006
+#EXTINF:-1,Impractical Jokers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163008
+#EXTINF:-1,SpongeBob SquarePants Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163009
+#EXTINF:-1,Scandal S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163010
+#EXTINF:-1,Scandal S03-S04A Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163011
+#EXTINF:-1,Scandal S04B-S06A Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163012
+#EXTINF:-1,Scandal S06B-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163013
+#EXTINF:-1,Banshee Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163015
+#EXTINF:-1,The Office Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163016
+#EXTINF:-1,Teen Mom 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163017
+#EXTINF:-1,Shark Tank Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163056
+#EXTINF:-1,Unsolved Mysteries Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163228
+#EXTINF:-1,All Rise Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163767
+#EXTINF:-1,All Round to Mrs. Brown's Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163770
+#EXTINF:-1,Ballers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163771
+#EXTINF:-1,Better Call Saul Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163772
+#EXTINF:-1,Braxton Family Values Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163776
+#EXTINF:-1,Swamp People Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163781
+#EXTINF:-1,Unsolved Mysteries Season 2-3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163797
+#EXTINF:-1,Bad Judge Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163927
+#EXTINF:-1,Bewitched Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163928
+#EXTINF:-1,Big Brother Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163929
+#EXTINF:-1,Love Death Robots Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163930
+#EXTINF:-1,Bulletproof Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163931
+#EXTINF:-1,One Tree Hill Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163932
+#EXTINF:-1,Buddy vs Duff Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163933
+#EXTINF:-1,Briarpath Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163934
+#EXTINF:-1,Brandy & Ray J A family Business Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163935
+#EXTINF:-1,Dynasty (1980) S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163952
+#EXTINF:-1,Dynasty (1980) S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163953
+#EXTINF:-1,Dynasty (1980) S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163954
+#EXTINF:-1,Dynasty (1980) S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163955
+#EXTINF:-1,Dynasty (1980) S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163956
+#EXTINF:-1,Dynasty (1980) S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163957
+#EXTINF:-1,Dynasty (1980) S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163958
+#EXTINF:-1,Dynasty (1980) S08 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163959
+#EXTINF:-1,Dynasty (1980) S09 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163960
+#EXTINF:-1,Undercover Boss Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163978
+#EXTINF:-1,The Conners Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163983
+#EXTINF:-1,Criminal Minds Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163987
+#EXTINF:-1,Sister, Sister Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163989
+#EXTINF:-1,#FreeRayshawn Colection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/163992
+#EXTINF:-1,Dummy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164003
+#EXTINF:-1,Warrior Nun Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164053
+#EXTINF:-1,50 States Of Fright Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164067
+#EXTINF:-1,Most Dangerous Game Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164068
+#EXTINF:-1,Reno 911 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164069
+#EXTINF:-1,When The Streetlights Go On Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164070
+#EXTINF:-1,Hanna Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164087
+#EXTINF:-1,Unsolved Mysteries Season 4-6 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164246
+#EXTINF:-1,Black Jesus Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164247
+#EXTINF:-1,Crank Yankers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164248
+#EXTINF:-1,American Pickers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164249
+#EXTINF:-1,Law & Order SVU 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164296
+#EXTINF:-1,Law & Order SVU 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164370
+#EXTINF:-1,Law & Order SVU 3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/164371
+#EXTINF:-1,This is Us S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165260
+#EXTINF:-1,This Is Us S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165261
+#EXTINF:-1,This Is Us S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165311
+#EXTINF:-1,Boomerang Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165431
+#EXTINF:-1,F-Troop Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165627
+#EXTINF:-1,F-Troop Season 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165628
+#EXTINF:-1,According to Jim Season 1-3 pt1. Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165740
+#EXTINF:-1,According to Jim Season 3 pt 2-5Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165741
+#EXTINF:-1,According to Jim Season 6-8 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165744
+#EXTINF:-1,Greatness Code Collection 4K
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165745
+#EXTINF:-1,30 for 30 S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165746
+#EXTINF:-1,30 for 30 S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165747
+#EXTINF:-1,30 for 30 S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165748
+#EXTINF:-1,Blood & Treasure Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165749
+#EXTINF:-1,Bring The Funny Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165750
+#EXTINF:-1,Grey's Anatomy Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165751
+#EXTINF:-1,Raven's Home collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165752
+#EXTINF:-1,The Good Doctor Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165753
+#EXTINF:-1,Wu-Tang: An American Saga
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/165754
+#EXTINF:-1,Black Dynamite Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166659
+#EXTINF:-1,Borgen Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166660
+#EXTINF:-1,Claws Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166662
+#EXTINF:-1,Mom Season 1-3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166672
+#EXTINF:-1,Mom Season 4-5 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166673
+#EXTINF:-1,Gunsmoke Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166713
+#EXTINF:-1,Gunsmoke Season 3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166933
+#EXTINF:-1,Henry Danger Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166955
+#EXTINF:-1,Jesse Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166956
+#EXTINF:-1,Bull Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166957
+#EXTINF:-1,For Life S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166958
+#EXTINF:-1,Last man Standing Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166959
+#EXTINF:-1,Nancy Drew Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166960
+#EXTINF:-1,Jeff Dunham Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/166962
+#EXTINF:-1,The Cleveland Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/169008
+#EXTINF:-1,Blossom Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170083
+#EXTINF:-1,Adam-12 Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170084
+#EXTINF:-1,Keeping Up Appearances Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170301
+#EXTINF:-1,The Purge Movie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170302
+#EXTINF:-1,Baywatch Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170422
+#EXTINF:-1,Dora the Explorer Season 6-8 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170431
+#EXTINF:-1,NCIS Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170545
+#EXTINF:-1,NCIS Season 3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170546
+#EXTINF:-1,Who's the Boss Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170551
+#EXTINF:-1,Who's the Boss Season 3-4 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170552
+#EXTINF:-1,12 Monkeys Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170559
+#EXTINF:-1,60 Days In Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170560
+#EXTINF:-1,60 Minutes Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170561
+#EXTINF:-1,Flip or Flop Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170562
+#EXTINF:-1,Property Brothers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170563
+#EXTINF:-1,Malcolm in the Middle Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170564
+#EXTINF:-1,Orange is the New Black S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170565
+#EXTINF:-1,Orange is the New Black S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170566
+#EXTINF:-1,Orange is the New Black S05-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170567
+#EXTINF:-1,Orange is the New Black S07-S08 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170568
+#EXTINF:-1,Stuck in the Middle Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170569
+#EXTINF:-1,The Middle Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170570
+#EXTINF:-1,The Hills Have Eyes Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/170584
+#EXTINF:-1,King of the Hill Season 1-3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171553
+#EXTINF:-1,Ripley's Believe It or Not! Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171555
+#EXTINF:-1,Ripley's Believe It or Not! Season 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171556
+#EXTINF:-1,Catherine Tate Show Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171562
+#EXTINF:-1,The X-Files Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171564
+#EXTINF:-1,Auf Widersehen Pet Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171565
+#EXTINF:-1,Under the Dome Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171622
+#EXTINF:-1,Carrie Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171623
+#EXTINF:-1,Wonder Woman Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171628
+#EXTINF:-1,Texas Chainsaw Massacre Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171629
+#EXTINF:-1,The Partridge Family Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171655
+#EXTINF:-1,Hardcore Pawn Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171662
+#EXTINF:-1,Botched Season 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171667
+#EXTINF:-1,Transformers Collection*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171684
+#EXTINF:-1,Johnny Carson Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171686
+#EXTINF:-1,Are You Afraid of the Dark Season 1-3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171689
+#EXTINF:-1,Are You Afraid of the Dark Season 4-7 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171691
+#EXTINF:-1,Hitman Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171727
+#EXTINF:-1,Die Hart Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171893
+#EXTINF:-1,Last Comic Standing Season 4 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/171896
+#EXTINF:-1,S$*! My Dad Says Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/172060
+#EXTINF:-1,Newlyweds: Nick and Jessica Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/173744
+#EXTINF:-1,Gigantosaurus Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/173759
+#EXTINF:-1,The Waltons Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174137
+#EXTINF:-1,The Waltons Season 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174138
+#EXTINF:-1,The Waltons Season 3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174139
+#EXTINF:-1,The Waltons Season 4 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174140
+#EXTINF:-1,Supernatural Season 14 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174141
+#EXTINF:-1,Supernatural Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174191
+#EXTINF:-1,Supernatural Season 02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174192
+#EXTINF:-1,Supernatural Season 3-4 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174257
+#EXTINF:-1,The Boondocks Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174313
+#EXTINF:-1,The Beverly Hillbillies Season 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174314
+#EXTINF:-1,XXX: Amateurs*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149035
+#EXTINF:-1,XXX: Asian Candy Shop*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174315
+#EXTINF:-1,XXX: Bikini Pleasure*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130744
+#EXTINF:-1,XXX: Blacks On Blondes*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130745
+#EXTINF:-1,XXX: Bubble Butt Brazilian*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130746
+#EXTINF:-1,XXX: Casting Couch*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130747
+#EXTINF:-1,XXX: Deep Throat*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130748
+#EXTINF:-1,XXX: FraternityX Boys*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130749
+#EXTINF:-1,XXX: Femdom*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132098
+#EXTINF:-1,XXX: Fucked Hard*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131286
+#EXTINF:-1,XXX: Girlfriend Revenge*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131287
+#EXTINF:-1,XXX: Hand Jobs*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/130750
+#EXTINF:-1,XXX: Helpless Teens*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131292
+#EXTINF:-1,XXX: Home Porn*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/132102
+#EXTINF:-1,XXX: Midgets*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131295
+#EXTINF:-1,XXX: Perv Mom*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149040
+#EXTINF:-1,XXX: Pregnant Wishes*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131298
+#EXTINF:-1,XXX: Russian*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/149041
+#EXTINF:-1,XXX: Up Skirt Jerk*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131301
+#EXTINF:-1,XXX: Whipped Ass*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/131304
+#EXTINF:-1,XXX: BBW*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174316
+#EXTINF:-1,XXX: Black Love*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174317
+#EXTINF:-1,XXX: Brazzers*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174318
+#EXTINF:-1,XXX: Fake Taxi*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174319
+#EXTINF:-1,XXX: Latin Love*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174320
+#EXTINF:-1,XXX: Massage Girls*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174321
+#EXTINF:-1,XXX: Thai Tuk Tuk*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174322
+#EXTINF:-1,Andi Mack Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174323
+#EXTINF:-1,Chuck Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174324
+#EXTINF:-1,Girl Meets World Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174325
+#EXTINF:-1,Ice Road Truckers Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174326
+#EXTINF:-1,The Following S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174327
+#EXTINF:-1,XXX: Family Hookups*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174328
+#EXTINF:-1,The Beverly Hillbillies Season 3-4 Collection 
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174337
+#EXTINF:-1,Gunsmoke Season 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174348
+#EXTINF:-1,Punky Brewster Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/174794
+#EXTINF:-1,Melrose Place Season 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/175278
+#EXTINF:-1,Melrose Place Season 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/175280
+#EXTINF:-1,XXX: Banana Fever*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/176106
+#EXTINF:-1,XXX: Club Seventeen*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/176186
+#EXTINF:-1,XXX: Punishment Love*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/176188
+#EXTINF:-1,XXX: Purple Bitch*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/176199
+#EXTINF:-1,XXX: Shop Lyfter*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/176200
+#EXTINF:-1,XXX: Teen Anal Quest*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/176201
+#EXTINF:-1,American Chopper Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177666
+#EXTINF:-1,Ink Master Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177667
+#EXTINF:-1,Lucifer Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177668
+#EXTINF:-1,Roseanne S01-S3 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177669
+#EXTINF:-1,Roseanne S04-S6 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177670
+#EXTINF:-1,Roseanne S07-S10 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177671
+#EXTINF:-1,Terminator: The sarah Connor Chronicles Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177672
+#EXTINF:-1,XXX: Raw Tushy*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177681
+#EXTINF:-1,XXX: Tonights Girlfriend*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/177682
+#EXTINF:-1,Married with Children S01-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178010
+#EXTINF:-1,Married With Children S05-S08 Collrction
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178011
+#EXTINF:-1,Married wth Children S09-S11 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178012
+#EXTINF:-1,The Dukes Of Hazzard S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178149
+#EXTINF:-1,The Dukes Of Hazzard S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178150
+#EXTINF:-1,The Dukes Of Hazzard S05-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178151
+#EXTINF:-1,XXX: All Filled Up*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178152
+#EXTINF:-1,XXX: Amia Miley*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178153
+#EXTINF:-1,XXX: Cruel Girlfriend*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178154
+#EXTINF:-1,XXX: Cum World*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178155
+#EXTINF:-1,XXX: Divine Bitches*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178156
+#EXTINF:-1,XXX: Emily Willis*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178157
+#EXTINF:-1,It Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178158
+#EXTINF:-1,XXX: Girls Gone Wild*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178206
+#EXTINF:-1,XXX: Go Huney Go*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178213
+#EXTINF:-1,XXX: Got Milf*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178214
+#EXTINF:-1,XXX: Lone Milf*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178215
+#EXTINF:-1,XXX: Lost Bets*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178216
+#EXTINF:-1,XXX: Lust Cinema*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178217
+#EXTINF:-1,XXX: Cherry Pimps*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178218
+#EXTINF:-1,XXX: Make Them Gag*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178219
+#EXTINF:-1,XXX: Milf Hunter*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178220
+#EXTINF:-1,XXX: Monika Wipper*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178221
+#EXTINF:-1,XXX: Nicoletta Shea*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178222
+#EXTINF:-1,XXX: OU Sweet Heart*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178223
+#EXTINF:-1,XXX: Princess Leia*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178224
+#EXTINF:-1,XXX: Scam Angels*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178225
+#EXTINF:-1,XXX: Sperm Cocktail*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178226
+#EXTINF:-1,XXX: Strap On Cum*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178227
+#EXTINF:-1,XXX: Teens Want Double*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178228
+#EXTINF:-1,XXX: Baby Sittered*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178326
+#EXTINF:-1,XXX: Digital Playground*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178327
+#EXTINF:-1,XXX: Fucking Machine*
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178328
+#EXTINF:-1,Sanford And Son S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178716
+#EXTINF:-1,Sanford and Son S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178717
+#EXTINF:-1,Hoarders S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178721
+#EXTINF:-1,Hoarders S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178722
+#EXTINF:-1,Hoarders S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178723
+#EXTINF:-1,Scrubs S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178724
+#EXTINF:-1,Scrubs S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178725
+#EXTINF:-1,Scrubs S07-S09 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178726
+#EXTINF:-1,Star Trek Original S01 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178727
+#EXTINF:-1,Star Trek Original S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178728
+#EXTINF:-1,Star Trek Original S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178729
+#EXTINF:-1,Family Guy S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178730
+#EXTINF:-1,Family Guy S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178731
+#EXTINF:-1,Family Guy S07-S09 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178732
+#EXTINF:-1,Family Guy S10-S12 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178733
+#EXTINF:-1,UFC Fight Island Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178734
+#EXTINF:-1,Miami Vice S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178735
+#EXTINF:-1,Miami Vice S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178736
+#EXTINF:-1,Miami Vice S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178737
+#EXTINF:-1,Family Matters S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178738
+#EXTINF:-1,Family Matters S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178739
+#EXTINF:-1,Family Matters S07-S09 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178740
+#EXTINF:-1,I Love Lucy S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178746
+#EXTINF:-1,I Love Lucy S03-S04 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178747
+#EXTINF:-1,I Love Lucy S05-S07 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178748
+#EXTINF:-1,The Incedible Hulk S01-S02 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178749
+#EXTINF:-1,The Incredible Hulk S03-S05 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178750
+#EXTINF:-1,The King of Queens S01-S03 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178751
+#EXTINF:-1,The King of Queens S04-S06 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178752
+#EXTINF:-1,The King of Queens S07-S09 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178753
+#EXTINF:-1,Castle Rock Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178754
+#EXTINF:-1,Jurassic World Camp Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178755
+#EXTINF:-1,Bugs Bunny Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178756
+#EXTINF:-1,The Best of Abbot and Costello Part 1 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/182119
+#EXTINF:-1,The Best of Abbot and Costello Part 2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/182120
+#EXTINF:-1,The Dukes (1983) Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184060
+#EXTINF:-1,Baby Einstein Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184061
+#EXTINF:-1,Classic Christmas Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184208
+#EXTINF:-1,A Christmas Story All Day Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184210
+#EXTINF:-1,Laurel & Hardy - March of the Wooden Soldiers All Day Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184211
+#EXTINF:-1,The Simpsons: Treehouse of Horror Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184762
+#EXTINF:-1,In The Heat of the Night 1-2 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/184945
+#EXTINF:-1,In The Heat of the Night 3-4 Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/185278
