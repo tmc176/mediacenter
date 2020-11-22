@@ -124,6 +124,15 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Ca/Us/uk List Watch Them Til They Last Enjoy[/COLOR][/COLOR]
 
-
+#EXTINF:-1,US: DESTINATION AMERICA
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1288.ts
+#EXTINF:-1,US: DISCOVERY EAST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1289.ts
+#EXTINF:-1,US: DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1291.ts
+#EXTINF:-1,US: DISCOVERY LIFE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1292.ts
+#EXTINF:-1,US: DISCOVERY SCIENCE
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1293.ts
 
 
