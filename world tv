@@ -122,11 +122,11 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Canadian Lists Enjoy[/COLOR][/COLOR]
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Ca/Us/uk List Watch Them Til They Last Enjoy[/COLOR][/COLOR]
 #EXTINF:-1,USA:BeinSports.usa
-http://xtream.pro:8080/italians.server/iunixs.skype/890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/890
 #EXTINF:-1,USA:NBC.Sports
-http://xtream.pro:8080/italians.server/iunixs.skype/872
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/872
 #EXTINF:-1,USA:Eleven.Sports-Network
 http://xtream.pro:8080/italians.server/iunixs.skype/873
 #EXTINF:-1,USA:NBC.Golf
