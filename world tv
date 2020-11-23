@@ -123,7 +123,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Ca/Us/uk List Watch Them Til They Last Enjoy[/COLOR][/COLOR]
-
 #EXTINF:-1,CA: CORONA VIRUS INFO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6472
 #EXTINF:-1,CA: A&E
@@ -131,231 +130,231 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.cry
 #EXTINF:-1,CA: ABC EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6470
 #EXTINF:-1,CA: ABC WEST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6469
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6469
 #EXTINF:-1,CA: AHC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6466
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6466
 #EXTINF:-1,CA: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6465
 #EXTINF:-1,CA: APTN
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6464
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6464
 #EXTINF:-1,CA: BBC CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6461
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6461
 #EXTINF:-1,CA: BRAVO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6458
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6458
 #EXTINF:-1,CA: CBC MONTREAL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6454
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6454
 #EXTINF:-1,CA: CBC OTTAWA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6453
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6453
 #EXTINF:-1,CA: CBC TORONTO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6452
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6452
 #EXTINF:-1,CA: CBC VANCOUVER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6451
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6451
 #EXTINF:-1,CA: CBS EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6450
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6450
 #EXTINF:-1,CA: CBS WEST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6449
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6449
 #EXTINF:-1,CA: CHCH
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6448
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6448
 #EXTINF:-1,CA: CINEPOP
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6447
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6447
 #EXTINF:-1,CA: CITY MONTREAL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6446
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6446
 #EXTINF:-1,CA: CITY TORONTO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6445
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6445
 #EXTINF:-1,CA: CITY VANCOUVER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6444
 #EXTINF:-1,CA: CMT CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6443
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6443
 #EXTINF:-1,CA: COTTAGE LIFE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6442
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6442
 #EXTINF:-1,CA: CP24
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6441
 #EXTINF:-1,CA: CRIME INVEST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6438
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6438
 #EXTINF:-1,CA: CW 11
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6437
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6437
 #EXTINF:-1,CA: DEJAVIEW
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6435
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6435
 #EXTINF:-1,CA: DIY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6434
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6434
 #EXTINF:-1,CA: E! CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6432
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6432
 #EXTINF:-1,CA: ENCORE 1 EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6431
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6431
 #EXTINF:-1,CA: ENCORE 2 EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6430
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6430
 #EXTINF:-1,CA: FAMILY CHRGD
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6428
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6428
 #EXTINF:-1,CA: FAMILY EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6427
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6427
 #EXTINF:-1,CA: FOX EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6425
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6425
 #EXTINF:-1,CA: FOX WEST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6424
 #EXTINF:-1,CA: GLOBAL HALIFAX
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6420
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6420
 #EXTINF:-1,CA: GLOBAL TORONTO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6419
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6419
 #EXTINF:-1,CA: GLOBAL VANCOUVER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6418
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6418
 #EXTINF:-1,CA: H2 CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6414
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6414
 #EXTINF:-1,CA: HBO 1
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6413
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6413
 #EXTINF:-1,CA: HBO 2
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6412
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6412
 #EXTINF:-1,CA: HGTV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6411
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6411
 #EXTINF:-1,CA: ID CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6406
 #EXTINF:-1,CA: KNOWLEDGE KIDS
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6405
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6405
 #EXTINF:-1,CA: KTLA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6404
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6404
 #EXTINF:-1,CA: LIFETIME
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6402
 #EXTINF:-1,CA: MAX
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6399
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6399
 #EXTINF:-1,CA: NBC EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6392
 #EXTINF:-1,CA: NBC WEST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6391
 #EXTINF:-1,CA: NICK
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6389
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6389
 #EXTINF:-1,CA: NTV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6388
 #EXTINF:-1,CA: OLN
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6387
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6387
 #EXTINF:-1,CA: ONE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6384
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6384
 #EXTINF:-1,CA: OWN
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6382
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6382
 #EXTINF:-1,CA: PBS EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6381
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6381
 #EXTINF:-1,CA: PEACH TREE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6380
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6380
 #EXTINF:-1,CA: SHOWCASE EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6372
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=ttp://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6372
 #EXTINF:-1,CA: SILVER SCREEN CLASSICS
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6371
 #EXTINF:-1,CA: SLICE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6370
 #EXTINF:-1,CA: SPACE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6369
 #EXTINF:-1,CA: SPIKE TV / PARAMOUNT CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6368
 #EXTINF:-1,CA: SUPER CHANNEL FUSE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6367
 #EXTINF:-1,CA: SUPER CHANNEL HEART & HOME
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6366
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6366
 #EXTINF:-1,CA: SUPER CHANNEL VAULT
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6365
 #EXTINF:-1,CA: SUPER ECRAN 1
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6364
 #EXTINF:-1,CA: SUPER ECRAN 2
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6363
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6363
 #EXTINF:-1,CA: SUPER ECRAN 3
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6362
 #EXTINF:-1,CA: SUPER ECRAN 4
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6361
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6361
 #EXTINF:-1,CA: TCM
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6360
 #EXTINF:-1,CA: THE WEATHER NETWORK
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6355
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6355
 #EXTINF:-1,CA: TLC CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6354
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6354
 #EXTINF:-1,CA: TMN 1
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6353
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6353
 #EXTINF:-1,CA: TMN 2
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6352
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6352
 #EXTINF:-1,CA: TMN 3
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6351
 #EXTINF:-1,CA: TMN 4
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6350
 #EXTINF:-1,CA: W NETWORK
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6335
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6335
 #EXTINF:-1,CA: WGN
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6333
 #EXTINF:-1,CA: YES TV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6330
 #EXTINF:-1,CA: ABC SPARK CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6324
 #EXTINF:-1,CA: DISNEY CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6322
 #EXTINF:-1,CA: DISNEY FRENCH
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6321
 #EXTINF:-1,CA: DISNEY JR
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6320
 #EXTINF:-1,CA: FAMILY JR
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6319
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6319
 #EXTINF:-1,CA: TELE TOON EAST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6318
 #EXTINF:-1,CA: TREEHOUSE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6316
 #EXTINF:-1,CA: YTV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6315
 #EXTINF:-1,CA: YTV WEST
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6314
 #EXTINF:-1,CA: TMN1E (CRAVE TV 1:
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47625
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47625
 #EXTINF:-1,CA: TMN2E (CRAVE TV 2:
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47626
 #EXTINF:-1,CA: TMN3E (CRAVE TV 3:
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47627
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47627
 #EXTINF:-1,CA: TMN4E (CRAVE TV 4:
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47628
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/47628
 #EXTINF:-1,CA: CNBC
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6308
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6308
 #EXTINF:-1,CA: CNN
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6307
 #EXTINF:-1,CA: CBC NEWS
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6305
 #EXTINF:-1,CA: FOX NEWS
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6304
 #EXTINF:-1,CA: FOOD NETWORK
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6290
 #EXTINF:-1,CA: COOKING CHANNEL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6289
 #EXTINF:-1,CA: ANIMAL PLANET
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6286
 #EXTINF:-1,CA: CRIME  INVESTIGATION
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6285
 #EXTINF:-1,CA: DISCOVERY CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6284
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6284
 #EXTINF:-1,CA: DISCOVERY SCIENCE CANADA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6283
 #EXTINF:-1,CA: DOCUMENTARY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6282
 #EXTINF:-1,CA: HISTORIO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6281
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6281
 #EXTINF:-1,CA: HISTORY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6280
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6280
 #EXTINF:-1,CA: NAT GEO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6279
 #EXTINF:-1,CA: CTV 2 VANCOUVER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6277
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6277
 #EXTINF:-1,CA: CTV HALIFAX
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6276
 #EXTINF:-1,CA: CTV MONTREAL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6275
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6275
 #EXTINF:-1,CA: CTV OTTAWA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6274
 #EXTINF:-1,CA: CTV TORONTO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6273
 #EXTINF:-1,CA: CTV VANCOUVER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6272
 #EXTINF:-1,CA: CTV2 OTTAWA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6271
 #EXTINF:-1,CA: CTV NEWS NETWORK
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6270
 #EXTINF:-1,UK| CARONA VIRUS INFO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/80363
 #EXTINF:-1,UK|FHD| E4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/80350
 #EXTINF:-1,UK|FHD| CBBC
-http://rv.therevenge.co:80/0555141902/3893970296/80349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/80349
 #EXTINF:-1,UK|FHD| 4 SEVEN
-http://rv.therevenge.co:80/0555141902/3893970296/80348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/80348
 #EXTINF:-1,UK|FHD| ALIBI
 http://rv.therevenge.co:80/0555141902/3893970296/80347
 #EXTINF:-1,UK|SD| BBC1
