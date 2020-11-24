@@ -122,9 +122,9 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
-#EXTINF:-1,CA| GLOBAL HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81373
-#EXTINF:-1,CA| GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81372
-#EXTINF:-1,CA| GLOBAL VANCOUVER
-http://rv.therevenge.co:80/691616211141151/691616211141151/81371
+#EXTINF:-1,CA: CBC REGINA
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/2665.ts
+#EXTINF:-1,CA: CBC ST.JOHN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/2666.ts
+#EXTINF:-1,CA: CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/2667.ts
