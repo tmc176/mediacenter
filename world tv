@@ -122,6 +122,459 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | A&E HD" tvg-logo="" group-title="CANADA",CA | A&E HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82382
+#EXTINF:-1 tvg-id="" tvg-name="CA | ABC HD" tvg-logo="" group-title="CANADA",CA | ABC HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82383
+#EXTINF:-1 tvg-id="" tvg-name="CA | ABC Spark" tvg-logo="" group-title="CANADA",CA | ABC Spark
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82385
+#EXTINF:-1 tvg-id="" tvg-name="CA | ABC SPARK HD" tvg-logo="" group-title="CANADA",CA | ABC SPARK HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82386
+#EXTINF:-1 tvg-id="" tvg-name="CA | ADDIK TV QC" tvg-logo="" group-title="CANADA",CA | ADDIK TV QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82387
+#EXTINF:-1 tvg-id="" tvg-name="CA | ADDIK (FR)" tvg-logo="" group-title="CANADA",CA | ADDIK (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82388
+#EXTINF:-1 tvg-id="" tvg-name="CA | AMC Ca" tvg-logo="" group-title="CANADA",CA | AMC Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82389
+#EXTINF:-1 tvg-id="" tvg-name="CA | AMC HD CA" tvg-logo="" group-title="CANADA",CA | AMC HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82390
+#EXTINF:-1 tvg-id="" tvg-name="CA | Animal Planet" tvg-logo="" group-title="CANADA",CA | Animal Planet
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82391
+#EXTINF:-1 tvg-id="" tvg-name="CA | APTN" tvg-logo="" group-title="CANADA",CA | APTN
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82392
+#EXTINF:-1 tvg-id="" tvg-name="CA | ARTV QC" tvg-logo="" group-title="CANADA",CA | ARTV QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82393
+#EXTINF:-1 tvg-id="" tvg-name="CA | BBC" tvg-logo="" group-title="CANADA",CA | BBC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82394
+#EXTINF:-1 tvg-id="" tvg-name="CA | BBC CANADA" tvg-logo="" group-title="CANADA",CA | BBC CANADA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82395
+#EXTINF:-1 tvg-id="" tvg-name="CA | BBC Earth HD" tvg-logo="" group-title="CANADA",CA | BBC Earth HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82396
+#EXTINF:-1 tvg-id="" tvg-name="CA | BNN BLOOMBERG" tvg-logo="" group-title="CANADA",CA | BNN BLOOMBERG
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82397
+#EXTINF:-1 tvg-id="" tvg-name="CA | BOOK TV" tvg-logo="" group-title="CANADA",CA | BOOK TV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82398
+#EXTINF:-1 tvg-id="" tvg-name="CA | BEIN SPORTS CANADA" tvg-logo="" group-title="CANADA",CA | BEIN SPORTS CANADA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82399
+#EXTINF:-1 tvg-id="" tvg-name="CA | beIN Sports HD CA" tvg-logo="" group-title="CANADA",CA | beIN Sports HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82400
+#EXTINF:-1 tvg-id="" tvg-name="CA | BNN HD CA" tvg-logo="" group-title="CANADA",CA | BNN HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82401
+#EXTINF:-1 tvg-id="" tvg-name="CA | CANAL D (FR)" tvg-logo="" group-title="CANADA",CA | CANAL D (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82402
+#EXTINF:-1 tvg-id="" tvg-name="CA | Canal Savoir" tvg-logo="" group-title="CANADA",CA | Canal Savoir
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82403
+#EXTINF:-1 tvg-id="" tvg-name="CA | CANAL SAVOIR (FR)" tvg-logo="" group-title="CANADA",CA | CANAL SAVOIR (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82404
+#EXTINF:-1 tvg-id="" tvg-name="CA | CANAL VIE QC" tvg-logo="" group-title="CANADA",CA | CANAL VIE QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82405
+#EXTINF:-1 tvg-id="" tvg-name="CA | CARTOON NETWORK HD" tvg-logo="" group-title="CANADA",CA | CARTOON NETWORK HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82406
+#EXTINF:-1 tvg-id="" tvg-name="CA | CASA QC" tvg-logo="" group-title="CANADA",CA | CASA QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82407
+#EXTINF:-1 tvg-id="" tvg-name="CA | CASA (FR)" tvg-logo="" group-title="CANADA",CA | CASA (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82408
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC" tvg-logo="" group-title="CANADA",CA | CBC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82409
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC HD" tvg-logo="" group-title="CANADA",CA | CBC HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82410
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC CALGARY HD" tvg-logo="" group-title="CANADA",CA | CBC CALGARY HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82411
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Charlottetown" tvg-logo="" group-title="CANADA",CA | CBC Charlottetown
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82412
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Edmonton" tvg-logo="" group-title="CANADA",CA | CBC Edmonton
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82413
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Fredericton" tvg-logo="" group-title="CANADA",CA | CBC Fredericton
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82414
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Halifax" tvg-logo="" group-title="CANADA",CA | CBC Halifax
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82415
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC HD CA" tvg-logo="" group-title="CANADA",CA | CBC HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82416
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Montreal CA-FR" tvg-logo="" group-title="CANADA",CA | CBC Montreal CA-FR
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82417
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC MONTREAL QC" tvg-logo="" group-title="CANADA",CA | CBC MONTREAL QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82418
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC MONTREAL" tvg-logo="" group-title="CANADA",CA | CBC MONTREAL
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82419
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC News Network" tvg-logo="" group-title="CANADA",CA | CBC News Network
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82420
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC NEWS HD" tvg-logo="" group-title="CANADA",CA | CBC NEWS HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82421
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC OTTAWA" tvg-logo="" group-title="CANADA",CA | CBC OTTAWA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82422
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC REGINA" tvg-logo="" group-title="CANADA",CA | CBC REGINA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82423
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto SD" tvg-logo="" group-title="CANADA",CA | CBC Toronto SD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82424
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Vancouver HD CA" tvg-logo="" group-title="CANADA",CA | CBC Vancouver HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82425
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC VANCOUVER" tvg-logo="" group-title="CANADA",CA | CBC VANCOUVER
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82426
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC WINDSOR" tvg-logo="" group-title="CANADA",CA | CBC WINDSOR
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82427
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Winnipeg" tvg-logo="" group-title="CANADA",CA | CBC Winnipeg
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82428
+#EXTINF:-1 tvg-id="" tvg-name="CA | CHCH Ca" tvg-logo="" group-title="CANADA",CA | CHCH Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82429
+#EXTINF:-1 tvg-id="" tvg-name="CA | CHCH HD" tvg-logo="" group-title="CANADA",CA | CHCH HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82430
+#EXTINF:-1 tvg-id="" tvg-name="CA | CHCH HD CA" tvg-logo="" group-title="CANADA",CA | CHCH HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82431
+#EXTINF:-1 tvg-id="" tvg-name="CA | CinePOP (FR)" tvg-logo="" group-title="CANADA",CA | CinePOP (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82432
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITY CALGARY" tvg-logo="" group-title="CANADA",CA | CITY CALGARY
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82433
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITY MONTREAL" tvg-logo="" group-title="CANADA",CA | CITY MONTREAL
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82434
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITYLGARY" tvg-logo="" group-title="CANADA",CA | CITYLGARY
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82435
+#EXTINF:-1 tvg-id="" tvg-name="CA | CMT HD" tvg-logo="" group-title="CANADA",CA | CMT HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82436
+#EXTINF:-1 tvg-id="" tvg-name="CA | CNN HD" tvg-logo="" group-title="CANADA",CA | CNN HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82437
+#EXTINF:-1 tvg-id="" tvg-name="CA | CNN INTERNATIONAL" tvg-logo="" group-title="CANADA",CA | CNN INTERNATIONAL
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82438
+#EXTINF:-1 tvg-id="" tvg-name="CA | COMEDY HD" tvg-logo="" group-title="CANADA",CA | COMEDY HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82439
+#EXTINF:-1 tvg-id="" tvg-name="CA | COOKING CHANNEL" tvg-logo="" group-title="CANADA",CA | COOKING CHANNEL
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82440
+#EXTINF:-1 tvg-id="" tvg-name="CA | COOKING CHANNEL HD" tvg-logo="" group-title="CANADA",CA | COOKING CHANNEL HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82441
+#EXTINF:-1 tvg-id="" tvg-name="CA | COTTAGE LIFE" tvg-logo="" group-title="CANADA",CA | COTTAGE LIFE
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82442
+#EXTINF:-1 tvg-id="" tvg-name="CA | CP24 Ca" tvg-logo="" group-title="CANADA",CA | CP24 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82443
+#EXTINF:-1 tvg-id="" tvg-name="CA | CP24 HD CA" tvg-logo="" group-title="CANADA",CA | CP24 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82444
+#EXTINF:-1 tvg-id="" tvg-name="CA | CP24. Ca" tvg-logo="" group-title="CANADA",CA | CP24. Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82445
+#EXTINF:-1 tvg-id="" tvg-name="CA | CPAC HD CA" tvg-logo="" group-title="CANADA",CA | CPAC HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82446
+#EXTINF:-1 tvg-id="" tvg-name="CA | CPAC QC" tvg-logo="" group-title="CANADA",CA | CPAC QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82447
+#EXTINF:-1 tvg-id="" tvg-name="CA | CRAVE 2 HD" tvg-logo="" group-title="CANADA",CA | CRAVE 2 HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82449
+#EXTINF:-1 tvg-id="" tvg-name="CA | CRAVE 3 HD" tvg-logo="" group-title="CANADA",CA | CRAVE 3 HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82450
+#EXTINF:-1 tvg-id="" tvg-name="CA | CRAVE 4 HD" tvg-logo="" group-title="CANADA",CA | CRAVE 4 HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82451
+#EXTINF:-1 tvg-id="" tvg-name="CA | CRIME & INVESTIGATION HD" tvg-logo="" group-title="CANADA",CA | CRIME & INVESTIGATION HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82452
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV 2 VANCOUVER" tvg-logo="" group-title="CANADA",CA | CTV 2 VANCOUVER
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82453
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV BARRIE" tvg-logo="" group-title="CANADA",CA | CTV BARRIE
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82454
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV Calgary" tvg-logo="" group-title="CANADA",CA | CTV Calgary
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82455
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV Comedy HD  ca" tvg-logo="" group-title="CANADA",CA | CTV Comedy HD  ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82456
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV Drama" tvg-logo="" group-title="CANADA",CA | CTV Drama
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82457
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV HALIFAX" tvg-logo="" group-title="CANADA",CA | CTV HALIFAX
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82458
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV KITCHENER HD" tvg-logo="" group-title="CANADA",CA | CTV KITCHENER HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82459
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV LONDON" tvg-logo="" group-title="CANADA",CA | CTV LONDON
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82460
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV MONTREAL Ca" tvg-logo="" group-title="CANADA",CA | CTV MONTREAL Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82461
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV News HD" tvg-logo="" group-title="CANADA",CA | CTV News HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82462
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV News Live Events 3 HD CA" tvg-logo="" group-title="CANADA",CA | CTV News Live Events 3 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82463
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV OTTAWA" tvg-logo="" group-title="CANADA",CA | CTV OTTAWA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82465
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV SUDBURY" tvg-logo="" group-title="CANADA",CA | CTV SUDBURY
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82466
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV TORONTO" tvg-logo="" group-title="CANADA",CA | CTV TORONTO
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82467
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV VANCOUVER" tvg-logo="" group-title="CANADA",CA | CTV VANCOUVER
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82468
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV2 OTTAWA" tvg-logo="" group-title="CANADA",CA | CTV2 OTTAWA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82470
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV2 OTTAWA" tvg-logo="" group-title="CANADA",CA | CTV2 OTTAWA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82471
+#EXTINF:-1 tvg-id="" tvg-name="CA | DAYSTAR TV" tvg-logo="" group-title="CANADA",CA | DAYSTAR TV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82472
+#EXTINF:-1 tvg-id="" tvg-name="CA | DEJAVIEW" tvg-logo="" group-title="CANADA",CA | DEJAVIEW
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82473
+#EXTINF:-1 tvg-id="" tvg-name="CA | DEJAVIEW SD" tvg-logo="" group-title="CANADA",CA | DEJAVIEW SD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82474
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISCOVERY HD" tvg-logo="" group-title="CANADA",CA | DISCOVERY HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82475
+#EXTINF:-1 tvg-id="" tvg-name="CA | Discovery Science CA" tvg-logo="" group-title="CANADA",CA | Discovery Science CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82476
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISCOVERY SCIENCE HD" tvg-logo="" group-title="CANADA",CA | DISCOVERY SCIENCE HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82477
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISNEY Ca" tvg-logo="" group-title="CANADA",CA | DISNEY Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82478
+#EXTINF:-1 tvg-id="" tvg-name="CA | Disney HD" tvg-logo="" group-title="CANADA",CA | Disney HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82479
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISNEY JR Ca" tvg-logo="" group-title="CANADA",CA | DISNEY JR Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82480
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISNEY JR HD" tvg-logo="" group-title="CANADA",CA | DISNEY JR HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82481
+#EXTINF:-1 tvg-id="" tvg-name="CA | Disney JR HD CA" tvg-logo="" group-title="CANADA",CA | Disney JR HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82482
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISNEY XD HD" tvg-logo="" group-title="CANADA",CA | DISNEY XD HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82483
+#EXTINF:-1 tvg-id="" tvg-name="CA | DIY NETWORK HD" tvg-logo="" group-title="CANADA",CA | DIY NETWORK HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82484
+#EXTINF:-1 tvg-id="" tvg-name="CA | DTOUR" tvg-logo="" group-title="CANADA",CA | DTOUR
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82485
+#EXTINF:-1 tvg-id="" tvg-name="CA | E! Ca" tvg-logo="" group-title="CANADA",CA | E! Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82486
+#EXTINF:-1 tvg-id="" tvg-name="CA | E! HD" tvg-logo="" group-title="CANADA",CA | E! HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82487
+#EXTINF:-1 tvg-id="" tvg-name="CA | E! Entertainment HD CA" tvg-logo="" group-title="CANADA",CA | E! Entertainment HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82488
+#EXTINF:-1 tvg-id="" tvg-name="CA | FAMILY" tvg-logo="" group-title="CANADA",CA | FAMILY
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82489
+#EXTINF:-1 tvg-id="" tvg-name="CA | Fight Network HD CA" tvg-logo="" group-title="CANADA",CA | Fight Network HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82490
+#EXTINF:-1 tvg-id="" tvg-name="CA | Food Network" tvg-logo="" group-title="CANADA",CA | Food Network
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82491
+#EXTINF:-1 tvg-id="" tvg-name="CA | Fox HD" tvg-logo="" group-title="CANADA",CA | Fox HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82492
+#EXTINF:-1 tvg-id="" tvg-name="CA | FOX NEWS" tvg-logo="" group-title="CANADA",CA | FOX NEWS
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82493
+#EXTINF:-1 tvg-id="" tvg-name="CA | FX FHD CA" tvg-logo="" group-title="CANADA",CA | FX FHD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82494
+#EXTINF:-1 tvg-id="" tvg-name="CA | FX HD Ca" tvg-logo="" group-title="CANADA",CA | FX HD Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82495
+#EXTINF:-1 tvg-id="" tvg-name="CA | FXX CA" tvg-logo="" group-title="CANADA",CA | FXX CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82496
+#EXTINF:-1 tvg-id="" tvg-name="CA | Game TV" tvg-logo="" group-title="CANADA",CA | Game TV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82497
+#EXTINF:-1 tvg-id="" tvg-name="CA | GAME SHOW NETWORK HD" tvg-logo="" group-title="CANADA",CA | GAME SHOW NETWORK HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82498
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global Edmonton" tvg-logo="" group-title="CANADA",CA | Global Edmonton
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82499
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL HALIFAX" tvg-logo="" group-title="CANADA",CA | GLOBAL HALIFAX
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82500
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL VANCOUVER" tvg-logo="" group-title="CANADA",CA | GLOBAL VANCOUVER
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82501
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL MONTREAL" tvg-logo="" group-title="CANADA",CA | GLOBAL MONTREAL
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82502
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global Toronto" tvg-logo="" group-title="CANADA",CA | Global Toronto
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82503
+#EXTINF:-1 tvg-id="" tvg-name="CA | H2" tvg-logo="" group-title="CANADA",CA | H2
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82506
+#EXTINF:-1 tvg-id="" tvg-name="CA | HBO HD" tvg-logo="" group-title="CANADA",CA | HBO HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82507
+#EXTINF:-1 tvg-id="" tvg-name="CA | HBO 1 Ca" tvg-logo="" group-title="CANADA",CA | HBO 1 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82508
+#EXTINF:-1 tvg-id="" tvg-name="CA | HBO 2 Ca" tvg-logo="" group-title="CANADA",CA | HBO 2 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82509
+#EXTINF:-1 tvg-id="" tvg-name="CA | HBO 2 HD CA" tvg-logo="" group-title="CANADA",CA | HBO 2 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82510
+#EXTINF:-1 tvg-id="" tvg-name="CA | HGTV" tvg-logo="" group-title="CANADA",CA | HGTV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82511
+#EXTINF:-1 tvg-id="" tvg-name="CA | HISTORIA QC" tvg-logo="" group-title="CANADA",CA | HISTORIA QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82512
+#EXTINF:-1 tvg-id="" tvg-name="CA | History Channel" tvg-logo="" group-title="CANADA",CA | History Channel
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82513
+#EXTINF:-1 tvg-id="" tvg-name="CA | HISTORY HD" tvg-logo="" group-title="CANADA",CA | HISTORY HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82514
+#EXTINF:-1 tvg-id="" tvg-name="CA | HLN" tvg-logo="" group-title="CANADA",CA | HLN
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82515
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI MONTREAL QC" tvg-logo="" group-title="CANADA",CA | ICI MONTREAL QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82516
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI Tele Montreal" tvg-logo="" group-title="CANADA",CA | ICI Tele Montreal
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82517
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI VANCOUVER QC" tvg-logo="" group-title="CANADA",CA | ICI VANCOUVER QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82518
+#EXTINF:-1 tvg-id="" tvg-name="CA | INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="CANADA",CA | INVESTIGATION DISCOVERY HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82521
+#EXTINF:-1 tvg-id="" tvg-name="CA | KNOWLEDGE KIDS" tvg-logo="" group-title="CANADA",CA | KNOWLEDGE KIDS
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82522
+#EXTINF:-1 tvg-id="" tvg-name="CA | KTLA" tvg-logo="" group-title="CANADA",CA | KTLA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82523
+#EXTINF:-1 tvg-id="" tvg-name="CA | LCN QC" tvg-logo="" group-title="CANADA",CA | LCN QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82524
+#EXTINF:-1 tvg-id="" tvg-name="CA | Lifetime FHD CA" tvg-logo="" group-title="CANADA",CA | Lifetime FHD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82525
+#EXTINF:-1 tvg-id="" tvg-name="CA | LIFETIME Ca" tvg-logo="" group-title="CANADA",CA | LIFETIME Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82526
+#EXTINF:-1 tvg-id="" tvg-name="CA | LIFETIME MOVIE NETWORK HD" tvg-logo="" group-title="CANADA",CA | LIFETIME MOVIE NETWORK HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82527
+#EXTINF:-1 tvg-id="" tvg-name="CA | Love Nature" tvg-logo="" group-title="CANADA",CA | Love Nature
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82528
+#EXTINF:-1 tvg-id="" tvg-name="CA | MakeFul" tvg-logo="" group-title="CANADA",CA | MakeFul
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82529
+#EXTINF:-1 tvg-id="" tvg-name="CA | MAVTV" tvg-logo="" group-title="CANADA",CA | MAVTV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82530
+#EXTINF:-1 tvg-id="" tvg-name="CA | MAX" tvg-logo="" group-title="CANADA",CA | MAX
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82531
+#EXTINF:-1 tvg-id="" tvg-name="CA | METEO QC" tvg-logo="" group-title="CANADA",CA | METEO QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82533
+#EXTINF:-1 tvg-id="" tvg-name="CA | MIRACLE" tvg-logo="" group-title="CANADA",CA | MIRACLE
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82534
+#EXTINF:-1 tvg-id="" tvg-name="CA | MOI et CIE (FR)" tvg-logo="" group-title="CANADA",CA | MOI et CIE (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82535
+#EXTINF:-1 tvg-id="" tvg-name="CA | MOVIE CENTRAL Ca" tvg-logo="" group-title="CANADA",CA | MOVIE CENTRAL Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82536
+#EXTINF:-1 tvg-id="" tvg-name="CA | MOVIE TIME 1 Ca" tvg-logo="" group-title="CANADA",CA | MOVIE TIME 1 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82537
+#EXTINF:-1 tvg-id="" tvg-name="CA | MTV" tvg-logo="" group-title="CANADA",CA | MTV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82539
+#EXTINF:-1 tvg-id="" tvg-name="CA | MTV 2 HD" tvg-logo="" group-title="CANADA",CA | MTV 2 HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82540
+#EXTINF:-1 tvg-id="" tvg-name="CA | MUCH" tvg-logo="" group-title="CANADA",CA | MUCH
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82541
+#EXTINF:-1 tvg-id="" tvg-name="CA | Musique Plus (FR)" tvg-logo="" group-title="CANADA",CA | Musique Plus (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82542
+#EXTINF:-1 tvg-id="" tvg-name="CA | NAT GEO WILD Ca" tvg-logo="" group-title="CANADA",CA | NAT GEO WILD Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82543
+#EXTINF:-1 tvg-id="" tvg-name="CA | NAT GEO WILD HD" tvg-logo="" group-title="CANADA",CA | NAT GEO WILD HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82544
+#EXTINF:-1 tvg-id="" tvg-name="CA | NATIONAL GEOGRAPHIC Ca" tvg-logo="" group-title="CANADA",CA | NATIONAL GEOGRAPHIC Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82545
+#EXTINF:-1 tvg-id="" tvg-name="CA | NAT GEO HD" tvg-logo="" group-title="CANADA",CA | NAT GEO HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82546
+#EXTINF:-1 tvg-id="" tvg-name="CA | NICKTOONS HD" tvg-logo="" group-title="CANADA",CA | NICKTOONS HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82547
+#EXTINF:-1 tvg-id="" tvg-name="CA | NTV News HD CA" tvg-logo="" group-title="CANADA",CA | NTV News HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82548
+#EXTINF:-1 tvg-id="" tvg-name="CA | OLN Ca" tvg-logo="" group-title="CANADA",CA | OLN Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82549
+#EXTINF:-1 tvg-id="" tvg-name="CA | OMNI 1 HD" tvg-logo="" group-title="CANADA",CA | OMNI 1 HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82550
+#EXTINF:-1 tvg-id="" tvg-name="CA | OMNI 2 HD Ca" tvg-logo="" group-title="CANADA",CA | OMNI 2 HD Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82551
+#EXTINF:-1 tvg-id="" tvg-name="CA | ONE" tvg-logo="" group-title="CANADA",CA | ONE
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82552
+#EXTINF:-1 tvg-id="" tvg-name="CA | OWN HD Ca" tvg-logo="" group-title="CANADA",CA | OWN HD Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82553
+#EXTINF:-1 tvg-id="" tvg-name="CA | PARAMOUNT NETWORK HD" tvg-logo="" group-title="CANADA",CA | PARAMOUNT NETWORK HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82554
+#EXTINF:-1 tvg-id="" tvg-name="CA | PEACHTREE Ca" tvg-logo="" group-title="CANADA",CA | PEACHTREE Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82555
+#EXTINF:-1 tvg-id="" tvg-name="CA | Peachtree HD CA" tvg-logo="" group-title="CANADA",CA | Peachtree HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82556
+#EXTINF:-1 tvg-id="" tvg-name="CA | PRISE 2 QC" tvg-logo="" group-title="CANADA",CA | PRISE 2 QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82557
+#EXTINF:-1 tvg-id="" tvg-name="CA | RAI Italia" tvg-logo="" group-title="CANADA",CA | RAI Italia
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82558
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDI QC" tvg-logo="" group-title="CANADA",CA | RDI QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82559
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS 2 QC" tvg-logo="" group-title="CANADA",CA | RDS 2 QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82560
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS Info CA-FR" tvg-logo="" group-title="CANADA",CA | RDS Info CA-FR
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82561
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS INFO QC" tvg-logo="" group-title="CANADA",CA | RDS INFO QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82562
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS QC" tvg-logo="" group-title="CANADA",CA | RDS QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82563
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS. QC" tvg-logo="" group-title="CANADA",CA | RDS. QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82564
+#EXTINF:-1 tvg-id="" tvg-name="CA | Rogers TV Barrie" tvg-logo="" group-title="CANADA",CA | Rogers TV Barrie
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82565
+#EXTINF:-1 tvg-id="" tvg-name="CA | SERIES  QC" tvg-logo="" group-title="CANADA",CA | SERIES  QC
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82566
+#EXTINF:-1 tvg-id="" tvg-name="CA | SERIES Plus" tvg-logo="" group-title="CANADA",CA | SERIES Plus
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82567
+#EXTINF:-1 tvg-id="" tvg-name="CA | SILVER SCREEN CLASSICS" tvg-logo="" group-title="CANADA",CA | SILVER SCREEN CLASSICS
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82568
+#EXTINF:-1 tvg-id="" tvg-name="CA | SLICE Ca" tvg-logo="" group-title="CANADA",CA | SLICE Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82569
+#EXTINF:-1 tvg-id="" tvg-name="CA | Slice HD CA" tvg-logo="" group-title="CANADA",CA | Slice HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82570
+#EXTINF:-1 tvg-id="" tvg-name="CA | SMITHSONIAN CHANNEL HD" tvg-logo="" group-title="CANADA",CA | SMITHSONIAN CHANNEL HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82571
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV SCI-FI" tvg-logo="" group-title="CANADA",CA | CTV SCI-FI
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82572
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPIKE TV / PARAMOUNT CANADA" tvg-logo="" group-title="CANADA",CA | SPIKE TV / PARAMOUNT CANADA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82573
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net 360 FHD" tvg-logo="" group-title="CANADA",CA | Sports Net 360 FHD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82574
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net East HD" tvg-logo="" group-title="CANADA",CA | Sports Net East HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82575
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net One HD" tvg-logo="" group-title="CANADA",CA | Sports Net One HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82576
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net Ontario HD" tvg-logo="" group-title="CANADA",CA | Sports Net Ontario HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82577
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net Pacific HD CA" tvg-logo="" group-title="CANADA",CA | Sports Net Pacific HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82578
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net West HD CA" tvg-logo="" group-title="CANADA",CA | Sports Net West HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82579
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sports Net World HD" tvg-logo="" group-title="CANADA",CA | Sports Net World HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82580
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER CHANNEL 1 Ca" tvg-logo="" group-title="CANADA",CA | SUPER CHANNEL 1 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82581
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER CHANNEL 2 Ca" tvg-logo="" group-title="CANADA",CA | SUPER CHANNEL 2 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82582
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER CHANNEL 4 Ca" tvg-logo="" group-title="CANADA",CA | SUPER CHANNEL 4 Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82583
+#EXTINF:-1 tvg-id="" tvg-name="CA | Super Channel Fuse" tvg-logo="" group-title="CANADA",CA | Super Channel Fuse
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82584
+#EXTINF:-1 tvg-id="" tvg-name="CA | Super Channel Heart & Home" tvg-logo="" group-title="CANADA",CA | Super Channel Heart & Home
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82585
+#EXTINF:-1 tvg-id="" tvg-name="CA | Super Channel Vault" tvg-logo="" group-title="CANADA",CA | Super Channel Vault
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82586
+#EXTINF:-1 tvg-id="" tvg-name="CA | SUPER ECRAN 1" tvg-logo="" group-title="CANADA",CA | SUPER ECRAN 1
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82587
+#EXTINF:-1 tvg-id="" tvg-name="CA | Super Ecran 2 (FR)" tvg-logo="" group-title="CANADA",CA | Super Ecran 2 (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82588
+#EXTINF:-1 tvg-id="" tvg-name="CA | Super Ecran 3 (FR)" tvg-logo="" group-title="CANADA",CA | Super Ecran 3 (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82589
+#EXTINF:-1 tvg-id="" tvg-name="CA | Super Ecran 4 (FR)" tvg-logo="" group-title="CANADA",CA | Super Ecran 4 (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82590
+#EXTINF:-1 tvg-id="" tvg-name="CA | Teletoon (FR)" tvg-logo="" group-title="CANADA",CA | Teletoon (FR)
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82592
+#EXTINF:-1 tvg-id="" tvg-name="CA | TELETOON HD" tvg-logo="" group-title="CANADA",CA | TELETOON HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82593
+#EXTINF:-1 tvg-id="" tvg-name="CA | Teletoon Eng" tvg-logo="" group-title="CANADA",CA | Teletoon Eng
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82594
+#EXTINF:-1 tvg-id="" tvg-name="CA | TLC HD CA" tvg-logo="" group-title="CANADA",CA | TLC HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82597
+#EXTINF:-1 tvg-id="" tvg-name="CA | TLN" tvg-logo="" group-title="CANADA",CA | TLN
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82598
+#EXTINF:-1 tvg-id="" tvg-name="CA | TMN 2 HD Ca" tvg-logo="" group-title="CANADA",CA | TMN 2 HD Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82599
+#EXTINF:-1 tvg-id="" tvg-name="CA | TREEHOUSE Ca" tvg-logo="" group-title="CANADA",CA | TREEHOUSE Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82601
+#EXTINF:-1 tvg-id="" tvg-name="CA | TREEHOUSE HD" tvg-logo="" group-title="CANADA",CA | TREEHOUSE HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82602
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 1 HD CA" tvg-logo="" group-title="CANADA",CA | TSN 1 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82603
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 2 FHD CA" tvg-logo="" group-title="CANADA",CA | TSN 2 FHD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82604
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 2 HD CA" tvg-logo="" group-title="CANADA",CA | TSN 2 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82605
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 3 FHD CA" tvg-logo="" group-title="CANADA",CA | TSN 3 FHD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82606
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 3 HD CA" tvg-logo="" group-title="CANADA",CA | TSN 3 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82607
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 4 FHD CA" tvg-logo="" group-title="CANADA",CA | TSN 4 FHD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82608
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 5 FHD CA" tvg-logo="" group-title="CANADA",CA | TSN 5 FHD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82609
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 5 HD CA" tvg-logo="" group-title="CANADA",CA | TSN 5 HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82610
+#EXTINF:-1 tvg-id="" tvg-name="CA | TURNER CLASSIC MOVIES Ca" tvg-logo="" group-title="CANADA",CA | TURNER CLASSIC MOVIES Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82611
+#EXTINF:-1 tvg-id="" tvg-name="CA | W_NETWORK" tvg-logo="" group-title="CANADA",CA | W_NETWORK
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82620
+#EXTINF:-1 tvg-id="" tvg-name="CA | WEATHER NETWORK SD" tvg-logo="" group-title="CANADA",CA | WEATHER NETWORK SD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82621
+#EXTINF:-1 tvg-id="" tvg-name="CA | WFN" tvg-logo="" group-title="CANADA",CA | WFN
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82622
+#EXTINF:-1 tvg-id="" tvg-name="CA | WGN" tvg-logo="" group-title="CANADA",CA | WGN
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82623
+#EXTINF:-1 tvg-id="" tvg-name="CA | Wild TV" tvg-logo="" group-title="CANADA",CA | Wild TV
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82624
+#EXTINF:-1 tvg-id="" tvg-name="CA | YES Ca" tvg-logo="" group-title="CANADA",CA | YES Ca
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82625
+#EXTINF:-1 tvg-id="" tvg-name="CA | YES TV HD CA" tvg-logo="" group-title="CANADA",CA | YES TV HD CA
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82626
+#EXTINF:-1 tvg-id="" tvg-name="CA |CBC CALGARY HD" tvg-logo="" group-title="CANADA",CA |CBC CALGARY HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82630
+#EXTINF:-1 tvg-id="" tvg-name="CA |Discovery Velocity HD" tvg-logo="" group-title="CANADA",CA |Discovery Velocity HD
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82631
+#EXTINF:-1 tvg-id="" tvg-name="CA | Adult Swim" tvg-logo="" group-title="CANADA",CA | Adult Swim
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/82632
 #EXTINF:-1,USA | ABC
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9511
 #EXTINF:-1,USA | ABC NEWS
