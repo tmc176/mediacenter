@@ -122,9 +122,123 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
-#EXTINF:-1,CA: CBC REGINA
-http://beastiptv.tv:25461/live/Reyr07/Glendat11/2665.ts
-#EXTINF:-1,CA: CBC ST.JOHN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/2666.ts
-#EXTINF:-1,CA: CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/2667.ts
+#EXTINF:-1,USA | ABC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9511
+#EXTINF:-1,USA | ABC NEWS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9441
+#EXTINF:-1,USA | AMC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9502
+#EXTINF:-1,USA | BRAVO
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9500
+#EXTINF:-1,USA | CNN
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9493
+#EXTINF:-1,USA | COMEDY CENTRAL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9492
+#EXTINF:-1,USA | DISCOVERY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9488
+#EXTINF:-1,USA | MLB NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/20401
+#EXTINF:-1,USA | E!
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9485
+#EXTINF:-1,USA | ESPN 1
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9484
+#EXTINF:-1,USA | ESPN 2
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9483
+#EXTINF:-1,USA | FOOD NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9481
+#EXTINF:-1,USA | FOX NEWS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9477
+#EXTINF:-1,USA | FOX SPORTS 1
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9476
+#EXTINF:-1,USA | FOX SPORTS 2
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9475
+#EXTINF:-1,USA | FX HD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9473
+#EXTINF:-1,UFC 254 Pass HD US
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134262
+#EXTINF:-1,US | HBO SIGNATURE
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9463
+#EXTINF:-1,USA | HGTV
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9461
+#EXTINF:-1,USA | HISTORY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9460
+#EXTINF:-1,USA | NBC GOLF
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9453
+#EXTINF:-1,USA | NHL NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9451
+#EXTINF:-1,USA | SHOWTIME
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9447
+#EXTINF:-1,CA | SPORTSNET WORLD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9442
+#EXTINF:-1,USA | SYFY
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9438
+#EXTINF:-1,USA | CINEMAX ACTION
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32722
+#EXTINF:-1,USA | ELEVEN SPORTS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32781
+#EXTINF:-1,USA | NBC SPORTS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32710
+#EXTINF:-1,USA | NFL NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32726
+#EXTINF:-1,USA | TBS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32712
+#EXTINF:-1,USA | TENNIS CHANNEL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32725
+#EXTINF:-1,CA | TSN 5
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32742
+#EXTINF:-1,USA | TNT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9434
+#EXTINF:-1,USA | A & E
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32694
+#EXTINF:-1,USA | ANIMAL PLANET
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32693
+#EXTINF:-1,USA | CARTOON NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32692
+#EXTINF:-1,CA | TSN 4
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32756
+#EXTINF:-1,USA | CW
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32703
+#EXTINF:-1,USA | ESPN U
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32690
+#EXTINF:-1,USA | BEIN SPORT
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32705
+#EXTINF:-1,USA | DIY NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32704
+#EXTINF:-1,USA | STARZ CINEMA
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32688
+#EXTINF:-1,USA | DISNEY CHANNEL
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32701
+#EXTINF:-1,USA | WGN AMERICA
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32676
+#EXTINF:-1,CA | TSN 1
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9444
+#EXTINF:-1,USA | BLOOMBERG
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22589
+#EXTINF:-1,USA | CBSN
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22582
+#EXTINF:-1,USA | MSNBC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22581
+#EXTINF:-1,US | QVC Beauty IQ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22797
+#EXTINF:-1,USA | UFC FIGHT PASS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32776
+#EXTINF:-1,USA | DISNEY XD
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22951
+#EXTINF:-1,US | FXX
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22946
+#EXTINF:-1,USA | FREEFORM
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22788
+#EXTINF:-1,USA | IFC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22786
+#EXTINF:-1,CA | TSN 2
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22782
+#EXTINF:-1,CA | TSN 3
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22783
+#EXTINF:-1,USA | SEC NETWORK
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32783
+#EXTINF:-1,USA | CBS
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32803
+#EXTINF:-1,USA | NBC
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32804
+#EXTINF:-1,MC EU SD US
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/35371
