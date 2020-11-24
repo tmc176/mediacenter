@@ -42,6 +42,8 @@ http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 All in the Family" tvg-logo="" group-title="MIX CHANNEL ",24/7 All in the Family
+http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/73161
 
 #EXTINF:-1,[COLOR FFffffffff][COLORred]They Come & Go So Watch Them When You Can Enjoy[/COLOR][/COLOR]
 
