@@ -44,7 +44,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/ind
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 All in the Family" tvg-logo="" group-title="MIX CHANNEL ",24/7 All in the Family
 http://sonyiptv.net:8080/0IVE9CN72o/cE3j5oi5oL/73161
-
+#EXTINF:-1,24/7 Grey's Anatomy
+http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/30831
+#EXTINF:-1,24/7 The Big Bang Theory
+http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/40554
 #EXTINF:-1,[COLOR FFffffffff][COLORred]They Come & Go So Watch Them When You Can Enjoy[/COLOR][/COLOR]
 
 #EXTINF:-1,24/7 My Dead Ex
@@ -529,8 +532,6 @@ http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/30828
 http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/30829
 #EXTINF:-1,24/7 Greenleaf
 http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/30830
-#EXTINF:-1,24/7 Grey's Anatomy
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/30831
 #EXTINF:-1,24/7 Grisse
 http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/30832
 #EXTINF:-1,24/7 Growing Up Chrisley
@@ -765,8 +766,6 @@ http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/40551
 http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/40552
 #EXTINF:-1,24/7 The Bay
 http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/40553
-#EXTINF:-1,24/7 The Big Bang Theory
-http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/40554
 #EXTINF:-1,24/7 The Blacklist
 http://main.realiptv.to:25461/xtremrev-restream/VDrsW3XCY43KDSJHasd/40555
 #EXTINF:-1,24/7 The Bold Type
