@@ -33,5 +33,106 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stitche
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
 
-
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Family HD
+http://tv4all.cyou:80/3030498113/0405515466/29077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Modern Greats HD
+http://tv4all.cyou:80/3030498113/0405515466/29048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Premiere
+http://tv4all.cyou:80/3030498113/0405515466/29074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Premiere HD
+http://tv4all.cyou:80/3030498113/0405515466/29041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies SciFi & Horror
+http://tv4all.cyou:80/3030498113/0405515466/29065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Thriller HD
+http://tv4all.cyou:80/3030498113/0405515466/29059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies +1
+http://62.210.101.222:9000/arthur21/arthur123/54987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRUE MOVIES
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRUE MOVIES
+http://rv.therevenge.co:80/0555141902/3893970296/80173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRUE MOVIES
+http://rv.therevenge.co:80/691616211141151/691616211141151/80173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",True Movies
+http://gold.euromediaserver.com:80/leila/leila/50353?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",True Movies 2
+http://gold.euromediaserver.com:80/leila/leila/50356?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX MOVIEMAX HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX MOVIE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104674?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Undefined",Filmrise Movies,US | Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Undefined",Gravitas Movies,US | Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1396.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
+http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27272.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES HD
+http://rv.therevenge.co:80/0555141902/3893970296/81210?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/66492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES UHD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6032?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES&MYSTERIES HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28155?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HDNET MOVIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/7888.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HDNET MOVIES HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/167823?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HDNET MOVIES UHD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Home Movies (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zJ5idav.jpg" group-title="Undefined",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIE NETWORK HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6193?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIE NETWORK UHD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6183?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1409.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES
+http://rv.therevenge.co:80/0555141902/3893970296/81123?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81123?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140418?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES UHD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6182?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MOVIEMAX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140439?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MOVIEPLEX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Zk5wP5K.png" group-title="Undefined",Maverick Movies,US | Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SONY MOVIE CHANNEL HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6002?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SONY MOVIE Channel HD
+http://gold.euromediaserver.com:80/leila/leila/49513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SONY Movies ACTION HD
+http://gold.euromediaserver.com:80/leila/leila/49514?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Movies,US | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSIC MOVIES
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1450.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSIC MOVIES HD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/5995?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSUC MOVIES HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX MOVIES FHD
+http://rv.therevenge.co:80/0555141902/3893970296/85282?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",N TV MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Pink Movies..
+http://platinumxmedia.xyz:8080/home/home/52187?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
+http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8?checkedby:iptvcat.com
 
