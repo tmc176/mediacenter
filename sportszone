@@ -34,11 +34,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stitche
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Family HD
-http://tv4all.cyou:80/3030498113/0405515466/29077?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29077?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Modern Greats HD
-http://tv4all.cyou:80/3030498113/0405515466/29048?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29048?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Premiere
-http://tv4all.cyou:80/3030498113/0405515466/29074?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29074?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Premiere HD
 http://tv4all.cyou:80/3030498113/0405515466/29041?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies SciFi & Horror
