@@ -68,9 +68,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Undefined",Gravitas Movies,US | Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
-http://beastiptv.tv:25461/live/Reyr07/Glendat11/1396.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1396.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
-http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27272.m3u8?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27272.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES HD
 http://rv.therevenge.co:80/0555141902/3893970296/81210?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES HD
