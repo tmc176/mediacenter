@@ -22,43 +22,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29077?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Modern Greats HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29048?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Premiere
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29074?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29041?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies SciFi & Horror
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29065?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Movies Thriller HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv4all.cyou:80/3030498113/0405515466/29059?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies +1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.101.222:9000/arthur21/arthur123/54987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRUE MOVIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80173?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1396.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27272.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81210?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1409.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LIFETIME MOVIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81123?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Zk5wP5K.png" group-title="Undefined",Maverick Movies,US | Maverick Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Movies,US | STIRR Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSIC MOVIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/1450.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/85282?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
 
