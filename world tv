@@ -123,15 +123,15 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
 #EXTINF:-1,USA| CORONA VIRUS INFO
-http://rv.therevenge.co:80/0555141902/3893970296/81217
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81217
 #EXTINF:-1,USA| HBO HD
-http://rv.therevenge.co:80/0555141902/3893970296/81216
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81216
 #EXTINF:-1,USA| HBO 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/81215
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81215
 #EXTINF:-1,USA| HBO ZONE HD
-http://rv.therevenge.co:80/0555141902/3893970296/81214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81214
 #EXTINF:-1,USA| HBO SIGNATURE
-http://rv.therevenge.co:80/0555141902/3893970296/81213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81213
 #EXTINF:-1,USA| HBO FAMILY HD
 http://rv.therevenge.co:80/0555141902/3893970296/81212
 #EXTINF:-1,USA| HBO COMEDY HD
