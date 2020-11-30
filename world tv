@@ -122,269 +122,126 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
-#EXTINF:-1,USA| CORONA VIRUS INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81217
-#EXTINF:-1,USA| HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81216
-#EXTINF:-1,USA| HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81215
-#EXTINF:-1,USA| HBO ZONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81214
-#EXTINF:-1,USA| HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81213
-#EXTINF:-1,USA| HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81212
-#EXTINF:-1,USA| HBO COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81211
-#EXTINF:-1,USA| HALLMARK MOVIES & MYSTERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81210
-#EXTINF:-1,USA| HALLMARK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81209
-#EXTINF:-1,USA| HALLMARK DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81208
-#EXTINF:-1,USA| STARZ IN BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81206
-#EXTINF:-1,USA| STARZ ENCORE WESTERNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81205
-#EXTINF:-1,USA| STARZ ENCORE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81204
-#EXTINF:-1,USA| STARZ EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81203
-#EXTINF:-1,USA| STARZ COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81202
-#EXTINF:-1,USA| EPIX HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81201
-#EXTINF:-1,USA| EPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81200
-#EXTINF:-1,USA| EPIX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81199
-#EXTINF:-1,USA| CINEMAXX MORE MAXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81198
-#EXTINF:-1,USA| CINEMAX THRILLERMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81197
-#EXTINF:-1,USA| CINEMAX OUTER MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81196
-#EXTINF:-1,USA| CINEMAX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81194
-#EXTINF:-1,USA| CINEMAX ACTION MAX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81193
-#EXTINF:-1,USA| WGN AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81192
-#EXTINF:-1,USA| WE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81191
-#EXTINF:-1,USA| VICELAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81190
-#EXTINF:-1,USA| USA NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81189
-#EXTINF:-1,USA| UNIVISION TDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81188
-#EXTINF:-1,USA| UNIVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81187
-#EXTINF:-1,USA| UNIMAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81186
-#EXTINF:-1,USA| TVONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81185
-#EXTINF:-1,USA| TV LAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81184
-#EXTINF:-1,USA| TRU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81183
-#EXTINF:-1,USA| TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81182
-#EXTINF:-1,USA| TLC CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81181
-#EXTINF:-1,USA| THE CW HD CHICAGO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81180
-#EXTINF:-1,USA| THE CW PIX 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81179
-#EXTINF:-1,USA| TELEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81178
-#EXTINF:-1,USA| TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81177
-#EXTINF:-1,USA| TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81176
-#EXTINF:-1,USA| TBN TRINITY BROADCASTING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81175
-#EXTINF:-1,USA| SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81174
-#EXTINF:-1,USA| SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81173
-#EXTINF:-1,USA| SPIKE/PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81171
-#EXTINF:-1,USA| SMITHSONIAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81168
-#EXTINF:-1,USA| SHOWTIME SHOWCASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81166
-#EXTINF:-1,USA| SHOWTIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81164
-#EXTINF:-1,USA| SHOWTIME EXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81162
-#EXTINF:-1,USA| SHOWTIME 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81160
-#EXTINF:-1,USA| REVOLT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81157
-#EXTINF:-1,USA| REELZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81156
-#EXTINF:-1,USA| RED BULL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81153
-#EXTINF:-1,USA| QVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81151
-#EXTINF:-1,USA| PURSUIT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81149
-#EXTINF:-1,USA| POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81147
-#EXTINF:-1,USA| OXYGEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81145
-#EXTINF:-1,USA| OWN NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81143
-#EXTINF:-1,USA| OVATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81141
-#EXTINF:-1,USA| NBC UNIVERSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81138
-#EXTINF:-1,USA| NBC 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81136
-#EXTINF:-1,USA| NBC 4 NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81134
-#EXTINF:-1,USA| ME TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81127
-#EXTINF:-1,USA| MAV TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81125
-#EXTINF:-1,USA| LIFETIME MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81123
-#EXTINF:-1,USA| LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81121
-#EXTINF:-1,USA| HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81106
-#EXTINF:-1,USA| HGTV UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81103
-#EXTINF:-1,USA| FYI NETWORK
-http://rv.therevenge.co:80/0555141902/3893970296/81095
-#EXTINF:-1,USA| FXX
-http://rv.therevenge.co:80/0555141902/3893970296/81092
-#EXTINF:-1,USA| FXM
-http://rv.therevenge.co:80/0555141902/3893970296/81090
-#EXTINF:-1,USA| FX HD
-http://rv.therevenge.co:80/0555141902/3893970296/81088
-#EXTINF:-1,USA| FREEFORM HD
-http://rv.therevenge.co:80/0555141902/3893970296/81083
-#EXTINF:-1,USA| FOOD NETWORK
-http://rv.therevenge.co:80/0555141902/3893970296/81081
-#EXTINF:-1,USA| E!
-http://rv.therevenge.co:80/0555141902/3893970296/81075
-#EXTINF:-1,USA| DIY NETWORK HD
-http://rv.therevenge.co:80/0555141902/3893970296/81071
-#EXTINF:-1,USA| DESTINATION AMERICA
-http://rv.therevenge.co:80/0555141902/3893970296/81069
-#EXTINF:-1,USA| COOKING CHANNEL HD
-http://rv.therevenge.co:80/0555141902/3893970296/81062
-#EXTINF:-1,USA| COMET TV
-http://rv.therevenge.co:80/0555141902/3893970296/81061
-#EXTINF:-1,USA| COMEDY CENTRAL
-http://rv.therevenge.co:80/0555141902/3893970296/81060
-#EXTINF:-1,USA| CMT HD
-http://rv.therevenge.co:80/0555141902/3893970296/81059
-#EXTINF:-1,USA| CBS NY HD
-http://rv.therevenge.co:80/0555141902/3893970296/81058
-#EXTINF:-1,USA| CBS EAST
-http://rv.therevenge.co:80/0555141902/3893970296/81057
-#EXTINF:-1,USA| BRAVO
-http://rv.therevenge.co:80/0555141902/3893970296/81055
-#EXTINF:-1,USA| ANTENNA TV
-http://rv.therevenge.co:80/0555141902/3893970296/81047
-#EXTINF:-1,USA| AMERICAN HEROES CHANNEL
-http://rv.therevenge.co:80/0555141902/3893970296/81046
-#EXTINF:-1,USA| AMC
-http://rv.therevenge.co:80/0555141902/3893970296/81045
-#EXTINF:-1,USA| ABC WEST
-http://rv.therevenge.co:80/0555141902/3893970296/81044
-#EXTINF:-1,USA| ABC NY HD
-http://rv.therevenge.co:80/0555141902/3893970296/81043
-#EXTINF:-1,USA| ABC EAST HD
-http://rv.therevenge.co:80/0555141902/3893970296/81042
-#EXTINF:-1,USA| A&E HD
-http://rv.therevenge.co:80/0555141902/3893970296/81041
-#EXTINF:-1,USA| BABY TV
-http://rv.therevenge.co:80/0555141902/3893970296/81039
-#EXTINF:-1,USA| UNIVERSAL KIDS HD
-http://rv.therevenge.co:80/0555141902/3893970296/81038
-#EXTINF:-1,USA| TEEN NICK
-http://rv.therevenge.co:80/0555141902/3893970296/81037
-#EXTINF:-1,USA| STARZ KIDS & FAMILY
-http://rv.therevenge.co:80/0555141902/3893970296/81036
-#EXTINF:-1,USA| NICKTOONS
-http://rv.therevenge.co:80/0555141902/3893970296/81035
-#EXTINF:-1,USA| NICK JR. TOO
-http://rv.therevenge.co:80/0555141902/3893970296/81034
-#EXTINF:-1,USA| NICK JR
-http://rv.therevenge.co:80/0555141902/3893970296/81033
-#EXTINF:-1,USA| NICK HD
-http://rv.therevenge.co:80/0555141902/3893970296/81032
-#EXTINF:-1,USA| DISNEY XD
-http://rv.therevenge.co:80/0555141902/3893970296/81031
-#EXTINF:-1,USA| DISNEY JR
-http://rv.therevenge.co:80/0555141902/3893970296/81030
-#EXTINF:-1,USA| DISNEY CHANNEL HD
-http://rv.therevenge.co:80/0555141902/3893970296/81029
-#EXTINF:-1,USA| PBS KIDS EAST
-http://rv.therevenge.co:80/0555141902/3893970296/81027
-#EXTINF:-1,USA| BOOMERANG
-http://rv.therevenge.co:80/0555141902/3893970296/81023
-#EXTINF:-1,USA| ANIMAL PLANET
-http://rv.therevenge.co:80/0555141902/3893970296/81021
-#EXTINF:-1,USA| NAT GEO WILD HD US
-http://rv.therevenge.co:80/0555141902/3893970296/81020
-#EXTINF:-1,USA| NAT GEO USA
-http://rv.therevenge.co:80/0555141902/3893970296/81019
-#EXTINF:-1,USA| INVESTIGATION DISCOVERY HD
-http://rv.therevenge.co:80/0555141902/3893970296/81018
-#EXTINF:-1,USA| HISTORY CHANNEL
-http://rv.therevenge.co:80/0555141902/3893970296/81017
-#EXTINF:-1,USA| HISTORY 2
-http://rv.therevenge.co:80/0555141902/3893970296/81016
-#EXTINF:-1,USA| DISCOVERY SCIENCE HD
-http://rv.therevenge.co:80/0555141902/3893970296/81015
-#EXTINF:-1,USA| DISCOVERY LIFE
-http://rv.therevenge.co:80/0555141902/3893970296/81014
-#EXTINF:-1,USA| DISCOVERY FAMILY
-http://rv.therevenge.co:80/0555141902/3893970296/81013
-#EXTINF:-1,USA| DISCOVERY CHANNEL HD
-http://rv.therevenge.co:80/0555141902/3893970296/81012
-#EXTINF:-1,USA| CRIME AND INVESTIGATION
-http://rv.therevenge.co:80/0555141902/3893970296/81011
-#EXTINF:-1,USA| WORLD FISHING NETWORK
-http://rv.therevenge.co:80/0555141902/3893970296/81009
-#EXTINF:-1,USA| OUTDOOR CHANNEL
-http://rv.therevenge.co:80/0555141902/3893970296/81007
-#EXTINF:-1,USA| BLOOMBERG
-http://rv.therevenge.co:80/0555141902/3893970296/81005
-#EXTINF:-1,USA| CNN
-http://rv.therevenge.co:80/0555141902/3893970296/81004
-#EXTINF:-1,USA| CNN*
-http://rv.therevenge.co:80/0555141902/3893970296/127211
-#EXTINF:-1,USA| FOX NEWS
-http://rv.therevenge.co:80/0555141902/3893970296/80998
-#EXTINF:-1,USA| FOX 50
-http://rv.therevenge.co:80/0555141902/3893970296/80993
-#EXTINF:-1,USA| FOX 5 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80992
-#EXTINF:-1,USA| WWE
-http://rv.therevenge.co:80/0555141902/3893970296/80985
-#EXTINF:-1,USA| UFC 24/7
-http://rv.therevenge.co:80/0555141902/3893970296/80984
-#EXTINF:-1,USA| SPORTSMAN CHANNEL
-http://rv.therevenge.co:80/0555141902/3893970296/80980
-#EXTINF:-1,USA| NHL NETWORK
-http://rv.therevenge.co:80/0555141902/3893970296/80972
-#EXTINF:-1,USA| NFL RED ZONE
-http://rv.therevenge.co:80/0555141902/3893970296/80971
-#EXTINF:-1,USA| NFL NETWORK
-http://rv.therevenge.co:80/0555141902/3893970296/80970
-#EXTINF:-1,USA| NBA TV HD
-http://rv.therevenge.co:80/0555141902/3893970296/80959
-#EXTINF:-1,USA| MOTOR TREND
-http://rv.therevenge.co:80/0555141902/3893970296/80956
-#EXTINF:-1,USA| FOX SPORTS 1
-http://rv.therevenge.co:80/0555141902/3893970296/80951
-#EXTINF:-1,USA| FOX SPORTS 2
-http://rv.therevenge.co:80/0555141902/3893970296/80950
+
+#EXTINF:-1,USA: Viceland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14197.ts
+#EXTINF:-1,USA: TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14199.ts
+#EXTINF:-1,USA: TSN 2 HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14198.ts
+#EXTINF:-1,USA: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14240.ts
+#EXTINF:-1,USA: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14200.ts
+#EXTINF:-1,USA: TLC
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14241.ts
+#EXTINF:-1,USA: The Shopping Channel
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14242.ts
+#EXTINF:-1,USA: TBS
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14201.ts
+#EXTINF:-1,USA: SYFY
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14243.ts
+#EXTINF:-1,USA: Spike HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14202.ts
+#EXTINF:-1,USA: Smithsonian Channel
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14239.ts
+#EXTINF:-1,USA: Nickelodeon
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14203.ts
+#EXTINF:-1,USA: NBC Sport
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14204.ts
+#EXTINF:-1,USA: NBC SN
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14205.ts
+#EXTINF:-1,USA: NBC Golf
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14206.ts
+#EXTINF:-1,USA: NBC
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14207.ts
+#EXTINF:-1,USA: MSNBC
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14244.ts
+#EXTINF:-1,USA: Lifetime
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14245.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14246.ts
+#EXTINF:-1,USA: HGTV
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14208.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14247.ts
+#EXTINF:-1,USA: HBO
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14209.ts
+#EXTINF:-1,USA: Hallmark
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14210.ts
+#EXTINF:-1,USA: H2
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14211.ts
+#EXTINF:-1,USA: FX
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14212.ts
+#EXTINF:-1,USA: Fox News HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14214.ts
+#EXTINF:-1,USA: Fox 43
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14213.ts
+#EXTINF:-1,USA: Food Network
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14215.ts
+#EXTINF:-1,USA: Fight Sports
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14248.ts
+#EXTINF:-1,USA: Fight Network
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14249.ts
+#EXTINF:-1,USA: Fight Channel HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14216.ts
+#EXTINF:-1,USA: E! Entertainment
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14250.ts
+#EXTINF:-1,USA: E!
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14217.ts
+#EXTINF:-1,USA: Disney Channel
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14251.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14252.ts
+#EXTINF:-1,USA: Discovery Science
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14253.ts
+#EXTINF:-1,USA: CW
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14218.ts
+#EXTINF:-1,USA: Comedy Central
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14219.ts
+#EXTINF:-1,USA: CNN International HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14220.ts
+#EXTINF:-1,USA: CNN
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14254.ts
+#EXTINF:-1,USA: CNBC
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14255.ts
+#EXTINF:-1,USA: Cinemax Moremax HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14221.ts
+#EXTINF:-1,USA: Cinemax East
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14222.ts
+#EXTINF:-1,USA: CBS Reality
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14224.ts
+#EXTINF:-1,USA: CBS News
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14256.ts
+#EXTINF:-1,USA: CBS Drama
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14225.ts
+#EXTINF:-1,USA: CBS Action
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14226.ts
+#EXTINF:-1,USA: CBN
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14257.ts
+#EXTINF:-1,USA: C-SPAN 3
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14230.ts
+#EXTINF:-1,USA: C-SPAN 2
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14229.ts
+#EXTINF:-1,USA: C-SPAN 1
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14228.ts
+#EXTINF:-1,USA: Bravo
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14231.ts
+#EXTINF:-1,USA: Bloomberg
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14232.ts
+#EXTINF:-1,USA: AMC
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14233.ts
+#EXTINF:-1,USA: Aljazeera
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14234.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14236.ts
+#EXTINF:-1,USA: AFN Sports
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14235.ts
+#EXTINF:-1,USA: ABC News HD
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14237.ts
+#EXTINF:-1,USA: ABC
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14258.ts
+#EXTINF:-1,USA: 5 USA
+http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14238.ts
 
 
