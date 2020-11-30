@@ -126,25 +126,23 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775
 #EXTINF:-1,USA: Viceland
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14197.ts
 #EXTINF:-1,USA: TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14199.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14199.ts
 #EXTINF:-1,USA: TSN 2 HD
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14198.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14198.ts
 #EXTINF:-1,USA: Travel Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14240.ts
 #EXTINF:-1,USA: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14200.ts
 #EXTINF:-1,USA: TLC
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14241.ts
-#EXTINF:-1,USA: The Shopping Channel
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14242.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14241.ts
 #EXTINF:-1,USA: TBS
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14201.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14201.ts
 #EXTINF:-1,USA: SYFY
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14243.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14243.ts
 #EXTINF:-1,USA: Spike HD
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14202.ts
 #EXTINF:-1,USA: Smithsonian Channel
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14239.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14239.ts
 #EXTINF:-1,USA: Nickelodeon
 http://mongomax.myeffect.net:8079/live/vkund1/kundv1/14203.ts
 #EXTINF:-1,USA: NBC Sport
