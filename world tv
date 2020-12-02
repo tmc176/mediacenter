@@ -122,6 +122,26 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV
+http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27144.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV EAST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1397.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV East
+http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/26909.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV HD
+http://latvonlive.com:33612/Lulu/1234/659?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV HD US
+http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/14348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV UHD
+http://rv.therevenge.co:80/0555141902/3893970296/81103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV US
+http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/10218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV WEST
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1398.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV [East] HD VIP US
+http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/684726?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HISTORY
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1400.ts?checkedby:iptvcat.com
 #EXTINF:-1,|CA| CORONA VIRUS INFO
 http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81425
 #EXTINF:-1,|CA| A&E
