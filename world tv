@@ -139,153 +139,153 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree
 #EXTINF:-1,US: AMC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/751
 #EXTINF:-1,US: Bravo HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2282
 #EXTINF:-1,US: CARTOON NETWORK (East) HD
-http://iptvtree.net:8080/82a28920/ce46da4c/6397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6397
 #EXTINF:-1,US CARTOON NETWORK (East) HD
-http://iptvtree.net:8080/82a28920/ce46da4c/50918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50918
 #EXTINF:-1,US: CBS HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2740
 #EXTINF:-1,US: CNN FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/753
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/753
 #EXTINF:-1,US: CNN NEWS
-http://iptvtree.net:8080/82a28920/ce46da4c/225374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/225374
 #EXTINF:-1,US: CP24
-http://iptvtree.net:8080/82a28920/ce46da4c/145780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/145780
 #EXTINF:-1,US: CP24 Breakfast
-http://iptvtree.net:8080/82a28920/ce46da4c/196185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/196185
 #EXTINF:-1,US: CBS Sports Network HD
-http://iptvtree.net:8080/82a28920/ce46da4c/6444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6444
 #EXTINF:-1,US: Discovery Channel EAST
-http://iptvtree.net:8080/82a28920/ce46da4c/30922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/30922
 #EXTINF:-1,US: Discovery Velocity HD
-http://iptvtree.net:8080/82a28920/ce46da4c/76871
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/76871
 #EXTINF:-1,US Discovery Velocity HD
-http://iptvtree.net:8080/82a28920/ce46da4c/220508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/220508
 #EXTINF:-1,US: Disney Channel HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2303
 #EXTINF:-1,US Disney Channel HD
-http://iptvtree.net:8080/82a28920/ce46da4c/221221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221221
 #EXTINF:-1,US: Disney JR HD
-http://iptvtree.net:8080/82a28920/ce46da4c/8608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/8608
 #EXTINF:-1,US Disney JR HD
-http://iptvtree.net:8080/82a28920/ce46da4c/50896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50896
 #EXTINF:-1,US Disney Junior Pacific HD
-http://iptvtree.net:8080/82a28920/ce46da4c/50894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50894
 #EXTINF:-1,US: Disney JR WEST
-http://iptvtree.net:8080/82a28920/ce46da4c/151053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/151053
 #EXTINF:-1,US: Disney XD EAST
-http://iptvtree.net:8080/82a28920/ce46da4c/6395
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6395
 #EXTINF:-1,US Disney XD EAST
-http://iptvtree.net:8080/82a28920/ce46da4c/221235
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221235
 #EXTINF:-1,US: Disney XD FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/8400
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/8400
 #EXTINF:-1,US Disney XD FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/221237
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221237
 #EXTINF:-1,US: Disney XD Pacific
-http://iptvtree.net:8080/82a28920/ce46da4c/148219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/148219
 #EXTINF:-1,US Disney XD Pacific
-http://iptvtree.net:8080/82a28920/ce46da4c/221285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221285
 #EXTINF:-1,US: DIY HD
-http://iptvtree.net:8080/82a28920/ce46da4c/6511
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6511
 #EXTINF:-1,US: DIY Network HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2305
 #EXTINF:-1,US: DOCURAMA
-http://iptvtree.net:8080/82a28920/ce46da4c/173408
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/173408
 #EXTINF:-1,US: FOX 43 HD
-http://iptvtree.net:8080/82a28920/ce46da4c/151052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/151052
 #EXTINF:-1,US: FOX HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2317
 #EXTINF:-1,US: FOX NEWS HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2318
 #EXTINF:-1,US: FOX SPORTS 1 FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/147380
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/147380
 #EXTINF:-1,US: FOX SPORTS 2 FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/39882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/39882
 #EXTINF:-1,US: FOX SPORTS 1 HD
-http://iptvtree.net:8080/82a28920/ce46da4c/756
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/756
 #EXTINF:-1,US: FOX SPORTS 2 HD
-http://iptvtree.net:8080/82a28920/ce46da4c/757
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/757
 #EXTINF:-1,US: FOX SPORTS Racing HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2327
 #EXTINF:-1,US: FX EAST
-http://iptvtree.net:8080/82a28920/ce46da4c/6342
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6342
 #EXTINF:-1,US: FX HD
-http://iptvtree.net:8080/82a28920/ce46da4c/758
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/758
 #EXTINF:-1,US: FX Movie Channel FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/39873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/39873
 #EXTINF:-1,US: FXM HD
-http://iptvtree.net:8080/82a28920/ce46da4c/192749
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/192749
 #EXTINF:-1,US: FXM RETRO HD
-http://iptvtree.net:8080/82a28920/ce46da4c/5840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/5840
 #EXTINF:-1,US: FXX EAST
-http://iptvtree.net:8080/82a28920/ce46da4c/6373
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6373
 #EXTINF:-1,US: FXX HD
-http://iptvtree.net:8080/82a28920/ce46da4c/2330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2330
 #EXTINF:-1,|US| MAV TV
-http://red.ipfox.org:8080/alifady/ry588852/27580
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27580
 #EXTINF:-1,|US| ME TV
-http://red.ipfox.org:8080/alifady/ry588852/27579
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27579
 #EXTINF:-1,|US| Motor Trend
-http://red.ipfox.org:8080/alifady/ry588852/27574
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27574
 #EXTINF:-1,|US| NBC Sports Network
-http://red.ipfox.org:8080/alifady/ry588852/27567
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27567
 #EXTINF:-1,|US| Nick HD
-http://red.ipfox.org:8080/alifady/ry588852/27556
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27556
 #EXTINF:-1,|US| Nickelodeon West
-http://red.ipfox.org:8080/alifady/ry588852/27555
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27555
 #EXTINF:-1,|US| Nick JR East
-http://red.ipfox.org:8080/alifady/ry588852/27554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27554
 #EXTINF:-1,|US| NBC 3 Syracuse
-http://red.ipfox.org:8080/alifady/ry588852/27400
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27400
 #EXTINF:-1,|US| TNT HD
-http://red.ipfox.org:8080/alifady/ry588852/27372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27372
 #EXTINF:-1,|US| SYFY HD
-http://red.ipfox.org:8080/alifady/ry588852/27371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27371
 #EXTINF:-1,|US| World Fishing
-http://red.ipfox.org:8080/alifady/ry588852/27513
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27513
 #EXTINF:-1,|US| HBO 1
-http://red.ipfox.org:8080/alifady/ry588852/27366
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27366
 #EXTINF:-1,|US| HBO 2
-http://red.ipfox.org:8080/alifady/ry588852/27365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27365
 #EXTINF:-1,|US| HBO Zone
-http://red.ipfox.org:8080/alifady/ry588852/27364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27364
 #EXTINF:-1,|US| HBO Signature
-http://red.ipfox.org:8080/alifady/ry588852/27363
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27363
 #EXTINF:-1,|US| HBO Comedy
-http://red.ipfox.org:8080/alifady/ry588852/27362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27362
 #EXTINF:-1,|US| HBO Family
-http://red.ipfox.org:8080/alifady/ry588852/27361
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27361
 #EXTINF:-1,|US| Spike HD
-http://red.ipfox.org:8080/alifady/ry588852/27360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27360
 #EXTINF:-1,|US| Nickeloden HD
-http://red.ipfox.org:8080/alifady/ry588852/27359
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27359
 #EXTINF:-1,|US| Nat Geo HD
-http://red.ipfox.org:8080/alifady/ry588852/27358
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27358
 #EXTINF:-1,|US| Nat Geo Wild
-http://red.ipfox.org:8080/alifady/ry588852/27357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27357
 #EXTINF:-1,|US| Hallmark
-http://red.ipfox.org:8080/alifady/ry588852/27356
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27356
 #EXTINF:-1,|US| History 1
-http://red.ipfox.org:8080/alifady/ry588852/27355
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27355
 #EXTINF:-1,|US| History 2
-http://red.ipfox.org:8080/alifady/ry588852/27354
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27354
 #EXTINF:-1,|US| TBS HD
-http://red.ipfox.org:8080/alifady/ry588852/27333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27333
 #EXTINF:-1,|US| HGTV HD
-http://red.ipfox.org:8080/alifady/ry588852/27312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27312
 #EXTINF:-1,|US| Outdoor Channel HD
-http://red.ipfox.org:8080/alifady/ry588852/27311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27311
 #EXTINF:-1,|US| NBC
-http://red.ipfox.org:8080/alifady/ry588852/27310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27310
 #EXTINF:-1,|US| LIFETIME | HD
-http://red.ipfox.org:8080/alifady/ry588852/27304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27304
 #EXTINF:-1,|US| Lifetime Movie HD
-http://red.ipfox.org:8080/alifady/ry588852/27303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27303
 #EXTINF:-1,|US| WWE HD
-http://red.ipfox.org:8080/alifady/ry588852/27296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27296
 #EXTINF:-1,|US| TLC HD
-http://red.ipfox.org:8080/alifady/ry588852/27295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/alifady/ry588852/27295
 
 
 
