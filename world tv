@@ -128,108 +128,332 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
-#EXTINF:-1,US: A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2746
-#EXTINF:-1,US A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221804
-#EXTINF:-1,US: ABC FAMILY/SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/35520
-#EXTINF:-1,US: ABC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2734
-#EXTINF:-1,US: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/751
-#EXTINF:-1,US: Bravo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2282
-#EXTINF:-1,US: CARTOON NETWORK (East) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6397
-#EXTINF:-1,US CARTOON NETWORK (East) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50918
-#EXTINF:-1,US: CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2740
-#EXTINF:-1,US: CNN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/753
-#EXTINF:-1,US: CNN NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/225374
-#EXTINF:-1,US: CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/145780
-#EXTINF:-1,US: CP24 Breakfast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/196185
-#EXTINF:-1,US: CBS Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6444
-#EXTINF:-1,US: Discovery Channel EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/30922
-#EXTINF:-1,US: Discovery Velocity HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/76871
-#EXTINF:-1,US Discovery Velocity HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/220508
-#EXTINF:-1,US: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2303
-#EXTINF:-1,US Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221221
-#EXTINF:-1,US: Disney JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/8608
-#EXTINF:-1,US Disney JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50896
-#EXTINF:-1,US Disney Junior Pacific HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50894
-#EXTINF:-1,US: Disney JR WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/151053
-#EXTINF:-1,US: Disney XD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6395
-#EXTINF:-1,US Disney XD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221235
-#EXTINF:-1,US: Disney XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/8400
-#EXTINF:-1,US Disney XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221237
-#EXTINF:-1,US: Disney XD Pacific
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/148219
-#EXTINF:-1,US Disney XD Pacific
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221285
-#EXTINF:-1,US: DIY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6511
-#EXTINF:-1,US: DIY Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2305
-#EXTINF:-1,US: DOCURAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/173408
-#EXTINF:-1,US: FOX 43 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/151052
-#EXTINF:-1,US: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2317
-#EXTINF:-1,US: FOX NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2318
-#EXTINF:-1,US: FOX SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/147380
-#EXTINF:-1,US: FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/39882
-#EXTINF:-1,US: FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/756
-#EXTINF:-1,US: FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/757
-#EXTINF:-1,US: FOX SPORTS Racing HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2327
-#EXTINF:-1,US: FX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6342
-#EXTINF:-1,US: FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/758
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81269?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81251?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1288?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81250?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/0555141902/3893970296/81248?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1291?checkedby:iptvcat.com
+#EXTINF:-1,CA | A & E
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1498
+#EXTINF:-1,CA | ABC SPARK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/874
+#EXTINF:-1,CA | AMC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/863
+#EXTINF:-1,CA | ANIMAL PLANET
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3904
+#EXTINF:-1,CA | CARTOON NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3906
+#EXTINF:-1,CA | CBC OTTAWA
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2780
+#EXTINF:-1,CA | CBC TORONTO
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2781
+#EXTINF:-1,CA | CBC NEWS NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/850
+#EXTINF:-1,CA | CHCH
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/852
+#EXTINF:-1,CA | CHRGD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2875
+#EXTINF:-1,CA | CMT
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3907
+#EXTINF:-1,CA | CNN
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/872
+#EXTINF:-1,CA | COTTAGE LIFE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/873
+#EXTINF:-1,CA | CP24
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/856
+#EXTINF:-1,CA | CRAVE 1
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1502
+#EXTINF:-1,CA | CRAVE 2
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1503
+#EXTINF:-1,CA | CRAVE 3
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1504
+#EXTINF:-1,CA | CRAVE 4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1505
+#EXTINF:-1,CA | CRIME + INVESTIGATION
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3640
+#EXTINF:-1,CA | CTV NEWS CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/860
+#EXTINF:-1,CA | CTV OTTAWA
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/858
+#EXTINF:-1,CA | CTV TORONTO
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2761
+#EXTINF:-1,CA | CTV DRAMA CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3909
+#EXTINF:-1,CA | CTV COMEDY CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2864
+#EXTINF:-1,CA | CTV SCI-FI CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2867
+#EXTINF:-1,CA | CTV2 TORONTO
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2766
+#EXTINF:-1,CA | DEJAVIEW
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/866
+#EXTINF:-1,CA | DISCOVERY CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3917
+#EXTINF:-1,CA | DISCOVERY SCIENCE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3918
+#EXTINF:-1,CA | DIY NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3919
+#EXTINF:-1,CA | GLOBAL KINGSTON
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4111
+#EXTINF:-1,CA | FAMILY CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3920
+#EXTINF:-1,CA | FAMILY JR.
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2869
+#EXTINF:-1,CA | FOOD NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3921
+#EXTINF:-1,CA | FX CANADA
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2860
+#EXTINF:-1,CA | HBO
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/869
+#EXTINF:-1,CA | HISTORY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3924
+#EXTINF:-1,CA | HGTV
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3923
+#EXTINF:-1,CA | HLN
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3925
+#EXTINF:-1,CA | HOLLOYWOOD 70S
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3927
+#EXTINF:-1,CA | HOLLOYWOOD 80S
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3928
+#EXTINF:-1,CA | HOLLOYWOOD 90S
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3929
+#EXTINF:-1,CA | HOLLOYWOOD 00S
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3926
+#EXTINF:-1,CA | INVESTIGATION DISCOVERY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3930
+#EXTINF:-1,CA | LIFETIME
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2859
+#EXTINF:-1,CA | NATIONAL GEOGRAPHIC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3931
+#EXTINF:-1,CA | NBA TV
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/876
+#EXTINF:-1,CA | NFL NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3932
+#EXTINF:-1,CA | OLN
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3933
+#EXTINF:-1,CA | OWN
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2879
+#EXTINF:-1,CA | PARAMOUNT NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1500
+#EXTINF:-1,CA | PEACHTREE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/879
+#EXTINF:-1,CA | SHOWCASE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/875
+#EXTINF:-1,CA | SILVER SCREEN CLASSIC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/880
+#EXTINF:-1,CA | SLICE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/881
+#EXTINF:-1,CA | CNBC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/882
+#EXTINF:-1,CA | SPORTSNET EAST
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1262
+#EXTINF:-1,CA | SPORTSNET WEST
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1261
+#EXTINF:-1,CA | SPORTSNET PACIFIC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/886
+#EXTINF:-1,CA | SPORTSNET ONTARIO
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/885
+#EXTINF:-1,CA | SPORTSNET ONE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/884
+#EXTINF:-1,CA | SPORTSNET WORLD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/897
+#EXTINF:-1,CA | SPORTSNET 360
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/883
+#EXTINF:-1,CA | TREEHOUSE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3936
+#EXTINF:-1,CA | TELETOON
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2858
+#EXTINF:-1,CA | TLC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/855
+#EXTINF:-1,CA | TURNER CLASSIC MOVIES
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2852
+#EXTINF:-1,CA | TSN 1
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/890
+#EXTINF:-1,CA | TSN 2
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/891
+#EXTINF:-1,CA | TSN 3
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/892
+#EXTINF:-1,CA | TSN 4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/893
+#EXTINF:-1,CA | TSN 5
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/894
+#EXTINF:-1,CA | W NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/896
+#EXTINF:-1,CA | YTV
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1273
+#EXTINF:-1,A & E HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/316
+#EXTINF:-1,ABSOLUTE REALITY BY WE TV HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3948
+#EXTINF:-1,ADULT SWIM EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2674
+#EXTINF:-1,AMC + HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4105
+#EXTINF:-1,AMC HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/317
+#EXTINF:-1,AMC PRESENTS
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3944
+#EXTINF:-1,AMERICAN HEROES CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/318
+#EXTINF:-1,BRAVO EAST SD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3034
+#EXTINF:-1,CMT HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/324
+#EXTINF:-1,COMEDY CENTRAL EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/325
+#EXTINF:-1,DESTINATION AMERICA HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/328
+#EXTINF:-1,E! EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/329
+#EXTINF:-1,FREEFORM EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/331
+#EXTINF:-1,FX HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/335
+#EXTINF:-1,FXM HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/339
+#EXTINF:-1,FXX HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/337
+#EXTINF:-1,HALLMARK CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/340
+#EXTINF:-1,HALLMARK DRAMA HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/341
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/342
+#EXTINF:-1,LIFETIME HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/345
+#EXTINF:-1,LIFETIME MOVIES HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/346
+#EXTINF:-1,MeTV HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2577
+#EXTINF:-1,OWN HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/348
+#EXTINF:-1,OXYGEN EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/349
+#EXTINF:-1,PARAMOUNT NETWORK EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/351
+#EXTINF:-1,SYFY EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/356
+#EXTINF:-1,TBS EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/358
+#EXTINF:-1,TCM HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/360
+#EXTINF:-1,TLC EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/361
+#EXTINF:-1,TNT EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/363
+#EXTINF:-1,TV LAND EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/367
+#EXTINF:-1,TV ONE HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1162
+#EXTINF:-1,USA NETWORK EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/368
+#EXTINF:-1,WE TV HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/495
+#EXTINF:-1,WGN AMERICA
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1622
+#EXTINF:-1,CBS SPORTS HQ HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3951
+#EXTINF:-1,CBS SPORTS NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/175
+#EXTINF:-1,ESPN SD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3870
+#EXTINF:-1,ESPN 2 HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/178
+#EXTINF:-1,ESPN U HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/180
+#EXTINF:-1,FS1 HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/195
+#EXTINF:-1,FS2 HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/196
+#EXTINF:-1,MAV TV HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1211
+#EXTINF:-1,MLB NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/237
+#EXTINF:-1,MLB STRIKE ZONE HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3473
+#EXTINF:-1,MOTORTREND HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/258
+#EXTINF:-1,NBA TV SD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3470
+#EXTINF:-1,NBCSN HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/239
+#EXTINF:-1,NFL NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/252
+#EXTINF:-1,NFL REDZONE HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2981
+#EXTINF:-1,NHL NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/253
+#EXTINF:-1,SPORTSMAN CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1239
+#EXTINF:-1,UFC FIGHT PASS HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/596
+#EXTINF:-1,WILLOW CRICKET HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3649
+#EXTINF:-1,WORLD FISHING NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1258
+#EXTINF:-1,WWE NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1264
+#EXTINF:-1,YES NETWORK
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/236
+#EXTINF:-1,BOOMERANG SD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/78
+#EXTINF:-1,CARTOON NETWORK EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2999
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4133
+#EXTINF:-1,DISNEY CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/82
+#EXTINF:-1,DISNEY JR HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/86
+#EXTINF:-1,DISNEY XD HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/84
+#EXTINF:-1,NICKELODEON EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1526
+#EXTINF:-1,NICK JR EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2675
+#EXTINF:-1,NICKTOONS HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/498
+#EXTINF:-1,TEEN NICK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/499
+#EXTINF:-1,UNIVERSAL KIDS HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/88
+#EXTINF:-1,ANIMAL PLANET EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/523
+#EXTINF:-1,COOKING CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/525
+#EXTINF:-1,DISCOVERY CHANNEL EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/526
+#EXTINF:-1,DISCOVERY CHANNEL WEST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/527
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/528
+#EXTINF:-1,DIY NETWORK HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/529
+#EXTINF:-1,HGTV EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/532
+#EXTINF:-1,HGTV WEST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/533
+#EXTINF:-1,HISTORY HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/534
+#EXTINF:-1,FOOD NETWORK EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/530
+#EXTINF:-1,INVESTIGATION DISCOVERY EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/535
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/537
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/539
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1218
+#EXTINF:-1,PURSUIT CHANNEL HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1778
+#EXTINF:-1,SMITHSONIAN CHANNEL EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/541
+#EXTINF:-1,TRAVEL CHANNEL EAST HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/543
+#EXTINF:-1,ABC NEWS
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/235
+#EXTINF:-1,CNN HD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/62
+#EXTINF:-1,FOX NEWS CHANNEL SD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3032
+#EXTINF:-1,KTLA 5
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4051
 #EXTINF:-1,ABC 10 ALBANY NY
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2650
 #EXTINF:-1,ABC 10 MIAMI FL
@@ -796,28 +1020,18 @@ http://peeweeh.biz:8000/taylorrestream/hey47hw78j/232
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2398
 #EXTINF:-1,CINEMAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/71
-#EXTINF:-1,CINEMAX WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/72
 #EXTINF:-1,CINEMAX 5STAR MAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1164
 #EXTINF:-1,CINEMAX ACTIONMAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1163
-#EXTINF:-1,CINEMAX ACTIONMAX WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2627
-#EXTINF:-1,CINEMAX LATINO EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3867
 #EXTINF:-1,CINEMAX MOREMAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1655
-#EXTINF:-1,CINEMAX MOREMAX WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2628
 #EXTINF:-1,CINEMAX MOVIEMAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1656
 #EXTINF:-1,CINEMAX OUTERMAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1657
 #EXTINF:-1,CINEMAX THRILLERMAX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1658
-#EXTINF:-1,CINEMAX THRILLERMAX WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2629
 #EXTINF:-1,EPIX HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/374
 #EXTINF:-1,EPIX 2 HD
@@ -828,100 +1042,50 @@ http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1205
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/76
 #EXTINF:-1,HBO EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/69
-#EXTINF:-1,HBO WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/70
 #EXTINF:-1,HBO 2 EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2943
-#EXTINF:-1,HBO 2 WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4162
 #EXTINF:-1,HBO COMEDY EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1659
-#EXTINF:-1,HBO COMEDY WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2630
 #EXTINF:-1,HBO FAMILY EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1207
-#EXTINF:-1,HBO FAMILY WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2631
-#EXTINF:-1,HBO LATINO EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3866
 #EXTINF:-1,HBO SIGNATURE EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1432
-#EXTINF:-1,HBO SIGNATURE WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2632
 #EXTINF:-1,HBO ZONE EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1660
-#EXTINF:-1,HBO ZONE WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2633
-#EXTINF:-1,HDNET MOVIES HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1208
-#EXTINF:-1,INDIE PLEX EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1209
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/166
 #EXTINF:-1,MOVIE PLEX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1212
 #EXTINF:-1,RETRO PLEX EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1230
 #EXTINF:-1,SHOWTIME EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/73
-#EXTINF:-1,SHOWTIME WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/74
 #EXTINF:-1,SHOWTIME 2 EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1231
-#EXTINF:-1,SHO x  BET EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1232
-#EXTINF:-1,SHO x BET WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2655
 #EXTINF:-1,SHOWTIME EXTREME EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1233
-#EXTINF:-1,SHOWTIME EXTREME WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2656
 #EXTINF:-1,SHOWTIME FAMILY ZONE EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1234
-#EXTINF:-1,SHOWTIME FAMILY ZONE WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2657
 #EXTINF:-1,SHOWTIME NEXT EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1235
-#EXTINF:-1,SHOWTIME NEXT WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2658
 #EXTINF:-1,SHOWTIME SHOWCASE EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1236
-#EXTINF:-1,SHOWTIME SHOWCASE WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2659
 #EXTINF:-1,SHOWTIME WOMEN EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1237
-#EXTINF:-1,SHOWTIME WOMEN WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2660
 #EXTINF:-1,SONY MOVIE CHANNEL HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/75
 #EXTINF:-1,STARZ EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/373
-#EXTINF:-1,STARZ WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1254
 #EXTINF:-1,STARZ CINEMA EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1240
-#EXTINF:-1,STARZ CINEMA WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2662
 #EXTINF:-1,STARZ COMEDY EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1241
-#EXTINF:-1,STARZ COMEDY WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2663
 #EXTINF:-1,STARZ EDGE EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1242
-#EXTINF:-1,STARZ EDGE WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2664
 #EXTINF:-1,STARZ IN BLACK EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1252
-#EXTINF:-1,STARZ IN BLACK WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2667
-#EXTINF:-1,STARZ KIDS & FAMILY WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2666
 #EXTINF:-1,STARZ KIDS & FAMILY EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1253
 #EXTINF:-1,STARZ ENCORE EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1243
-#EXTINF:-1,STARZ ENCORE WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2665
-#EXTINF:-1,STARZ ENCORE ESPANOL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3474
 #EXTINF:-1,STARZ ENCORE ACTION EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1244
 #EXTINF:-1,STARZ ENCORE BLACK EAST HD
@@ -934,616 +1098,173 @@ http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1248
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1249
 #EXTINF:-1,STARZ ENCORE WESTERNS EAST HD
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1251
-#EXTINF:-1,A & E HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/316
-#EXTINF:-1,ABSOLUTE REALITY BY WE TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3948
-#EXTINF:-1,ADULT SWIM EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2674
-#EXTINF:-1,AMC + HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4105
-#EXTINF:-1,AMC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/317
-#EXTINF:-1,AMC PRESENTS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3944
-#EXTINF:-1,AMERICAN HEROES CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/318
-#EXTINF:-1,AMG TV SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4052
-#EXTINF:-1,ANTENNA TV SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2227
-#EXTINF:-1,ASPIRE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1200
-#EXTINF:-1,AWE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1275
-#EXTINF:-1,AXS TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1202
-#EXTINF:-1,BBC AMERICA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/319
-#EXTINF:-1,BET EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/320
-#EXTINF:-1,BET WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4159
-#EXTINF:-1,BET GOSPEL SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2641
-#EXTINF:-1,BET HER HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/321
-#EXTINF:-1,BET JAMS SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/496
-#EXTINF:-1,BET SOUL SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/497
-#EXTINF:-1,BOUNCE TV SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1662
-#EXTINF:-1,BRAVO EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/322
-#EXTINF:-1,BRAVO EAST SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3034
-#EXTINF:-1,BRAVO WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/323
-#EXTINF:-1,BUZZR HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1776
-#EXTINF:-1,CHARGE! HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3466
-#EXTINF:-1,CMT HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/324
-#EXTINF:-1,COMEDY CENTRAL EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/325
-#EXTINF:-1,COMEDY CENTRAL WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4136
-#EXTINF:-1,COMET TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/326
-#EXTINF:-1,COURT TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3899
-#EXTINF:-1,COZI TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/327
-#EXTINF:-1,CW11 SEATTLE WA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4149
-#EXTINF:-1,CW19 PHITTSBURGH PA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4146
-#EXTINF:-1,CW27 NORFOLK VA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3807
-#EXTINF:-1,CW31 SACRAMENTO CA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4147
-#EXTINF:-1,CW44 SAN FRANCISCO CA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4148
-#EXTINF:-1,CW44 TAMPA BAY FL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4150
-#EXTINF:-1,CW50 DETROIT MI
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1283
-#EXTINF:-1,CW57 PHILADELPHIA PA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4145
-#EXTINF:-1,CW69 ATLANTA GA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4130
-#EXTINF:-1,DESTINATION AMERICA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/328
-#EXTINF:-1,DOVE CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4090
-#EXTINF:-1,E! EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/329
-#EXTINF:-1,E! WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/330
-#EXTINF:-1,ET LIVE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4091
-#EXTINF:-1,FETV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3895
-#EXTINF:-1,FREEFORM EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/331
-#EXTINF:-1,FREEFORM WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/332
-#EXTINF:-1,FUSE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/333
-#EXTINF:-1,FX HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/335
-#EXTINF:-1,FXM HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/339
-#EXTINF:-1,FXX HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/337
-#EXTINF:-1,FYI HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1206
-#EXTINF:-1,GAME SHOW NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1263
-#EXTINF:-1,GET TV SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2464
-#EXTINF:-1,GREAT AMERICAN COUNTRY HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2599
-#EXTINF:-1,GRIT HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3465
-#EXTINF:-1,HALLMARK CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/340
-#EXTINF:-1,HALLMARK DRAMA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/341
-#EXTINF:-1,HALLMARK MOVIES & MYSTERIES HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/342
-#EXTINF:-1,HEROES & ICONS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2230
-#EXTINF:-1,HLN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/234
-#EXTINF:-1,HSN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4092
-#EXTINF:-1,HSN 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4093
-#EXTINF:-1,IFC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/343
-#EXTINF:-1,INSP HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/344
-#EXTINF:-1,ION HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2223
-#EXTINF:-1,KCAL 9 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4144
-#EXTINF:-1,LAFF HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2998
-#EXTINF:-1,LIFETIME HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/345
-#EXTINF:-1,LIFETIME MOVIES HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/346
-#EXTINF:-1,LIGHT TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3660
-#EXTINF:-1,LIVEXLIVE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3949
-#EXTINF:-1,LOGO HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1210
-#EXTINF:-1,LX NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3663
-#EXTINF:-1,MeTV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2577
-#EXTINF:-1,MOVIES!
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3467
-#EXTINF:-1,MTV EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/347
-#EXTINF:-1,MTV WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4135
-#EXTINF:-1,MTV 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/494
-#EXTINF:-1,MTV CLASSIC SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1516
-#EXTINF:-1,MTV LIVE SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1517
-#EXTINF:-1,MTV U SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1518
-#EXTINF:-1,MY13 LOS ANGELES CA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4138
-#EXTINF:-1,MY20 HOUSTON TX HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4142
-#EXTINF:-1,MY33 MIAMI FL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4139
-#EXTINF:-1,MY33 NORFOLK VA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2617
-#EXTINF:-1,MY38 BOSTON MA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4141
-#EXTINF:-1,MY50 CHICAGO IL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4140
-#EXTINF:-1,OVATION
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1219
-#EXTINF:-1,OWN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/348
-#EXTINF:-1,OXYGEN EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/349
-#EXTINF:-1,OXYGEN WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/350
-#EXTINF:-1,PARAMOUNT NETWORK EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/351
-#EXTINF:-1,PEOPLE TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4137
-#EXTINF:-1,PIXL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1228
-#EXTINF:-1,QVC
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/233
-#EXTINF:-1,QVC 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4096
-#EXTINF:-1,QVC 3 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4097
-#EXTINF:-1,REELZ HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1229
-#EXTINF:-1,REVOLT HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/353
-#EXTINF:-1,RUSH BY AMC
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3945
-#EXTINF:-1,START TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3810
-#EXTINF:-1,SUNDANCE TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/355
-#EXTINF:-1,SYFY EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/356
-#EXTINF:-1,SYFY WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/357
-#EXTINF:-1,TBS EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/358
-#EXTINF:-1,TBS WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/359
-#EXTINF:-1,TCM HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/360
-#EXTINF:-1,THE COWBOY CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3648
-#EXTINF:-1,TLC EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/361
-#EXTINF:-1,TLC WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/362
-#EXTINF:-1,TNT EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/363
-#EXTINF:-1,TNT EAST SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3869
-#EXTINF:-1,TNT WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/364
-#EXTINF:-1,TRU TV EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/365
-#EXTINF:-1,TRU TV WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/366
-#EXTINF:-1,TV LAND EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/367
-#EXTINF:-1,TV LAND WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4134
-#EXTINF:-1,TV ONE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1162
-#EXTINF:-1,UP TV
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1257
-#EXTINF:-1,USA NETWORK EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/368
-#EXTINF:-1,USA NETWORK WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/369
-#EXTINF:-1,VH1 EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/371
-#EXTINF:-1,VH1 WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4125
-#EXTINF:-1,VICE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1491
-#EXTINF:-1,WE TV + HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3946
-#EXTINF:-1,WE TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/495
-#EXTINF:-1,WGN AMERICA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1622
-#EXTINF:-1,WLNY NEW YORK NY HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4143
-#EXTINF:-1,Z LIVING
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4121
-#EXTINF:-1,ACC NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/170
-#EXTINF:-1,ALTITUDE SPORTS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4106
-#EXTINF:-1,AT&T SPORTSNET PITTSBURGH HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3802
-#EXTINF:-1,AT&T SPORTSNET ROCKY MOUNTAIN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3779
-#EXTINF:-1,AT&T SPORTSNET SOUTHWEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/548
-#EXTINF:-1,BEINSPORTS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1466
-#EXTINF:-1,BEINSPORTS LA LIGA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1605
-#EXTINF:-1,BIG TEN NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/171
-#EXTINF:-1,BIG TEN NETWORK 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/172
-#EXTINF:-1,BIG TEN NETWORK 3 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/173
-#EXTINF:-1,BIG TEN NETWORK 4 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/174
-#EXTINF:-1,CBS SPORTS HQ HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3951
-#EXTINF:-1,CBS SPORTS NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/175
-#EXTINF:-1,ELEVEN SPORTS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/176
-#EXTINF:-1,ESPN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/177
-#EXTINF:-1,ESPN SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3870
-#EXTINF:-1,ESPN 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/178
-#EXTINF:-1,ESPN DEPORTES HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/181
-#EXTINF:-1,ESPN LONGHORN NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/183
-#EXTINF:-1,ESPN NEWS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/179
-#EXTINF:-1,ESPN SEC NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/184
-#EXTINF:-1,ESPN U HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/180
-#EXTINF:-1,FITE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3484
-#EXTINF:-1,FOX COLLEGE SPORTS ATLANTIC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4102
-#EXTINF:-1,FOX COLLEGE SPORTS CENTRAL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4103
-#EXTINF:-1,FOX COLLEGE SPORTS PACIFIC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4104
-#EXTINF:-1,FOX SOCCER PLUS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/200
-#EXTINF:-1,FOX SPORTS ARIZONA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/201
-#EXTINF:-1,FOX SPORTS ATLANTA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/202
-#EXTINF:-1,FOX SPORTS CAROLINAS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/203
-#EXTINF:-1,FOX SPORTS CINCINNATI
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/205
-#EXTINF:-1,FOX SPORTS DEPORTES HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/206
-#EXTINF:-1,FOX SPORTS DETROIT
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/207
-#EXTINF:-1,FOX SPORTS FLORIDA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/208
-#EXTINF:-1,FOX SPORTS KANSAS CITY
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/211
-#EXTINF:-1,FOX SPORTS MID-WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/212
-#EXTINF:-1,FOX SPORTS NEW ORLEANS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/213
-#EXTINF:-1,FOX SPORTS NORTH
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/214
-#EXTINF:-1,FOX SPORTS NORTH CAROLINA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/215
-#EXTINF:-1,FOX SPORTS OHIO
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/217
-#EXTINF:-1,FOX SPORTS PRIME TICKET
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/219
-#EXTINF:-1,FOX SPORTS SAN DIEGO
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/221
-#EXTINF:-1,FOX SPORTS SOUTH
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/222
-#EXTINF:-1,FOX SPORTS SOUTH CAROLINA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/223
-#EXTINF:-1,FOX SPORTS SOUTHEAST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/224
-#EXTINF:-1,FOX SPORTS SOUTHWEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/225
-#EXTINF:-1,FOX SPORTS SPORTSTIME OHIO
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/227
-#EXTINF:-1,FOX SPORTS SUN
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/228
-#EXTINF:-1,FOX SPORTS TENNESSEE
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/229
-#EXTINF:-1,FOX SPORTS WEST
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/230
-#EXTINF:-1,FOX SPORTS WISCONSIN
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/231
-#EXTINF:-1,FS1 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/195
-#EXTINF:-1,FS2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/196
-#EXTINF:-1,MARQUEE SPORTS NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2661
-#EXTINF:-1,MASN 1 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3803
-#EXTINF:-1,MASN 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3804
-#EXTINF:-1,MAV TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1211
-#EXTINF:-1,MLB NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/237
-#EXTINF:-1,MLB STRIKE ZONE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3473
-#EXTINF:-1,MOTORTREND HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/258
-#EXTINF:-1,MSG HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1213
-#EXTINF:-1,MSG PLUS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1216
-#EXTINF:-1,MSG 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1214
-#EXTINF:-1,MSG 2 PLUS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2982
-#EXTINF:-1,MSG BUFFALO HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4124
-#EXTINF:-1,MSG BUFFALO PLUS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4157
-#EXTINF:-1,NBA TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/238
-#EXTINF:-1,NBA TV SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3470
-#EXTINF:-1,NBC GOLF CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/251
-#EXTINF:-1,NBCSN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/239
-#EXTINF:-1,NBCSN BAY AREA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/240
-#EXTINF:-1,NBCSN BOSTON HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/242
-#EXTINF:-1,NBCSN CALIFORNIA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/243
-#EXTINF:-1,NBCSN CHICAGO HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/245
-#EXTINF:-1,NBCSN NORTHWEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/248
-#EXTINF:-1,NBCSN PHILADELPHIA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/247
-#EXTINF:-1,NBCSN WASHINGTON HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/249
-#EXTINF:-1,NESN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/521
-#EXTINF:-1,NESN PLUS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/522
-#EXTINF:-1,NFL NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/252
-#EXTINF:-1,NFL REDZONE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2981
-#EXTINF:-1,NHL NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/253
-#EXTINF:-1,OLYMIC CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/254
-#EXTINF:-1,PAC12 ARIZONA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1220
-#EXTINF:-1,PAC12 BAY AREA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1221
-#EXTINF:-1,PAC12 LOS ANGELES
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1222
-#EXTINF:-1,PAC12 MOUNTAIN
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1223
-#EXTINF:-1,PAC12 NETWORK
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1224
-#EXTINF:-1,PAC12 OREGON
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1225
-#EXTINF:-1,PAC12 WASHINGTON
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1226
-#EXTINF:-1,ROOTS SPORTS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3806
-#EXTINF:-1,SNY HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/255
-#EXTINF:-1,SPECTRUM SPORTSNET LA DODGERS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2945
-#EXTINF:-1,SPECTRUM SPORTSNET LA LAKERS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2946
-#EXTINF:-1,SPORTSMAN CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1239
-#EXTINF:-1,STADIUM HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/256
-#EXTINF:-1,TENNIS CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1525
-#EXTINF:-1,TVG HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1256
-#EXTINF:-1,TVG 2 HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1602
-#EXTINF:-1,UFC FIGHT PASS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/596
-#EXTINF:-1,WILLOW CRICKET HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3649
-#EXTINF:-1,WORLD FISHING NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1258
-#EXTINF:-1,WWE NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1264
-#EXTINF:-1,YES NETWORK
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/236
-#EXTINF:-1,ZONA FUTBOL TUDN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2940
-#EXTINF:-1,BOOMERANG SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/78
-#EXTINF:-1,CARTOON NETWORK EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2999
-#EXTINF:-1,CARTOON NETWORK WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/921
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4133
-#EXTINF:-1,DISNEY CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/82
-#EXTINF:-1,DISNEY JR HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/86
-#EXTINF:-1,DISNEY XD HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/84
-#EXTINF:-1,NICKELODEON EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1526
-#EXTINF:-1,NICKELODEON WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1527
-#EXTINF:-1,NICK JR EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2675
-#EXTINF:-1,NICK JR WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2676
-#EXTINF:-1,NICK MUSIC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4132
-#EXTINF:-1,NICKTOONS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/498
-#EXTINF:-1,QUBO SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3950
-#EXTINF:-1,TEEN NICK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/499
-#EXTINF:-1,UNIVERSAL KIDS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/88
-#EXTINF:-1,ANIMAL PLANET EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/523
-#EXTINF:-1,ANIMAL PLANET WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/524
-#EXTINF:-1,COOKING CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/525
-#EXTINF:-1,DISCOVERY CHANNEL EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/526
-#EXTINF:-1,DISCOVERY CHANNEL WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/527
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/528
-#EXTINF:-1,DIY NETWORK HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/529
-#EXTINF:-1,HGTV EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/532
-#EXTINF:-1,HGTV WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/533
-#EXTINF:-1,HISTORY HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/534
-#EXTINF:-1,FOOD NETWORK EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/530
-#EXTINF:-1,FOOD NETWORK WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/531
-#EXTINF:-1,INVESTIGATION DISCOVERY EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/535
-#EXTINF:-1,NASA HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4094
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/537
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/539
-#EXTINF:-1,OUTDOOR CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1218
-#EXTINF:-1,OUTSIDE TV HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/540
-#EXTINF:-1,OUTSIDE TV + HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3947
-#EXTINF:-1,PURSUIT CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1778
-#EXTINF:-1,RIDE TV
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3940
-#EXTINF:-1,SMITHSONIAN CHANNEL EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/541
-#EXTINF:-1,SMITHSONIAN CHANNEL WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4123
-#EXTINF:-1,TASTEMADE HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3507
-#EXTINF:-1,TRAVEL CHANNEL EAST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/543
-#EXTINF:-1,TRAVEL CHANNEL WEST HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4131
-#EXTINF:-1,ABC NEWS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/235
-#EXTINF:-1,ALJAZEERA NEWS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3481
-#EXTINF:-1,BBC WORLD NEWS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1272
-#EXTINF:-1,CBSN
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2983
-#EXTINF:-1,CBSN BOSTON
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4080
-#EXTINF:-1,CBSN CHICAGO
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4081
-#EXTINF:-1,CBSN DALLAS
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4082
-#EXTINF:-1,CBSN DENVER
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4083
-#EXTINF:-1,CBSN LOS ANGELES
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4084
-#EXTINF:-1,CBSN MINNESOTA
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4085
-#EXTINF:-1,CBSN NEW YORK
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4086
-#EXTINF:-1,CBSN PITTISBURGH
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4088
-#EXTINF:-1,CBSN PHILLY
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4087
-#EXTINF:-1,CBSN SAN FRANCISCO
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4089
-#EXTINF:-1,CNN HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/62
-#EXTINF:-1,CNN SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3868
-#EXTINF:-1,CNN INTERNATIONAL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4076
-#EXTINF:-1,CNBC HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/63
-#EXTINF:-1,CNBC WORLD HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/64
-#EXTINF:-1,C-SPAN
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4077
-#EXTINF:-1,C-SPAN 2
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4078
-#EXTINF:-1,C-SPAN 3
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4079
-#EXTINF:-1,CHEDDAR BUSINESS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/67
-#EXTINF:-1,FOX BUSINESS HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/65
-#EXTINF:-1,FOX NEWS CHANNEL HD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/90
-#EXTINF:-1,FOX NEWS CHANNEL SD
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3032
-#EXTINF:-1,KTLA 5
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/4051
+#EXTINF:-1,UK | 5 USA
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3476
+#EXTINF:-1,UK | 5STAR
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1082
+#EXTINF:-1,UK | BBC ONE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1084
+#EXTINF:-1,UK | BBC TWO
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1085
+#EXTINF:-1,UK | BBC FOUR
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2670
+#EXTINF:-1,UK | CBS REALITY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1096
+#EXTINF:-1,UK | CBBC
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1736
+#EXTINF:-1,UK | CHALLENGE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1097
+#EXTINF:-1,UK | CHANNEL 4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1098
+#EXTINF:-1,UK | CHANNEL 5
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1099
+#EXTINF:-1,UK | DAVE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1101
+#EXTINF:-1,UK | DRAMA
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1106
+#EXTINF:-1,UK | E4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1122
+#EXTINF:-1,UK | FILM 4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1102
+#EXTINF:-1,UK | GOOD FOOD
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1750
+#EXTINF:-1,UK | FOX
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3637
+#EXTINF:-1,UK | H2
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2623
+#EXTINF:-1,UK | HORROR CHANNEL
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1114
+#EXTINF:-1,UK | ITV 1
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1115
+#EXTINF:-1,UK | ITV 2
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1116
+#EXTINF:-1,UK | ITV 3
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1117
+#EXTINF:-1,UK | ITV 4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1118
+#EXTINF:-1,UK | ITVBE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1119
+#EXTINF:-1,UK | MORE 4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1121
+#EXTINF:-1,UK | MTV
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1738
+#EXTINF:-1,UK | QUEST
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1127
+#EXTINF:-1,UK | REALLY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1129
+#EXTINF:-1,UK | SC4
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1159
+#EXTINF:-1,UK | SKY 1
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1130
+#EXTINF:-1,UK | SKY 2
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1131
+#EXTINF:-1,UK | SKY CINEMA ACTION & ADVENTURE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1134
+#EXTINF:-1,UK | SKY CINEMA COMEDY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1135
+#EXTINF:-1,UK | SKY CINEMA CRIME & THRILLER
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1136
+#EXTINF:-1,UK | SKY CINEMA DISNEY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1137
+#EXTINF:-1,UK | SKY CINEMA DRAMA & ROMANCE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1138
+#EXTINF:-1,UK | SKY CINEMA FAMILY
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1139
+#EXTINF:-1,UK | SKY CINEMA GREATS
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1140
+#EXTINF:-1,UK | SKY CINEMA HITS
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1141
+#EXTINF:-1,UK | SKY CINEMA PREMIERE
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1142
+#EXTINF:-1,UK | SKY CINEMA SCI-FI & HORROR
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1143
+#EXTINF:-1,UK | SKY CINEMA SELECT
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/1144
+#EXTINF:-1,US: A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2746
+#EXTINF:-1,US A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221804
+#EXTINF:-1,US: ABC FAMILY/SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/35520
+#EXTINF:-1,US: ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2734
+#EXTINF:-1,US: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/751
+#EXTINF:-1,US: Bravo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2282
+#EXTINF:-1,US: CARTOON NETWORK (East) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6397
+#EXTINF:-1,US CARTOON NETWORK (East) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50918
+#EXTINF:-1,US: CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2740
+#EXTINF:-1,US: CNN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/753
+#EXTINF:-1,US: CNN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/225374
+#EXTINF:-1,US: CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/145780
+#EXTINF:-1,US: CP24 Breakfast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/196185
+#EXTINF:-1,US: CBS Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6444
+#EXTINF:-1,US: Discovery Channel EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/30922
+#EXTINF:-1,US: Discovery Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/76871
+#EXTINF:-1,US Discovery Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/220508
+#EXTINF:-1,US: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2303
+#EXTINF:-1,US Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221221
+#EXTINF:-1,US: Disney JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/8608
+#EXTINF:-1,US Disney JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50896
+#EXTINF:-1,US Disney Junior Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/50894
+#EXTINF:-1,US: Disney JR WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/151053
+#EXTINF:-1,US: Disney XD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6395
+#EXTINF:-1,US Disney XD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221235
+#EXTINF:-1,US: Disney XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/8400
+#EXTINF:-1,US Disney XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221237
+#EXTINF:-1,US: Disney XD Pacific
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/148219
+#EXTINF:-1,US Disney XD Pacific
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/221285
+#EXTINF:-1,US: DIY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6511
+#EXTINF:-1,US: DIY Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2305
+#EXTINF:-1,US: DOCURAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/173408
+#EXTINF:-1,US: FOX 43 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/151052
+#EXTINF:-1,US: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2317
+#EXTINF:-1,US: FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2318
+#EXTINF:-1,US: FOX SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/147380
+#EXTINF:-1,US: FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/39882
+#EXTINF:-1,US: FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/756
+#EXTINF:-1,US: FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/757
+#EXTINF:-1,US: FOX SPORTS Racing HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/2327
+#EXTINF:-1,US: FX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/6342
+#EXTINF:-1,US: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtree.net:8080/82a28920/ce46da4c/758
+
 
 
 
