@@ -11,8 +11,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/17e2fbf1034845
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8f12c6a0ac29b75.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="CBLT" tvg-name="CBC Toronto" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Canada",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC New Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6vremw.png" group-title="",► CTV NEWS
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8d62a2326c5b765.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",► CITY TV
@@ -29,52 +27,14 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/a14ee913377b19
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f2cf3cf1e395c5c.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k58usl.png" group-title="",► CP 24 
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/1818bfb72eb2141.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",CARTOON NETWORK
-http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DESTINATION AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/14946?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DESTINATION AMERICA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/167846?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",DISCOVERY
 http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c62ZUq3.png" group-title="",► DISCOVERY CANADA
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/1deee8916549f8d.m3u8|User-Agent=stream
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/255?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28230?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/14879?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104602?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/14880?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/luu1BBL.png" group-title="",► DISCOVERY SCI CANADA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/12023713f14bb5d.m3u8|User-Agent=stream
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/13565?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/64044?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/64131?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28225?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/64130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28223?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hGO4izI.png" group-title="",► DIY NETWORK
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/fa9182a2c73ff5f.m3u8|User-Agent=stream
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/13568?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/64133?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28222?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khD6vuy.png" group-title="",► DOCUMENTARY
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d31c17a23a06192.m3u8|User-Agent=stream
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DOCURAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/arellano/kgtL965n2Y/25779?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQeS1i4.png" group-title="",► E! ENT CANDA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/3ebd16015f7683c.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Fox
