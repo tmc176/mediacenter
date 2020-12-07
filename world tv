@@ -1,5 +1,18 @@
 #EXTM3U
-
+#EXTINF:-1,CA| A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81424
+#EXTINF:-1,CA| ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81423
+#EXTINF:-1,CA| ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81422
+#EXTINF:-1,CA| ACTION
+http://rv.therevenge.co:80/691616211141151/691616211141151/81421
+#EXTINF:-1,CA| ADDIK TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81420
+#EXTINF:-1,CA| AHC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81419
+#EXTINF:-1,CA| AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rv.therevenge.co:80/691616211141151/691616211141151/81418
 
 
 
