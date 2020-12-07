@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CA: World Fishing Network (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51119
 #EXTINF:-1,CA: CBC TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51111
 #EXTINF:-1,CA: ADDIK TV
@@ -10,532 +8,532 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungo
 #EXTINF:-1,CA: DISCOVERY CANADA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51106
 #EXTINF:-1,CA: ANIMAL PLANET HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51100
 #EXTINF:-1,CA: AMC HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51099
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51099
 #EXTINF:-1,CA: ABC SPARK HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51097
 #EXTINF:-1,CA: ABC East HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51094
 #EXTINF:-1,CA: W
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46953
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46953
 #EXTINF:-1,CA: SportsNet World
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46946
 #EXTINF:-1,CA: TSNET West
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46947
 #EXTINF:-1,CA: SportsNet Ontario
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46949
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46949
 #EXTINF:-1,CA: TSNET One
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46950
 #EXTINF:-1,CA: SportsNet Eeast
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46951
 #EXTINF:-1,CA: TSNET 360
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46952
 #EXTINF:-1,CA: PBS HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46957
 #EXTINF:-1,CA: YES TV HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46959
 #EXTINF:-1,CA: HGTV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46963
 #EXTINF:-1,CA: HBO 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46964
 #EXTINF:-1,CA: HBO 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46965
 #EXTINF:-1,CA: Global HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46966
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46966
 #EXTINF:-1,CA: CW HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46968
 #EXTINF:-1,CA: A&E
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46971
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46971
 #EXTINF:-1,CA: Sportsnet West HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3461
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3461
 #EXTINF:-1,CA: TSNET Pacific HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3460
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3460
 #EXTINF:-1,CA: FOX New HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3429
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3429
 #EXTINF:-1,CA: Global Toronto (CIII)
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51121
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51121
 #EXTINF:-1,CA: CMT HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51124
 #EXTINF:-1,CA: CITY TV HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51125
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51125
 #EXTINF:-1,CA: COOKING Channel HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51122
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51122
 #EXTINF:-1,CA: Fight Network HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51132
 #EXTINF:-1,CA: FX CANADA HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51128
 #EXTINF:-1,CA: FXX HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51129
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51129
 #EXTINF:-1,CA: WEATHER NETWORK
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51134
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51134
 #EXTINF:-1,CA: W
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51135
 #EXTINF:-1,CA: HISTORY CHANNEL HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51137
 #EXTINF:-1,CA: BET
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52033
 #EXTINF:-1,CA: GLOBAL HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52032
 #EXTINF:-1,CA: GLOBAL
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52035
 #EXTINF:-1,CA: SportsNet One
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53185
 #EXTINF:-1,USA: A and E HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46838
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46838
 #EXTINF:-1,USA: ABC FAMILY/SPARK
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50978
 #EXTINF:-1,USA: ABC HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/467
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/467
 #EXTINF:-1,USA: ActionMax
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48662
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48662
 #EXTINF:-1,USA: Adult Swim
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52721
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52721
 #EXTINF:-1,USA: AMC HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1537
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1537
 #EXTINF:-1,USA: American Heroes
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52722
 #EXTINF:-1,USA: Animal Planet HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46882
 #EXTINF:-1,USA: BET HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46828
 #EXTINF:-1,USA: Boomerang HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46825
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46825
 #EXTINF:-1,USA: Bravo
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46824
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46824
 #EXTINF:-1,USA: Cartoon Network
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46910
 #EXTINF:-1,USA: CBS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46935
 #EXTINF:-1,USA: CBS 2 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50980
 #EXTINF:-1,USA: CBS Sports HQ
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46840
 #EXTINF:-1,USA: Cinemax 5
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46907
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46907
 #EXTINF:-1,USA: Cinemax MoreMax HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46903
 #EXTINF:-1,USA: CMT HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46811
 #EXTINF:-1,USA: CNN HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3054
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3054
 #EXTINF:-1,USA: Comedy Central
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46809
 #EXTINF:-1,USA: Comet
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52723
 #EXTINF:-1,USA: Cooking Channel HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46808
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46808
 #EXTINF:-1,USA: CP24
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50880
 #EXTINF:-1,USA: Crime & Investigation HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46807
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46807
 #EXTINF:-1,USA: CW HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46806
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46806
 #EXTINF:-1,USA: Destination America
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46805
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46805
 #EXTINF:-1,USA: Discovery Channel HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46892
 #EXTINF:-1,USA: Discovery Family HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46891
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46891
 #EXTINF:-1,USA: Discovery Life HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1535
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1535
 #EXTINF:-1,USA: Discovery Science HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46888
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46888
 #EXTINF:-1,USA: Discovery Velocity HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46887
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46887
 #EXTINF:-1,USA: Disney Channel HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46804
 #EXTINF:-1,USA: Disney Jr. HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46803
 #EXTINF:-1,USA: DIY Network HD**
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46801
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46801
 #EXTINF:-1,USA: ESPN 4K
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52335
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52335
 #EXTINF:-1,USA: ESPN
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46871
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46871
 #EXTINF:-1,USA: ESPN 2 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46869
 #EXTINF:-1,USA: ESPN 3
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46868
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46868
 #EXTINF:-1,USA: ESPN plus
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50866
 #EXTINF:-1,USA: ESPN U HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46873
 #EXTINF:-1,USA: Food Network HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46901
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46901
 #EXTINF:-1,USA: FOX 25 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3052
 #EXTINF:-1,USA: FOX HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46936
 #EXTINF:-1,USA: FOX News
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46713
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46713
 
 #EXTINF:-1,USA: FOX Sports 1 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1529
 #EXTINF:-1,USA: FOX Sports 2 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1530
 #EXTINF:-1,USA: Fox Sports Racing HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50995
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50995
 #EXTINF:-1,USA: Freeform HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46791
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46791
 #EXTINF:-1,USA: FX HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46900
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46900
 #EXTINF:-1,USA: FXM
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52726
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52726
 #EXTINF:-1,USA: FXX HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46789
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46789
 #EXTINF:-1,USA: H2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46785
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46785
 #EXTINF:-1,USA: HallMark HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46898
 #EXTINF:-1,USA: HBO Comedy HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46782
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46782
 #EXTINF:-1,USA: HBO Family HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3051
 #EXTINF:-1,USA: HBO HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46929
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46929
 #EXTINF:-1,USA: HBO Signature HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46926
 #EXTINF:-1,USA: HBO Zone
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46780
 #EXTINF:-1,USA: HGTV HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3048
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3048
 #EXTINF:-1,USA: History
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46778
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46778
 #EXTINF:-1,USA: Investigation Discovery
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46774
 #EXTINF:-1,USA: Lifetime HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46773
 #EXTINF:-1,USA: Lifetime Movies
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52729
 #EXTINF:-1,USA: Mav TV HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52731
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52731
 #EXTINF:-1,USA: MLB Network
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46770
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46770
 #EXTINF:-1,USA: Nat Geo hd
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46886
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46886
 #EXTINF:-1,USA: Nat Geo Wild HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46885
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46885
 #EXTINF:-1,USA: NBA TV HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46860
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46860
 #EXTINF:-1,USA: NBCSN HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46766
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46766
 #EXTINF:-1,USA: NFL Network HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46722
 #EXTINF:-1,USA: NFL NOW HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46721
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46721
 #EXTINF:-1,USA: NFL Red Zone HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46720
 #EXTINF:-1,USA: NHL Network HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46763
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46763
 #EXTINF:-1,USA: Nick Jr. HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46762
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46762
 #EXTINF:-1,USA: Nickelodean HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46761
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46761
 #EXTINF:-1,USA: Nicktoons HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46760
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46760
 #EXTINF:-1,USA: Outdoor Channel HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52733
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52733
 #EXTINF:-1,USA: OWN HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46757
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46757
 #EXTINF:-1,USA: Oxygen HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46755
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46755
 #EXTINF:-1,USA: Paramount Network HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52734
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52734
 #EXTINF:-1,USA: PBS HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46740
 #EXTINF:-1,USA: PBS KIDS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50811
 #EXTINF:-1,USA: Pursuit FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52737
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52737
 #EXTINF:-1,USA: ShowTime HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46922
 #EXTINF:-1,USA: ShowTime 2 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46896
 #EXTINF:-1,USA: Smithsonian HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52738
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52738
 #EXTINF:-1,USA: Spike HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46734
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46734
 #EXTINF:-1,USA: Starz Edge
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46894
 #EXTINF:-1,USA: Sundance HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46732
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46732
 #EXTINF:-1,USA: SYFY HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46730
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46730
 #EXTINF:-1,USA: TBS HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3056
 #EXTINF:-1,USA: The Weather Channel HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46729
 #EXTINF:-1,USA: TLC HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46728
 #EXTINF:-1,USA: TNT HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46727
 #EXTINF:-1,USA: TSN HD 1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/458
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/458
 #EXTINF:-1,USA: TSN HD 2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/459
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/459
 #EXTINF:-1,USA: TSN HD 3
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1527
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1527
 #EXTINF:-1,USA: TSN HD 4
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1526
 #EXTINF:-1,USA: TSN HD 5
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1525
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1525
 #EXTINF:-1,USA: TV Land HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46724
 #EXTINF:-1,USA: UFC FIGHT PASS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50798
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50798
 #EXTINF:-1,USA: Universal HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46723
 #EXTINF:-1,USA: USA Network
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46719
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46719
 #EXTINF:-1,USA: Velocity HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46718
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46718
 #EXTINF:-1,USA: WGN America HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46715
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46715
 #EXTINF:-1,USA: WWE Network HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46880
 #EXTINF:-1,USA: WWE Network HD NXT
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50985
 #EXTINF:-1,USA: Yes Network
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53019
 #EXTINF:-1,UK_BBC_1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/260
 #EXTINF:-1,UK_BBC_2_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/261
 #EXTINF:-1,UK_BBC_3_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/262
 #EXTINF:-1,UK_BBC_4_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/263
 #EXTINF:-1,UK_BBC_NEW_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/264
 #EXTINF:-1,UK_BBC_Alba
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51651
 #EXTINF:-1,UK_4_Seven_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2013
 #EXTINF:-1,UK_At_The_Races
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2859
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2859
 #EXTINF:-1,UK_BT_Sport_1_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3600
 #EXTINF:-1,UK_BT_Sport_2_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3601
 #EXTINF:-1,UK_BT_Sport_3_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3602
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3602
 #EXTINF:-1,UK_BT_Sport_ESPN_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/255
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/255
 #EXTINF:-1,UK_BT_Sport_Extra_1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/253
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/253
 #EXTINF:-1,UK_BT_Sport_Extra_2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3603
 #EXTINF:-1,UK_BT_Sport_Extra_3
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3604
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3604
 #EXTINF:-1,UK_BT_Sport_Extra_4
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3605
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3605
 #EXTINF:-1,UK_ITV_1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/256
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/256
 #EXTINF:-1,UK_ITV_2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/257
 #EXTINF:-1,UK_ITV_3
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/258
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/258
 #EXTINF:-1,UK_ITV_4
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/259
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/259
 #EXTINF:-1,UK_UFC_FIGHT_PASS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50967
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50967
 #EXTINF:-1,UK_Challenge
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3614
 #EXTINF:-1,UK_CBS_Action
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1466
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1466
 #EXTINF:-1,UK_CBS_REALITY
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1467
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1467
 #EXTINF:-1,UK_Channel_4_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49160
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49160
 #EXTINF:-1,UK_Channel_5_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2012
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2012
 #EXTINF:-1,UK_Channel_5_Star
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2017
 #EXTINF:-1,UK_Channel_5_USA
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51623
 #EXTINF:-1,UK_Sky_Movies_Action&Adventure
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48939
 #EXTINF:-1,UK_SKY_MOVIES_CRIME_&_THRILLER
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/241
 #EXTINF:-1,UK_SKY_MOVIES_DRAMA
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/245
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/245
 #EXTINF:-1,UK_Sky_Movies_Family
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/242
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/242
 #EXTINF:-1,UK_Sky_Living_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48942
 #EXTINF:-1,UK_Sky_Movies_Grates_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1237
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1237
 #EXTINF:-1,UK_Sky_Movies_Premiere
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/244
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/244
 #EXTINF:-1,UK_SKY_MOVIES_SELECT
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48945
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48945
 #EXTINF:-1,UK_SKY_MOVIES_Hits
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1240
 #EXTINF:-1,UK_Sky_Movies_SyFi-Horror
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/243
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/243
 #EXTINF:-1,UK_SKY_MOVIES_COMEDY
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/247
 #EXTINF:-1,UK_SKY_MOVIES_DISNEY_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/246
 #EXTINF:-1,UK_Comedy_Central_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3615
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3615
 #EXTINF:-1,UK_Comedy_Central_Extra
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3616
 #EXTINF:-1,UK_Crime_&_Investigation
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3617
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3617
 #EXTINF:-1,UK_CBS_Drama
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1468
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1468
 #EXTINF:-1,UK_DISCOVERY_SCIENCE
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2037
 #EXTINF:-1,UK_Baby_TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2051
 #EXTINF:-1,UK_Disney_Junior
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3684
 #EXTINF:-1,UK_DISNEY_CHANNEL_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2047
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2047
 #EXTINF:-1,UK_DRAMA
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2015
 #EXTINF:-1,UK_DMAX_UK
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2041
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2041
 #EXTINF:-1,UK_Discovery_Shed
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2050
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2050
 #EXTINF:-1,UK_DISCOVERY_TURBO
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2036
 #EXTINF:-1,UK_FOX_SPORTS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1478
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1478
 #EXTINF:-1,UK_Fox
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1477
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1477
 #EXTINF:-1,UK_DISCOVERY_HISTORY
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2039
 #EXTINF:-1,UK_DISCOVERY_INVESTIGATION
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2038
 #EXTINF:-1,UK_Home
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2910
 #EXTINF:-1,UK_Home_&_Health
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2911
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2911
 #EXTINF:-1,UK_HORROR_CHANNEL
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3621
 #EXTINF:-1,UK_DISCOVERY_Channel_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2040
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2040
 #EXTINF:-1,UK_E!_Entertainment_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3611
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3611
 #EXTINF:-1,UK_NAT_GEO_WILD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2035
 #EXTINF:-1,UK_NAT._GEO._FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2034
 #EXTINF:-1,UK_Celtic_FC_TV (Live for Matches)
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50827
 #EXTINF:-1,UK_Sky_Sports_news
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/791
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/791
 #EXTINF:-1,UK_Sky_Sports_Action_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/786
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/786
 #EXTINF:-1,UK_Sky_Sports_Action_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48933
 #EXTINF:-1,UK_Sky_Sports_Mix_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4557
 #EXTINF:-1,UK_Sky_Sports_Mix_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48932
 #EXTINF:-1,UK_Sky_Sports_Arena_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52229
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52229
 #EXTINF:-1,UK_Sky_Sports_Arena_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4558
 #EXTINF:-1,UK_Sky_Sports_Cricket_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/785
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/785
 #EXTINF:-1,UK_Sky_Sports_Cricket_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4697
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4697
 #EXTINF:-1,UK_SKY_SPORTS_GOLF_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48925
 #EXTINF:-1,UK_SKY_SPORTS_MAIN_EVENT_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/788
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/788
 #EXTINF:-1,UK_Sky_Sports_Main_Event_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4699
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4699
 #EXTINF:-1,UK_Sky_Sports_Premier_League_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/784
 #EXTINF:-1,UK_Sky_Sports_Premier_League_FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4701
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4701
 #EXTINF:-1,UK_Sky_Sports_Football_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50058
 #EXTINF:-1,UK_Sky_Sports_Football_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50826
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50826
 #EXTINF:-1,UK_SKY_SPORTS_F1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/789
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/789
 #EXTINF:-1,UK_SKY_SPORTS_F1_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52055
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52055
 #EXTINF:-1,UK_Sky_Sports_Golf_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/787
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/787
 #EXTINF:-1,UK_BoxNation_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50877
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50877
 #EXTINF:-1,UK_Alibi
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4051
 #EXTINF:-1,UK_Animal_Planet
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4052
 #EXTINF:-1,UK_Dave
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4063
 #EXTINF:-1,UK_E4
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3610
 #EXTINF:-1,UK_Film_4
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2016
 #EXTINF:-1,UK_Gold
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48959
 #EXTINF:-1,UK_RTE_One_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50686
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50686
 #EXTINF:-1,UK_RTE_TWO_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48964
 #EXTINF:-1,UK_Sky_2
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48950
 #EXTINF:-1,UK_Sony_Movies
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48976
 #EXTINF:-1,UK_EDEN
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3609
 #EXTINF:-1,UK_Travel_Channel
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48965
 #EXTINF:-1,UK_True_Entertainment
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48966
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48966
 #EXTINF:-1,UK_True_Movies_1
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/249
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/249
 #EXTINF:-1,UK_Universal
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48974
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48974
 #EXTINF:-1,UK_WWE_Network
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48972
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48972
 #EXTINF:-1,UK_Yesterday
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1479
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1479
 #EXTINF:-1,UK_CBeebies_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4060
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4060
 #EXTINF:-1,UK_DISNEY_XD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2046
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2046
 #EXTINF:-1,UK_Cartoon_Network_FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50813
 #EXTINF:-1,UK_NICK_JUNIOR_Too
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2049
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2049
 #EXTINF:-1,UK_NICKTOONS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2048
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2048
 #EXTINF:-1,UK_TLC
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51621
 #EXTINF:-1,UK_FOX_NEWS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51622
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51622
 #EXTINF:-1,UK_FOOD_NETWORK
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51652
 #EXTINF:-1,UK_QUEST
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51657
 #EXTINF:-1,UK_Movies4Men
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51668
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51668
 #EXTINF:-1,UK_SYFY_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51670
 #EXTINF:-1,UK_TCM
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51669
 #EXTINF:-1,UK_History_Channel_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51683
 #EXTINF:-1,UK: Box Hits
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52082
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52082
 #EXTINF:-1,UK: BOX OFFICE
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52083
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52083
 #EXTINF:-1,UK_BT_Sport_3_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52239
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52239
 #EXTINF:-1,UK_BT_Sport_2_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52240
 #EXTINF:-1,UK_BT_Sport_1_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52241
 
 
 
