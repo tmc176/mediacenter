@@ -27,3 +27,81 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.imperium
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,US_HD:Cinema 39 PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17968.ts
+#EXTINF:-1,US_HD:Cinema 38 PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17967.ts
+#EXTINF:-1,US_HD:Cinema 37 PPV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17966.ts
+#EXTINF:-1,US_HD:Cinema 36 PPV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17965.ts
+#EXTINF:-1,US_HD:Cinema 35 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17964.ts
+#EXTINF:-1,US_HD:Cinema 34 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17963.ts
+#EXTINF:-1,US_HD:Cinema 33 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17962.ts
+#EXTINF:-1,US_HD:Cinema 32 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17961.ts
+#EXTINF:-1,US_HD:Cinema 31 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17960.ts
+#EXTINF:-1,US_HD:Cinema 30 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17959.ts
+#EXTINF:-1,US_HD:Cinema 29 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17958.ts
+#EXTINF:-1,US_HD:Cinema 28 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17957.ts
+#EXTINF:-1,US_HD:Cinema 27 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17956.ts
+#EXTINF:-1,US_HD:Cinema 26 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17955.ts
+#EXTINF:-1,US_HD:Cinema 25 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17954.ts
+#EXTINF:-1,US_HD:Cinema 24 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17953.ts
+#EXTINF:-1,US_HD:Cinema 23 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17952.ts
+#EXTINF:-1,US_HD:Cinema 22 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17951.ts
+#EXTINF:-1,US_HD:Cinema 21 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17950.ts
+#EXTINF:-1,US_HD:Cinema 20 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17949.ts
+#EXTINF:-1,US_HD:Cinema 19 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17948.ts
+#EXTINF:-1,US_HD:Cinema 18 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17947.ts
+#EXTINF:-1,US_HD:Cinema 17 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17946.ts
+#EXTINF:-1,US_HD:Cinema 16 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17945.ts
+#EXTINF:-1,US_HD:Cinema 15 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17944.ts
+#EXTINF:-1,US_HD:Cinema 14 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17943.ts
+#EXTINF:-1,US_HD:Cinema 13 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17942.ts
+#EXTINF:-1,US_HD:Cinema 12 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17941.ts
+#EXTINF:-1,US_HD:Cinema 11 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17940.ts
+#EXTINF:-1,US_HD:Cinema 10 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17939.ts
+#EXTINF:-1,US_HD:Cinema 09 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17938.ts
+#EXTINF:-1,US_HD:Cinema 08 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17937.ts
+#EXTINF:-1,US_HD:Cinema 07 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17936.ts
+#EXTINF:-1,US_HD:Cinema 06 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17935.ts
+#EXTINF:-1,US_HD:Cinema 05 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17934.ts
+#EXTINF:-1,US_HD:Cinema 04 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17933.ts
+#EXTINF:-1,US_HD:Cinema 03 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17932.ts
+#EXTINF:-1,US_HD:Cinema 02 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17931.ts
+#EXTINF:-1,US_HD:Cinema 01 PPV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17930.ts
