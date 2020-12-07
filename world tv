@@ -30,7 +30,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://peeweeh.
 #EXTINF:-1,CA | CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3906
 #EXTINF:-1,CA | CBC OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2780
+http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2780
 #EXTINF:-1,CA | CBC TORONTO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2781
 #EXTINF:-1,CA | CBC NEWS NETWORK
