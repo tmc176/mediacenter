@@ -92,9 +92,9 @@ http://peeweeh.biz:8000/taylorrestream/hey47hw78j/2860
 #EXTINF:-1,CA | HBO
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/869
 #EXTINF:-1,CA | HISTORY
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3924
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3924
 #EXTINF:-1,CA | HGTV
-http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3923
 #EXTINF:-1,CA | HLN
 http://peeweeh.biz:8000/taylorrestream/hey47hw78j/3925
 #EXTINF:-1,CA | HOLLOYWOOD 70S
