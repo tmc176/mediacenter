@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,CA: World Fishing Network (FR)
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51119
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51119
 #EXTINF:-1,CA: CBC TORONTO
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51111
 #EXTINF:-1,CA: ADDIK TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51110
 #EXTINF:-1,CA: Cartoon NetWork HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51109
 #EXTINF:-1,CA: DISCOVERY CANADA
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51106
 #EXTINF:-1,CA: ANIMAL PLANET HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51100
 #EXTINF:-1,CA: AMC HD
