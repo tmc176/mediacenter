@@ -26,7 +26,30 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27272.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
-
+#EXTINF:-1,UK_Sky_Movies_Action&Adventure
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48939
+#EXTINF:-1,UK_SKY_MOVIES_CRIME_&_THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/241
+#EXTINF:-1,UK_SKY_MOVIES_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/245
+#EXTINF:-1,UK_Sky_Movies_Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/242
+#EXTINF:-1,UK_Sky_Living_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48942
+#EXTINF:-1,UK_Sky_Movies_Grates_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1237
+#EXTINF:-1,UK_Sky_Movies_Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/244
+#EXTINF:-1,UK_SKY_MOVIES_SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48945
+#EXTINF:-1,UK_SKY_MOVIES_Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1240
+#EXTINF:-1,UK_Sky_Movies_SyFi-Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/243
+#EXTINF:-1,UK_SKY_MOVIES_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/247
+#EXTINF:-1,UK_SKY_MOVIES_DISNEY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/246
 #EXTINF:-1,US_HD:Cinema 39 PPV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17968.ts
 #EXTINF:-1,US_HD:Cinema 38 PPV
