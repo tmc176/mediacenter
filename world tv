@@ -4,7 +4,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1,VH1 US
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/6b159031c601790.m3u8
 #EXTINF:-1,New Years US
-https://livestream.com/accounts/43923/events/9392703/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false
+<iframe id="ls_embed_1609464610" src="https://livestream.com/accounts/43923/events/9392703/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 #EXTINF:-1,5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1,BBC AME HD (ENG)
