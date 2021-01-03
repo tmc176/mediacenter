@@ -20,111 +20,33 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="",Classic Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="",Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.imperiumeye.net:8080/live/Ryan_Tully/0eGXfzjimJ/27272.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,UK_Sky_Movies_Action&Adventure
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48939
-#EXTINF:-1,UK_SKY_MOVIES_CRIME_&_THRILLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/241
-#EXTINF:-1,UK_SKY_MOVIES_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/245
-#EXTINF:-1,UK_Sky_Movies_Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/242
-#EXTINF:-1,UK_Sky_Living_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48942
-#EXTINF:-1,UK_Sky_Movies_Grates_FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1237
-#EXTINF:-1,UK_Sky_Movies_Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/244
-#EXTINF:-1,UK_SKY_MOVIES_SELECT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48945
-#EXTINF:-1,UK_SKY_MOVIES_Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1240
-#EXTINF:-1,UK_Sky_Movies_SyFi-Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/243
-#EXTINF:-1,UK_SKY_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/247
-#EXTINF:-1,UK_SKY_MOVIES_DISNEY_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/246
-#EXTINF:-1,US_HD:Cinema 39 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17968.ts
-#EXTINF:-1,US_HD:Cinema 38 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17967.ts
-#EXTINF:-1,US_HD:Cinema 37 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17966.ts
-#EXTINF:-1,US_HD:Cinema 36 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17965.ts
-#EXTINF:-1,US_HD:Cinema 35 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17964.ts
-#EXTINF:-1,US_HD:Cinema 34 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17963.ts
-#EXTINF:-1,US_HD:Cinema 33 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17962.ts
-#EXTINF:-1,US_HD:Cinema 32 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17961.ts
-#EXTINF:-1,US_HD:Cinema 31 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17960.ts
-#EXTINF:-1,US_HD:Cinema 30 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17959.ts
-#EXTINF:-1,US_HD:Cinema 29 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17958.ts
-#EXTINF:-1,US_HD:Cinema 28 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17957.ts
-#EXTINF:-1,US_HD:Cinema 27 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17956.ts
-#EXTINF:-1,US_HD:Cinema 26 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17955.ts
-#EXTINF:-1,US_HD:Cinema 25 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17954.ts
-#EXTINF:-1,US_HD:Cinema 24 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17953.ts
-#EXTINF:-1,US_HD:Cinema 23 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17952.ts
-#EXTINF:-1,US_HD:Cinema 22 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17951.ts
-#EXTINF:-1,US_HD:Cinema 21 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17950.ts
-#EXTINF:-1,US_HD:Cinema 20 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17949.ts
-#EXTINF:-1,US_HD:Cinema 19 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17948.ts
-#EXTINF:-1,US_HD:Cinema 18 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17947.ts
-#EXTINF:-1,US_HD:Cinema 17 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17946.ts
-#EXTINF:-1,US_HD:Cinema 16 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17945.ts
-#EXTINF:-1,US_HD:Cinema 15 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17944.ts
-#EXTINF:-1,US_HD:Cinema 14 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17943.ts
-#EXTINF:-1,US_HD:Cinema 13 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17942.ts
-#EXTINF:-1,US_HD:Cinema 12 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17941.ts
-#EXTINF:-1,US_HD:Cinema 11 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17940.ts
-#EXTINF:-1,US_HD:Cinema 10 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17939.ts
-#EXTINF:-1,US_HD:Cinema 09 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17938.ts
-#EXTINF:-1,US_HD:Cinema 08 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17937.ts
-#EXTINF:-1,US_HD:Cinema 07 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17936.ts
-#EXTINF:-1,US_HD:Cinema 06 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17935.ts
-#EXTINF:-1,US_HD:Cinema 05 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17934.ts
-#EXTINF:-1,US_HD:Cinema 04 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17933.ts
-#EXTINF:-1,US_HD:Cinema 03 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17932.ts
-#EXTINF:-1,US_HD:Cinema 02 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17931.ts
-#EXTINF:-1,US_HD:Cinema 01 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/17930.ts
+#EXTINF:-1,Netflix Action
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386123.ts
+#EXTINF:-1,Netflix Action +
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386124.ts
+#EXTINF:-1,Netflix Anime 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386125.ts
+#EXTINF:-1,Netflix Anime 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386126.ts
+#EXTINF:-1,Netflix Comedy 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386127.ts
+#EXTINF:-1,Netflix Comedy 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386128.ts
+#EXTINF:-1,Netflix Drama 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386129.ts
+#EXTINF:-1,Netflix Drama 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386130.ts
+#EXTINF:-1,Netflix Horror
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386131.ts
+#EXTINF:-1,Netflix Horror 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386132.ts
+#EXTINF:-1,Netflix Horror 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386133.ts
+#EXTINF:-1,Netflix Kids 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386135.ts
+#EXTINF:-1,Netflix Kids 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386136.ts
+#EXTINF:-1,Netflix Kids 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386137.ts
+#EXTINF:-1,Netflix Drama +
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386138.ts
