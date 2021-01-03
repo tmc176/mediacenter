@@ -21,9 +21,9 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
 
 #EXTINF:-1,Netflix Action
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386123.ts
 #EXTINF:-1,Netflix Action +
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386124.ts
 #EXTINF:-1,Netflix Anime 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/live/trevorparker/8177168823/386125.ts
 #EXTINF:-1,Netflix Anime 2
