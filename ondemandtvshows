@@ -56,8 +56,9 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1,[COLOR FFffffffff][COLORred]They Come & Go So Watch Them When You Can Enjoy[/COLOR][/COLOR]
 #EXTINF:-1,[COLOR FFffffffff][COLORred]They Come & Go So Watch Them When You Can Enjoy[/COLOR][/COLOR]
 #EXTINF:-1,24/7 All in the Family
-http://supersonictv.live:25461/903310/034806/77102
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/77102
+#EXTINF:-1,24/7 All in the Family
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://supersonictv.live:25461/903310/034806/77102
 
 
 
