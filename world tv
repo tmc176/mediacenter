@@ -10,9 +10,9 @@ https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s0PjRqw.png" group-title="",Global Tv Toronto 
 https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
 #EXTINF:0,|CA|  A&E FHD
-http://top.hatv.me:2095/dtv_755897/ssjmDcpS/42223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://top.hatv.me:2095/dtv_755897/ssjmDcpS/42223
 #EXTINF:0,|CA|  ABC (West) HD
-http://top.hatv.me:2095/dtv_755897/ssjmDcpS/42224
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://top.hatv.me:2095/dtv_755897/ssjmDcpS/42224
 #EXTINF:0,|CA|  ABC Buffalo
 http://top.hatv.me:2095/dtv_755897/ssjmDcpS/42225
 #EXTINF:0,|CA|  ABC Buffalo (WKBW)
