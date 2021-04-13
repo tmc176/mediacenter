@@ -8,7 +8,7 @@ https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="",CBC
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s0PjRqw.png" group-title="",Global Tv Toronto 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
+https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
 #EXTINF:0,|CA|  A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://top.hatv.me:2095/dtv_755897/ssjmDcpS/42223
 #EXTINF:0,|CA|  ABC (West) HD
