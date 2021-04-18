@@ -1,3 +1,4 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
+https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 
