@@ -1,10 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityTv 5,6 & 11
-https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
-#EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-name="CityTV Toronto" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="",CityTV Toronto
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-name="CTV Toronto" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="",CTV Canada
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="",CBC
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
+
 
