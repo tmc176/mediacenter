@@ -2,9 +2,9 @@
 #EXTINF:-1,CANADA: ABC BUFFALO HD
 http://securepoint.io:83/live/promo/promo/378925.ts
 #EXTINF:-1,CANADA: ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securepoint.io:83/live/promo/promo/306264.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://securepoint.io:83/live/promo/promo/306264.ts
 #EXTINF:-1,CANADA: ABC SPARK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://securepoint.io:83/live/promo/promo/378926.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://securepoint.io:83/live/promo/promo/378926.ts
 #EXTINF:-1,CANADA: ABC WEST
 http://securepoint.io:83/live/promo/promo/306262.ts
 #EXTINF:-1,CANADA: ADULT SWIM HD
