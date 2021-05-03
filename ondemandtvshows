@@ -1,30 +1,41 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="BeverlyHillbilliesSTIRR.us" tvg-name="Beverly Hillbillies (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="",Beverly Hillbillies (STIRR)
+https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
+#EXTINF:-1 tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="",21 Jump Street (STIRR)
+https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
 #EXTINF:-1 tvg-id="American Classics" tvg-name="American Classics" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 #EXTINF:-1 tvg-id="Filmrise Classic TV" tvg-name="Filmrise Classic TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Filmrise Classic TV
 https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
-http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
-#EXTINF:-1 tvg-id="Filmrise Free Movies" tvg-name="Filmrise Free Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dca5effb-f654-41c7-8f52-ae71b86b6511-small3x1_stirr_1219_epg_filmrisefreemovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Filmrise Free Movies
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8 
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KITjJUj.png" group-title="24/7 ENGLISH",Laurel & Hardy
 http://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
-
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="Fail Army" tvg-country="US" tvg-language="English" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" tvg-url="" group-title="General",Fail Army (720p)
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-id="FailArmyXUMO.us" tvg-name="Fail Army (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RIXSg4L.png" tvg-url="" group-title="",Fail Army (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Su9Wrf1.png" group-title="24/7 ENGLISH",Lego Toons
 https://stitcher.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FamilyFeudXUMO.us" tvg-name="FamilyFeud (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uwBpm1Y.png" tvg-url="" group-title="",FamilyFeud (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mO4czyn.png" group-title="24/7 ENGLISH",Sherlock Holmes
 http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e6zdoNk.png" group-title="24/7 ENGLISH",Super Geek Heroes
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
- 
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-name="Lego Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" tvg-url="" group-title="",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c5vbjmJ.png" group-title="24/7 ENGLISH",The Greatest American Hero
 http://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0hTpPb6.png" group-title="24/7 ENGLISH",The Lone Ranger
 http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
-
+#EXTINF:-1 tvg-id="FilmriseClassicTVSTIRR.us" tvg-name="Filmrise Classic TV (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-url="" group-title="",Filmrise Classic TV (STIRR)
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTVXUMO.us" tvg-name="FilmRise Classic TV (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GvqmzPn.jpg" tvg-url="" group-title="",FilmRise Classic TV (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wR2Zv8d.png" group-title="24/7 ENGLISH",The Lucy Show
 http://dai.google.com/linear/hls/pa/event/-s-FtbzrQCaLMDSyM0ejyw/stream/6dc92ea2-dba1-4493-b8d2-269e89f9ba9c:CHS/variant/1b0beacafb6a1cad0279ea30f33d25f9/bandwidth/1291125.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FM3fBaj.png" group-title="Undefined",Classic TV 4U
@@ -35,14 +46,16 @@ https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="",Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="WhoseLineIsItAnywaySTIRR.us" tvg-name="Whose Line Is It Anyway (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="",Whose Line Is It Anyway (STIRR)
+https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-
+#EXTINF:-1 tvg-id="UnsolvedMysteriesSTIRR.us" tvg-name="Unsolved Mysteries (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5cf60259-ce44-452f-a8a1-cb33585ea701-small3x1_stirr_1219_epg_unsolvedmysteries_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-url="" group-title="",Unsolved Mysteries (STIRR)
+https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/hjvjGVf.png" group-title="",American Classic Network
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="",American Classics
@@ -55,10 +68,7 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1,[COLOR FFffffffff][COLORred]They Come & Go So Watch Them When You Can Enjoy[/COLOR][/COLOR]
 #EXTINF:-1,[COLOR FFffffffff][COLORred]They Come & Go So Watch Them When You Can Enjoy[/COLOR][/COLOR]
-#EXTINF:-1,24/7 All in the Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/77102
-#EXTINF:-1,24/7 All in the Family
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://supersonictv.live:25461/903310/034806/77102
+
 
 
 
