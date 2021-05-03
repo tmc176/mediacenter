@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="PursuitUpSTIRR.us" tvg-name="PursuitUp (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/cff7dcd8-15db-40ae-bfd7-72589c1e404c-small3x1_STIRR_Logo_0420_PursuitChannel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-url="" group-title="",PursuitUp (STIRR)
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-name="Hunt Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" tvg-url="" group-title="Hobby",Hunt Channel (1080p)
