@@ -1,4 +1,16 @@
-#EXTM3U
+#EXTM3u
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN (720p)
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN 2 (720p)
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN U (720p)
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="MavTV.us" tvg-name="MavTV" tvg-country="US;AU" tvg-language="English" tvg-logo="https://i.imgur.com/CqAhL91.png" tvg-url="" group-title="Sport",MavTV
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTvSTIRR.us" tvg-name="MavTv (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b259ec9b-02ed-4aa0-81bd-5b7bd878c753-small3x1_STIRR_Logo_0420_MavTV_1920x1080_EPG.png?cb=a87ff679a2f3e71d9181a67b7542122c" tvg-url="" group-title="",MavTv (STIRR)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="MavTVSTIRR.us" tvg-name="MavTV (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" tvg-url="" group-title="",MavTV (STIRR)
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 
 
 
