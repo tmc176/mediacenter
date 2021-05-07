@@ -1,76 +1,20 @@
 #EXTM3U
-#EXTINF:-1,US: SportsNet One HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6416
-#EXTINF:-1,US: TSN 1 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6316
-#EXTINF:-1,US: TSN 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6317
-#EXTINF:-1,US: TSN 3 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6318
-#EXTINF:-1,US: TSN 4 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6319
-#EXTINF:-1,US: TSN 5 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6320
-#EXTINF:-1,US: Tsn-Sport 5 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6418
-#EXTINF:-1,US: Tsn-Sport 4 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6419
-#EXTINF:-1,US: Tsn-Sport 3 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6420
-#EXTINF:-1,US: Tsn-Sport 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6421
-#EXTINF:-1,US: Tsn-Sport 1 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6422
-#EXTINF:-1,US: Fox Sport 1 HD (FS1)
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6417
-#EXTINF:-1,US: Fox Sport 2 HD (FS2)
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6423
-#EXTINF:-1,US: beIN SPORTS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6424
-#EXTINF:-1,US: NFL Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6330
-#EXTINF:-1,US: NBCSN HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6331
-#EXTINF:-1,US: MLB HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6333
-#EXTINF:-1,US: NBA TV
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6351
-#EXTINF:-1,US: NFL Now
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6362
-#EXTINF:-1,US: DISCOVERY VELOCITY
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6383
-#EXTINF:-1,US: TENNIS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6389
-#EXTINF:-1,US: NFL Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6395
-#EXTINF:-1,US: NHL NETWORK HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6399
-#EXTINF:-1,US: FOX SOCCER PLUS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6402
-#EXTINF:-1,US: NBA TV LEAGUE
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6404
-#EXTINF:-1,US: NBC GOLF HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6406
-
-
-#EXTINF:-1,US: ESPN 1
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6355
-#EXTINF:-1,US: ESPN 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6366
-#EXTINF:-1,US: ESPN 3
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6371
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN (720p)
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN 2 (720p)
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN U (720p)
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-id="MavTV.us" tvg-name="MavTV" tvg-country="US;AU" tvg-language="English" tvg-logo="https://i.imgur.com/CqAhL91.png" tvg-url="" group-title="Sport",MavTV
-https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MavTvSTIRR.us" tvg-name="MavTv (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b259ec9b-02ed-4aa0-81bd-5b7bd878c753-small3x1_STIRR_Logo_0420_MavTV_1920x1080_EPG.png?cb=a87ff679a2f3e71d9181a67b7542122c" tvg-url="" group-title="",MavTv (STIRR)
-https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1 tvg-id="MavTVSTIRR.us" tvg-name="MavTV (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" tvg-url="" group-title="",MavTV (STIRR)
-https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1,US: Cartoon Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6379
+#EXTINF:-1,US: Nickelodeon
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6380
+#EXTINF:-1,US: DISNEY JR HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6334
+#EXTINF:-1,US: NICKTOONS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6393
+#EXTINF:-1,US: NICK HD (kids)
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6394
+#EXTINF:-1,US: Disney Channel HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6407
+#EXTINF:-1,US: Disney XD HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6408
+#EXTINF:-1,US: Universal Kids HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6414
 
 
 
