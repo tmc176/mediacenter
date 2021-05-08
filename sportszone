@@ -1,20 +1,18 @@
 #EXTM3U
-#EXTINF:-1,US: Cartoon Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6379
-#EXTINF:-1,US: Nickelodeon
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6380
-#EXTINF:-1,US: DISNEY JR HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6334
-#EXTINF:-1,US: NICKTOONS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6393
-#EXTINF:-1,US: NICK HD (kids)
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6394
-#EXTINF:-1,US: Disney Channel HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6407
-#EXTINF:-1,US: Disney XD HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6408
-#EXTINF:-1,US: Universal Kids HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6414
+#EXTINF:-1 tvg-id="" tvg-name="Jade's Asylum - 2019" tvg-logo="http://bb1.yu7890.com:80/images/de53c0193b463dcab206886dd3aba2c8.jpg" group-title="NEW RELEASES",Jade's Asylum - 2019
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Was Trying to Contact Aliens - 2020" tvg-logo="http://bb1.yu7890.com:80/images/0e0e271da980694249bc6aeb1c3ea6a1.jpg" group-title="NEW RELEASES",John Was Trying to Contact Aliens - 2020
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life Like - 2019" tvg-logo="http://bb1.yu7890.com:80/images/c6457e590843c5142c4b7ce46da9205f.jpg" group-title="NEW RELEASES",Life Like - 2019
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locusts - 2019" tvg-logo="http://bb1.yu7890.com:80/images/faed460f75e5b46b680f2a3854a0d534.jpg" group-title="NEW RELEASES",Locusts - 2019
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madness in the Method - 2019" tvg-logo="http://bb1.yu7890.com:80/images/a194b72708fc39604fd401f26e1c85de.jpg" group-title="NEW RELEASES",Madness in the Method - 2019
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Camp - 2020" tvg-logo="http://bb1.yu7890.com:80/images/0d302c5092aab29ec52558b3749aa360.jpg" group-title="NEW RELEASES",Magic Camp - 2020
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Never Surrender: A Galaxy Quest Documentary - 2019" tvg-logo="http://bb1.yu7890.com:80/images/07da2b8ce3d1c3551632d4ce6d948348.jpg" group-title="NEW RELEASES",Never Surrender: A Galaxy Quest Documentary - 2019
+http://bb1.qat5.ru:80/movie/c2KAacGGCp/5UBrrKbStZWY/102097.mkv
 
 
 
