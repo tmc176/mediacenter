@@ -18,7 +18,7 @@ http://ukmxtv.co.uk:80/movie/paul/paul123/196802.mp4
 #EXTINF:-1,Spiral: From the Book of Saw
 http://ukmxtv.co.uk:80/movie/paul/paul123/196801.mp4
 #EXTINF:-1,Cruella
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/movie/paul/paul123/196800.mp4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ukmxtv.co.uk:80/movie/paul/paul123/196800.mp4
 #EXTINF:-1,Boogie
 http://ukmxtv.co.uk:80/movie/paul/paul123/196798.mp4
 #EXTINF:-1,American Traitor: The Trial of Axis Sally
@@ -26,13 +26,13 @@ http://ukmxtv.co.uk:80/movie/paul/paul123/196797.mp4
 #EXTINF:-1,Plan B
 http://ukmxtv.co.uk:80/movie/paul/paul123/196796.mp4
 #EXTINF:-1,Friends: The Reunion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/movie/paul/paul123/196795.mp4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ukmxtv.co.uk:80/movie/paul/paul123/196795.mp4
 #EXTINF:-1,The Unholy
 http://ukmxtv.co.uk:80/movie/paul/paul123/196765.mp4
 #EXTINF:-1,The Water Man
 http://ukmxtv.co.uk:80/movie/paul/paul123/196759.mp4
 #EXTINF:-1,Wrath of Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/movie/paul/paul123/196758.mp4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ukmxtv.co.uk:80/movie/paul/paul123/196758.mp4
 #EXTINF:-1,Every Breath You Take
 http://ukmxtv.co.uk:80/movie/paul/paul123/196757.mp4
 #EXTINF:-1,French Exit
