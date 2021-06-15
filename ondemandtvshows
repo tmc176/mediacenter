@@ -6,11 +6,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.c
 #EXTINF:-1,24/7 : X-MEN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/paul/paul123/196598
 #EXTINF:-1,24/7 : WRESTLEMANIA
-http://ukmxtv.co.uk:80/paul/paul123/196597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/paul/paul123/196597
 #EXTINF:-1,24/7 : WKRP
-http://ukmxtv.co.uk:80/paul/paul123/196596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/paul/paul123/196596
 #EXTINF:-1,24/7 : WILL FERRELL MOVIES
-http://ukmxtv.co.uk:80/paul/paul123/196595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukmxtv.co.uk:80/paul/paul123/196595
 #EXTINF:-1,24/7 : WILL AND GRACE
 http://ukmxtv.co.uk:80/paul/paul123/196594
 #EXTINF:-1,24/7 : WICKED TUNA
