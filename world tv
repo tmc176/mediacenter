@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1,..ABC 7 DETROIT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148101
+#EXTINF:-1,..CBS 2 NEW YORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148111
+#EXTINF:-1,..FOX 5 NEW YORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148143
+#EXTINF:-1,..NBC 4 NEW YORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148165
 #EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" tvg-url="" group-title="Entertainment",A&E (Best of) (1080p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AECrime360.us" tvg-name="A&E Crime 360" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-url="" group-title="",A&E Crime 360
